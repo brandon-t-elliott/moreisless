@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An automated aggregation of various cybersecurity sources.
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://moreisless.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://moreisless.sh" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: brandon-t-elliott
 linkedin-url: "https://www.linkedin.com/in/brandon-t-elliott/"
 google_verify: "VwgCnEZpvmvTOoaaVW_zO0a9Bi5juT3AlipFraUsUTU"
