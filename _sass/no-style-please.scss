@@ -117,9 +117,15 @@ footer, .lastupdated {
   width: 100%;
 }
 
-.footer, .lastupdated {
+.footer {
   margin: 0 auto;
   padding-bottom: 4rem;
+  text-align: center;
+}
+
+.lastupdated {
+  margin: 0 auto;
+  padding-bottom: 1rem;
   text-align: center;
 }
 
