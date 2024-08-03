@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' cdn.usefathom.com; object-src 'none'; base-uri 'self'; style-src 'self'; img-src 'self' cdn.usefathom.com; font-src 'self'; connect-src 'self' cdn.usefathom.com;" />
+  {% if site.google_verify -%}
+    <meta name="google-site-verification" content="{{ site.google_verify }}" />
+  {%- endif %}
+  <title>
+    {%- if page.title -%}
+      {{ page.title }}
+    {%- else -%}
+      {{ site.title }}
+    {%- endif -%}
+  </title>
+  {% seo title=false-%}
+  {%-feed_meta-%}
+
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+</head>
