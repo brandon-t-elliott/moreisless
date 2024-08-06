@@ -1,18 +1,19 @@
 entries:
-- title: U.S. Trades Cybercriminals to Russia in Prisoner Swap
-  url: https://krebsonsecurity.com/2024/08/u-s-trades-cybercriminals-to-russia-in-prisoner-swap/
-- title: 'The Loper Bright Decision: How it Impacts Cybersecurity Law'
-  url: https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html
-- title: "UL NO. 443: North Korean Co-workers, UBI Failure?, AI-Groupthink, GPS Spoofing\u2026"
-  url: https://danielmiessler.com/p/ul-443
+- title: "Low-Drama \u2018Dark Angels\u2019 Reap Record Ransoms"
+  url: https://krebsonsecurity.com/2024/08/low-drama-dark-angels-reap-record-ransoms/
+- title: Researchers Uncover Flaws in Windows Smart App Control and SmartScreen
+  url: https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html
+- title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
+    \ Secrets\u2026"
+  url: https://danielmiessler.com/p/ul-444
 - title: How Project 2025 Would Put US Elections at Risk
   url: https://www.wired.com/story/project-2025-cisa-election-critical-infrastructure-security/
-- title: Fortune 50 Co. Pays Record-Breaking $75M Ransomware Demand
-  url: https://www.darkreading.com/threat-intelligence/fortune-50-company-pays-record-breaking-75m-ransomware-demand
+- title: Sophisticated Android Spyware Targets Users in Russia
+  url: https://www.darkreading.com/mobile-security/sophisticated-android-spyware-targets-users-in-russia
 - title: New Patent Application for Car-to-Car Surveillance
   url: https://www.schneier.com/blog/archives/2024/08/new-patent-application-for-car-to-car-surveillance.html
-- title: Surge in Magniber ransomware attacks impact home users worldwide
-  url: https://www.bleepingcomputer.com/news/security/surge-in-magniber-ransomware-attacks-impact-home-users-worldwide/
+- title: Microsoft Azure outage takes down services across North America
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-takes-down-services-across-north-america/
 - title: Bridging the skills gap to build a secure future for the cloud
   url: https://www.itsecurityguru.org/2024/07/31/bridging-the-skills-gap-to-build-a-secure-future-for-the-cloud/?utm_source=rss&utm_medium=rss&utm_campaign=bridging-the-skills-gap-to-build-a-secure-future-for-the-cloud
 - title: '147: Tornado'
@@ -21,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/985
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Cybersecurity is radically asymmetrically distributed.
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/95/notes
+- title: TikTok in the hot seat...again.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2122/notes
