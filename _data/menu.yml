@@ -8,15 +8,14 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: How Project 2025 Would Put US Elections at Risk
   url: https://www.wired.com/story/project-2025-cisa-election-critical-infrastructure-security/
-- title: Rockwell PLC Security Bypass Threatens Manufacturing Processes
-  url: https://www.darkreading.com/ics-ot-security/rockwell-plc-security-bypass-threatens-manufacturing-processes
+- title: Preparing for the Future of Post-Quantum Cryptography
+  url: https://www.darkreading.com/vulnerabilities-threats/future-of-post-quantum-cryptography
 - title: A Better Investigatory Board for Cyber Incidents
   url: https://www.schneier.com/blog/archives/2024/08/a-better-investigatory-board-for-cyber-incidents.html
-- title: Google fixes Android kernel zero-day exploited in targeted attacks
-  url: https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/
-- title: KnowBe4 establishes 6th August as National Social Engineering Day to honour
-    late Kevin Mitnick
-  url: https://www.itsecurityguru.org/2024/08/06/knowbe4-establishes-6th-august-as-national-social-engineering-day-to-honour-late-kevin-mitnick/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-establishes-6th-august-as-national-social-engineering-day-to-honour-late-kevin-mitnick
+- title: Hacker wipes 13,000 devices after breaching classroom management platform
+  url: https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/
+- title: 'International Cyber Expo Announces Global Cyber Summit Theme: Resilience'
+  url: https://www.itsecurityguru.org/2024/08/06/international-cyber-expo-announces-global-cyber-summit-theme-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=international-cyber-expo-announces-global-cyber-summit-theme-resilience
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 985: Platform Key Disclosure - Crowdstrike Post-mortem, Entrust Update'
