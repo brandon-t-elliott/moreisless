@@ -1,8 +1,8 @@
 entries:
 - title: "Low-Drama \u2018Dark Angels\u2019 Reap Record Ransoms"
   url: https://krebsonsecurity.com/2024/08/low-drama-dark-angels-reap-record-ransoms/
-- title: INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore
-  url: https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html
+- title: Chameleon Android Banking Trojan Targets Users Through Fake CRM App
+  url: https://thehackernews.com/2024/08/chameleon-android-banking-trojan.html
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
@@ -14,12 +14,13 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/08/a-better-investigatory-board-for-cyber-incidents.html
 - title: Google Chrome will let you send money to your favourite website
   url: https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/
-- title: 'International Cyber Expo Announces Global Cyber Summit Theme: Resilience'
-  url: https://www.itsecurityguru.org/2024/08/06/international-cyber-expo-announces-global-cyber-summit-theme-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=international-cyber-expo-announces-global-cyber-summit-theme-resilience
+- title: Contrast Security Introduces ADR to Help Organisations Combat Zero Days and
+    Secure Applications from Within
+  url: https://www.itsecurityguru.org/2024/08/07/contrast-security-introduces-adr-to-help-organisations-combat-zero-days-and-secure-applications-from-within/?utm_source=rss&utm_medium=rss&utm_campaign=contrast-security-introduces-adr-to-help-organisations-combat-zero-days-and-secure-applications-from-within
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
-- title: 'SN 985: Platform Key Disclosure - Crowdstrike Post-mortem, Entrust Update'
-  url: https://twit.tv/shows/security-now/episodes/985
+- title: 'SN 986: How Revoking! - Crowdstrike Damage, Firefox Cookies'
+  url: https://twit.tv/shows/security-now/episodes/986
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: Cyberattack calls for an early dismissal.
