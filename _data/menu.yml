@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: A Flaw in Windows Update Opens the Door to Zombie Exploits
   url: https://www.wired.com/story/windows-update-downdate-exploit/
-- title: CrowdStrike Will Give Customers Control Over Falcon Sensor Updates
-  url: https://www.darkreading.com/cyber-risk/crowdstrike-will-give-customers-control-over-falcon-sensor-content-updates
+- title: Monitoring Changes in KEV List Can Guide Security Teams
+  url: https://www.darkreading.com/cybersecurity-analytics/monitoring-kev-list-for-changes-can-guide-security-teams
 - title: "Problems with Georgia\u2019s Voter Registration Portal"
   url: https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html
-- title: New CMoon USB worm targets Russians in data theft attacks
-  url: https://www.bleepingcomputer.com/news/security/new-cmoon-usb-worm-targets-russians-in-data-theft-attacks/
+- title: SEC ends probe into MOVEit attacks impacting 95 million people
+  url: https://www.bleepingcomputer.com/news/security/sec-ends-probe-into-moveit-attacks-impacting-95-million-people/
 - title: European IT Professionals Want Training on AI, Poll Finds
   url: https://www.itsecurityguru.org/2024/08/07/european-it-professionals-want-training-on-ai-poll-finds/?utm_source=rss&utm_medium=rss&utm_campaign=european-it-professionals-want-training-on-ai-poll-finds
 - title: '148: Dubsnatch'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/986
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Cyberattack calls for an early dismissal.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2123/notes
+- title: When updates attack.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2124/notes
