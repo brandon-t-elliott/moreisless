@@ -6,10 +6,10 @@ entries:
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
-- title: A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks
-  url: https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/
-- title: 'The API Security Crisis: Why Your Company Could Be Next'
-  url: https://www.darkreading.com/vulnerabilities-threats/api-security-crisis-why-your-company-could-be-next
+- title: A Flaw in Windows Update Opens the Door to Zombie Exploits
+  url: https://www.wired.com/story/windows-update-downdate-exploit/
+- title: Chameleon Banking Trojan Makes a Comeback Cloaked as CRM App
+  url: https://www.darkreading.com/endpoint-security/chameleon-banking-trojan-makes-a-comeback-cloaked-as-crm-app
 - title: "Problems with Georgia\u2019s Voter Registration Portal"
   url: https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html
 - title: macOS Sequoia brings better Gatekeeper, stalkerware protections
