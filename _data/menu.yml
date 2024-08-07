@@ -8,15 +8,14 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: A New Plan to Break the Cycle of Destructive Critical Infrastructure Hacks
   url: https://www.wired.com/story/undisruptable27-us-critical-infrastructure-cybersecurity/
-- title: Dark Reading News Desk Live From Black Hat USA 2024
-  url: https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024
+- title: 'The API Security Crisis: Why Your Company Could Be Next'
+  url: https://www.darkreading.com/vulnerabilities-threats/api-security-crisis-why-your-company-could-be-next
 - title: "Problems with Georgia\u2019s Voter Registration Portal"
   url: https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html
 - title: Google Chrome will let you send money to your favourite website
   url: https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/
-- title: Contrast Security Introduces ADR to Help Organisations Combat Zero Days and
-    Secure Applications from Within
-  url: https://www.itsecurityguru.org/2024/08/07/contrast-security-introduces-adr-to-help-organisations-combat-zero-days-and-secure-applications-from-within/?utm_source=rss&utm_medium=rss&utm_campaign=contrast-security-introduces-adr-to-help-organisations-combat-zero-days-and-secure-applications-from-within
+- title: Women in CyberSecurity (WiCyS) Announces 5th Annual Security Training Scholarship
+  url: https://www.itsecurityguru.org/2024/08/07/women-in-cybersecurity-wicys-announces-5th-annual-security-training-scholarship/?utm_source=rss&utm_medium=rss&utm_campaign=women-in-cybersecurity-wicys-announces-5th-annual-security-training-scholarship
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 986: How Revoking! - Crowdstrike Damage, Firefox Cookies'
