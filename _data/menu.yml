@@ -1,15 +1,16 @@
 entries:
 - title: Cybercrime Rapper Sues Bank over Fraud Investigation
   url: https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/
-- title: Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities
-  url: https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html
+- title: 'Automated Security Validation: One (Very Important) Part of a Complete CTEM
+    Framework'
+  url: https://thehackernews.com/2024/08/automated-security-validation-one-very.html
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
-- title: Inside the Dark World of Doxing for Profit
-  url: https://www.wired.com/story/doxing-extortion-violence-as-service/
-- title: Hazy Issue in Entra ID Allows Privileged Users to Become Global Admins
-  url: https://www.darkreading.com/application-security/hazy-issue-entra-id-privileged-users-become-global-admins
+- title: "Watch How a Hacker\u2019s Infrared Laser Can Spy on Your Laptop\u2019s Keystrokes"
+  url: https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/
+- title: Critical AWS Vulnerabilities Allow S3 Attack Bonanza
+  url: https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza
 - title: "Problems with Georgia\u2019s Voter Registration Portal"
   url: https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html
 - title: Ronin Network hacked, $12 million returned by "white hat" hackers
