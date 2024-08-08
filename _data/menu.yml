@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/application-security/how-to-weaponize-microsoft-copilot-for-cyberattackers
 - title: "Problems with Georgia\u2019s Voter Registration Portal"
   url: https://www.schneier.com/blog/archives/2024/08/problems-with-georgias-voter-registration-portal.html
-- title: CISA warns of hackers abusing Cisco Smart Install feature
-  url: https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-abusing-cisco-smart-install-feature/
+- title: CISA warns about actively exploited Apache OFBiz RCE flaw
+  url: https://www.bleepingcomputer.com/news/security/cisa-warns-about-actively-exploited-apache-ofbiz-rce-flaw/
 - title: 'NIS2 Directive in the EU: An imminent deadline, insufficient preparation'
   url: https://www.itsecurityguru.org/2024/08/08/nis2-directive-in-the-eu-an-imminent-deadline-insufficient-preparation/?utm_source=rss&utm_medium=rss&utm_campaign=nis2-directive-in-the-eu-an-imminent-deadline-insufficient-preparation
 - title: '148: Dubsnatch'
