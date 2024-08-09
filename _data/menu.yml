@@ -1,14 +1,15 @@
 entries:
 - title: Cybercrime Rapper Sues Bank over Fraud Investigation
   url: https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/
-- title: Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE
-  url: https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html
+- title: Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service
+    Takeovers
+  url: https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
-- title: "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep,\
-    \ Virtually Unfixable Infections"
-  url: https://www.wired.com/story/amd-chip-sinkclose-flaw/
+- title: Google Researchers Found Nearly a Dozen Flaws in Popular Qualcomm Software
+    for Mobile GPUs
+  url: https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/
 - title: Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers
   url: https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers
 - title: 'Friday Squid Blogging: SQUID Is a New Computational Tool for Analyzing Genomic
