@@ -1,14 +1,14 @@
 entries:
 - title: Cybercrime Rapper Sues Bank over Fraud Investigation
   url: https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/
-- title: New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users
-  url: https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html
+- title: Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE
+  url: https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
-- title: "\u2018Sinkclose\u2019 Flaw in Hundreds of Millions of AMD Chips Allows Deep,\
-    \ Virtually Unfixable Infections"
-  url: https://www.wired.com/story/amd-chip-sinkclose-flaw/
+- title: Flaws in Ubiquitous ATM Software Could Have Let Attackers Take Over Cash
+    Machines
+  url: https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/
 - title: Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers
   url: https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers
 - title: People-Search Site Removal Services Largely Ineffective
