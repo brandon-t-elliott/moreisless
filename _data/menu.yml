@@ -1,9 +1,8 @@
 entries:
 - title: Cybercrime Rapper Sues Bank over Fraud Investigation
   url: https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/
-- title: Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service
-    Takeovers
-  url: https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html
+- title: Microsoft Warns of Unpatched Office Vulnerability Leading to Data Exposure
+  url: https://thehackernews.com/2024/08/microsoft-warns-of-unpatched-office.html
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
@@ -25,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/986
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The 18-year stowaway.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2126/notes
+- title: Prompts gone rogue. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/341/notes
