@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All
   url: https://www.wired.com/story/secret-hunting-bill-demirkapi/
-- title: 'Ukraine CERT: Mass Phishing Campaign Poses as Nation''s Security Service'
-  url: https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service
+- title: UN Approves Cybercrime Treaty Despite Major Tech, Privacy Concerns
+  url: https://www.darkreading.com/cyberattacks-data-breaches/un-approves-cybercrime-treaty-despite-major-tech-privacy-concerns
 - title: Taxonomy of Generative AI Misuse
   url: https://www.schneier.com/blog/archives/2024/08/taxonomy-of-generative-ai-misuse.html
-- title: Microsoft is killing the Windows Paint 3D app after 8 years
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-the-windows-paint-3d-app-after-8-years/
+- title: South Korea says DPRK hackers stole spy plane technical data
+  url: https://www.bleepingcomputer.com/news/security/south-korea-says-dprk-hackers-stole-spy-plane-technical-data/
 - title: What skills can cyber security experts develop to adapt to AI and quantum
     computing?
   url: https://www.itsecurityguru.org/2024/08/12/what-skills-can-cyber-security-experts-develop-to-adapt-to-ai-and-quantum-computing/?utm_source=rss&utm_medium=rss&utm_campaign=what-skills-can-cyber-security-experts-develop-to-adapt-to-ai-and-quantum-computing
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/986
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: What does materiality mean exactly?
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/96/notes
+- title: Confidential or compromised?
+  url: https://thecyberwire.com/podcasts/daily-podcast/2127/notes
