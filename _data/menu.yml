@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All
   url: https://www.wired.com/story/secret-hunting-bill-demirkapi/
-- title: Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities
-  url: https://www.darkreading.com/application-security/microsoft-azure-ai-health-bot-infected-with-critical-vulnerabilities
+- title: Inc Ransomware Encryptor Contains Keys to Victim Data Recovery
+  url: https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-encryptor-contains-keys-to-victim-data-recovery
 - title: On the Voynich Manuscript
   url: https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html
-- title: Microsoft August 2024 Patch Tuesday fixes 9 zero-days, 6 exploited
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2024-patch-tuesday-fixes-9-zero-days-6-exploited/
+- title: 'Google: Gemini AI for Android processes sensitive data locally'
+  url: https://www.bleepingcomputer.com/news/google/google-gemini-ai-for-android-processes-sensitive-data-locally/
 - title: New Post Quantum Cryptography Standards Poised to Revolutionize Cybersecurity
   url: https://www.itsecurityguru.org/2024/08/13/new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity
 - title: '148: Dubsnatch'
@@ -22,6 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/986
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Solution Spotlight: Simone Petrella talking with Lee Parrish, CISO of Newell
-    Brands, about his book and security relationship management. [Special Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/69/notes
+- title: From dispossessor to disposed.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2128/notes
