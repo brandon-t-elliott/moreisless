@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All
   url: https://www.wired.com/story/secret-hunting-bill-demirkapi/
-- title: The Changing Expectations for Developers in an AI-Coding Future
-  url: https://www.darkreading.com/application-security/the-changing-expectations-for-developers-in-an-ai-coding-future
+- title: Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities
+  url: https://www.darkreading.com/application-security/microsoft-azure-ai-health-bot-infected-with-critical-vulnerabilities
 - title: On the Voynich Manuscript
   url: https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html
-- title: Windows 11 KB5041585 cumulative update released with fixes, new features
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5041585-cumulative-update-released-with-fixes-new-features/
+- title: Microsoft August 2024 Patch Tuesday fixes 9 zero-days, 6 exploited
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2024-patch-tuesday-fixes-9-zero-days-6-exploited/
 - title: New Post Quantum Cryptography Standards Poised to Revolutionize Cybersecurity
   url: https://www.itsecurityguru.org/2024/08/13/new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity
 - title: '148: Dubsnatch'
