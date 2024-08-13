@@ -8,8 +8,8 @@ entries:
   url: https://danielmiessler.com/p/ul-444
 - title: Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All
   url: https://www.wired.com/story/secret-hunting-bill-demirkapi/
-- title: CrowdStrike Tries to Patch Things Up With Cybersecurity Industry
-  url: https://www.darkreading.com/cybersecurity-operations/crowdstrike-tries-patch-things-up-cybersecurity-industry
+- title: DARPA Aims to Ditch C Code, Move to Rust
+  url: https://www.darkreading.com/application-security/darpa-aims-to-ditch-c-code-move-to-rust
 - title: On the Voynich Manuscript
   url: https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html
 - title: X faces GDPR complaints for unauthorized use of data for AI training
