@@ -1,8 +1,9 @@
 entries:
 - title: Cybercrime Rapper Sues Bank over Fraud Investigation
   url: https://krebsonsecurity.com/2024/08/cybercrime-rapper-sues-bank-over-fraud-investigation/
-- title: How Phishing Attacks Adapt Quickly to Capitalize on Current Events
-  url: https://thehackernews.com/2024/08/how-phishing-attacks-adapt-quickly-to.html
+- title: FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K.,
+    and Germany
+  url: https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html
 - title: "UL NO. 444: Pizza Meter Intelligence, China Bypasses Bans, Securing AWS\
     \ Secrets\u2026"
   url: https://danielmiessler.com/p/ul-444
@@ -23,5 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/986
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Confidential or compromised?
-  url: https://thecyberwire.com/podcasts/daily-podcast/2127/notes
+- title: 'Solution Spotlight: Simone Petrella talking with Lee Parrish, CISO of Newell
+    Brands, about his book and security relationship management. [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/69/notes
