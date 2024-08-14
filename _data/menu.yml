@@ -8,14 +8,15 @@ entries:
   url: https://danielmiessler.com/p/ul-445
 - title: "Want to Win a Bike Race? Hack Your Rival\u2019s Wireless Shifters"
   url: https://www.wired.com/story/shimano-wireless-bicycle-shifter-jamming-replay-attacks/
-- title: Inc Ransomware Encryptor Contains Keys to Victim Data Recovery
-  url: https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-encryptor-contains-keys-to-victim-data-recovery
+- title: Cybercriminal Leader 'J.P.Morgan' Busted for Pioneering RaaS Model
+  url: https://www.darkreading.com/cyber-risk/cybercriminal-leader-jp-morgan-busted-pioneering-raas
 - title: On the Voynich Manuscript
   url: https://www.schneier.com/blog/archives/2024/08/on-the-voynich-manuscript.html
 - title: New Windows SmartScreen bypass exploited as zero-day since March
   url: https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/
-- title: New Post Quantum Cryptography Standards Poised to Revolutionize Cybersecurity
-  url: https://www.itsecurityguru.org/2024/08/13/new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity
+- title: New Threat Report from Cato Networks Uncovers Threat Actor Selling Data and
+    Source Code from Major Brands
+  url: https://www.itsecurityguru.org/2024/08/14/new-threat-report-from-cato-networks-uncovers-threat-actor-selling-data-and-source-code-from-major-brands/?utm_source=rss&utm_medium=rss&utm_campaign=new-threat-report-from-cato-networks-uncovers-threat-actor-selling-data-and-source-code-from-major-brands
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 987: Rethinking Revocation - SinkClose, IsBootSecure, Another Bad RCE'
