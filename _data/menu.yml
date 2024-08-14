@@ -1,8 +1,8 @@
 entries:
 - title: "Six 0-Days Lead Microsoft\u2019s August 2024 Patch Push"
   url: https://krebsonsecurity.com/2024/08/six-0-days-lead-microsofts-august-2024-patch-push/
-- title: 'GhostWrite: New T-Head CPU Bugs Expose Devices to Unrestricted Attacks'
-  url: https://thehackernews.com/2024/08/ghostwrite-new-t-head-cpu-bugs-expose.html
+- title: DDoS Attacks Surge 46% in First Half of 2024, Gcore Report Reveals
+  url: https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html
 - title: 'UL NO. 445: Vegas Dump, Legal Firm Hacks, AI Agent Ascension'
   url: https://danielmiessler.com/p/ul-445
 - title: Thousands of Corporate Secrets Were Left Exposed. This Guy Found Them All
@@ -17,8 +17,8 @@ entries:
   url: https://www.itsecurityguru.org/2024/08/13/new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=new-post-quantum-cryptography-standards-poised-to-revolutionize-cybersecurity
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
-- title: 'SN 986: How Revoking! - Crowdstrike Damage, Firefox Cookies'
-  url: https://twit.tv/shows/security-now/episodes/986
+- title: 'SN 987: Rethinking Revocation - SinkClose, IsBootSecure, Another Bad RCE'
+  url: https://twit.tv/shows/security-now/episodes/987
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: From dispossessor to disposed.
