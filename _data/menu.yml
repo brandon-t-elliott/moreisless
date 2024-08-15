@@ -8,13 +8,12 @@ entries:
 - title: A Single Iranian Hacker Group Targeted Both Presidential Campaigns, Google
     Says
   url: https://www.wired.com/story/iran-apt42-trump-biden-harris-phishing-targeting/
-- title: New ISAGCA Report Explores Zero-Trust Outcomes in OT Cybersecurity
-  url: https://www.darkreading.com/ics-ot-security/new-isagca-report-explores-zero-trust-outcomes-in-ot-cybersecurity
+- title: Ransomware Group Behind Major Indonesian Attack Wears Many Masks
+  url: https://www.darkreading.com/threat-intelligence/ransomware-group-behind-major-indonesian-attack-wears-many-masks
 - title: Texas Sues GM for Collecting Driving Data without Consent
   url: https://www.schneier.com/blog/archives/2024/08/texas-sues-gm-for-collecting-driving-data-without-consent.html
-- title: Zero-click Windows TCP/IP RCE impacts all systems with IPv6 enabled, patch
-    now
-  url: https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/
+- title: Russian who sold 300,000 stolen credentials gets 40 months in prison
+  url: https://www.bleepingcomputer.com/news/security/russian-who-sold-300-000-stolen-credentials-gets-40-months-in-prison/
 - title: New Threat Report from Cato Networks Uncovers Threat Actor Selling Data and
     Source Code from Major Brands
   url: https://www.itsecurityguru.org/2024/08/14/new-threat-report-from-cato-networks-uncovers-threat-actor-selling-data-and-source-code-from-major-brands/?utm_source=rss&utm_medium=rss&utm_campaign=new-threat-report-from-cato-networks-uncovers-threat-actor-selling-data-and-source-code-from-major-brands
@@ -22,7 +21,7 @@ entries:
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 987: Rethinking Revocation - SinkClose, IsBootSecure, Another Bad RCE'
   url: https://twit.tv/shows/security-now/episodes/987
-- title: Invisible Intruders
-  url: https://www.redhat.com/en/command-line-heroes/season-9/invisible-intruders
+- title: All Together Now
+  url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: "A health bot\u2019s security slip-up."
   url: https://thecyberwire.com/podcasts/daily-podcast/2129/notes
