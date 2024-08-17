@@ -1,8 +1,9 @@
 entries:
 - title: "NationalPublicData.com Hack Exposes a Nation\u2019s Data"
   url: https://krebsonsecurity.com/2024/08/nationalpublicdata-com-hack-exposes-a-nations-data/
-- title: Attackers Exploit Public .env Files to Breach Cloud and Social Media Accounts
-  url: https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html
+- title: OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election
+    Propaganda
+  url: https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html
 - title: 'UL NO. 445: Vegas Dump, Legal Firm Hacks, AI Agent Ascension'
   url: https://danielmiessler.com/p/ul-445
 - title: Nearly All Google Pixel Phones Exposed by Unpatched Flaw in Hidden Android
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/987
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Weeding out 'worms' for Window's users.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2130/notes
+- title: Essential tools with critical security challenges. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/342/notes
