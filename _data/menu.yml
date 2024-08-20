@@ -1,8 +1,9 @@
 entries:
 - title: National Public Data Published Its Own Passwords
   url: https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/
-- title: Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor
-  url: https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html
+- title: 'Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for
+    Stolen API Keys'
+  url: https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
 - title: "The Pentagon Is Planning a Drone \u2018Hellscape\u2019 to Defend Taiwan"
@@ -19,5 +20,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/987
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Mic, camera, and more at risk.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2132/notes
+- title: Cybersecurity on the ballot.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2133/notes
