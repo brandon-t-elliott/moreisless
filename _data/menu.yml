@@ -1,9 +1,8 @@
 entries:
 - title: National Public Data Published Its Own Passwords
   url: https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/
-- title: 'Detecting AWS Account Compromise: Key Indicators in CloudTrail Logs for
-    Stolen API Keys'
-  url: https://thehackernews.com/2024/08/detecting-aws-account-compromise-key.html
+- title: CERT-UA Warns of New Vermin-Linked Phishing Attacks with PoW Bait
+  url: https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
 - title: An AWS Configuration Issue Could Expose Thousands of Web Apps
@@ -12,8 +11,9 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/08/hacking-wireless-bicycle-shifters.html
 - title: CannonDesign confirms Avos Locker ransomware data breach
   url: https://www.bleepingcomputer.com/news/security/cannondesign-confirms-avos-locker-ransomware-data-breach/
-- title: 'Dodging the Cyber Bullet: Early Signs of a Ransomware Attack'
-  url: https://www.itsecurityguru.org/2024/08/19/dodging-the-cyber-bullet-early-signs-of-a-ransomware-attack/?utm_source=rss&utm_medium=rss&utm_campaign=dodging-the-cyber-bullet-early-signs-of-a-ransomware-attack
+- title: Cyber insurance claims fall as businesses refuse ransom payments and recover
+    themselves
+  url: https://www.itsecurityguru.org/2024/08/19/cyber-insurance-claims-fall-as-businesses-refuse-ransom-payments-and-recover-themselves/?utm_source=rss&utm_medium=rss&utm_campaign=cyber-insurance-claims-fall-as-businesses-refuse-ransom-payments-and-recover-themselves
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 987: Rethinking Revocation - SinkClose, IsBootSecure, Another Bad RCE'
