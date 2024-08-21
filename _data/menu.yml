@@ -1,12 +1,14 @@
 entries:
 - title: National Public Data Published Its Own Passwords
   url: https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/
-- title: It's Time To Untangle the SaaS Ball of Yarn
-  url: https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html
+- title: Microsoft Patches Critical Copilot Studio Vulnerability Exposing Sensitive
+    Data
+  url: https://thehackernews.com/2024/08/microsoft-patches-critical-copilot.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
-- title: An AWS Configuration Issue Could Expose Thousands of Web Apps
-  url: https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/
+- title: "The US Government Wants You\u2014Yes, You\u2014to Hunt Down Generative AI\
+    \ Flaws"
+  url: https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/
 - title: Hacking Wireless Bicycle Shifters
   url: https://www.schneier.com/blog/archives/2024/08/hacking-wireless-bicycle-shifters.html
 - title: Phrack hacker zine publishes new edition after three years
