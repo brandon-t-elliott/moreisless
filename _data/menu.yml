@@ -6,16 +6,15 @@ entries:
   url: https://thehackernews.com/2024/08/microsoft-patches-critical-copilot.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
-- title: "The US Government Wants You\u2014Yes, You\u2014to Hunt Down Generative AI\
-    \ Flaws"
-  url: https://www.wired.com/story/nist-humane-intelligence-generative-ai-red-team-contest/
+- title: Stadiums Are Embracing Face Recognition. Privacy Advocates Say They Should
+    Stick to Sports
+  url: https://www.wired.com/story/face-recognition-stadiums-protest/
 - title: Hacking Wireless Bicycle Shifters
   url: https://www.schneier.com/blog/archives/2024/08/hacking-wireless-bicycle-shifters.html
-- title: QNAP adds NAS ransomware protection to latest QTS version
-  url: https://www.bleepingcomputer.com/news/security/qnap-adds-nas-ransomware-protection-to-latest-qts-version/
-- title: Cyber insurance claims fall as businesses refuse ransom payments and recover
-    themselves
-  url: https://www.itsecurityguru.org/2024/08/19/cyber-insurance-claims-fall-as-businesses-refuse-ransom-payments-and-recover-themselves/?utm_source=rss&utm_medium=rss&utm_campaign=cyber-insurance-claims-fall-as-businesses-refuse-ransom-payments-and-recover-themselves
+- title: Microsoft to rollout Windows Recall to Insiders in October
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-to-rollout-windows-recall-to-insiders-in-october/
+- title: 'Dodging the Cyber Bullet: Early Signs of a Ransomware Attack'
+  url: https://www.itsecurityguru.org/2024/08/19/dodging-the-cyber-bullet-early-signs-of-a-ransomware-attack/?utm_source=rss&utm_medium=rss&utm_campaign=dodging-the-cyber-bullet-early-signs-of-a-ransomware-attack
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 987: Rethinking Revocation - SinkClose, IsBootSecure, Another Bad RCE'
