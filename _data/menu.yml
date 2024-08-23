@@ -1,8 +1,8 @@
 entries:
 - title: National Public Data Published Its Own Passwords
   url: https://krebsonsecurity.com/2024/08/national-public-data-published-its-own-passwords/
-- title: New macOS Malware "Cthulhu Stealer" Targets Apple Users' Data
-  url: https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html
+- title: New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data
+  url: https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
 - title: When War Came to Their Country, They Built a Map
@@ -11,8 +11,9 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/08/surveillance-watch.html
 - title: Hackers are exploiting critical bug in LiteSpeed Cache plugin
   url: https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-bug-in-litespeed-cache-plugin/
-- title: The 8 Most Common Website Design Mistakes According to Pros
-  url: https://www.itsecurityguru.org/2024/08/22/the-8-most-common-website-design-mistakes-according-to-pros/?utm_source=rss&utm_medium=rss&utm_campaign=the-8-most-common-website-design-mistakes-according-to-pros
+- title: 'Cybereason Unveils SDR Data Ramp Program: Analyse and Detect Threats in
+    1TB of Log Data for 90 Days'
+  url: https://www.itsecurityguru.org/2024/08/23/cybereason-unveils-sdr-data-ramp-program-analyse-and-detect-threats-in-1tb-of-log-data-for-90-days/?utm_source=rss&utm_medium=rss&utm_campaign=cybereason-unveils-sdr-data-ramp-program-analyse-and-detect-threats-in-1tb-of-log-data-for-90-days
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 987: Rethinking Revocation - SinkClose, IsBootSecure, Another Bad RCE'
