@@ -1,9 +1,8 @@
 entries:
 - title: Local Networks Go Global When Domain Names Collide
   url: https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/
-- title: New PEAKLIGHT Dropper Deployed in Attacks Targeting Windows with Malicious
-    Movie Downloads
-  url: https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html
+- title: CISA Urges Federal Agencies to Patch Versa Director Vulnerability by September
+  url: https://thehackernews.com/2024/08/cisa-urges-federal-agencies-to-patch.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
 - title: When War Came to Their Country, They Built a Map
@@ -14,11 +13,13 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/08/friday-squid-blogging-self-healing-materials-from-squid-teeth.html
 - title: American Radio Relay League confirms $1 million ransom payment
   url: https://www.bleepingcomputer.com/news/security/american-radio-relay-league-confirms-1-million-ransom-payment/
+- title: "How Immigration Can Solve America\u2019s Cybersecurity Shortage"
+  url: https://www.itsecurityguru.org/2024/08/23/how-immigration-can-solve-americas-cybersecurity-shortage/?utm_source=rss&utm_medium=rss&utm_campaign=how-immigration-can-solve-americas-cybersecurity-shortage
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
 - title: 'SN 988: National Public Data - Big Patch Tuesday, The Biggest Data Breach'
   url: https://twit.tv/shows/security-now/episodes/988
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Hackers strike LiteSpeed cache again.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2136/notes
+- title: MaaS infrastructure exposed. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/343/notes
