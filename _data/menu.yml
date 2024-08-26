@@ -1,8 +1,9 @@
 entries:
 - title: Local Networks Go Global When Domain Names Collide
   url: https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/
-- title: 'Unpacking Slack Hacks: 6 Ways to Protect Sensitive Data with Secure Collaboration'
-  url: https://thehackernews.com/2024/08/unpacking-slack-hacks-6-ways-to-protect.html
+- title: SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized
+    Access
+  url: https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html
 - title: Aliens Landed in Palo Alto in October of 2027
   url: https://danielmiessler.com/p/alien-palo-alto-2027
 - title: "Pavel Durov\u2019s Arrest Leaves Telegram Hanging in the Balance"
@@ -11,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/aggressively-monitoring-for-changes-is-key-aspect-of-cybersecurity
 - title: US Federal Court Rules Against Geofence Warrants
   url: https://www.schneier.com/blog/archives/2024/08/us-federal-court-rules-against-geofence-warrants.html
-- title: SonicWall warns of critical access control flaw in SonicOS
-  url: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-access-control-flaw-in-sonicos/
+- title: 'Remote Work: A Ticking Time Bomb Waiting to be Exploited'
+  url: https://www.bleepingcomputer.com/news/security/remote-work-a-ticking-time-bomb-waiting-to-be-exploited/
 - title: 'Cybereason Unveils SDR Data Ramp Program: Analyse and Detect Threats in
     1TB of Log Data for 90 Days'
   url: https://www.itsecurityguru.org/2024/08/23/cybereason-unveils-sdr-data-ramp-program-analyse-and-detect-threats-in-1tb-of-log-data-for-90-days/?utm_source=rss&utm_medium=rss&utm_campaign=cybereason-unveils-sdr-data-ramp-program-analyse-and-detect-threats-in-1tb-of-log-data-for-90-days
