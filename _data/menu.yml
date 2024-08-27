@@ -1,15 +1,14 @@
 entries:
 - title: Local Networks Go Global When Domain Names Collide
   url: https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/
-- title: Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft
-    365 Copilot
-  url: https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html
+- title: 'CTEM in the Spotlight: How Gartner''s New Categories Help to Manage Exposures'
+  url: https://thehackernews.com/2024/08/ctem-in-spotlight-how-gartners-new.html
 - title: World Model + Next Token Prediction = Answer Prediction
   url: https://danielmiessler.com/p/world-model-next-token-prediction-answer-prediction
 - title: "Telegram CEO Pavel Durov\u2019s Arrest Linked to Sweeping Criminal Investigation"
   url: https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/
-- title: Hackers Use Rare Stealth Techniques to Down Asian Military, Gov't Orgs
-  url: https://www.darkreading.com/application-security/hackers-use-rare-stealth-techniques-to-down-asian-military-govt-orgs
+- title: Why Every Business Should Prioritize Confidential Computing
+  url: https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing
 - title: The Present and Future of TV Surveillance
   url: https://www.schneier.com/blog/archives/2024/08/the-present-and-future-of-tv-surveillance.html
 - title: Google tags a tenth Chrome zero-day as exploited this year
