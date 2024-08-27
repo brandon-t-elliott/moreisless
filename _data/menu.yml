@@ -1,10 +1,10 @@
 entries:
 - title: Local Networks Go Global When Domain Names Collide
   url: https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/
-- title: SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized
-    Access
-  url: https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html
-- title: 'From UL: World Model + Next Token Prediction = Answer Prediction'
+- title: Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft
+    365 Copilot
+  url: https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html
+- title: World Model + Next Token Prediction = Answer Prediction
   url: https://danielmiessler.com/p/world-model-next-token-prediction-answer-prediction
 - title: "Telegram CEO Pavel Durov\u2019s Arrest Linked to Sweeping Criminal Investigation"
   url: https://www.wired.com/story/telegram-pavel-durov-arrest-investigation-allegations/
