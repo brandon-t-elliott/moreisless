@@ -9,8 +9,8 @@ entries:
 - title: Notorious Iranian Hackers Have Been Targeting the Space Industry With a New
     Backdoor
   url: https://www.wired.com/story/iran-peach-sandworm-tickler-backdoor/
-- title: Attackers Exploit Critical Atlassian Confluence Flaw for Cryptojacking
-  url: https://www.darkreading.com/threat-intelligence/attackers-exploit-critical-atlassian-confluence-flaw-for-cryptojacking
+- title: BlackByte Targets ESXi Bug With Ransomware to Access Virtual Assets
+  url: https://www.darkreading.com/cyberattacks-data-breaches/blackbyte-targets-esxi-bug-with-ransomeware-to-access-virtual-assets
 - title: "Matthew Green on Telegram\u2019s Encryption"
   url: https://www.schneier.com/blog/archives/2024/08/matthew-green-on-telegrams-encryption.html
 - title: PoorTry Windows driver evolves into a full-featured EDR wiper
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/989
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Cyber revolt or just digital ruckus?
-  url: https://thecyberwire.com/podcasts/daily-podcast/2138/notes
+- title: From screen share to spyware.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2139/notes
