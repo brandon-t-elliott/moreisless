@@ -1,15 +1,15 @@
 entries:
 - title: "New 0-Day Attacks Linked to China\u2019s \u2018Volt Typhoon\u2019"
   url: https://krebsonsecurity.com/2024/08/new-0-day-attacks-linked-to-chinas-volt-typhoon/
-- title: macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users
-  url: https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html
-- title: World Model + Next Token Prediction = Answer Prediction
-  url: https://danielmiessler.com/p/world-model-next-token-prediction-answer-prediction
+- title: CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports
+  url: https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html
+- title: 'UL NO. 447: Sam Curry on Bug Bounty Careers, Slack Data Exfil, The Work
+    Lie'
+  url: https://danielmiessler.com/p/ul-447
 - title: "Pavel Durov\u2019s Arrest Leaves Telegram Hanging in the Balance"
   url: https://www.wired.com/story/telegram-ceo-pavel-durov-arrest/
-- title: 77% of Educational Institutions Spotted a Cyberattack Within the Last 12
-    Months
-  url: https://www.darkreading.com/cyberattacks-data-breaches/77-of-educational-institutions-spotted-a-cyberattack-within-the-last-12-months
+- title: Zimbabwe Trains Government Officials in Cybersecurity Skills
+  url: https://www.darkreading.com/cybersecurity-operations/zimbabwe-trains-government-officials-in-cybersecurity-skills
 - title: The Present and Future of TV Surveillance
   url: https://www.schneier.com/blog/archives/2024/08/the-present-and-future-of-tv-surveillance.html
 - title: BlackSuit ransomware stole data of 950,000 from software vendor
@@ -19,8 +19,8 @@ entries:
   url: https://www.itsecurityguru.org/2024/08/27/chemical-solutions-org-reduces-the-time-to-integrate-acquired-companies-by-80-with-cato-sase-cloud-platform/?utm_source=rss&utm_medium=rss&utm_campaign=chemical-solutions-org-reduces-the-time-to-integrate-acquired-companies-by-80-with-cato-sase-cloud-platform
 - title: '148: Dubsnatch'
   url: https://darknetdiaries.com/episode/148/
-- title: 'SN 988: National Public Data - Big Patch Tuesday, The Biggest Data Breach'
-  url: https://twit.tv/shows/security-now/episodes/988
+- title: 'SN 989: Cascading Bloom Filters - Key Card Backdoors, Fake Cisco Gear'
+  url: https://twit.tv/shows/security-now/episodes/989
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: Cyber revolt or just digital ruckus?
