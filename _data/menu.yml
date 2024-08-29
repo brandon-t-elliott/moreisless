@@ -6,16 +6,14 @@ entries:
 - title: 'UL NO. 447: Sam Curry on Bug Bounty Careers, Slack Data Exfil, The Work
     Lie'
   url: https://danielmiessler.com/p/ul-447
-- title: Google, Apple, and Discord Let Harmful AI 'Undress' Websites Use Their Sign-On
-    Systems
+- title: Harmful 'Nudify' Websites Used Google, Apple, and Discord Sign-On Systems
   url: https://www.wired.com/story/undress-app-ai-harm-google-apple-login/
-- title: South Korean APT Exploits 1-Click WPS Office Bug, Nabs Chinese Intel
-  url: https://www.darkreading.com/vulnerabilities-threats/south-korean-apt-exploits-1-click-wps-office-bug-nabs-chinese-intel
+- title: Dragos Expands Asset Visibility in Latest Platform Update
+  url: https://www.darkreading.com/ics-ot-security/dragos-expands-asset-visibility-in-latest-platform-update
 - title: "Matthew Green on Telegram\u2019s Encryption"
   url: https://www.schneier.com/blog/archives/2024/08/matthew-green-on-telegrams-encryption.html
-- title: Employee arrested for locking Windows admins out of 254 servers in extortion
-    plot
-  url: https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/
+- title: South Korean hackers exploited WPS Office zero-day to deploy malware
+  url: https://www.bleepingcomputer.com/news/security/apt-c-60-hackers-exploited-wps-office-zero-day-to-deploy-spyglace-malware/
 - title: Chemical Solutions Org Reduces the Time to Integrate Acquired Companies by
     80% with Cato SASE Cloud Platform
   url: https://www.itsecurityguru.org/2024/08/27/chemical-solutions-org-reduces-the-time-to-integrate-acquired-companies-by-80-with-cato-sase-cloud-platform/?utm_source=rss&utm_medium=rss&utm_campaign=chemical-solutions-org-reduces-the-time-to-integrate-acquired-companies-by-80-with-cato-sase-cloud-platform
