@@ -1,9 +1,8 @@
 entries:
 - title: Sextortion Scams Now Include Photos of Your Home
   url: https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/
-- title: Google Confirms CVE-2024-32896 Exploited in the Wild, Releases Android Security
-    Patch
-  url: https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html
+- title: North Korean Hackers Targets Job Seekers with Fake FreeConference App
+  url: https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html
 - title: 'UL NO. 448: TSA SQLi, NYT Github, NK RPM, NVIDIA Mystery...'
   url: https://danielmiessler.com/p/ul-448
 - title: "The Japanese Robot Controversy Lurking in Israel\u2019s Military Supply\
@@ -13,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk
 - title: Security Researcher Sued for Disproving Government Statements
   url: https://www.schneier.com/blog/archives/2024/09/security-researcher-sued-for-disproving-government-statements.html
-- title: Hackers inject malicious JS in Cisco store to steal credit cards, credentials
-  url: https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/
+- title: Cisco warns of backdoor admin account in Smart Licensing Utility
+  url: https://www.bleepingcomputer.com/news/security/cisco-warns-of-backdoor-admin-account-in-smart-licensing-utility/
 - title: September is Preparedness Month
   url: https://www.itsecurityguru.org/2024/09/03/september-is-preparedness-month/?utm_source=rss&utm_medium=rss&utm_campaign=september-is-preparedness-month
 - title: '149: Mini-Stories: Vol 3'
