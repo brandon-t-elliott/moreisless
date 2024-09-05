@@ -5,15 +5,14 @@ entries:
   url: https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html
 - title: 'UL NO. 448: TSA SQLi, NYT Github, NK RPM, NVIDIA Mystery...'
   url: https://danielmiessler.com/p/ul-448
-- title: "Russia\u2019s Most Notorious Special Forces Unit Now Has Its Own Cyber Warfare\
-    \ Team"
-  url: https://www.wired.com/story/russia-gru-unit-29155-hacker-team/
-- title: Malvertising Campaign Builds a Phish for Lowe's Employees
-  url: https://www.darkreading.com/threat-intelligence/malvertising-campaign-phish-lowes-employees
+- title: "YubiKeys Are a Security Gold Standard\u2014but They Can Be Cloned"
+  url: https://www.wired.com/story/yubikey-vulnerability-cloning/
+- title: HackerOne Appoints Kara Sprague As CEO
+  url: https://www.darkreading.com/vulnerabilities-threats/hackerone-appoints-kara-sprague-as-ceo
 - title: Long Analysis of the M-209
   url: https://www.schneier.com/blog/archives/2024/09/long-analysis-of-the-m-209.html
-- title: Microsoft removes revenge porn from Bing search using new tool
-  url: https://www.bleepingcomputer.com/news/security/microsoft-removes-revenge-porn-from-bing-search-using-new-tool/
+- title: Apache fixes critical OFBiz remote code execution vulnerability
+  url: https://www.bleepingcomputer.com/news/security/apache-fixes-critical-ofbiz-remote-code-execution-vulnerability/
 - title: September is Preparedness Month
   url: https://www.itsecurityguru.org/2024/09/03/september-is-preparedness-month/?utm_source=rss&utm_medium=rss&utm_campaign=september-is-preparedness-month
 - title: '149: Mini-Stories: Vol 3'
