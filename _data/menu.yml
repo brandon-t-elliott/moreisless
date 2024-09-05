@@ -7,12 +7,12 @@ entries:
   url: https://danielmiessler.com/p/ul-448
 - title: We Hunted Hidden Police Signals at the DNC
   url: https://www.wired.com/story/dnc-hidden-signal-hunt/
-- title: White House Unveils Road Map to Fix BGP
-  url: https://www.darkreading.com/cybersecurity-operations/white-house-unveils-roadmap-to-fix-bgp
+- title: The Role of Trust Anchors in Modern IT Security
+  url: https://www.darkreading.com/cybersecurity-operations/trust-anchors-in-modern-it-security
 - title: Long Analysis of the M-209
   url: https://www.schneier.com/blog/archives/2024/09/long-analysis-of-the-m-209.html
-- title: Fake OnlyFans cybercrime tool infects hackers with malware
-  url: https://www.bleepingcomputer.com/news/security/fake-onlyfans-cybercrime-tool-infects-hackers-with-malware/
+- title: Veeam warns of critical RCE flaw in Backup & Replication software
+  url: https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-flaw-in-backup-and-replication-software/
 - title: September is Preparedness Month
   url: https://www.itsecurityguru.org/2024/09/03/september-is-preparedness-month/?utm_source=rss&utm_medium=rss&utm_campaign=september-is-preparedness-month
 - title: '149: Mini-Stories: Vol 3'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/990
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: From secure to clone-tastic.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2143/notes
+- title: "Brazil nixes Twitter\u2019s successor."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2142/notes
