@@ -7,8 +7,8 @@ entries:
   url: https://danielmiessler.com/p/ul-448
 - title: "YubiKeys Are a Security Gold Standard\u2014but They Can Be Cloned"
   url: https://www.wired.com/story/yubikey-vulnerability-cloning/
-- title: HackerOne Appoints Kara Sprague As CEO
-  url: https://www.darkreading.com/vulnerabilities-threats/hackerone-appoints-kara-sprague-as-ceo
+- title: What is the Shared Fate Model?
+  url: https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model
 - title: Long Analysis of the M-209
   url: https://www.schneier.com/blog/archives/2024/09/long-analysis-of-the-m-209.html
 - title: Apache fixes critical OFBiz remote code execution vulnerability
