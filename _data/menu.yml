@@ -8,14 +8,15 @@ entries:
   url: https://danielmiessler.com/p/ul-448
 - title: "The NSA Has a Podcast\u2014Here's How to Decode It"
   url: https://www.wired.com/story/the-nsa-has-a-podcast-heres-how-to-decode-it-no-such-podcast/
-- title: Using Transparency &amp; Sharing to Defend Critical Infrastructure
-  url: https://www.darkreading.com/vulnerabilities-threats/using-transparency-and-sharing-to-defend-critical-infrastructure
+- title: Cybersecurity Talent Shortage Prompts White House Action
+  url: https://www.darkreading.com/cybersecurity-operations/cybersecurity-talent-shortage-prompts-white-house-action
 - title: YubiKey Side-Channel Attack
   url: https://www.schneier.com/blog/archives/2024/09/yubikey-side-channel-attack.html
-- title: SpyAgent Android malware steals your crypto recovery phrases from images
-  url: https://www.bleepingcomputer.com/news/security/spyagent-android-malware-steals-your-crypto-recovery-phrases-from-images/
-- title: 'Gen Alpha: Navigating Cybersecurity in an AI-Native World'
-  url: https://www.itsecurityguru.org/2024/09/06/gen-alpha-navigating-cybersecurity-in-an-ai-native-world/?utm_source=rss&utm_medium=rss&utm_campaign=gen-alpha-navigating-cybersecurity-in-an-ai-native-world
+- title: Microsoft Office 2024 to disable ActiveX controls by default
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-to-disable-activex-controls-by-default/
+- title: "Keeper Security Named a Value Leader in EMA\u2019s 2024 PAM Radar\u2122\
+    \ Report"
+  url: https://www.itsecurityguru.org/2024/09/05/keeper-security-named-a-value-leader-in-emas-2024-pam-radar-report/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-named-a-value-leader-in-emas-2024-pam-radar-report
 - title: '149: Mini-Stories: Vol 3'
   url: https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com
 - title: 'SN 990: Is Telegram an Encrypted App? - CrowdStrike Exodus, DDoS-as-a-Service,
