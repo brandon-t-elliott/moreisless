@@ -1,20 +1,21 @@
 entries:
 - title: Sextortion Scams Now Include Photos of Your Home
   url: https://krebsonsecurity.com/2024/09/sextortion-scams-now-include-photos-of-your-home/
-- title: North Korean Threat Actors Deploy COVERTCATCH Malware via LinkedIn Job Scams
-  url: https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html
+- title: New Android SpyAgent Malware Uses OCR to Steal Crypto Wallet Recovery Keys
+  url: https://thehackernews.com/2024/09/new-android-spyagent-malware-uses-ocr.html
 - title: 'UL NO. 448: TSA SQLi, NYT Github, NK RPM, NVIDIA Mystery...'
   url: https://danielmiessler.com/p/ul-448
 - title: Hackers Threaten to Leak Planned Parenthood Data
   url: https://www.wired.com/story/hackers-threaten-to-leak-planned-parenthood-data/
-- title: Feds Warn on Russian Actors Targeting Critical Infrastructure
-  url: https://www.darkreading.com/ics-ot-security/feds-warn-russian-actors-targeting-critical-infrastructure
+- title: '''TIDrone'' Cyberattackers Target Taiwan''s Drone Manufacturers'
+  url: https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers
 - title: Live Video of Promachoteuthis Squid
   url: https://www.schneier.com/blog/archives/2024/09/live-video-of-promachoteuthis-squid.html
-- title: New RAMBO attack steals data using RAM in air-gapped computers
-  url: https://www.bleepingcomputer.com/news/security/new-rambo-attack-steals-data-using-ram-in-air-gapped-computers/
-- title: 'Gen Alpha: Navigating Cybersecurity in an AI-Native World'
-  url: https://www.itsecurityguru.org/2024/09/06/gen-alpha-navigating-cybersecurity-in-an-ai-native-world/?utm_source=rss&utm_medium=rss&utm_campaign=gen-alpha-navigating-cybersecurity-in-an-ai-native-world
+- title: Progress LoadMaster vulnerable to 10/10 severity RCE flaw
+  url: https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/
+- title: Post-Quantum Cryptography Coalition Publishes Comparison of International
+    PQC Standards
+  url: https://www.itsecurityguru.org/2024/09/09/post-quantum-cryptography-coalition-publishes-comparison-of-international-pqc-standards/?utm_source=rss&utm_medium=rss&utm_campaign=post-quantum-cryptography-coalition-publishes-comparison-of-international-pqc-standards
 - title: '149: Mini-Stories: Vol 3'
   url: https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com
 - title: 'SN 990: Is Telegram an Encrypted App? - CrowdStrike Exodus, DDoS-as-a-Service,
