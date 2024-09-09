@@ -7,8 +7,8 @@ entries:
   url: https://danielmiessler.com/p/ul-448
 - title: What You Need to Know About Grok AI and Your Privacy
   url: https://www.wired.com/story/grok-ai-privacy-opt-out/
-- title: 300K Victims' Data Compromised in Avis Car Rental Breach
-  url: https://www.darkreading.com/cyberattacks-data-breaches/300k-victims-data-compromised-avis-car-rental-breach
+- title: Akira Ransomware Actors Exploit SonicWall Bug for RCE
+  url: https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce
 - title: Australia Threatens to Force Companies to Break Encryption
   url: https://www.schneier.com/blog/archives/2024/09/australia-threatens-to-force-companies-to-break-encryption.html
 - title: Highline Public Schools closes schools following cyberattack
@@ -23,6 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/990
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Ann Johnson: Trying to make the world safer. [Business Development] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/32/notes
+- title: A ticking clock to exploitation.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2146/notes
