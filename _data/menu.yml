@@ -8,8 +8,8 @@ entries:
   url: https://danielmiessler.com/p/ul-449
 - title: What You Need to Know About Grok AI and Your Privacy
   url: https://www.wired.com/story/grok-ai-privacy-opt-out/
-- title: Google Updates Cloud Backup, Disaster Recovery Service
-  url: https://www.darkreading.com/cloud-security/google-updates-cloud-backup-disaster-recovery-service
+- title: SOAR Is Dead, Long Live SOAR
+  url: https://www.darkreading.com/cybersecurity-operations/soar-is-dead-long-live-soar
 - title: Evaluating the Effectiveness of Reward Modeling of Generative AI Systems
   url: https://www.schneier.com/blog/archives/2024/09/evaluating-the-effectiveness-of-reward-modeling-of-generative-ai-systems-2.html
 - title: Ivanti fixes maximum severity RCE bug in Endpoint Management software
