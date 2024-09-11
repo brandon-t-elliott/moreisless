@@ -1,28 +1,28 @@
 entries:
 - title: Bug Left Some Windows PCs Dangerously Unpatched
   url: https://krebsonsecurity.com/2024/09/bug-left-some-windows-pcs-dangerously-unpatched/
-- title: CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub
-  url: https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html
+- title: Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows
+    Flaws
+  url: https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html
 - title: 'UL NO. 449: China Hits US ISPs, NIST CSF 2.0, Russian Intel Attacks, Stagnant
     Companies...'
   url: https://danielmiessler.com/p/ul-449
 - title: What You Need to Know About Grok AI and Your Privacy
   url: https://www.wired.com/story/grok-ai-privacy-opt-out/
-- title: Microsoft Discloses 4 Zero-Days in September Update
-  url: https://www.darkreading.com/application-security/microsoft-discloses-4-zero-days-in-september-update
+- title: India Needs Better Cybersecurity for Space, Critical Infrastructure
+  url: https://www.darkreading.com/ics-ot-security/india-cybersecurity-space-critical-infrastructure
 - title: New Chrome Zero-Day
   url: https://www.schneier.com/blog/archives/2024/09/new-chrome-zero-day.html
 - title: Ivanti fixes maximum severity RCE bug in Endpoint Management software
   url: https://www.bleepingcomputer.com/news/security/ivanti-fixes-maximum-severity-rce-bug-in-endpoint-management-software/
-- title: Post-Quantum Cryptography Coalition Publishes Comparison of International
-    PQC Standards
-  url: https://www.itsecurityguru.org/2024/09/09/post-quantum-cryptography-coalition-publishes-comparison-of-international-pqc-standards/?utm_source=rss&utm_medium=rss&utm_campaign=post-quantum-cryptography-coalition-publishes-comparison-of-international-pqc-standards
+- title: Cato Networks Expands Board of Directors with Two Industry Leaders
+  url: https://www.itsecurityguru.org/2024/09/11/cato-networks-expands-board-of-directors-with-two-industry-leaders/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-expands-board-of-directors-with-two-industry-leaders
 - title: '149: Mini-Stories: Vol 3'
   url: https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com
-- title: 'SN 990: Is Telegram an Encrypted App? - CrowdStrike Exodus, DDoS-as-a-Service,
-    ''Active Listening'' Ad Tech?'
-  url: https://twit.tv/shows/security-now/episodes/990
+- title: 'SN 991: RAMBO - Cloned YubiKeys, Telegram vs. Signal, French Elevators,
+    Unix Time'
+  url: https://twit.tv/shows/security-now/episodes/991
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Stealth, command, exfiltrate: The three-headed cyber dragon of Crimson Palace.'
-  url: https://thecyberwire.com/podcasts/daily-podcast/2147/notes
+- title: 'A CSO''s 9/11 Story: CSO Perspectives Bonus.'
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/5572/notes
