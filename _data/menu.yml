@@ -6,11 +6,10 @@ entries:
 - title: 'UL NO. 449: China Hits US ISPs, NIST CSF 2.0, Russian Intel Attacks, Stagnant
     Companies...'
   url: https://danielmiessler.com/p/ul-449
-- title: "Apple Intelligence Promises Better AI Privacy. Here\u2019s How It Actually\
-    \ Works"
-  url: https://www.wired.com/story/apple-private-cloud-compute-ai/
-- title: Amateurish 'CosmicBeetle' Ransomware Stings SMBs in Turkey
-  url: https://www.darkreading.com/cyberattacks-data-breaches/amateurish-cosmicbeetle-ransomware-targets-smbs-turkey
+- title: "Apple Vision Pro\u2019s Eye Tracking Exposed What People Type"
+  url: https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/
+- title: Hackers Proxyjack &amp; Cryptomine Selenium Grid Servers
+  url: https://www.darkreading.com/application-security/hackers-proxyjack-and-cryptomine-selenium-grid-servers
 - title: Evaluating the Effectiveness of Reward Modeling of Generative AI Systems
   url: https://www.schneier.com/blog/archives/2024/09/evaluating-the-effectiveness-of-reward-modeling-of-generative-ai-systems-2.html
 - title: Adobe fixes Acrobat Reader zero-day with public PoC exploit
