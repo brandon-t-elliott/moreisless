@@ -1,22 +1,21 @@
 entries:
 - title: Bug Left Some Windows PCs Dangerously Unpatched
   url: https://krebsonsecurity.com/2024/09/bug-left-some-windows-pcs-dangerously-unpatched/
-- title: Top 3 Threat Report Insights for Q2 2024
-  url: https://thehackernews.com/2024/09/top-3-threat-report-insights-for-q2-2024.html
+- title: Exposed Selenium Grid Servers Targeted for Crypto Mining and Proxyjacking
+  url: https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html
 - title: 'UL NO. 449: China Hits US ISPs, NIST CSF 2.0, Russian Intel Attacks, Stagnant
     Companies...'
   url: https://danielmiessler.com/p/ul-449
 - title: "Apple Vision Pro\u2019s Eye Tracking Exposed What People Type"
   url: https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/
-- title: Hackers Proxyjack &amp; Cryptomine Selenium Grid Servers
-  url: https://www.darkreading.com/application-security/hackers-proxyjack-and-cryptomine-selenium-grid-servers
+- title: 'Rising Tide of Software Supply Chain Attacks: An Urgent Problem'
+  url: https://www.darkreading.com/vulnerabilities-threats/rising-tide-of-software-supply-chain-attacks
 - title: Evaluating the Effectiveness of Reward Modeling of Generative AI Systems
   url: https://www.schneier.com/blog/archives/2024/09/evaluating-the-effectiveness-of-reward-modeling-of-generative-ai-systems-2.html
 - title: Fake password manager coding test used to hack Python developers
   url: https://www.bleepingcomputer.com/news/security/fake-password-manager-coding-test-used-to-hack-python-developers/
-- title: Check Point Software Recognised as a Leader in GigaOm Radar Report for Security
-    Policy as Code
-  url: https://www.itsecurityguru.org/2024/09/11/check-point-software-recognised-as-a-leader-in-gigaom-radar-report-for-security-policy-as-code/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-recognised-as-a-leader-in-gigaom-radar-report-for-security-policy-as-code
+- title: Saviynt Launches Innovative Intelligence Suite to Transform Identity Security
+  url: https://www.itsecurityguru.org/2024/09/12/saviynt-launches-innovative-intelligence-suite-to-transform-identity-security/?utm_source=rss&utm_medium=rss&utm_campaign=saviynt-launches-innovative-intelligence-suite-to-transform-identity-security
 - title: '149: Mini-Stories: Vol 3'
   url: https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com
 - title: 'SN 991: RAMBO - Cloned YubiKeys, Telegram vs. Signal, French Elevators,
