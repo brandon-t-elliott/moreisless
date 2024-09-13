@@ -1,17 +1,18 @@
 entries:
 - title: "The Dark Nexus Between Harm Groups and \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/
-- title: 'Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft'
-  url: https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html
+- title: 17-Year-Old Arrested in Connection with Cyber Attack Affecting Transport
+    for London
+  url: https://thehackernews.com/2024/09/17-year-old-arrested-in-connection-with.html
 - title: 'UL NO. 449: China Hits US ISPs, NIST CSF 2.0, Russian Intel Attacks, Stagnant
     Companies...'
   url: https://danielmiessler.com/p/ul-449
 - title: "Apple Vision Pro\u2019s Eye Tracking Exposed What People Type"
   url: https://www.wired.com/story/apple-vision-pro-persona-eye-tracking-spy-typing/
-- title: Microsoft VS Code Undermined in Asian Spy Attack
-  url: https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack
-- title: Evaluating the Effectiveness of Reward Modeling of Generative AI Systems
-  url: https://www.schneier.com/blog/archives/2024/09/evaluating-the-effectiveness-of-reward-modeling-of-generative-ai-systems-2.html
+- title: Hardware Supply Chain Threats Can Undermine Endpoint Infrastructure
+  url: https://www.darkreading.com/vulnerabilities-threats/hardware-supply-chain-threats-can-undermine-endpoint-infrastructure
+- title: Microsoft Is Adding New Cryptography Algorithms
+  url: https://www.schneier.com/blog/archives/2024/09/microsoft-is-adding-new-cryptography-algorithms.html
 - title: New Vo1d malware infects 1.3 million Android streaming boxes
   url: https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/
 - title: Keeper Security Expands Passphrase Generator Capability to Mobile Devices
