@@ -1,14 +1,14 @@
 entries:
 - title: "The Dark Nexus Between Harm Groups and \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/
-- title: Apple Vision Pro Vulnerability Exposed Virtual Keyboard Inputs to Attackers
-  url: https://thehackernews.com/2024/09/apple-vision-pro-vulnerability-exposed.html
+- title: Ivanti Warns of Active Exploitation of Newly Patched Cloud Appliance Vulnerability
+  url: https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html
 - title: 'UL NO. 449: China Hits US ISPs, NIST CSF 2.0, Russian Intel Attacks, Stagnant
     Companies...'
   url: https://danielmiessler.com/p/ul-449
-- title: "\u2018Terrorgram\u2019 Charges Show US Has Had Tools to Crack Down on Far-Right\
-    \ Terrorism All Along"
-  url: https://www.wired.com/story/terrorgram-collective-indictments/
+- title: 'Security News This Week: A Creative Trick Makes ChatGPT Spit Out Bomb-Making
+    Instructions'
+  url: https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/
 - title: Fortinet Confirms Customer Data Breach via Third Party
   url: https://www.darkreading.com/cloud-security/fortinet-customer-data-breach-third-party
 - title: 'Friday Squid Blogging: Squid as a Legislative Negotiating Tactic'
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/991
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Mini-breach, mega-hype.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2150/notes
+- title: "Spamageddon: Xeon Sender\u2019s cloudy SMS attack revealed! [Research Saturday]"
+  url: https://thecyberwire.com/podcasts/research-saturday/346/notes
