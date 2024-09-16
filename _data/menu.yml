@@ -1,15 +1,14 @@
 entries:
 - title: "The Dark Nexus Between Harm Groups and \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/
-- title: 'From Breach to Recovery: Designing an Identity-Focused Incident Response
-    Playbook'
-  url: https://thehackernews.com/2024/09/from-breach-to-recovery-designing.html
+- title: Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution
+  url: https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html
 - title: The Art Quality Tier List (AQTL)
   url: https://danielmiessler.com/p/art-quality-tier-list-aqtl
 - title: A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions
   url: https://www.wired.com/story/chatgpt-jailbreak-homemade-bomb-instructions/
-- title: South Korea Digital Forensics Market to Hit US $3.52B by 2031
-  url: https://www.darkreading.com/cyber-risk/south-korea-digital-forensics-market-to-hit-us-3-52b-by-2031
+- title: Cybersecurity &amp; the 2024 US Elections
+  url: https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-2024-us-elections
 - title: Upcoming Speaking Engagements
   url: https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html
 - title: "Windows vulnerability abused braille \u201Cspaces\u201D in zero-day attacks"
