@@ -1,8 +1,9 @@
 entries:
 - title: "The Dark Nexus Between Harm Groups and \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/
-- title: Ivanti Warns of Active Exploitation of Newly Patched Cloud Appliance Vulnerability
-  url: https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html
+- title: Apple Drops Spyware Case Against NSO Group, Citing Risk of Threat Intelligence
+    Exposure
+  url: https://thehackernews.com/2024/09/apple-drops-spyware-case-against-nso.html
 - title: The Art Quality Tier List (AQTL)
   url: https://danielmiessler.com/p/art-quality-tier-list-aqtl
 - title: A Creative Trick Makes ChatGPT Spit Out Bomb-Making Instructions
@@ -11,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/south-korea-digital-forensics-market-to-hit-us-3-52b-by-2031
 - title: Upcoming Speaking Engagements
   url: https://www.schneier.com/blog/archives/2024/09/upcoming-speaking-engagements-40.html
-- title: FBI tells public to ignore false claims of hacked voter data
-  url: https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/
+- title: "Windows vulnerability abused braille \u201Cspaces\u201D in zero-day attacks"
+  url: https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/
 - title: Keeper Security Expands Passphrase Generator Capability to Mobile Devices
   url: https://www.itsecurityguru.org/2024/09/13/keeper-security-expands-passphrase-generator-capability-to-mobile-devices/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-expands-passphrase-generator-capability-to-mobile-devices
 - title: '149: Mini-Stories: Vol 3'
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/991
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Ben Yelin: A detour could be a sliding door moment. [Policy] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/33/notes
+- title: Breaking the information sharing barrier.
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/97/notes
