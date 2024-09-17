@@ -7,12 +7,12 @@ entries:
   url: https://danielmiessler.com/p/ul-50
 - title: "The Mystery of Hezbollah\u2019s Deadly Exploding Pagers"
   url: https://www.wired.com/story/pager-explosion-hezbollah/
-- title: Apple Abandons Spyware Suit to Avoid Sharing Cyber Secrets
-  url: https://www.darkreading.com/cyber-risk/apple-abandons-spyware-lawsuit-avoid-cyber-secrets
+- title: '''Marko Polo'' Creates Globe-Spanning Cybercrime Juggernaut'
+  url: https://www.darkreading.com/threat-intelligence/marko-polo-globe-spanning-cybercrime-juggernaut
 - title: Python Developers Targeted with Malware During Fake Job Interviews
   url: https://www.schneier.com/blog/archives/2024/09/python-developers-targeted-with-malware-during-fake-job-interviews.html
-- title: Broadcom fixes critical RCE bug in VMware vCenter Server
-  url: https://www.bleepingcomputer.com/news/security/broadcom-fixes-critical-rce-bug-in-vmware-vcenter-server/
+- title: Temu denies breach after hacker claims theft of 87 million data records
+  url: https://www.bleepingcomputer.com/news/security/temu-denies-breach-after-hacker-claims-theft-of-87-million-data-records/
 - title: "\u2018Cyber Wellbeing Corner\u2019 Returns to International Cyber Expo"
   url: https://www.itsecurityguru.org/2024/09/17/cyber-wellbeing-corner-returns-to-international-cyber-expo/?utm_source=rss&utm_medium=rss&utm_campaign=cyber-wellbeing-corner-returns-to-international-cyber-expo
 - title: '149: Mini-Stories: Vol 3'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/991
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Agencies warn of voter data deception.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2151/notes
+- title: One small step for scammers.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2152/notes
