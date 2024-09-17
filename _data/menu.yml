@@ -1,10 +1,11 @@
 entries:
 - title: "The Dark Nexus Between Harm Groups and \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/
-- title: Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution
-  url: https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html
-- title: 'UL NO. 450: Thoughts on o1-preview and the Path to AGI'
-  url: https://danielmiessler.com/p/ul-450
+- title: Binance Warns of Rising Clipper Malware Attacks Targeting Cryptocurrency
+    Users
+  url: https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html
+- title: 'UL NO. 450: Thoughts on o1-preview and the Path to AGI (1)'
+  url: https://danielmiessler.com/p/ul-50
 - title: Elon Musk Is a National Security Risk
   url: https://www.wired.com/story/elon-musk-biden-harris-assassination-post-x/
 - title: '''Void Banshee'' Exploits Second Microsoft Zero-Day'
