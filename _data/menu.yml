@@ -1,25 +1,26 @@
 entries:
 - title: "The Dark Nexus Between Harm Groups and \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com/
-- title: Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense
-  url: https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html
+- title: Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer
+    Browsing
+  url: https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html
 - title: 'UL NO. 450: Thoughts on o1-preview and the Path to AGI (1)'
   url: https://danielmiessler.com/p/ul-50
-- title: "The Mystery of Hezbollah\u2019s Deadly Exploding Pagers"
-  url: https://www.wired.com/story/pager-explosion-hezbollah/
-- title: Zero-Click RCE Bug in macOS Calendar Exposes iCloud Data
-  url: https://www.darkreading.com/vulnerabilities-threats/zero-click-rce-bug-macos-calendar-exposes-icloud-data
-- title: Python Developers Targeted with Malware During Fake Job Interviews
-  url: https://www.schneier.com/blog/archives/2024/09/python-developers-targeted-with-malware-during-fake-job-interviews.html
+- title: Did a Chinese University Hacking Competition Target a Real Victim?
+  url: https://www.wired.com/story/china-hacking-competition-real-victim/
+- title: As Geopolitical Tensions Mount, Iran's Cyber Operations Grow
+  url: https://www.darkreading.com/cyberattacks-data-breaches/geopolitical-tensions-mount-iran-cyber-operations-grow
+- title: Remotely Exploding Pagers
+  url: https://www.schneier.com/blog/archives/2024/09/remotely-exploding-pagers.html
 - title: Temu denies breach after hacker claims theft of 87 million data records
   url: https://www.bleepingcomputer.com/news/security/temu-denies-breach-after-hacker-claims-theft-of-87-million-data-records/
 - title: "\u2018Cyber Wellbeing Corner\u2019 Returns to International Cyber Expo"
   url: https://www.itsecurityguru.org/2024/09/17/cyber-wellbeing-corner-returns-to-international-cyber-expo/?utm_source=rss&utm_medium=rss&utm_campaign=cyber-wellbeing-corner-returns-to-international-cyber-expo
 - title: '149: Mini-Stories: Vol 3'
   url: https://play.prx.org/listen?ge=prx_7057_18571cc8-c130-45be-a21d-ab000c5a7b0c&uf=https%3A%2F%2Fpodcast.darknetdiaries.com
-- title: 'SN 991: RAMBO - Cloned YubiKeys, Telegram vs. Signal, French Elevators,
-    Unix Time'
-  url: https://twit.tv/shows/security-now/episodes/991
+- title: 'SN 992: Password Manager Injection Attacks - Aging Media, Naval Starlink,
+    adam:ONE'
+  url: https://twit.tv/shows/security-now/episodes/992
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: One small step for scammers.
