@@ -7,8 +7,8 @@ entries:
   url: https://danielmiessler.com/p/ul-50
 - title: Walkie-Talkies Explode in New Attack on Hezbollah
   url: https://www.wired.com/story/walkie-talkie-explosions-hezbollah/
-- title: QR Phishing Scams Gain Motorized Momentum in UK
-  url: https://www.darkreading.com/threat-intelligence/qr-phishing-scams-motorized-momentum-uk
+- title: Contractor Software Targeted via Microsoft SQL Server Loophole
+  url: https://www.darkreading.com/application-security/contractor-software-targeted-mssql-loophole
 - title: Remotely Exploding Pagers
   url: https://www.schneier.com/blog/archives/2024/09/remotely-exploding-pagers.html
 - title: X hacking spree fuels "$HACKED" crypto token pump-and-dump
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/992
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: One small step for scammers.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2152/notes
+- title: High-stakes sabotage.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2153/notes
