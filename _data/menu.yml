@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-50
 - title: "First Israel\u2019s Exploding Pagers Maimed and Killed. Now Comes the Paranoia"
   url: https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/
-- title: FBI Leads Takedown of Chinese Botnet Impacting 200K Devices
-  url: https://www.darkreading.com/vulnerabilities-threats/fbi-takedown-chinese-botnet-200k-devices
-- title: Python Developers Targeted with Malware During Fake Job Interviews
-  url: https://www.schneier.com/blog/archives/2024/09/python-developers-targeted-with-malware-during-fake-job-interviews.html
-- title: "Tor says it\u2019s \"still safe\" amid reports of police deanonymizing users"
-  url: https://www.bleepingcomputer.com/news/security/tor-says-its-still-safe-amid-reports-of-police-deanonymizing-users/
+- title: Concerns Over Supply Chain Attacks on US Seaports Grow
+  url: https://www.darkreading.com/ics-ot-security/concerns-supply-chain-attacks-us-seaports-grow
+- title: FBI Shuts Down Chinese Botnet
+  url: https://www.schneier.com/blog/archives/2024/09/fbi-shuts-down-chinese-botnet.html
+- title: Microsoft Edge will flag extensions causing performance issues
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-will-flag-extensions-causing-performance-issues/
 - title: Check Point Software is Recognised as a Leader in Email Security, Showcasing
     its Innovative AI-based Threat Intelligence Capabilities
   url: https://www.itsecurityguru.org/2024/09/19/check-point-software-is-recognised-as-a-leader-in-email-security-showcasing-its-innovative-ai-based-threat-intelligence-capabilities/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-is-recognised-as-a-leader-in-email-security-showcasing-its-innovative-ai-based-threat-intelligence-capabilities
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/992
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: High-stakes sabotage.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2153/notes
+- title: Derailing the Raptor Train botnet.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2154/notes
