@@ -1,13 +1,12 @@
 entries:
 - title: This Windows PowerShell Phish Has Scary Potential
   url: https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/
-- title: Iranian APT UNC1860 Linked to MOIS Facilitates Cyber Intrusions in Middle
-    East
-  url: https://thehackernews.com/2024/09/iranian-apt-unc1860-linked-to-mois.html
+- title: 'Passwordless AND Keyless: The Future of (Privileged) Access Management'
+  url: https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html
 - title: 'UL NO. 450: Thoughts on o1-preview and the Path to AGI (1)'
   url: https://danielmiessler.com/p/ul-50
-- title: "First Israel\u2019s Exploding Pagers Maimed and Killed. Now Comes the Paranoia"
-  url: https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/
+- title: "Your Phone Won\u2019t Be the Next Exploding Pager"
+  url: https://www.wired.com/story/exploding-pagers-hezbollah-phones/
 - title: North Korean APT Bypasses DMARC Email Policies in Cyber-Espionage Attacks
   url: https://www.darkreading.com/threat-intelligence/north-korean-apt-bypasses-dmarc-email-cyber-espionage-attacks
 - title: FBI Shuts Down Chinese Botnet
