@@ -1,15 +1,14 @@
 entries:
 - title: This Windows PowerShell Phish Has Scary Potential
   url: https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/
-- title: Wherever There's Ransomware, There's Service Account Compromise. Are You
-    Protected?
-  url: https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html
+- title: Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature
+  url: https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html
 - title: 'UL NO. 450: Thoughts on o1-preview and the Path to AGI (1)'
   url: https://danielmiessler.com/p/ul-50
 - title: "First Israel\u2019s Exploding Pagers Maimed and Killed. Now Comes the Paranoia"
   url: https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/
-- title: CrowdStrike Expands Cybersecurity Startup Accelerator With AWS and NVIDIA
-  url: https://www.darkreading.com/cloud-security/crowdstrike-expands-cybersecurity-startup-accelerator-with-aws-and-nvidia
+- title: North Korean APT Bypasses DMARC Email Policies in Cyber-Espionage Attacks
+  url: https://www.darkreading.com/threat-intelligence/north-korean-apt-bypasses-dmarc-email-cyber-espionage-attacks
 - title: FBI Shuts Down Chinese Botnet
   url: https://www.schneier.com/blog/archives/2024/09/fbi-shuts-down-chinese-botnet.html
 - title: Suspects behind $230 million cryptocurrency theft arrested in Miami
