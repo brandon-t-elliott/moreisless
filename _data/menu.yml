@@ -9,8 +9,8 @@ entries:
   url: https://www.wired.com/story/hezbollah-israel-exploding-pagers-paranoia/
 - title: Ivanti's Cloud Service Appliance Attacked via Second Vuln
   url: https://www.darkreading.com/cyberattacks-data-breaches/ivanti-cloud-service-appliance-attacked-vuln
-- title: Clever Social Engineering Attack Using Captchas
-  url: https://www.schneier.com/blog/archives/2024/09/clever-social-engineering-attack-using-captchas.html
+- title: 'Friday Squid Blogging: Squid Game Season Two Teaser'
+  url: https://www.schneier.com/blog/archives/2024/09/friday-squid-blogging-squid-game-season-two-teaser.html
 - title: Microsoft ends development of Windows Server Update Services (WSUS)
   url: https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/
 - title: Check Point Software is Recognised as a Leader in Email Security, Showcasing
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/992
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: They really are watching what we watch.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2155/notes
+- title: Hook, line, and sinker. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/347/notes
