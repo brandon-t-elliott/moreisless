@@ -1,8 +1,9 @@
 entries:
 - title: This Windows PowerShell Phish Has Scary Potential
   url: https://krebsonsecurity.com/2024/09/this-windows-powershell-phish-has-scary-potential/
-- title: New PondRAT Malware Hidden in Python Packages Targets Software Developers
-  url: https://thehackernews.com/2024/09/new-pondrat-malware-hidden-in-python.html
+- title: Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution
+    Risk
+  url: https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html
 - title: 'UL NO. 450: Thoughts on o1-preview and the Path to AGI (1)'
   url: https://danielmiessler.com/p/ul-50
 - title: Iranian Hackers Tried to Give Hacked Trump Campaign Emails to Dems
@@ -11,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs
 - title: 'Friday Squid Blogging: Squid Game Season Two Teaser'
   url: https://www.schneier.com/blog/archives/2024/09/friday-squid-blogging-squid-game-season-two-teaser.html
-- title: Microsoft ends development of Windows Server Update Services (WSUS)
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/
+- title: Global infostealer malware operation targets crypto users, gamers
+  url: https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/
 - title: "It\u2019s Never Too Late: Transitioning to a Career in Cybersecurity"
   url: https://www.itsecurityguru.org/2024/09/23/its-never-too-late-transitioning-to-a-career-in-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=its-never-too-late-transitioning-to-a-career-in-cybersecurity
 - title: '149: Mini-Stories: Vol 3'
