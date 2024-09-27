@@ -1,14 +1,14 @@
 entries:
 - title: U.S. Indicts 2 Top Russian Hackers, Sanctions Cryptex
   url: https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/
-- title: How to Plan and Prepare for Penetration Testing
-  url: https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html
+- title: Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution
+  url: https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html
 - title: 'UL NO. 451: Altman Says ASI in "Thousands of Days"'
   url: https://danielmiessler.com/p/ul-451
 - title: "Tesla\u2019s Cybertruck Goes, Inevitably, to War"
   url: https://www.wired.com/story/tesla-cybertruck-russia-ukraine-war/
-- title: Memory-Safe Code Adoption Has Made Android Safer
-  url: https://www.darkreading.com/application-security/memory-safe-code-adoption-android-safer
+- title: Could Security Misconfigurations Become No. 1 in OWASP Top 10?
+  url: https://www.darkreading.com/vulnerabilities-threats/could-security-misconfigurations-become-no-1-owasp-top-10
 - title: NIST Recommends Some Common-Sense Password Rules
   url: https://www.schneier.com/blog/archives/2024/09/nist-recommends-some-common-sense-password-rules.html
 - title: Progress urges admins to patch critical WhatsUp Gold bugs ASAP
