@@ -1,8 +1,9 @@
 entries:
 - title: U.S. Indicts 2 Top Russian Hackers, Sanctions Cryptex
   url: https://krebsonsecurity.com/2024/09/u-s-indicts-2-top-russian-hackers-sanctions-cryptex/
-- title: Crypto Scam App Disguised as WalletConnect Steals $70K in Five-Month Campaign
-  url: https://thehackernews.com/2024/09/crypto-scam-app-disguised-as.html
+- title: "Meta Fined \u20AC91 Million for Storing Millions of Facebook and Instagram\
+    \ Passwords in Plaintext"
+  url: https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html
 - title: Policy, SOPs, and AI Are All You Need
   url: https://danielmiessler.com/p/policy-sops-and-ai-are-all-you-need
 - title: The US Could Finally Ban Inane Forced Password Changes
@@ -23,6 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/993
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Steve Blank, national security, and the dilemma of technology disruption.
-    (Part 2 of 2) [Special Edition]
-  url: https://thecyberwire.com/podcasts/special-edition/74/notes
+- title: Security remediation automation. [CSO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/99/notes
