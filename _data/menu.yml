@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/policy-sops-and-ai-are-all-you-need
 - title: The Pig Butchering Invasion Has Begun
   url: https://www.wired.com/story/pig-butchering-scam-invasion/
-- title: Sloppy Entra ID Credentials Attract Hybrid Cloud Ransomware
-  url: https://www.darkreading.com/application-security/sloppy-entra-id-credentials-hybrid-cloud-ransomware
+- title: DoJ Charges 3 Iranian Hackers in Political 'Hack &amp; Leak' Campaign
+  url: https://www.darkreading.com/cyberattacks-data-breaches/doj-charges-iranian-hackers-political-hack-leak-campaign
 - title: AI and the 2024 US Elections
   url: https://www.schneier.com/blog/archives/2024/09/ai-and-the-2024-us-elections.html
-- title: T-Mobile pays $31.5 million FCC settlement over 4 data breaches
-  url: https://www.bleepingcomputer.com/news/security/t-mobile-pays-315-million-fcc-settlement-over-4-data-breaches/
+- title: Microsoft Defender adds detection of unsecure Wi-Fi networks
+  url: https://www.bleepingcomputer.com/news/security/microsoft-defender-now-automatically-detects-unsecure-wi-fi-networks/
 - title: Check Point Software Named a Visionary in 2024 Gartner Magic Quadrant for
     Endpoint Protection Platforms
   url: https://www.itsecurityguru.org/2024/09/27/check-point-software-named-a-visionary-in-2024-gartner-magic-quadrant-for-endpoint-protection-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-named-a-visionary-in-2024-gartner-magic-quadrant-for-endpoint-protection-platforms
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/993
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Security remediation automation. [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/99/notes
+- title: Escape from GPU island.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2161/notes
