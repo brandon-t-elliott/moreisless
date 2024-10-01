@@ -7,12 +7,13 @@ entries:
   url: https://danielmiessler.com/p/ul-452
 - title: ICE Signs $2 Million Contract With Spyware Maker Paragon Solutions
   url: https://www.wired.com/story/ice-paragon-solutions-contract/
-- title: Cyberattackers Use HR Targets to Lay More_Eggs Backdoor
-  url: https://www.darkreading.com/cyberattacks-data-breaches/attackers-targeting-recruiters-more_eggs-backdoor
+- title: Apono Raises $15.5M Series A Funding for AI-driven, Least Privilege Solution
+    Set
+  url: https://www.darkreading.com/cloud-security/apono-raises-15-5m-series-a-funding-for-ai-driven-least-privilege-solution-set
 - title: Hacking ChatGPT by Planting False Memories into Its Data
   url: https://www.schneier.com/blog/archives/2024/10/hacking-chatgpt-by-planting-false-memories-into-its-data.html
-- title: Rackspace monitoring data stolen in ScienceLogic zero-day attack
-  url: https://www.bleepingcomputer.com/news/security/rackspace-monitoring-data-stolen-in-sciencelogic-zero-day-attack/
+- title: Microsoft fixes Outlook email sending issue for users with many folders
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-email-sending-issue-for-users-with-many-folders/
 - title: "Synopsys Software Integrity Group Rebrands as Black Duck \u2013 A New Era\
     \ in Application Security"
   url: https://www.itsecurityguru.org/2024/10/01/synopsys-software-integrity-group-rebrands-as-black-duck-a-new-era-in-application-security/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-software-integrity-group-rebrands-as-black-duck-a-new-era-in-application-security
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/993
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Escape from GPU island.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2161/notes
+- title: Breaking news blocked.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2162/notes
