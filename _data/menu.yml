@@ -3,8 +3,8 @@ entries:
   url: https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/
 - title: New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries
   url: https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html
-- title: Deutsch, DARSA, and AI
-  url: https://danielmiessler.com/p/deutsch-darsa-and-ai
+- title: How My Projects Fit Together
+  url: https://danielmiessler.com/p/how-my-projects-fit-together
 - title: Stealthy Malware Has Infected Thousands of Linux Systems for Years
   url: https://www.wired.com/story/perfctl-stealthy-malware-infected-linux-systems/
 - title: What the White House Should Do Next for Cyber Regulation
@@ -19,7 +19,7 @@ entries:
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 994: Recall''s Re-Rollout - Domain Security, Tor + Tails, VLC Update'
   url: https://twit.tv/shows/security-now/episodes/994
-- title: All Together Now
-  url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
+- title: Invisible Intruders
+  url: https://www.redhat.com/en/command-line-heroes/season-9/invisible-intruders
 - title: Making security decisions around AI use. [CSO Perspectives]
   url: https://thecyberwire.com/podcasts/cso-perspectives-public/100/notes
