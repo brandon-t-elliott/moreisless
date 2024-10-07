@@ -1,9 +1,8 @@
 entries:
 - title: A Single Cloud Compromise Can Feed an Army of AI Sex Bots
   url: https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/
-- title: Apple Releases Critical iOS and iPadOS Updates to Fix VoiceOver Password
-    Vulnerability
-  url: https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html
+- title: Critical Apache Avro SDK Flaw Allows Remote Code Execution in Java Applications
+  url: https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html
 - title: Deutsch, DARSA, and AI
   url: https://danielmiessler.com/p/deutsch-darsa-and-ai
 - title: Stealthy Malware Has Infected Thousands of Linux Systems for Years
@@ -23,6 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/994
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Dr. Jessica Barker: Cybersecurity has a huge people element to it. [Socio-technical]
-    [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/36/notes
+- title: Making security decisions around AI use. [CSO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/100/notes
