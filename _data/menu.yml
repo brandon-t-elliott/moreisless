@@ -11,8 +11,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/salt-typhoon-apt-subverts-law-enforcement-wiretapping
 - title: Largest Recorded DDoS Attack is 3.8 Tbps
   url: https://www.schneier.com/blog/archives/2024/10/largest-recorded-ddos-attack-is-3-8-tbps.html
-- title: Qualcomm patches high-severity zero-day exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/
+- title: 'Microsoft: Word deletes some documents instead of saving them'
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/
 - title: AFP Reports Potential Data Breach to French Authorities
   url: https://www.itsecurityguru.org/2024/10/04/afp-reports-potential-data-breach-to-french-authorities/?utm_source=rss&utm_medium=rss&utm_campaign=afp-reports-potential-data-breach-to-french-authorities
 - title: '150: mobman 2'
@@ -21,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/994
 - title: Invisible Intruders
   url: https://www.redhat.com/en/command-line-heroes/season-9/invisible-intruders
-- title: Making security decisions around AI use. [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/100/notes
+- title: Tapped and trapped.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2164/notes
