@@ -11,8 +11,8 @@ entries:
   url: https://www.darkreading.com/threat-intelligence/healthcare-cyber-prognosis-security-booster
 - title: "China Possibly Hacking US \u201CLawful Access\u201D Backdoor"
   url: https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html
-- title: Microsoft fixes Remote Desktop issues caused by Windows Server update
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-issues-caused-by-windows-server-update/
+- title: New Mamba 2FA bypass service targets Microsoft 365 accounts
+  url: https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/
 - title: 'Keeper Security Cybersecurity Action Month: The Importance of Phishing Awareness'
   url: https://www.itsecurityguru.org/2024/10/08/keeper-security-cybersecurity-action-month-the-importance-of-phishing-awareness/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-cybersecurity-action-month-the-importance-of-phishing-awareness
 - title: '150: mobman 2'
@@ -21,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/994
 - title: Invisible Intruders
   url: https://www.redhat.com/en/command-line-heroes/season-9/invisible-intruders
-- title: Tapped and trapped.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2164/notes
+- title: Key player unmasked in global ransomware takedown.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2165/notes
