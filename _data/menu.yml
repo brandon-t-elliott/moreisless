@@ -7,14 +7,14 @@ entries:
   url: https://danielmiessler.com/p/how-my-projects-fit-together
 - title: What Google's U-Turn on Third-Party Cookies Means for Chrome Privacy
   url: https://www.wired.com/story/google-chrome-third-party-cookies-privacy-rollback/
-- title: How Major Companies Are Honoring Cybersecurity Awareness Month
-  url: https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month
+- title: Healthcare's Grim Cyber Prognosis Requires Security Booster
+  url: https://www.darkreading.com/threat-intelligence/healthcare-cyber-prognosis-security-booster
 - title: "China Possibly Hacking US \u201CLawful Access\u201D Backdoor"
   url: https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html
-- title: Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/
-- title: Three key strategies for organisations to protect themselves from deepfakes
-  url: https://www.itsecurityguru.org/2024/10/08/three-key-strategies-for-organisations-to-protect-themselves-from-deepfakes/?utm_source=rss&utm_medium=rss&utm_campaign=three-key-strategies-for-organisations-to-protect-themselves-from-deepfakes
+- title: Microsoft fixes Remote Desktop issues caused by Windows Server update
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-issues-caused-by-windows-server-update/
+- title: 'Keeper Security Cybersecurity Action Month: The Importance of Phishing Awareness'
+  url: https://www.itsecurityguru.org/2024/10/08/keeper-security-cybersecurity-action-month-the-importance-of-phishing-awareness/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-cybersecurity-action-month-the-importance-of-phishing-awareness
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 994: Recall''s Re-Rollout - Domain Security, Tor + Tails, VLC Update'
