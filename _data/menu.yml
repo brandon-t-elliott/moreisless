@@ -1,9 +1,8 @@
 entries:
 - title: A Single Cloud Compromise Can Feed an Army of AI Sex Bots
   url: https://krebsonsecurity.com/2024/10/a-single-cloud-compromise-can-feed-an-army-of-ai-sex-bots/
-- title: Cyberattack Group 'Awaken Likho' Targets Russian Government with Advanced
-    Tools
-  url: https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html
+- title: 'Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited'
+  url: https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html
 - title: How My Projects Fit Together
   url: https://danielmiessler.com/p/how-my-projects-fit-together
 - title: What Google's U-Turn on Third-Party Cookies Means for Chrome Privacy
@@ -12,8 +11,8 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month
 - title: "China Possibly Hacking US \u201CLawful Access\u201D Backdoor"
   url: https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html
-- title: Ivanti warns of three more CSA zero-days exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/ivanti-warns-of-three-more-csa-zero-days-exploited-in-attacks/
+- title: Windows 11 KB5044284 and KB5044285 cumulative updates released
+  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044284-and-kb5044285-cumulative-updates-released/
 - title: Three key strategies for organisations to protect themselves from deepfakes
   url: https://www.itsecurityguru.org/2024/10/08/three-key-strategies-for-organisations-to-protect-themselves-from-deepfakes/?utm_source=rss&utm_medium=rss&utm_campaign=three-key-strategies-for-organisations-to-protect-themselves-from-deepfakes
 - title: '150: mobman 2'
