@@ -8,15 +8,14 @@ entries:
   url: https://danielmiessler.com/p/how-my-projects-fit-together
 - title: What Google's U-Turn on Third-Party Cookies Means for Chrome Privacy
   url: https://www.wired.com/story/google-chrome-third-party-cookies-privacy-rollback/
-- title: Your IT Systems Are Being Attacked. Are You Prepared?
-  url: https://www.darkreading.com/cyberattacks-data-breaches/it-systems-being-attacked-prepared
+- title: How Major Companies Are Honoring Cybersecurity Awareness Month
+  url: https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month
 - title: "China Possibly Hacking US \u201CLawful Access\u201D Backdoor"
   url: https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html
-- title: European govt air-gapped systems breached using custom malware
-  url: https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/
-- title: MSPs must combat cybersecurity skills shortage with ongoing client training
-    and support
-  url: https://www.itsecurityguru.org/2024/10/08/msps-must-combat-cybersecurity-skills-shortage-with-ongoing-client-training-and-support/?utm_source=rss&utm_medium=rss&utm_campaign=msps-must-combat-cybersecurity-skills-shortage-with-ongoing-client-training-and-support
+- title: Ivanti warns of three more CSA zero-days exploited in attacks
+  url: https://www.bleepingcomputer.com/news/security/ivanti-warns-of-three-more-csa-zero-days-exploited-in-attacks/
+- title: Three key strategies for organisations to protect themselves from deepfakes
+  url: https://www.itsecurityguru.org/2024/10/08/three-key-strategies-for-organisations-to-protect-themselves-from-deepfakes/?utm_source=rss&utm_medium=rss&utm_campaign=three-key-strategies-for-organisations-to-protect-themselves-from-deepfakes
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 994: Recall''s Re-Rollout - Domain Security, Tor + Tails, VLC Update'
