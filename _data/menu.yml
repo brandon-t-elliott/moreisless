@@ -1,17 +1,16 @@
 entries:
 - title: Patch Tuesday, October 2024 Edition
   url: https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/
-- title: Microsoft Issues Security Update Fixing 118 Flaws, Two Actively Exploited
-    in the Wild
-  url: https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html
+- title: 'Social Media Accounts: The Weak Link in Organizational SaaS Security'
+  url: https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html
 - title: 'UL NO. 453: A Deep-dive on Cyber Jobs'
   url: https://danielmiessler.com/p/ul-453
 - title: What Google's U-Turn on Third-Party Cookies Means for Chrome Privacy
   url: https://www.wired.com/story/google-chrome-third-party-cookies-privacy-rollback/
-- title: Ex-Uber CISO Requests a New, 'Fair' Trial
-  url: https://www.darkreading.com/cyberattacks-data-breaches/joe-sullivan-former-uber-ciso-requests-new-fair-trial
-- title: "China Possibly Hacking US \u201CLawful Access\u201D Backdoor"
-  url: https://www.schneier.com/blog/archives/2024/10/china-possibly-hacking-us-lawful-access-backdoor.html
+- title: "Despite Prevalence of Online Threats, Users Aren\u2019t Changing Behavior"
+  url: https://www.darkreading.com/endpoint-security/despite-online-threats-users-are-not-changing-behavior
+- title: Auto-Identification Smart Glasses
+  url: https://www.schneier.com/blog/archives/2024/10/auto-identification-smart-glasses.html
 - title: New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks
   url: https://www.bleepingcomputer.com/news/software/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/
 - title: 'Keeper Security Cybersecurity Action Month: The Importance of Phishing Awareness'
