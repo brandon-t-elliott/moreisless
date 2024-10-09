@@ -1,8 +1,9 @@
 entries:
 - title: Patch Tuesday, October 2024 Edition
   url: https://krebsonsecurity.com/2024/10/patch-tuesday-october-2024-edition/
-- title: 'Zero-Day Alert: Three Critical Ivanti CSA Vulnerabilities Actively Exploited'
-  url: https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html
+- title: Microsoft Issues Security Update Fixing 118 Flaws, Two Actively Exploited
+    in the Wild
+  url: https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html
 - title: 'UL NO. 453: A Deep-dive on Cyber Jobs'
   url: https://danielmiessler.com/p/ul-453
 - title: What Google's U-Turn on Third-Party Cookies Means for Chrome Privacy
@@ -17,9 +18,10 @@ entries:
   url: https://www.itsecurityguru.org/2024/10/08/keeper-security-cybersecurity-action-month-the-importance-of-phishing-awareness/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-cybersecurity-action-month-the-importance-of-phishing-awareness
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
-- title: 'SN 994: Recall''s Re-Rollout - Domain Security, Tor + Tails, VLC Update'
-  url: https://twit.tv/shows/security-now/episodes/994
+- title: 'SN 995: uBlock Origin & Manifest V3 - DDoS Record, N. Korean Workers, Vitamin
+    D'
+  url: https://twit.tv/shows/security-now/episodes/995
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Key player unmasked in global ransomware takedown.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2165/notes
+- title: 'Election Propaganda: Part 2: Modern propaganda efforts.'
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/5574/notes
