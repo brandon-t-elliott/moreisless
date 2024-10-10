@@ -7,12 +7,12 @@ entries:
   url: https://danielmiessler.com/p/ul-453
 - title: Internet Archive Breach Exposes 31 Million Users
   url: https://www.wired.com/story/internet-archive-hacked/
-- title: Vulnerability Prioritization &amp; the Magic 8 Ball
-  url: https://www.darkreading.com/vulnerabilities-threats/vulnerability-prioritization-magic-8-ball
+- title: Walking the Tightrope Between Innovation &amp; Risk
+  url: https://www.darkreading.com/vulnerabilities-threats/walking-tightrope-innovation-risk
 - title: Deebot Robot Vacuums Are Using Photos and Audio to Train Their AI
   url: https://www.schneier.com/blog/archives/2024/10/deebot-robot-vacuums-are-using-photos-and-audio-to-train-their-ai.html
-- title: CISA says critical Fortinet RCE flaw now exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/cisa-says-critical-fortinet-rce-flaw-now-exploited-in-attacks/
+- title: Microsoft Outlook bug blocks email logins, causes app crashes
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/
 - title: AI Most Serious Threat to Orgs, According to Security Professionals
   url: https://www.itsecurityguru.org/2024/10/10/ai-most-serious-threat-to-orgs-according-to-security-professionals/?utm_source=rss&utm_medium=rss&utm_campaign=ai-most-serious-threat-to-orgs-according-to-security-professionals
 - title: '150: mobman 2'
