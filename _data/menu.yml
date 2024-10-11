@@ -7,8 +7,9 @@ entries:
   url: https://danielmiessler.com/p/how-to-use-hugging-face-models-with-ollama
 - title: Internet Archive Breach Exposes 31 Million Users
   url: https://www.wired.com/story/internet-archive-hacked/
-- title: The Invisible Army of Non-Human Identities
-  url: https://www.darkreading.com/vulnerabilities-threats/invisible-army-non-human-identities
+- title: Relyance AI Raises $32M Series B Funding to Safeguard AI Innovation in the
+    Enterprise
+  url: https://www.darkreading.com/application-security/relyance-ai-raises-32m-series-b-funding-to-safeguard-ai-innovation-in-the-enterprise
 - title: More on My AI and Democracy Book
   url: https://www.schneier.com/blog/archives/2024/10/more-on-my-ai-and-democracy-book.html
 - title: 'CISA: Hackers abuse F5 BIG-IP cookies to map internal servers'
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/995
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Hacked, attacked, and sued.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2167/notes
+- title: Patient portals down, ransomware up.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2168/notes
