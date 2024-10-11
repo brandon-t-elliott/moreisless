@@ -7,11 +7,10 @@ entries:
   url: https://danielmiessler.com/p/how-to-use-hugging-face-models-with-ollama
 - title: Internet Archive Breach Exposes 31 Million Users
   url: https://www.wired.com/story/internet-archive-hacked/
-- title: Relyance AI Raises $32M Series B Funding to Safeguard AI Innovation in the
-    Enterprise
-  url: https://www.darkreading.com/application-security/relyance-ai-raises-32m-series-b-funding-to-safeguard-ai-innovation-in-the-enterprise
-- title: More on My AI and Democracy Book
-  url: https://www.schneier.com/blog/archives/2024/10/more-on-my-ai-and-democracy-book.html
+- title: 'SOC Teams: Threat Detection Tools Are Stifling Us'
+  url: https://www.darkreading.com/vulnerabilities-threats/soc-teams-threat-detection-tools-stifling
+- title: Indian Fishermen Are Catching Less Squid
+  url: https://www.schneier.com/blog/archives/2024/10/indian-fishermen-are-catching-less-squid.html
 - title: 'CISA: Hackers abuse F5 BIG-IP cookies to map internal servers'
   url: https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/
 - title: AI Most Serious Threat to Orgs, According to Security Professionals
