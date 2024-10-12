@@ -1,12 +1,13 @@
 entries:
 - title: Lamborghini Carjackers Lured by $243M Cyberheist
   url: https://krebsonsecurity.com/2024/10/lamborghini-carjackers-lured-by-243m-cyberheist/
-- title: GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks
-  url: https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html
+- title: FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation
+  url: https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html
 - title: How to Use Hugging Face Models with Ollama
   url: https://danielmiessler.com/p/how-to-use-hugging-face-models-with-ollama
-- title: Internet Archive Breach Exposes 31 Million Users
-  url: https://www.wired.com/story/internet-archive-hacked/
+- title: A Mysterious Hacking Group Has 2 New Tools to Steal Data From Air-Gapped
+    Machines
+  url: https://www.wired.com/story/goldenjackal-hacking-group-new-tools-air-gapped-machines/
 - title: AI Hype Drives Demand For ML SecOps Skills
   url: https://www.darkreading.com/cybersecurity-careers/ai-hype-drives-demand-ml-secops-skills
 - title: Indian Fishermen Are Catching Less Squid
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/995
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Patient portals down, ransomware up.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2168/notes
+- title: Ransomware on repeat. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/350/notes
