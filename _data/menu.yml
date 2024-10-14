@@ -7,8 +7,8 @@ entries:
   url: https://danielmiessler.com/p/ul-454
 - title: The War on Passwords Is One Step Closer to Being Over
   url: https://www.wired.com/story/passkey-portability-fido-alliance/
-- title: ConfusedPilot Attack Can Manipulate RAG-Based AI Systems
-  url: https://www.darkreading.com/cyberattacks-data-breaches/confusedpilot-attack-manipulate-rag-based-ai-systems
+- title: "Pok\xE9mon Gaming Company Employee Info Leaked in Hack"
+  url: https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack
 - title: Upcoming Speaking Engagements
   url: https://www.schneier.com/blog/archives/2024/10/upcoming-speaking-engagements-41.html
 - title: Jetpack fixes critical information disclosure flaw existing since 2016
