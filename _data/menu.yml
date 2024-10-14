@@ -3,8 +3,8 @@ entries:
   url: https://krebsonsecurity.com/2024/10/lamborghini-carjackers-lured-by-243m-cyberheist/
 - title: Nation-State Attackers Exploiting Ivanti CSA Flaws for Network Infiltration
   url: https://thehackernews.com/2024/10/nation-state-attackers-exploiting.html
-- title: How to Use Hugging Face Models with Ollama
-  url: https://danielmiessler.com/p/how-to-use-hugging-face-models-with-ollama
+- title: 'UL NO. 454: The First AI Breaches'
+  url: https://danielmiessler.com/p/ul-454
 - title: The War on Passwords Is One Step Closer to Being Over
   url: https://www.wired.com/story/passkey-portability-fido-alliance/
 - title: ConfusedPilot Attack Can Manipulate RAG-Based AI Systems
