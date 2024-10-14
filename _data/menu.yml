@@ -7,18 +7,19 @@ entries:
   url: https://danielmiessler.com/p/how-to-use-hugging-face-models-with-ollama
 - title: The War on Passwords Is One Step Closer to Being Over
   url: https://www.wired.com/story/passkey-portability-fido-alliance/
-- title: Why Your Identity Is the Key to Modernizing Cybersecurity
-  url: https://www.darkreading.com/vulnerabilities-threats/why-identity-key-modernizing-cybersecurity
+- title: 'Fighting Crime With Technology: Safety First'
+  url: https://www.darkreading.com/cloud-security/fighting-crime-with-technology-safety-first
 - title: Perfectl Malware
   url: https://www.schneier.com/blog/archives/2024/10/perfectl-malware.html
-- title: Google warns uBlock Origin and other extensions may be disabled soon
-  url: https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/
+- title: Pokemon dev Game Freak confirms breach after stolen data leaks online
+  url: https://www.bleepingcomputer.com/news/security/pokemon-dev-game-freak-confirms-breach-after-stolen-data-leaks-online/
 - title: KnowBe4 announces 2024 EMEA Partner Programme Award winners
   url: https://www.itsecurityguru.org/2024/10/14/knowbe4-announces-2024-emea-partner-programme-award-winners/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-announces-2024-emea-partner-programme-award-winners
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
-- title: 'SN 994: Recall''s Re-Rollout - Domain Security, Tor + Tails, VLC Update'
-  url: https://twit.tv/shows/security-now/episodes/994
+- title: 'SN 995: uBlock Origin & Manifest V3 - DDoS Record, N. Korean Workers, Vitamin
+    D'
+  url: https://twit.tv/shows/security-now/episodes/995
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: 'Solution Spotlight: A first look at ISC2''s 2024 Cybersecurity Workforce
