@@ -1,9 +1,8 @@
 entries:
 - title: Lamborghini Carjackers Lured by $243M Cyberheist
   url: https://krebsonsecurity.com/2024/10/lamborghini-carjackers-lured-by-243m-cyberheist/
-- title: OilRig Exploits Windows Kernel Flaw in Espionage Campaign Targeting UAE and
-    Gulf
-  url: https://thehackernews.com/2024/10/oilrig-exploits-windows-kernel-flaw-in.html
+- title: Critical Veeam Vulnerability Exploited to Spread Akira and Fog Ransomware
+  url: https://thehackernews.com/2024/10/critical-veeam-vulnerability-exploited.html
 - title: How to Use Hugging Face Models with Ollama
   url: https://danielmiessler.com/p/how-to-use-hugging-face-models-with-ollama
 - title: The FBI Made a Crypto Coin Just to Catch Fraudsters
@@ -14,14 +13,14 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/10/indian-fishermen-are-catching-less-squid.html
 - title: Google warns uBlock Origin and other extensions may be disabled soon
   url: https://www.bleepingcomputer.com/news/google/google-warns-ublock-origin-and-other-extensions-may-be-disabled-soon/
-- title: AI Most Serious Threat to Orgs, According to Security Professionals
-  url: https://www.itsecurityguru.org/2024/10/10/ai-most-serious-threat-to-orgs-according-to-security-professionals/?utm_source=rss&utm_medium=rss&utm_campaign=ai-most-serious-threat-to-orgs-according-to-security-professionals
+- title: "Breaking into Cybersecurity: It\u2019s Never Too Late"
+  url: https://www.itsecurityguru.org/2024/10/14/breaking-into-cybersecurity-its-never-too-late/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-into-cybersecurity-its-never-too-late
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 994: Recall''s Re-Rollout - Domain Security, Tor + Tails, VLC Update'
   url: https://twit.tv/shows/security-now/episodes/994
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Billy Wilson: Translating language skills to technical skills. [HPC] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/37/notes
+- title: 'Solution Spotlight: A first look at ISC2''s 2024 Cybersecurity Workforce
+    Study. [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/76/notes
