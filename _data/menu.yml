@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/attackers-unleash-flood-potentially-disruptive-election-related-activity
 - title: More Details on Israel Sabotaging Hezbollah Pagers and Walkie-Talkies
   url: https://www.schneier.com/blog/archives/2024/10/more-details-on-israel-sabotaging-hezbollah-pagers-and-walkie-talkies.html
-- title: EDRSilencer red team tool used in attacks to bypass security
-  url: https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/
+- title: Amazon says 175 million customer now use passkeys to log in
+  url: https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customer-now-use-passkeys-to-log-in/
 - title: 'Secure by Design: The (Necessary) Future of Hardware and Software'
   url: https://www.itsecurityguru.org/2024/10/15/secure-by-design-the-necessary-future-of-hardware-and-software/?utm_source=rss&utm_medium=rss&utm_campaign=secure-by-design-the-necessary-future-of-hardware-and-software
 - title: '150: mobman 2'
@@ -23,6 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/995
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Solution Spotlight: A first look at ISC2''s 2024 Cybersecurity Workforce
-    Study. [Special Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/76/notes
+- title: "A \u201Cmust patch\u201D list in the making."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2169/notes
