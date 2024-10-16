@@ -11,11 +11,10 @@ entries:
   url: https://www.darkreading.com/application-security/chinese-researchers-unveil-quantum-technique-to-break-encryption
 - title: Cheating at Conkers
   url: https://www.schneier.com/blog/archives/2024/10/cheating-at-conkers.html
-- title: USDoD hacker behind National Public Data breach arrested in Brazil
-  url: https://www.bleepingcomputer.com/news/security/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/
-- title: Cato Networks Expands SASE Platform (Again) with DEM for Complete User Experience
-    Delivery
-  url: https://www.itsecurityguru.org/2024/10/15/cato-networks-expands-sase-platform-again-with-dem-for-complete-user-experience-delivery/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-expands-sase-platform-again-with-dem-for-complete-user-experience-delivery
+- title: 'Google: 70% of exploited flaws disclosed in 2023 were zero-days'
+  url: https://www.bleepingcomputer.com/news/security/google-70-percent-of-exploited-flaws-disclosed-in-2023-were-zero-days/
+- title: Keeper Security Appoints New CISO
+  url: https://www.itsecurityguru.org/2024/10/16/keeper-security-appoints-new-ciso/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-appoints-new-ciso
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 996: BIMI (up Scotty) - NPD Goes Broke, Firefox Under Attack, .io'
