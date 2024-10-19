@@ -1,14 +1,12 @@
 entries:
 - title: "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach"
   url: https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/
-- title: North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen
-    Data
-  url: https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html
+- title: "Acronym Overdose \u2013 Navigating the Complex Data Security Landscape"
+  url: https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html
 - title: 'UL NO. 454: The First AI Breaches'
   url: https://danielmiessler.com/p/ul-454
-- title: "What the US Army\u2019s 1959 \u2018Soldier of Tomorrow\u2019 Got Right About\
-    \ the Future of Warfare"
-  url: https://www.wired.com/story/us-army-soldier-of-tomorrow-1959/
+- title: The Disinformation Warning Coming From the Edge of Europe
+  url: https://www.wired.com/story/the-disinformation-warning-coming-from-the-edge-of-europe/
 - title: MacOS Safari 'HM Surf' Exploit Exposes Camera, Mic, Browser Data
   url: https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data
 - title: 'Friday Squid Blogging: Squid Scarf'
@@ -24,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/996
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "No more \u201Ccyber Snorlax\u201D naps."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2172/notes
+- title: New targets, new tools, same threat. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/351/notes
