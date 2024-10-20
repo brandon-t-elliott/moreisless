@@ -1,8 +1,8 @@
 entries:
 - title: "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach"
   url: https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/
-- title: "Acronym Overdose \u2013 Navigating the Complex Data Security Landscape"
-  url: https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html
+- title: Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials
+  url: https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html
 - title: 'UL NO. 454: The First AI Breaches'
   url: https://danielmiessler.com/p/ul-454
 - title: "Google Chrome\u2019s uBlock Origin Purge Has Begun"
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/996
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: New targets, new tools, same threat. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/351/notes
+- title: 'Aarti Borkar: Make your own choices. [Product] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/38/notes
