@@ -1,19 +1,20 @@
 entries:
 - title: "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach"
   url: https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/
-- title: A Comprehensive Guide to Finding Service Accounts in Active Directory
-  url: https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html
+- title: Security Flaw in Styra's OPA Exposes NTLM Hashes to Remote Attackers
+  url: https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html
 - title: 'UL NO. 454: The First AI Breaches'
   url: https://danielmiessler.com/p/ul-454
-- title: ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review
-  url: https://www.wired.com/story/ice-paragon-contract-white-house-review/
+- title: "The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine\u2019\
+    s Front Lines"
+  url: https://www.wired.com/story/nafo-ukraine-russia-war/
 - title: What Today's SOC Teams Can Learn From Baseball
   url: https://www.darkreading.com/cybersecurity-operations/what-soc-teams-can-learn-from-baseball
 - title: No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum
     Computer
   url: https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html
-- title: Hackers exploit Roundcube webmail flaw to steal email, credentials
-  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-webmail-flaw-to-steal-email-credentials/
+- title: VMware fixes bad patch for critical vCenter Server RCE flaw
+  url: https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/
 - title: 'Cybersecurity Action Month: When Awareness Must Lead to Action'
   url: https://www.itsecurityguru.org/2024/10/21/cybersecurity-action-month-when-awareness-must-lead-to-action/?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-action-month-when-awareness-must-lead-to-action
 - title: '150: mobman 2'
