@@ -12,8 +12,8 @@ entries:
 - title: No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum
     Computer
   url: https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html
-- title: SEC charges tech companies for downplaying SolarWinds breaches
-  url: https://www.bleepingcomputer.com/news/security/sec-charges-tech-companies-for-downplaying-solarwinds-breaches/
+- title: Windows 10 KB5045594 update fixes multi-function printer bugs
+  url: https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/
 - title: KnowBe4 Launches Complimentary Training Module Following Thwarted North Korean
     Infiltration Attempt
   url: https://www.itsecurityguru.org/2024/10/22/knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/996
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: On the run, caught on arrival.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2173/notes
+- title: Zero-day exploited in the wild.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2174/notes
