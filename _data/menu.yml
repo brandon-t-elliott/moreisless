@@ -7,8 +7,8 @@ entries:
   url: https://danielmiessler.com/p/ul-454
 - title: Exposed United Nations Database Left Sensitive Information Accessible Online
   url: https://www.wired.com/story/un-women-database-exposure/
-- title: Swarms of Fake WordPress Plug-ins Infect Sites With Infostealers
-  url: https://www.darkreading.com/endpoint-security/swarms-fake-wordpress-plug-ins-infect-sites-infostealers
+- title: Samsung Zero-Day Vuln Under Active Exploit, Google Warns
+  url: https://www.darkreading.com/endpoint-security/samsung-zero-day-vuln-under-active-exploit-google-warns
 - title: No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum
     Computer
   url: https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/996
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Zero-day exploited in the wild.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2174/notes
+- title: On the run, caught on arrival.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2173/notes
