@@ -1,8 +1,8 @@
 entries:
 - title: "Brazil Arrests \u2018USDoD,\u2019 Hacker in FBI Infragard Breach"
   url: https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/
-- title: Security Flaw in Styra's OPA Exposes NTLM Hashes to Remote Attackers
-  url: https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html
+- title: Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans
+  url: https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html
 - title: 'UL NO. 454: The First AI Breaches'
   url: https://danielmiessler.com/p/ul-454
 - title: Exposed United Nations Database Left Sensitive Information Accessible Online
@@ -12,8 +12,8 @@ entries:
 - title: No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum
     Computer
   url: https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html
-- title: VMware fixes bad patch for critical vCenter Server RCE flaw
-  url: https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/
+- title: SEC charges tech companies for downplaying SolarWinds breaches
+  url: https://www.bleepingcomputer.com/news/security/sec-charges-tech-companies-for-downplaying-solarwinds-breaches/
 - title: KnowBe4 Launches Complimentary Training Module Following Thwarted North Korean
     Infiltration Attempt
   url: https://www.itsecurityguru.org/2024/10/22/knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt
