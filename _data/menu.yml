@@ -1,14 +1,15 @@
 entries:
 - title: The Global Surveillance Free-for-All in Mobile Ad Data
   url: https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
-- title: Researchers Reveal 'Deceptive Delight' Method to Jailbreak AI Models
-  url: https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html
-- title: 'UL NO. 455: Anthropic ''Computer Control'''
-  url: https://danielmiessler.com/p/ul-455
+- title: 'Permiso State of Identity Security 2024: A Shake-up in Identity Security
+    Is Looming Large'
+  url: https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html
+- title: AI Isn't the Thing. It's the Thing That Enables the Thing
+  url: https://danielmiessler.com/p/ai-isn-t-the-thing-it-s-the-thing-that-enables-the-thing
 - title: Exposed United Nations Database Left Sensitive Information Accessible Online
   url: https://www.wired.com/story/un-women-database-exposure/
-- title: Samsung Zero-Day Vuln Under Active Exploit, Google Warns
-  url: https://www.darkreading.com/endpoint-security/samsung-zero-day-vuln-under-active-exploit-google-warns
+- title: Bumblebee Malware Is Buzzing Back to Life
+  url: https://www.darkreading.com/threat-intelligence/bumblebee-malware-buzzing-back
 - title: No, The Chinese Have Not Broken Modern Encryption Systems with a Quantum
     Computer
   url: https://www.schneier.com/blog/archives/2024/10/no-the-chinese-have-not-broken-modern-encryption-systems-with-a-quantum-computer.html
@@ -24,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/997
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: On the run, caught on arrival.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2173/notes
+- title: Zero-day exploited in the wild.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2174/notes
