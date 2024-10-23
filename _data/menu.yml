@@ -3,8 +3,8 @@ entries:
   url: https://krebsonsecurity.com/2024/10/brazil-arrests-usdod-hacker-in-fbi-infragard-breach/
 - title: Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans
   url: https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html
-- title: 'UL NO. 454: The First AI Breaches'
-  url: https://danielmiessler.com/p/ul-454
+- title: 'UL NO. 455: Anthropic ''Computer Control'''
+  url: https://danielmiessler.com/p/ul-455
 - title: Exposed United Nations Database Left Sensitive Information Accessible Online
   url: https://www.wired.com/story/un-women-database-exposure/
 - title: Samsung Zero-Day Vuln Under Active Exploit, Google Warns
@@ -19,8 +19,9 @@ entries:
   url: https://www.itsecurityguru.org/2024/10/22/knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
-- title: 'SN 996: BIMI (up Scotty) - NPD Goes Broke, Firefox Under Attack, .io'
-  url: https://twit.tv/shows/security-now/episodes/996
+- title: 'SN 997: Credential Exchange Protocol - DJI Sues DoD, Quantum Vs. RSA, Lost
+    MS Logs'
+  url: https://twit.tv/shows/security-now/episodes/997
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: On the run, caught on arrival.
