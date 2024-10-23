@@ -9,8 +9,8 @@ entries:
 - title: Microsoft Warns Foreign Disinformation Is Hitting the US Election From All
     Directions
   url: https://www.wired.com/story/microsoft-russia-china-iran-election-disinformation/
-- title: Microsoft SharePoint Vuln Is Under Active Exploit
-  url: https://www.darkreading.com/vulnerabilities-threats/microsoft-sharepoint-vuln-active-exploit
+- title: Russian Trolls Pose as Reputable Media to Sow US Election Chaos
+  url: https://www.darkreading.com/vulnerabilities-threats/russians-pose-reputable-media-us-election-chaos
 - title: Are Automatic License Plate Scanners Constitutional?
   url: https://www.schneier.com/blog/archives/2024/10/are-automatic-license-plate-scanners-constitutional.html
 - title: Windows 11 KB5044380 preview update lets you remap the Copilot key
@@ -25,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/997
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Zero-day exploited in the wild.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2174/notes
+- title: NotLockBit takes a bite out of macOS.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2175/notes
