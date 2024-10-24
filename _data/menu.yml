@@ -9,12 +9,12 @@ entries:
 - title: Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams
     and Thefts
   url: https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/
-- title: Cisco ASA, FTD Software Under Active VPN Exploitation
-  url: https://www.darkreading.com/application-security/cisco-asa-ftd-software-active-vpn-exploitation
+- title: Critical Bug Exploited in Fortinet's Management Console
+  url: https://www.darkreading.com/vulnerabilities-threats/critical-bug-exploited-fortinet-management-console
 - title: Are Automatic License Plate Scanners Constitutional?
   url: https://www.schneier.com/blog/archives/2024/10/are-automatic-license-plate-scanners-constitutional.html
-- title: Insurance admin Landmark says data breach impacts 800,000 people
-  url: https://www.bleepingcomputer.com/news/security/insurance-admin-landmark-says-data-breach-impacts-800-000-people/
+- title: Windows 11 24H2 KB5044384 update fixes sfc /scannow corrupt file errors
+  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-kb5044384-update-fixes-sfc-scannow-corrupt-file-errors/
 - title: Evolving Email Threats and How to Protect Against Them
   url: https://www.itsecurityguru.org/2024/10/24/evolving-email-threats-and-how-to-protect-against-them/?utm_source=rss&utm_medium=rss&utm_campaign=evolving-email-threats-and-how-to-protect-against-them
 - title: '150: mobman 2'
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/997
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: NotLockBit takes a bite out of macOS.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2175/notes
+- title: A giant FortiJump for cybercriminals.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2176/notes
