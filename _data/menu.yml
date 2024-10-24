@@ -1,9 +1,9 @@
 entries:
 - title: The Global Surveillance Free-for-All in Mobile Ad Data
   url: https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
-- title: AWS Cloud Development Kit Vulnerability Exposes Users to Potential Account
-    Takeover Risks
-  url: https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html
+- title: New Qilin.B Ransomware Variant Emerges with Improved Encryption and Evasion
+    Tactics
+  url: https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html
 - title: AI Isn't the Thing. It's the Thing That Enables the Thing
   url: https://danielmiessler.com/p/ai-isn-t-the-thing-it-s-the-thing-that-enables-the-thing
 - title: Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams
@@ -13,11 +13,10 @@ entries:
   url: https://www.darkreading.com/application-security/cisco-asa-ftd-software-active-vpn-exploitation
 - title: Are Automatic License Plate Scanners Constitutional?
   url: https://www.schneier.com/blog/archives/2024/10/are-automatic-license-plate-scanners-constitutional.html
-- title: New Qilin ransomware encryptor features stronger encryption, evasion
-  url: https://www.bleepingcomputer.com/news/security/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/
-- title: KnowBe4 Launches Complimentary Training Module Following Thwarted North Korean
-    Infiltration Attempt
-  url: https://www.itsecurityguru.org/2024/10/22/knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-launches-complimentary-training-module-following-thwarted-north-korean-infiltration-attempt
+- title: Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2
+  url: https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/
+- title: Evolving Email Threats and How to Protect Against Them
+  url: https://www.itsecurityguru.org/2024/10/24/evolving-email-threats-and-how-to-protect-against-them/?utm_source=rss&utm_medium=rss&utm_campaign=evolving-email-threats-and-how-to-protect-against-them
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 997: Credential Exchange Protocol - DJI Sues DoD, Quantum Vs. RSA, Lost
