@@ -5,15 +5,14 @@ entries:
   url: https://thehackernews.com/2024/10/researchers-discover-command-injection.html
 - title: The Most Important Sentence
   url: https://danielmiessler.com/p/the-most-important-sentence
-- title: Meet ZachXBT, the Masked Vigilante Tracking Down Billions in Crypto Scams
-    and Thefts
-  url: https://www.wired.com/story/meet-zachxbt-243-million-crypto-theft/
-- title: Russia's APT29 Mimics AWS to Steal Windows Credentials
-  url: https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials
-- title: Watermark for LLM-Generated Text
-  url: https://www.schneier.com/blog/archives/2024/10/watermark-for-llm-generated-text.html
-- title: Black Basta poses as IT support on Microsoft Teams to breach networks
-  url: https://www.bleepingcomputer.com/news/security/black-basta-poses-as-it-support-on-microsoft-teams-to-breach-networks/
+- title: Chinese Hackers Target Trump Campaign via Verizon Breach
+  url: https://www.wired.com/story/trump-vance-phones-verizon-hack/
+- title: LinkedIn Hit With $335M Fine for Data Privacy Violations
+  url: https://www.darkreading.com/cyber-risk/linkedin-hit-335m-fine-data-privacy-violations
+- title: 'Friday Squid Blogging: Giant Squid Found on Spanish Beach'
+  url: https://www.schneier.com/blog/archives/2024/10/friday-squid-blogging-giant-squid-found-on-spanish-beach.html
+- title: Black Basta ransomware poses as IT support on Microsoft Teams to breach networks
+  url: https://www.bleepingcomputer.com/news/security/black-basta-ransomware-poses-as-it-support-on-microsoft-teams-to-breach-networks/
 - title: Pentest People Achieves CREST Cyber Security Incident Response (CSIR) Accreditation
   url: https://www.itsecurityguru.org/2024/10/25/pentest-people-achieves-crest-cyber-security-incident-response-csir-accreditation/?utm_source=rss&utm_medium=rss&utm_campaign=pentest-people-achieves-crest-cyber-security-incident-response-csir-accreditation
 - title: '150: mobman 2'
