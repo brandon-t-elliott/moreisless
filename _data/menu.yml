@@ -9,12 +9,12 @@ entries:
 - title: Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than
     Russia or China
   url: https://www.wired.com/story/cybercriminals-disruptive-hacking-us-elections-dhs-report/
-- title: 'Mozilla: ChatGPT Can Be Manipulated Using Hex Code'
-  url: https://www.darkreading.com/application-security/chatgpt-manipulated-hex-code
+- title: Russia Kneecaps Ukraine Army Recruitment With Spoofed 'Civil Defense' App
+  url: https://www.darkreading.com/threat-intelligence/russia-kneecaps-ukraine-army-recruitment-spoofed-civil-defense-app
 - title: Criminals Are Blowing up ATMs in Germany
   url: https://www.schneier.com/blog/archives/2024/10/criminals-are-blowing-up-atms-in-germany.html
-- title: Exchange Online adds Inbound DANE with DNSSEC for everyone
-  url: https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-everyone/
+- title: "New tool bypasses Google Chrome\u2019s new cookie encryption system"
+  url: https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/
 - title: Check Point Software Celebrates Irish Partner Success
   url: https://www.itsecurityguru.org/2024/10/28/check-point-software-celebrates-irish-partner-success/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-celebrates-irish-partner-success
 - title: '150: mobman 2'
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/997
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: How to turn tech insights into real advantages. [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/102/notes
+- title: Operation Magnus strikes back.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2178/notes
