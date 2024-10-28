@@ -1,8 +1,9 @@
 entries:
 - title: The Global Surveillance Free-for-All in Mobile Ad Data
   url: https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
-- title: 'THN Cybersecurity Recap: Top Threats, Tools and News (Oct 21 - Oct 27)'
-  url: https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_28.html
+- title: Chinese Hackers Use CloudScout Toolset to Steal Session Cookies from Cloud
+    Services
+  url: https://thehackernews.com/2024/10/chinese-hackers-use-cloudscout-toolset.html
 - title: The Most Important Sentence
   url: https://danielmiessler.com/p/the-most-important-sentence
 - title: Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than
@@ -12,8 +13,8 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/put-end-life-software-rest
 - title: Criminals Are Blowing up ATMs in Germany
   url: https://www.schneier.com/blog/archives/2024/10/criminals-are-blowing-up-atms-in-germany.html
-- title: US says Chinese hackers breached multiple telecom providers
-  url: https://www.bleepingcomputer.com/news/security/us-says-chinese-hackers-breached-multiple-telecom-providers/
+- title: "Free, France\u2019s second largest ISP, confirms data breach after leak"
+  url: https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/
 - title: Pentest People Achieves CREST Cyber Security Incident Response (CSIR) Accreditation
   url: https://www.itsecurityguru.org/2024/10/25/pentest-people-achieves-crest-cyber-security-incident-response-csir-accreditation/?utm_source=rss&utm_medium=rss&utm_campaign=pentest-people-achieves-crest-cyber-security-incident-response-csir-accreditation
 - title: '150: mobman 2'
