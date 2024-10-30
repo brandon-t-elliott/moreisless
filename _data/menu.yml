@@ -6,10 +6,11 @@ entries:
   url: https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
-- title: '''We''re a Fortress Now'': The Militarization of US Elections Is Here'
+- title: "\u2018We\u2019re a Fortress Now\u2019: The Militarization of US Elections\
+    \ Is Here"
   url: https://www.wired.com/story/2024-us-election-polling-location-militarized-security/
-- title: When Cybersecurity Tools Backfire
-  url: https://www.darkreading.com/vulnerabilities-threats/when-cybersecurity-tools-backfire
+- title: Cybersecurity Training Resources Often Limited to Developers
+  url: https://www.darkreading.com/endpoint-security/cybersecurity-training-resources-limited-developers
 - title: Simpson Garfinkel on Spooky Cryptographic Action at a Distance
   url: https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
 - title: Android malware "FakeCall" now reroutes bank calls to attackers
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Securing democracy.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2179/notes
+- title: 'Solution Spotlight: Cultivating cybersecurity culture. [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/78/notes
