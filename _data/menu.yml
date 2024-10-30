@@ -1,9 +1,8 @@
 entries:
-- title: The Global Surveillance Free-for-All in Mobile Ad Data
-  url: https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
-- title: Researchers Uncover Python Package Targeting Crypto Wallets with Malicious
-    Code
-  url: https://thehackernews.com/2024/10/researchers-uncover-python-package.html
+- title: Change Healthcare Breach Hits 100M Americans
+  url: https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/
+- title: Opera Browser Fixes Big Security Hole That Could Have Exposed Your Information
+  url: https://thehackernews.com/2024/10/opera-browser-fixes-big-security-hole.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
 - title: Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than
@@ -13,8 +12,8 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/recurring-windows-flaw-could-expose-user-credentials
 - title: Law Enforcement Deanonymizes Tor Users
   url: https://www.schneier.com/blog/archives/2024/10/law-enforcement-deanonymizes-tor-users.html
-- title: New Windows Themes zero-day gets free, unofficial patches
-  url: https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/
+- title: 'FBI: Upcoming U.S. general election fuel multiple fraud schemes'
+  url: https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/
 - title: Cato Networks Named to 2025 Fortune Cyber 60 List
   url: https://www.itsecurityguru.org/2024/10/30/cato-networks-named-to-2025-fortune-cyber-60-list/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-named-to-2025-fortune-cyber-60-list
 - title: '150: mobman 2'
