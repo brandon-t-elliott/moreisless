@@ -9,12 +9,12 @@ entries:
 - title: "\u2018We\u2019re a Fortress Now\u2019: The Militarization of US Elections\
     \ Is Here"
   url: https://www.wired.com/story/2024-us-election-polling-location-militarized-security/
-- title: Cybersecurity Training Resources Often Limited to Developers
-  url: https://www.darkreading.com/endpoint-security/cybersecurity-training-resources-limited-developers
+- title: Ex-Disney Employee Charged With Hacking Menu Database
+  url: https://www.darkreading.com/cyberattacks-data-breaches/ex-disney-employee-charged-hacking-menu-database
 - title: Simpson Garfinkel on Spooky Cryptographic Action at a Distance
   url: https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
-- title: QNAP patches second zero-day exploited at Pwn2Own to get root
-  url: https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/
+- title: Microsoft Entra "security defaults" to make MFA setup mandatory
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/
 - title: Cato Networks Named to 2025 Fortune Cyber 60 List
   url: https://www.itsecurityguru.org/2024/10/30/cato-networks-named-to-2025-fortune-cyber-60-list/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-named-to-2025-fortune-cyber-60-list
 - title: '150: mobman 2'
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Solution Spotlight: Cultivating cybersecurity culture. [Special Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/78/notes
+- title: Securing democracy.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2179/notes
