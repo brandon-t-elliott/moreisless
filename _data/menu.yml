@@ -8,12 +8,12 @@ entries:
 - title: Cybercriminals Pose a Greater Threat of Disruptive US Election Hacks Than
     Russia or China
   url: https://www.wired.com/story/cybercriminals-disruptive-hacking-us-elections-dhs-report/
-- title: Recurring Windows Flaw Could Expose User Credentials
-  url: https://www.darkreading.com/vulnerabilities-threats/recurring-windows-flaw-could-expose-user-credentials
-- title: Law Enforcement Deanonymizes Tor Users
-  url: https://www.schneier.com/blog/archives/2024/10/law-enforcement-deanonymizes-tor-users.html
-- title: 'FBI: Upcoming U.S. general election fuel multiple fraud schemes'
-  url: https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/
+- title: When Cybersecurity Tools Backfire
+  url: https://www.darkreading.com/vulnerabilities-threats/when-cybersecurity-tools-backfire
+- title: Simpson Garfinkel on Spooky Cryptographic Action at a Distance
+  url: https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
+- title: Android malware "FakeCall" now reroutes bank calls to attackers
+  url: https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/
 - title: Cato Networks Named to 2025 Fortune Cyber 60 List
   url: https://www.itsecurityguru.org/2024/10/30/cato-networks-named-to-2025-fortune-cyber-60-list/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-named-to-2025-fortune-cyber-60-list
 - title: '150: mobman 2'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Solution Spotlight: Cultivating cybersecurity culture. [Special Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/78/notes
+- title: Securing democracy.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2179/notes
