@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/endpoint-security/cybersecurity-training-resources-limited-developers
 - title: Simpson Garfinkel on Spooky Cryptographic Action at a Distance
   url: https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
-- title: Android malware "FakeCall" now reroutes bank calls to attackers
-  url: https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/
+- title: QNAP patches second zero-day exploited at Pwn2Own to get root
+  url: https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/
 - title: Cato Networks Named to 2025 Fortune Cyber 60 List
   url: https://www.itsecurityguru.org/2024/10/30/cato-networks-named-to-2025-fortune-cyber-60-list/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-named-to-2025-fortune-cyber-60-list
 - title: '150: mobman 2'
