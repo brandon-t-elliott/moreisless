@@ -1,18 +1,19 @@
 entries:
 - title: Change Healthcare Breach Hits 100M Americans
   url: https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/
-- title: LottieFiles Issues Warning About Compromised "lottie-player" npm Package
-  url: https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html
+- title: New LightSpy Spyware Version Targets iPhones with Increased Surveillance
+    Tactics
+  url: https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
 - title: Inside Sophos' 5-Year War With the Chinese Hackers Hijacking Its Devices
   url: https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/
-- title: Noma Launches With Plans to Secure Data, AI Life Cycle
-  url: https://www.darkreading.com/application-security/noma-launches-secure-data-ai-lifecycle
-- title: Simson Garfinkel on Spooky Cryptographic Action at a Distance
-  url: https://www.schneier.com/blog/archives/2024/10/simson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
-- title: Microsoft fixes Windows 10 bug causing apps to stop working
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-bug-causing-apps-to-stop-working/
+- title: North Korea's Andariel Pivots to 'Play' Ransomware Games
+  url: https://www.darkreading.com/endpoint-security/north-korea-andariel-play-ransomware
+- title: Roger Grimes on Prioritizing Cybersecurity Advice
+  url: https://www.schneier.com/blog/archives/2024/10/roger-grimes-on-prioritizing-cybersecurity-advice.html
+- title: qBittorrent fixes flaw exposing users to MitM attacks for 14 years
+  url: https://www.bleepingcomputer.com/news/security/qbittorrent-fixes-flaw-exposing-users-to-mitm-attacks-for-14-years/
 - title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
     \ Defences"
   url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
