@@ -1,21 +1,21 @@
 entries:
 - title: Change Healthcare Breach Hits 100M Americans
   url: https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/
-- title: 'Enterprise Identity Threat Report 2024: Unveiling Hidden Threats to Corporate
-    Identities'
-  url: https://thehackernews.com/2024/10/enterprise-identity-threat-report-2024.html
+- title: LottieFiles Issues Warning About Compromised "lottie-player" npm Package
+  url: https://thehackernews.com/2024/10/lottiefiles-issues-warning-about.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
 - title: Inside Sophos' 5-Year War With the Chinese Hackers Hijacking Its Devices
   url: https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/
-- title: The Case Against Abandoning CrowdStrike Post-Outage
-  url: https://www.darkreading.com/vulnerabilities-threats/case-against-abandoning-crowdstrike-post-outage
+- title: Noma Launches With Plans to Secure Data, AI Life Cycle
+  url: https://www.darkreading.com/application-security/noma-launches-secure-data-ai-lifecycle
 - title: Simson Garfinkel on Spooky Cryptographic Action at a Distance
   url: https://www.schneier.com/blog/archives/2024/10/simson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
-- title: LottieFiles hit in npm supply chain attack targeting users' crypto
-  url: https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/
-- title: Keeper Security Expands Leadership Team in Japan
-  url: https://www.itsecurityguru.org/2024/10/31/keeper-security-expands-leadership-team-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-expands-leadership-team-in-japan
+- title: Microsoft fixes Windows 10 bug causing apps to stop working
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-bug-causing-apps-to-stop-working/
+- title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
+    \ Defences"
+  url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
