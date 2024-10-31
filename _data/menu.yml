@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-456
 - title: Inside Sophos' 5-Year War With the Chinese Hackers Hijacking Its Devices
   url: https://www.wired.com/story/sophos-chengdu-china-five-year-hacker-war/
-- title: Canada Grapples With 'Second-to-None' PRC-Backed Threat Actors
-  url: https://www.darkreading.com/cyberattacks-data-breaches/canada-prc-backed-threat-actors
-- title: Roger Grimes on Prioritizing Cybersecurity Advice
-  url: https://www.schneier.com/blog/archives/2024/10/roger-grimes-on-prioritizing-cybersecurity-advice.html
-- title: Windows 11 Task Manager says no apps are active after preview update
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-task-manager-says-no-apps-are-active-after-preview-update/
+- title: Cybersecurity Job Market Stagnates, Dissatisfaction Abounds
+  url: https://www.darkreading.com/application-security/cybersecurity-job-market-stagnates-dissatisfaction-abounds
+- title: Tracking World Leaders Using Strava
+  url: https://www.schneier.com/blog/archives/2024/10/tracking-world-leaders-using-strava.html
+- title: Microsoft delays Windows Recall again, now by December
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/
 - title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
     \ Defences"
   url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Password snafu sparks election security questions.
+- title: Guarding the Vote
   url: https://thecyberwire.com/podcasts/daily-podcast/2180/notes
