@@ -6,15 +6,14 @@ entries:
   url: https://thehackernews.com/2024/10/north-korean-group-collaborates-with.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
-- title: "\u2018We\u2019re a Fortress Now\u2019: The Militarization of US Elections\
-    \ Is Here"
-  url: https://www.wired.com/story/2024-us-election-polling-location-militarized-security/
-- title: '''Midnight Blizzard'' Targets Networks With Signed RDP Files'
-  url: https://www.darkreading.com/cyberattacks-data-breaches/midnight-blizzard-targets-networks-signed-rdp-files
-- title: Simpson Garfinkel on Spooky Cryptographic Action at a Distance
-  url: https://www.schneier.com/blog/archives/2024/10/simpson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
-- title: Interbank confirms data breach following failed extortion, data leak
-  url: https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/
+- title: The Untold Story of Trump's Failed Attempt to Overthrow Venezuela's President
+  url: https://www.wired.com/story/trump-cia-venezuela-maduro-regime-change-plot/
+- title: Regulators Combat Deepfakes With Anti-Fraud Rules
+  url: https://www.darkreading.com/data-privacy/regulators-combat-deepfakes-anti-fraud-rules
+- title: Simson Garfinkel on Spooky Cryptographic Action at a Distance
+  url: https://www.schneier.com/blog/archives/2024/10/simson-garfinkel-on-spooky-cryptographic-action-at-a-distance.html
+- title: LottieFiles hit in npm supply chain attack targeting users' crypto
+  url: https://www.bleepingcomputer.com/news/security/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/
 - title: Cato Networks Named to 2025 Fortune Cyber 60 List
   url: https://www.itsecurityguru.org/2024/10/30/cato-networks-named-to-2025-fortune-cyber-60-list/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-named-to-2025-fortune-cyber-60-list
 - title: '150: mobman 2'
