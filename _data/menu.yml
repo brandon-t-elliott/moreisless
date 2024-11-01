@@ -1,9 +1,8 @@
 entries:
 - title: Change Healthcare Breach Hits 100M Americans
   url: https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/
-- title: Massive Git Config Breach Exposes 15,000 Credentials; 10,000 Private Repos
-    Cloned
-  url: https://thehackernews.com/2024/11/massive-git-config-breach-exposes-15000.html
+- title: "Inside Iran\u2019s Cyber Playbook: AI, Fake Hosting, and Psychological Warfare"
+  url: https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
 - title: Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to
@@ -13,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cybersecurity-operations/developer-velocity-security-out-the-way-time
 - title: Roger Grimes on Prioritizing Cybersecurity Advice
   url: https://www.schneier.com/blog/archives/2024/10/roger-grimes-on-prioritizing-cybersecurity-advice.html
-- title: Sophos reveals 5-year battle with Chinese hackers attacking network devices
-  url: https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/
+- title: DDoS site Dstat.cc seized and two suspects arrested in Germany
+  url: https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/
 - title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
     \ Defences"
   url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
