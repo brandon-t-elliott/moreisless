@@ -1,9 +1,8 @@
 entries:
 - title: Change Healthcare Breach Hits 100M Americans
   url: https://krebsonsecurity.com/2024/10/change-healthcare-breach-hits-100m-americans/
-- title: New LightSpy Spyware Version Targets iPhones with Increased Surveillance
-    Tactics
-  url: https://thehackernews.com/2024/10/new-lightspy-spyware-version-targets.html
+- title: Microsoft Delays Windows Copilot+ Recall Release Over Privacy Concerns
+  url: https://thehackernews.com/2024/11/microsoft-delays-windows-copilot-recall.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
 - title: Inside Sophos' 5-Year War With the Chinese Hackers Hijacking Its Devices
@@ -12,8 +11,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/facebook-businesses-targeted-infostealer-phishing-campaign
 - title: Roger Grimes on Prioritizing Cybersecurity Advice
   url: https://www.schneier.com/blog/archives/2024/10/roger-grimes-on-prioritizing-cybersecurity-advice.html
-- title: Microsoft delays Windows Recall again, now by December
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/
+- title: Hackers target critical zero-day vulnerability in PTZ cameras
+  url: https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/
 - title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
     \ Defences"
   url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
