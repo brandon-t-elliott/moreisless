@@ -8,12 +8,12 @@ entries:
 - title: Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to
     Attack
   url: https://www.wired.com/story/synology-zero-click-vulnerability/
-- title: IT Security Centralization Makes the Use of Industrial Spies More Profitable
-  url: https://www.darkreading.com/vulnerabilities-threats/it-security-centralization-industrial-spies-profitable
+- title: Critical Auth Bugs Expose Smart Factory Gear to Cyberattack
+  url: https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack
 - title: Roger Grimes on Prioritizing Cybersecurity Advice
   url: https://www.schneier.com/blog/archives/2024/10/roger-grimes-on-prioritizing-cybersecurity-advice.html
-- title: Synology hurries out patches for zero-days exploited at Pwn2Own
-  url: https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/
+- title: LastPass warns of fake support centers trying to steal customer data
+  url: https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/
 - title: What are the key Threats to Global National Security?
   url: https://www.itsecurityguru.org/2024/11/01/what-are-the-key-threats-to-global-national-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-key-threats-to-global-national-security
 - title: '150: mobman 2'
