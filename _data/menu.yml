@@ -1,8 +1,9 @@
 entries:
 - title: Booking.com Phishers May Leave You With Reservations
   url: https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/
-- title: "Inside Iran\u2019s Cyber Playbook: AI, Fake Hosting, and Psychological Warfare"
-  url: https://thehackernews.com/2024/11/inside-irans-cyber-playbook-ai-fake.html
+- title: 'Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert
+    Webinar'
+  url: https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html
 - title: 'UL NO. 456: A Deep-dive on Prompt Injection'
   url: https://danielmiessler.com/p/ul-456
 - title: Zero-Click Flaw Exposes Potentially Millions of Popular Storage Devices to
@@ -14,8 +15,9 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-sculpture-in-massachusetts-building.html
 - title: Microsoft warns Azure Virtual Desktop users of black screen issues
   url: https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/
-- title: What are the key Threats to Global National Security?
-  url: https://www.itsecurityguru.org/2024/11/01/what-are-the-key-threats-to-global-national-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-key-threats-to-global-national-security
+- title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
+    \ Defences"
+  url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
@@ -23,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A push to debunk election disinformation.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2182/notes
+- title: Velvet Ant's silent invasion. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/353/notes
