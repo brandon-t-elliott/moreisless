@@ -4,8 +4,8 @@ entries:
 - title: 'Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert
     Webinar'
   url: https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html
-- title: 'UL NO. 456: A Deep-dive on Prompt Injection'
-  url: https://danielmiessler.com/p/ul-456
+- title: Fixing Ubiquiti WiFi Roaming
+  url: https://danielmiessler.com/p/fixing-ubiquiti-wifi-roaming
 - title: Florida Man Accused of Hacking Disney World Menus, Changing Font to Wingdings
   url: https://www.wired.com/story/disney-world-menu-hack-wingdings/
 - title: EmeraldWhale's Massive Git Breach Highlights Config Gaps
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Velvet Ant's silent invasion. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/353/notes
+- title: 'Dinah Davis: Building your network. [R&D] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/40/notes
