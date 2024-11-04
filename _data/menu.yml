@@ -1,9 +1,9 @@
 entries:
 - title: Booking.com Phishers May Leave You With Reservations
   url: https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/
-- title: New FakeCall Malware Variant Hijacks Android Devices for Fraudulent Banking
-    Calls
-  url: https://thehackernews.com/2024/11/new-fakecall-malware-variant-hijacks.html
+- title: Cyber Threats That Could Impact the Retail Industry This Holiday Season (and
+    What to Do About It)
+  url: https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html
 - title: Fixing Ubiquiti WiFi Roaming
   url: https://danielmiessler.com/p/fixing-ubiquiti-wifi-roaming
 - title: Florida Man Accused of Hacking Disney World Menus, Changing Font to Wingdings
@@ -14,8 +14,9 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-sculpture-in-massachusetts-building.html
 - title: "Cisco says DevHub site leak won\u2019t enable future breaches"
   url: https://www.bleepingcomputer.com/news/security/cisco-says-devhub-site-leak-wont-enable-future-breaches/
-- title: What are the key Threats to Global National Security?
-  url: https://www.itsecurityguru.org/2024/11/01/what-are-the-key-threats-to-global-national-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-key-threats-to-global-national-security
+- title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
+    \ Defences"
+  url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Dinah Davis: Building your network. [R&D] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/40/notes
+- title: State of security automation. [CSO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/103/notes
