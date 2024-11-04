@@ -1,9 +1,9 @@
 entries:
 - title: Booking.com Phishers May Leave You With Reservations
   url: https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/
-- title: 'Stop LUCR-3 Attacks: Learn Key Identity Security Tactics in This Expert
-    Webinar'
-  url: https://thehackernews.com/2024/11/stop-lucr-3-attacks-learn-key-identity.html
+- title: New FakeCall Malware Variant Hijacks Android Devices for Fraudulent Banking
+    Calls
+  url: https://thehackernews.com/2024/11/new-fakecall-malware-variant-hijacks.html
 - title: Fixing Ubiquiti WiFi Roaming
   url: https://danielmiessler.com/p/fixing-ubiquiti-wifi-roaming
 - title: Florida Man Accused of Hacking Disney World Menus, Changing Font to Wingdings
@@ -12,11 +12,10 @@ entries:
   url: https://www.darkreading.com/cloud-security/emeraldwhale-massive-git-breach-config-gaps
 - title: 'Friday Squid Blogging: Squid Sculpture in Massachusetts Building'
   url: https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-sculpture-in-massachusetts-building.html
-- title: "Meet Interlock \u2014 The new ransomware targeting FreeBSD servers"
-  url: https://www.bleepingcomputer.com/news/security/meet-interlock-the-new-ransomware-targeting-freebsd-servers/
-- title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
-    \ Defences"
-  url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
+- title: "Cisco says DevHub site leak won\u2019t enable future breaches"
+  url: https://www.bleepingcomputer.com/news/security/cisco-says-devhub-site-leak-wont-enable-future-breaches/
+- title: What are the key Threats to Global National Security?
+  url: https://www.itsecurityguru.org/2024/11/01/what-are-the-key-threats-to-global-national-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-key-threats-to-global-national-security
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
