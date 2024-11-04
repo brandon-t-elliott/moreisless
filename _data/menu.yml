@@ -1,22 +1,20 @@
 entries:
 - title: Booking.com Phishers May Leave You With Reservations
   url: https://krebsonsecurity.com/2024/11/booking-com-phishers-may-leave-you-with-reservations/
-- title: Cyber Threats That Could Impact the Retail Industry This Holiday Season (and
-    What to Do About It)
-  url: https://thehackernews.com/2024/11/cyber-threats-that-could-impact-retail.html
+- title: German Police Disrupt DDoS-for-Hire Platform dstat[.]cc; Suspects Arrested
+  url: https://thehackernews.com/2024/11/german-police-disrupt-ddos-for-hire.html
 - title: Fixing Ubiquiti WiFi Roaming
   url: https://danielmiessler.com/p/fixing-ubiquiti-wifi-roaming
-- title: Florida Man Accused of Hacking Disney World Menus, Changing Font to Wingdings
-  url: https://www.wired.com/story/disney-world-menu-hack-wingdings/
+- title: "Inside the Massive Crime Industry That\u2019s Hacking Billion-Dollar Companies"
+  url: https://www.wired.com/story/inside-the-massive-crime-industry-thats-hacking-billion-dollar-companies/
 - title: EmeraldWhale's Massive Git Breach Highlights Config Gaps
   url: https://www.darkreading.com/cloud-security/emeraldwhale-massive-git-breach-config-gaps
-- title: 'Friday Squid Blogging: Squid Sculpture in Massachusetts Building'
-  url: https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-sculpture-in-massachusetts-building.html
-- title: "Cisco says DevHub site leak won\u2019t enable future breaches"
-  url: https://www.bleepingcomputer.com/news/security/cisco-says-devhub-site-leak-wont-enable-future-breaches/
-- title: "Cato Networks\_Joins MITRE AI Incident Sharing Initiative to Improve AI\
-    \ Defences"
-  url: https://www.itsecurityguru.org/2024/10/31/cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-joins-mitre-ai-incident-sharing-initiative-to-improve-ai-defences
+- title: Sophos Versus the Chinese Hackers
+  url: https://www.schneier.com/blog/archives/2024/11/sophos-versus-the-chinese-hackers.html
+- title: Microsoft confirms Windows Server 2025 blue screen, install issues
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-server-2025-blue-screen-install-issues/
+- title: What are the key Threats to Global National Security?
+  url: https://www.itsecurityguru.org/2024/11/01/what-are-the-key-threats-to-global-national-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-the-key-threats-to-global-national-security
 - title: '150: mobman 2'
   url: https://darknetdiaries.com/episode/150/
 - title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
@@ -24,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: State of security automation. [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/103/notes
+- title: 'Dinah Davis: Building your network. [R&D] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/40/notes
