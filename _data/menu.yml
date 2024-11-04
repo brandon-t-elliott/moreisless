@@ -8,7 +8,7 @@ entries:
   url: https://danielmiessler.com/p/ul-457
 - title: "Inside the Massive Crime Industry That\u2019s Hacking Billion-Dollar Companies"
   url: https://www.wired.com/story/inside-the-massive-crime-industry-thats-hacking-billion-dollar-companies/
-- title: Okta Fixes Auth Bypass Bug After Three-Month Lull
+- title: Okta Fixes Auth Bypass Bug After 3-Month Lull
   url: https://www.darkreading.com/vulnerabilities-threats/okta-fixes-auth-bypass-bug-three-month-lull
 - title: Sophos Versus the Chinese Hackers
   url: https://www.schneier.com/blog/archives/2024/11/sophos-versus-the-chinese-hackers.html
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: State of security automation. [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/103/notes
+- title: FBI fights fake news.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2183/notes
