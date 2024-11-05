@@ -5,11 +5,10 @@ entries:
   url: https://thehackernews.com/2024/11/fbi-seeks-public-help-to-identify.html
 - title: 'UL NO. 457: China Builds a Military App Using Meta Llama'
   url: https://danielmiessler.com/p/ul-457
-- title: "Flaw in Right-Wing \u2018Election Integrity\u2019 App Exposes Voter-Suppression\
-    \ Plan and User Data"
-  url: https://www.wired.com/story/true-the-vote-votealert-app-flaw-user-emails-voter-suppression-plan/
-- title: Schneider Electric Clawed by 'Hellcat' Ransomware Gang
-  url: https://www.darkreading.com/cyberattacks-data-breaches/schneider-electric-clawed-by-hellcat-ransomware-gang
+- title: Russia Is Going All Out on Election Day Interference
+  url: https://www.wired.com/story/russia-election-disinformation-2024-election-day/
+- title: Android Botnet 'ToxicPanda' Bashes Banks Across Europe, Latin America
+  url: https://www.darkreading.com/application-security/android-botnet-toxicpanda-bashes-banks-europe-latin-america
 - title: AIs Discovering Vulnerabilities
   url: https://www.schneier.com/blog/archives/2024/11/ais-discovering-vulnerabilities.html
 - title: Google Cloud to make MFA mandatory by the end of 2025
