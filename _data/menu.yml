@@ -12,15 +12,16 @@ entries:
   url: https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network
 - title: IoT Devices in Password-Spraying Botnet
   url: https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html
-- title: Germany drafts law to protect researchers who find security flaws
-  url: https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/
+- title: New SteelFox malware hijacks Windows PCs using vulnerable driver
+  url: https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/
 - title: Check Point Software Partners with OffSec to Elevate Cybersecurity Training
     for IGS Customers
   url: https://www.itsecurityguru.org/2024/11/05/check-point-software-partners-with-offsec-to-elevate-cybersecurity-training-for-igs-customers/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-partners-with-offsec-to-elevate-cybersecurity-training-for-igs-customers
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
-- title: 'SN 999: AI Vulnerability Discovery - RT''s AI TV Hosts, Windows 10 Updates'
-  url: https://twit.tv/shows/security-now/episodes/999
+- title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
+    IPv6'
+  url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: FBI fights fake news.
