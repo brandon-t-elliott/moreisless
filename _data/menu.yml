@@ -8,20 +8,19 @@ entries:
   url: https://danielmiessler.com/p/ul-457
 - title: Russia Is Going All Out on Election Day Interference
   url: https://www.wired.com/story/russia-election-disinformation-2024-election-day/
-- title: Attackers Breach IT-Based Networks Before Jumping to ICS/OT Systems
-  url: https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network
+- title: German Law Could Protect Researchers Reporting Vulns
+  url: https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns
 - title: IoT Devices in Password-Spraying Botnet
   url: https://www.schneier.com/blog/archives/2024/11/iot-devices-in-password-spraying-botnet.html
-- title: Microsoft Notepad to get AI-powered rewriting tool on Windows 11
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-notepad-to-get-ai-powered-rewriting-tool-on-windows-11/
+- title: Hackers increasingly use Winos4.0 post-exploitation kit in attacks
+  url: https://www.bleepingcomputer.com/news/security/hackers-increasingly-use-winos40-post-exploitation-kit-in-attacks/
 - title: Check Point Software Partners with OffSec to Elevate Cybersecurity Training
     for IGS Customers
   url: https://www.itsecurityguru.org/2024/11/05/check-point-software-partners-with-offsec-to-elevate-cybersecurity-training-for-igs-customers/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-partners-with-offsec-to-elevate-cybersecurity-training-for-igs-customers
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
-- title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
-    IPv6'
-  url: https://twit.tv/shows/security-now/episodes/998
+- title: 'SN 999: AI Vulnerability Discovery - RT''s AI TV Hosts, Windows 10 Updates'
+  url: https://twit.tv/shows/security-now/episodes/999
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: FBI fights fake news.
