@@ -9,8 +9,8 @@ entries:
   url: https://www.wired.com/story/russia-election-disinformation-2024-election-day/
 - title: The Power of Process in Creating a Successful Security Posture
   url: https://www.darkreading.com/cybersecurity-operations/process-in-creating-successful-security-posture
-- title: Subverting LLM Coders
-  url: https://www.schneier.com/blog/archives/2024/11/subverting-llm-coders.html
+- title: Prompt Injection Defenses Against LLM Cyberattacks
+  url: https://www.schneier.com/blog/archives/2024/11/prompt-injection-defenses-against-llm-cyberattacks.html
 - title: HPE warns of critical RCE flaws in Aruba Networking access points
   url: https://www.bleepingcomputer.com/news/security/hpe-warns-of-critical-rce-flaws-in-aruba-networking-access-points/
 - title: Check Point Software Partners with OffSec to Elevate Cybersecurity Training
