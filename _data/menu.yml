@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/ul-457
 - title: 764 Terror Network Member Richard Densmore Sentenced to 30 Years in Prison
   url: https://www.wired.com/story/richard-densmore-sentencing-764/
-- title: Mystery Hackers Target Texas Oilfield Supplier in Ransomware Attack
-  url: https://www.darkreading.com/cyberattacks-data-breaches/mystery-hackers-texas-oilfield-supplier-ransomware-attack
-- title: "AI Industry is Trying to Subvert the Definition of \u201COpen Source AI\u201D"
-  url: https://www.schneier.com/blog/archives/2024/11/ai-industry-is-trying-to-subvert-the-definition-of-open-source-ai.html
-- title: "D-Link won\u2019t fix critical flaw affecting 60,000 older NAS devices"
-  url: https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-flaw-affecting-60-000-older-nas-devices/
+- title: 6 Infotainment Bugs Allow Mazdas to Be Hacked With USBs
+  url: https://www.darkreading.com/vulnerabilities-threats/6-infotainment-bugs-mazda-usbs
+- title: 'Friday Squid Blogging: Squid-A-Rama in Des Moines'
+  url: https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-squid-a-rama-in-des-moines.html
+- title: Critical Veeam RCE bug now used in Frag ransomware attacks
+  url: https://www.bleepingcomputer.com/news/security/critical-veeam-rce-bug-now-used-in-frag-ransomware-attacks/
 - title: "How to Evaluate and Improve Your Organisation\u2019s Data Security Posture"
   url: https://www.itsecurityguru.org/2024/11/08/how-to-evaluate-and-improve-your-organisations-data-security-posture/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-evaluate-and-improve-your-organisations-data-security-posture
 - title: '151: Chris Rock'
