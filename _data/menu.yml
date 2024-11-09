@@ -1,9 +1,8 @@
 entries:
 - title: Canadian Man Arrested in Snowflake Data Extortions
   url: https://krebsonsecurity.com/2024/11/canadian-man-arrested-in-snowflake-data-extortions/
-- title: 'Webinar: Learn How Storytelling Can Make Cybersecurity Training Fun and
-    Effective'
-  url: https://thehackernews.com/2024/11/webinar-learn-how-storytelling-can-make.html
+- title: Palo Alto Advises Securing PAN-OS Interface Amid Potential RCE Threat Concerns
+  url: https://thehackernews.com/2024/11/palo-alto-advises-securing-pan-os.html
 - title: 'UL NO. 457: China Builds a Military App Using Meta Llama'
   url: https://danielmiessler.com/p/ul-457
 - title: 764 Terror Network Member Richard Densmore Sentenced to 30 Years in Prison
@@ -22,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/999
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: CISA issues urgent warning.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2187/notes
+- title: A firewall wake up call. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/313/notes
