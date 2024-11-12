@@ -7,8 +7,8 @@ entries:
   url: https://danielmiessler.com/p/ul-457
 - title: The WIRED Guide to Protecting Yourself From Government Surveillance
   url: https://www.wired.com/story/the-wired-guide-to-protecting-yourself-from-government-surveillance/
-- title: Incident Response, Anomaly Detection Rank High on Planned ICS Security Spending
-  url: https://www.darkreading.com/ics-ot-security/incident-response-anomaly-detection-rank-high-on-planned-ics-security-spending
+- title: 'The Power of the Purse: How to Ensure Security by Design'
+  url: https://www.darkreading.com/vulnerabilities-threats/power-purse-ensure-security-by-design
 - title: Criminals Exploiting FBI Emergency Data Requests
   url: https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html
 - title: iPhones now auto-restart to block access to encrypted data after long idle
