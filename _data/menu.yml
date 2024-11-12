@@ -11,14 +11,16 @@ entries:
   url: https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce
 - title: Criminals Exploiting FBI Emergency Data Requests
   url: https://www.schneier.com/blog/archives/2024/11/criminals-exploiting-fbi-emergency-data-requests.html
-- title: Volt Typhoon rebuilds malware botnet following FBI disruption
-  url: https://www.bleepingcomputer.com/news/security/volt-typhoon-rebuilds-malware-botnet-following-fbi-disruption/
-- title: Meta1st embraces AI for new approach to Human Risk Management
-  url: https://www.itsecurityguru.org/2024/11/11/meta1st-embraces-ai-for-new-approach-to-human-risk-management/?utm_source=rss&utm_medium=rss&utm_campaign=meta1st-embraces-ai-for-new-approach-to-human-risk-management
+- title: FBI, CISA, and NSA reveal most exploited vulnerabilities of 2023
+  url: https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-reveal-most-exploited-vulnerabilities-of-2023/
+- title: 'Expert Insight: The digital pandemic: How cyber threats are threatening
+    life as we know it'
+  url: https://www.itsecurityguru.org/2024/11/12/expert-insight-the-digital-pandemic-how-cyber-threats-are-threatening-life-as-we-know-it/?utm_source=rss&utm_medium=rss&utm_campaign=expert-insight-the-digital-pandemic-how-cyber-threats-are-threatening-life-as-we-know-it
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
-- title: 'SN 999: AI Vulnerability Discovery - RT''s AI TV Hosts, Windows 10 Updates'
-  url: https://twit.tv/shows/security-now/episodes/999
+- title: 'SN 998: The Endless Journey to IPv6 - AI-Driven Encryption, Session Messenger,
+    IPv6'
+  url: https://twit.tv/shows/security-now/episodes/998
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: Veterans Day Special. [CSO Perspectives]
