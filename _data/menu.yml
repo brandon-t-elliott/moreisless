@@ -1,9 +1,8 @@
 entries:
 - title: Microsoft Patch Tuesday, November 2024 Edition
   url: https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/
-- title: OvrC Platform Vulnerabilities Expose IoT Devices to Remote Attacks and Code
-    Execution
-  url: https://thehackernews.com/2024/11/ovrc-platform-vulnerabilities-expose.html
+- title: Comprehensive Guide to Building a Strong Browser Security Program
+  url: https://thehackernews.com/2024/11/comprehensive-guide-to-building-strong.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
