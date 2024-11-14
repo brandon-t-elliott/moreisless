@@ -1,8 +1,8 @@
 entries:
 - title: Microsoft Patch Tuesday, November 2024 Edition
   url: https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/
-- title: 5 BCDR Oversights That Leave You Exposed to Ransomware
-  url: https://thehackernews.com/2024/11/5-bcdr-oversights-that-leave-you-exposed-to-ransomware.html
+- title: Google Warns of Rising Cloaking Scams, AI-Driven Fraud, and Crypto Schemes
+  url: https://thehackernews.com/2024/11/google-warns-of-rising-cloaking-scams.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
@@ -14,9 +14,8 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/11/new-ios-security-feature-makes-it-harder-for-police-to-unlock-seized-phones.html
 - title: "US govt officials\u2019 communications compromised in recent telecom hack"
   url: https://www.bleepingcomputer.com/news/security/chinese-hackers-compromised-us-government-officials-private-communications-in-recent-telecom-breach/
-- title: Black Duck Honoured as a Leading Provider in Software Composition Analysis
-    by Top Research Firm
-  url: https://www.itsecurityguru.org/2024/11/13/black-duck-honoured-as-a-leading-provider-in-software-composition-analysis-by-top-research-firm/?utm_source=rss&utm_medium=rss&utm_campaign=black-duck-honoured-as-a-leading-provider-in-software-composition-analysis-by-top-research-firm
+- title: "New educational campaign \u201CFlex Your Cyber\u201D launched"
+  url: https://www.itsecurityguru.org/2024/11/14/new-educational-campaign-flex-your-cyber-launched/?utm_source=rss&utm_medium=rss&utm_campaign=new-educational-campaign-flex-your-cyber-launched
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1000: One Thousand - Windows Server 2025, Malicious Python Typos'
