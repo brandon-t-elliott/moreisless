@@ -1,22 +1,21 @@
 entries:
-- title: Microsoft Patch Tuesday, November 2024 Edition
-  url: https://krebsonsecurity.com/2024/11/microsoft-patch-tuesday-november-2024-edition/
-- title: Experts Uncover 70,000 Hijacked Domains in Widespread 'Sitting Ducks' Attack
-    Scheme
-  url: https://thehackernews.com/2024/11/experts-uncover-70000-hijacked-domains.html
+- title: An Interview With the Target & Home Depot Hacker
+  url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
+- title: How AI Is Transforming IAM and Identity Security
+  url: https://thehackernews.com/2024/11/how-ai-is-transforming-iam-and-identity.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
 - title: "More Spyware, Fewer Rules: What Trump\u2019s Return Means for US Cybersecurity"
   url: https://www.wired.com/story/trump-administration-cybersecurity-policy-reversals/
-- title: Frenos Takes Home the Prize at 2024 DataTribe Challenge
-  url: https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge
+- title: TSA Proposes Cyber Risk Mandates for Pipelines, Transportation Systems
+  url: https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation
 - title: New iOS Security Feature Makes It Harder for Police to Unlock Seized Phones
   url: https://www.schneier.com/blog/archives/2024/11/new-ios-security-feature-makes-it-harder-for-police-to-unlock-seized-phones.html
 - title: Microsoft just killed the Windows 10 Beta Channel again
   url: https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-again/
-- title: "New educational campaign \u201CFlex Your Cyber\u201D launched"
-  url: https://www.itsecurityguru.org/2024/11/14/new-educational-campaign-flex-your-cyber-launched/?utm_source=rss&utm_medium=rss&utm_campaign=new-educational-campaign-flex-your-cyber-launched
+- title: Research Highlights SHA256 Password Security Strengths and Risks
+  url: https://www.itsecurityguru.org/2024/11/15/research-highlights-sha256-password-security-strengths-and-risks/?utm_source=rss&utm_medium=rss&utm_campaign=research-highlights-sha256-password-security-strengths-and-risks
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1000: One Thousand - Windows Server 2025, Malicious Python Typos'
