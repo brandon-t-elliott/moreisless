@@ -1,8 +1,8 @@
 entries:
 - title: An Interview With the Target & Home Depot Hacker
   url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: Iranian Hackers Deploy WezRat Malware in Attacks Targeting Israeli Organizations
-  url: https://thehackernews.com/2024/11/iranian-hackers-deploy-wezrat-malware.html
+- title: "PAN-OS Firewall Vulnerability Under Active Exploitation \u2013 IoCs Released"
+  url: https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1000
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'One tap, total access: Pegasus exploits unveiled.'
-  url: https://thecyberwire.com/podcasts/daily-podcast/2191/notes
+- title: Credential harvesters in the cloud. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/354/notes
