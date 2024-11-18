@@ -1,8 +1,9 @@
 entries:
 - title: An Interview With the Target & Home Depot Hacker
   url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: "PAN-OS Firewall Vulnerability Under Active Exploitation \u2013 IoCs Released"
-  url: https://thehackernews.com/2024/11/pan-os-firewall-vulnerability-under.html
+- title: NSO Group Exploited WhatsApp to Install Pegasus Spyware Even After Meta's
+    Lawsuit
+  url: https://thehackernews.com/2024/11/nso-group-exploited-whatsapp-to-install.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
@@ -22,6 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1000
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Teresa Shea: The challenge of adapting new technologies. [Intelligence]
-    [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/42/notes
+- title: Cyber-entrepreneurship in the age of CyberAI. [CSO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/104/notes
