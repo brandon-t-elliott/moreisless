@@ -1,20 +1,20 @@
 entries:
 - title: An Interview With the Target & Home Depot Hacker
   url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: The Problem of Permissions and Non-Human Identities - Why Remediating Credentials
-    Takes Longer Than You Think
-  url: https://thehackernews.com/2024/11/the-problem-of-permissions-and-non.html
+- title: New Stealthy BabbleLoader Malware Spotted Delivering WhiteSnake and Meduza
+    Stealers
+  url: https://thehackernews.com/2024/11/new-stealthy-babbleloader-malware.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
 - title: Bitfinex Hacker Gets 5 Years for $10 Billion Bitcoin Heist
   url: https://www.wired.com/story/bitfinex-hacker-gets-5-years-for-10-billion-bitcoin-heist/
-- title: Why the Demand for Cybersecurity Innovation Is Surging
-  url: https://www.darkreading.com/cyberattacks-data-breaches/why-demand-cybersecurity-innovation-is-surging
+- title: Palo Alto Networks Patches Critical Zero-Day Firewall Bug
+  url: https://www.darkreading.com/cyberattacks-data-breaches/palo-alto-networks-patches-critical-zero-day-bug-firewalls
 - title: "Most of 2023\u2019s Top Exploited Vulnerabilities Were Zero-Days"
   url: https://www.schneier.com/blog/archives/2024/11/most-of-2023s-top-exploited-vulnerabilities-were-zero-days.html
-- title: Microsoft 365 Admin portal abused to send sextortion emails
-  url: https://www.bleepingcomputer.com/news/security/microsoft-365-admin-portal-abused-to-send-sextortion-emails/
+- title: Fake Bitwarden ads on Facebook push info-stealing Chrome extension
+  url: https://www.bleepingcomputer.com/news/security/fake-bitwarden-ads-on-facebook-push-info-stealing-chrome-extension/
 - title: The Stealthy Success of Passkeys
   url: https://www.itsecurityguru.org/2024/11/18/the-stealthy-success-of-passkeys/?utm_source=rss&utm_medium=rss&utm_campaign=the-stealthy-success-of-passkeys
 - title: '151: Chris Rock'
