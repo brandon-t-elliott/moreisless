@@ -1,9 +1,8 @@
 entries:
 - title: An Interview With the Target & Home Depot Hacker
   url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: NSO Group Exploited WhatsApp to Install Pegasus Spyware Even After Meta's
-    Lawsuit
-  url: https://thehackernews.com/2024/11/nso-group-exploited-whatsapp-to-install.html
+- title: Fake Discount Sites Exploit Black Friday to Hijack Shopper Information
+  url: https://thehackernews.com/2024/11/fake-discount-sites-exploit-black.html
 - title: 'UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back
     Framework'
   url: https://danielmiessler.com/p/ul-458
@@ -15,8 +14,8 @@ entries:
   url: https://www.schneier.com/blog/archives/2024/11/friday-squid-blogging-female-gonatus-onyx-squid-carrying-her-eggs.html
 - title: Phishing emails increasingly use SVG attachments to evade detection
   url: https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/
-- title: 'Interconnectivity and cyber risk: A double-edged sword'
-  url: https://www.itsecurityguru.org/2024/11/15/interconnectivity-and-cyber-risk-a-double-edged-sword/?utm_source=rss&utm_medium=rss&utm_campaign=interconnectivity-and-cyber-risk-a-double-edged-sword
+- title: The Stealthy Success of Passkeys
+  url: https://www.itsecurityguru.org/2024/11/18/the-stealthy-success-of-passkeys/?utm_source=rss&utm_medium=rss&utm_campaign=the-stealthy-success-of-passkeys
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1000: One Thousand - Windows Server 2025, Malicious Python Typos'
