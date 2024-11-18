@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/palo-alto-networks-patches-critical-zero-day-bug-firewalls
 - title: "Most of 2023\u2019s Top Exploited Vulnerabilities Were Zero-Days"
   url: https://www.schneier.com/blog/archives/2024/11/most-of-2023s-top-exploited-vulnerabilities-were-zero-days.html
-- title: Fake Bitwarden ads on Facebook push info-stealing Chrome extension
-  url: https://www.bleepingcomputer.com/news/security/fake-bitwarden-ads-on-facebook-push-info-stealing-chrome-extension/
+- title: Critical RCE bug in VMware vCenter Server now exploited in attacks
+  url: https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/
 - title: The Stealthy Success of Passkeys
   url: https://www.itsecurityguru.org/2024/11/18/the-stealthy-success-of-passkeys/?utm_source=rss&utm_medium=rss&utm_campaign=the-stealthy-success-of-passkeys
 - title: '151: Chris Rock'
