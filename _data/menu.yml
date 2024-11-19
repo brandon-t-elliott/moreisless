@@ -6,18 +6,17 @@ entries:
 - title: 'UL NO. 459: New Active 0-day Exploitation, AI That Sees Your Open Apps,
     The RebootAI Project'
   url: https://danielmiessler.com/p/ul-459
-- title: ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion
-    Centers
+- title: Immigration Police Can Already Sidestep US Sanctuary City Laws Using Data-Sharing
+    Fusion Centers
   url: https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/
 - title: Salt Typhoon Hits T-Mobile as Part of Telecom Attack Spree
   url: https://www.darkreading.com/cloud-security/salt-typhoon-tmobile-telecom-attack-spree
 - title: Why Italy Sells So Much Spyware
   url: https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html
-- title: New Windows 11 recovery tool to let admins remotely fix unbootable devices
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-quick-machine-recovery-lets-admins-remotely-fix-unbootable-devices/
-- title: New Threat Report from Cato Networks Reveals Ransomware Gangs Recruiting
-    Penetration Testers to Improve Effectiveness of Attacks
-  url: https://www.itsecurityguru.org/2024/11/19/new-threat-report-from-cato-networks-reveals-ransomware-gangs-recruiting-penetration-testers-to-improve-effectiveness-of-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=new-threat-report-from-cato-networks-reveals-ransomware-gangs-recruiting-penetration-testers-to-improve-effectiveness-of-attacks
+- title: D-Link urges users to retire VPN routers impacted by unfixed RCE flaw
+  url: https://www.bleepingcomputer.com/news/security/d-link-urges-users-to-retire-vpn-routers-impacted-by-unfixed-rce-flaw/
+- title: Hornetsecurity launches DMARC Manager to protect against fraud and phishing
+  url: https://www.itsecurityguru.org/2024/11/19/hornetsecurity-launches-dmarc-manager-to-protect-against-fraud-and-phishing/?utm_source=rss&utm_medium=rss&utm_campaign=hornetsecurity-launches-dmarc-manager-to-protect-against-fraud-and-phishing
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1000: One Thousand - Windows Server 2025, Malicious Python Typos'
