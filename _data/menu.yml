@@ -1,8 +1,9 @@
 entries:
 - title: An Interview With the Target & Home Depot Hacker
   url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: New 'Helldown' Ransomware Variant Expands Attacks to VMware and Linux Systems
-  url: https://thehackernews.com/2024/11/new-helldown-ransomware-expands-attacks.html
+- title: 'Privileged Accounts, Hidden Threats: Why Privileged Access Security Must
+    Be a Top Priority'
+  url: https://thehackernews.com/2024/11/privileged-accounts-hidden-threats-why.html
 - title: 'UL NO. 459: New Active 0-day Exploitation, AI That Sees Your Open Apps,
     The RebootAI Project'
   url: https://danielmiessler.com/p/ul-459
@@ -11,8 +12,8 @@ entries:
   url: https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/
 - title: 'WhatsApp: NSO Group Operates Pegasus Spyware for Customers'
   url: https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware
-- title: "Most of 2023\u2019s Top Exploited Vulnerabilities Were Zero-Days"
-  url: https://www.schneier.com/blog/archives/2024/11/most-of-2023s-top-exploited-vulnerabilities-were-zero-days.html
+- title: Why Italy Sells So Much Spyware
+  url: https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html
 - title: Spotify abused to promote pirated software and game cheats
   url: https://www.bleepingcomputer.com/news/security/spotify-abused-to-promote-pirated-software-and-game-cheats/
 - title: The Stealthy Success of Passkeys
