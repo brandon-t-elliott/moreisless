@@ -13,10 +13,11 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/we-can-do-better-than-free-credit-monitoring-after-breach
 - title: Why Italy Sells So Much Spyware
   url: https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html
-- title: Microsoft shares more details on Windows 11 admin protection
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-more-details-on-windows-11-admin-protection/
-- title: The Stealthy Success of Passkeys
-  url: https://www.itsecurityguru.org/2024/11/18/the-stealthy-success-of-passkeys/?utm_source=rss&utm_medium=rss&utm_campaign=the-stealthy-success-of-passkeys
+- title: New Windows 11 recovery tool to let admins remotely fix unbootable devices
+  url: https://www.bleepingcomputer.com/news/microsoft/windows-quick-machine-recovery-lets-admins-remotely-fix-unbootable-devices/
+- title: New Threat Report from Cato Networks Reveals Ransomware Gangs Recruiting
+    Penetration Testers to Improve Effectiveness of Attacks
+  url: https://www.itsecurityguru.org/2024/11/19/new-threat-report-from-cato-networks-reveals-ransomware-gangs-recruiting-penetration-testers-to-improve-effectiveness-of-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=new-threat-report-from-cato-networks-reveals-ransomware-gangs-recruiting-penetration-testers-to-improve-effectiveness-of-attacks
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1000: One Thousand - Windows Server 2025, Malicious Python Typos'
