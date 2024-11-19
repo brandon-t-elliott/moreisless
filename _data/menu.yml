@@ -1,17 +1,16 @@
 entries:
 - title: An Interview With the Target & Home Depot Hacker
   url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: 'Privileged Accounts, Hidden Threats: Why Privileged Access Security Must
-    Be a Top Priority'
-  url: https://thehackernews.com/2024/11/privileged-accounts-hidden-threats-why.html
+- title: Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices
+  url: https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html
 - title: 'UL NO. 459: New Active 0-day Exploitation, AI That Sees Your Open Apps,
     The RebootAI Project'
   url: https://danielmiessler.com/p/ul-459
 - title: ICE Can Already Sidestep Sanctuary City Laws Through Data-Sharing Fusion
     Centers
   url: https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/
-- title: 'WhatsApp: NSO Group Operates Pegasus Spyware for Customers'
-  url: https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware
+- title: We Can Do Better Than Free Credit Monitoring After a Breach
+  url: https://www.darkreading.com/cyberattacks-data-breaches/we-can-do-better-than-free-credit-monitoring-after-breach
 - title: Why Italy Sells So Much Spyware
   url: https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html
 - title: Microsoft shares more details on Windows 11 admin protection
