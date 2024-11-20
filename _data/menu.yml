@@ -1,15 +1,15 @@
 entries:
-- title: An Interview With the Target & Home Depot Hacker
-  url: https://krebsonsecurity.com/2024/11/an-interview-with-the-target-home-depot-hacker/
-- title: Ngioweb Botnet Fuels NSOCKS Residential Proxy Network Exploiting IoT Devices
-  url: https://thehackernews.com/2024/11/ngioweb-botnet-fuels-nsocks-residential.html
+- title: Fintech Giant Finastra Investigating Data Breach
+  url: https://krebsonsecurity.com/2024/11/fintech-giant-finastra-investigating-data-breach/
+- title: Decades-Old Security Vulnerabilities Found in Ubuntu's Needrestart Package
+  url: https://thehackernews.com/2024/11/decades-old-security-vulnerabilities.html
 - title: 'Frontview Mirror: 2025 Edition'
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
-- title: Immigration Police Can Already Sidestep US Sanctuary City Laws Using Data-Sharing
-    Fusion Centers
-  url: https://www.wired.com/story/ice-sanctuary-cities-fusion-centers/
-- title: Linux Variant of Helldown Ransomware Targets VMware ESxi Systems
-  url: https://www.darkreading.com/cyberattacks-data-breaches/linux-variant-helldown-ransomware-targets-vmware
+- title: Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and
+    Brothels in Germany
+  url: https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/
+- title: African Reliance on Foreign Suppliers Boosts Insecurity Concerns
+  url: https://www.darkreading.com/cyber-risk/african-reliance-on-foreign-suppliers-boosts-insecurity
 - title: Why Italy Sells So Much Spyware
   url: https://www.schneier.com/blog/archives/2024/11/why-italy-sells-so-much-spyware.html
 - title: Apple fixes two zero-days used in attacks on Intel-based Macs
@@ -18,8 +18,9 @@ entries:
   url: https://www.itsecurityguru.org/2024/11/19/hornetsecurity-launches-dmarc-manager-to-protect-against-fraud-and-phishing/?utm_source=rss&utm_medium=rss&utm_campaign=hornetsecurity-launches-dmarc-manager-to-protect-against-fraud-and-phishing
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
-- title: 'SN 1000: One Thousand - Windows Server 2025, Malicious Python Typos'
-  url: https://twit.tv/shows/security-now/episodes/1000
+- title: 'SN 1001: Artificial General Intelligence (AGI) - Gmail Temp Addresses, Russia''s
+    Internet Off Switch'
+  url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: 'Biden vs. Trump: A tale of two cybersecurity strategies.'
