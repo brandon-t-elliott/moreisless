@@ -1,6 +1,6 @@
 entries:
-- title: Fintech Giant Finastra Investigating Data Breach
-  url: https://krebsonsecurity.com/2024/11/fintech-giant-finastra-investigating-data-breach/
+- title: "Feds Charge Five Men in \u2018Scattered Spider\u2019 Roundup"
+  url: https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/
 - title: 'Warning: Over 2,000 Palo Alto Networks Devices Hacked in Ongoing Attack
     Campaign'
   url: https://thehackernews.com/2024/11/warning-over-2000-palo-alto-networks.html
@@ -8,8 +8,8 @@ entries:
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: Meta Finally Breaks Its Silence on Pig Butchering
   url: https://www.wired.com/story/meta-pig-butchering-report-2024/
-- title: Scattered Spider Cybercrime Members Face Prison Time
-  url: https://www.darkreading.com/cybersecurity-operations/scattered-spider-cybercrime-members-face-prison-time
+- title: Chinese APT Gelsemium Deploys 'Wolfsbane' Linux Variant
+  url: https://www.darkreading.com/threat-intelligence/chinese-apt-gelsemium-wolfsbane-linux-variant
 - title: "Secret Service Tracking People\u2019s Locations without Warrant"
   url: https://www.schneier.com/blog/archives/2024/11/secret-service-tracking-peoples-locations-without-warrant.html
 - title: Microsoft pulls WinAppSDK update breaking Windows 10 app uninstalls
