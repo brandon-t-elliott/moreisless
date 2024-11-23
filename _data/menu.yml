@@ -1,8 +1,8 @@
 entries:
 - title: "Feds Charge Five Men in \u2018Scattered Spider\u2019 Roundup"
   url: https://krebsonsecurity.com/2024/11/feds-charge-five-men-in-scattered-spider-roundup/
-- title: Russian Hackers Deploy HATVIBE and CHERRYSPY Malware Across Europe and Asia
-  url: https://thehackernews.com/2024/11/russian-hackers-deploy-hatvibe-and.html
+- title: APT-K-47 Uses Hajj-Themed Lures to Deliver Advanced Asyncshell Malware
+  url: https://thehackernews.com/2024/11/apt-k-47-uses-hajj-themed-lures-to.html
 - title: 'Frontview Mirror: 2025 Edition'
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: The US Is Calling Out Foreign Influence Campaigns Faster Than Ever
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A not so BASIC farewell.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2195/notes
+- title: Exposing AI's Achilles heel. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/355/notes
