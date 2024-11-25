@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: "Russia\u2019s Ballistic Missile Attack on Ukraine Is an Alarming First"
   url: https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/
-- title: Faux ChatGPT, Claude API Packages Deliver JarkaStealer
-  url: https://www.darkreading.com/application-security/faux-chatgpt-claude-api-packages-jarkastealer
+- title: Closing the Cybersecurity Career Diversity Gap
+  url: https://www.darkreading.com/cybersecurity-operations/closing-cybersecurity-career-diversity-gap
 - title: Security Analysis of the MERGE Voting Protocol
   url: https://www.schneier.com/blog/archives/2024/11/security-analysis-of-the-merge-voting-protocol.html
-- title: Windows 11 24H2 update blocked on PCs with Assassin's Creed, Star Wars Outlaws
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-halts-windows-11-24h2-update-on-pcs-assassins-creed-star-wars-outlaws/
+- title: Microsoft 365 outage impacts Exchange Online, Teams, Sharepoint
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-impacts-exchange-online-teams-sharepoint/
 - title: Check Point Software Named A Leader in GigaOm Cloud Radar
   url: https://www.itsecurityguru.org/2024/11/22/check-point-software-named-a-leader-in-gigaom-cloud-radar/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-named-a-leader-in-gigaom-cloud-radar
 - title: '151: Chris Rock'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: So you want to write a book about AI and cybersecurity? [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/105/notes
+- title: 'Greg Bell: Answer the question of "why?" [Open Source] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/43/notes
