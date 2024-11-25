@@ -8,12 +8,12 @@ entries:
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: "Russia\u2019s Ballistic Missile Attack on Ukraine Is an Alarming First"
   url: https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/
-- title: Fancy Bear 'Nearest Neighbor' Attack Uses Nearby Wi-Fi Network
-  url: https://www.darkreading.com/cyberattacks-data-breaches/fancy-bear-nearest-neighbor-attack-wi-fi
+- title: Phishing Prevention Framework Reduces Incidents by Half
+  url: https://www.darkreading.com/cybersecurity-operations/phishing-prevention-framework-reduces-incidents-by-half
 - title: Security Analysis of the MERGE Voting Protocol
   url: https://www.schneier.com/blog/archives/2024/11/security-analysis-of-the-merge-voting-protocol.html
-- title: 'DOJ: Man hacked networks to pitch cybersecurity services'
-  url: https://www.bleepingcomputer.com/news/security/doj-man-hacked-networks-to-pitch-cybersecurity-services/
+- title: New Windows 10 0x80073CFA fix requires installing WinAppSDK 3 times
+  url: https://www.bleepingcomputer.com/news/microsoft/new-windows-10-0x80073cfa-fix-requires-installing-winappsdk-3-times/
 - title: Check Point Software Named A Leader in GigaOm Cloud Radar
   url: https://www.itsecurityguru.org/2024/11/22/check-point-software-named-a-leader-in-gigaom-cloud-radar/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-named-a-leader-in-gigaom-cloud-radar
 - title: '151: Chris Rock'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Greg Bell: Answer the question of "why?" [Open Source] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/43/notes
+- title: Novel attacks and creative phishing angles.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2197/notes
