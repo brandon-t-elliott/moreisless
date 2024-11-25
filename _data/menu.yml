@@ -8,8 +8,8 @@ entries:
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: "Russia\u2019s Ballistic Missile Attack on Ukraine Is an Alarming First"
   url: https://www.wired.com/story/russia-ballistic-missile-attack-ukraine-alarming-first/
-- title: Closing the Cybersecurity Career Diversity Gap
-  url: https://www.darkreading.com/cybersecurity-operations/closing-cybersecurity-career-diversity-gap
+- title: Fancy Bear 'Nearest Neighbor' Attack Uses Nearby Wi-Fi Network
+  url: https://www.darkreading.com/cyberattacks-data-breaches/fancy-bear-nearest-neighbor-attack-wi-fi
 - title: Security Analysis of the MERGE Voting Protocol
   url: https://www.schneier.com/blog/archives/2024/11/security-analysis-of-the-merge-voting-protocol.html
 - title: Microsoft blocks Windows 11 24H2 on some PCs with USB scanners
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Greg Bell: Answer the question of "why?" [Open Source] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/43/notes
+- title: So you want to write a book about AI and cybersecurity? [CSO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/105/notes
