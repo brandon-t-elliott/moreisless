@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/fancy-bear-nearest-neighbor-attack-wi-fi
 - title: Security Analysis of the MERGE Voting Protocol
   url: https://www.schneier.com/blog/archives/2024/11/security-analysis-of-the-merge-voting-protocol.html
-- title: Microsoft blocks Windows 11 24H2 on some PCs with USB scanners
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-some-pcs-with-usb-scanners/
+- title: 'DOJ: Man hacked networks to pitch cybersecurity services'
+  url: https://www.bleepingcomputer.com/news/security/doj-man-hacked-networks-to-pitch-cybersecurity-services/
 - title: Check Point Software Named A Leader in GigaOm Cloud Radar
   url: https://www.itsecurityguru.org/2024/11/22/check-point-software-named-a-leader-in-gigaom-cloud-radar/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-software-named-a-leader-in-gigaom-cloud-radar
 - title: '151: Chris Rock'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: So you want to write a book about AI and cybersecurity? [CSO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/105/notes
+- title: 'Greg Bell: Answer the question of "why?" [Open Source] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/43/notes
