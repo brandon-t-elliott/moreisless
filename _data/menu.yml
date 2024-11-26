@@ -8,8 +8,8 @@ entries:
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: Emergency Vehicle Lights Can Screw Up a Car's Automated Driving System
   url: https://www.wired.com/story/emergency-vehicle-lights-can-screw-up-a-cars-automated-driving-system/
-- title: Salt Typhoon Builds Out Malware Arsenal With GhostSpider
-  url: https://www.darkreading.com/application-security/salt-typhoon-malware-arsenal-ghostspider
+- title: '''RomCom'' APT Mounts Zero-Day, Zero-Click Browser Escapes in Firefox, Tor'
+  url: https://www.darkreading.com/application-security/romcom-apt-zero-day-zero-click-browser-escapes-firefox-tor
 - title: "What Graykey Can and Can\u2019t Unlock"
   url: https://www.schneier.com/blog/archives/2024/11/what-graykey-can-and-cant-unlock.html
 - title: 'NordVPN Black Friday Deal: Save up to 74% on yearly subscriptions'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Novel attacks and creative phishing angles.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2197/notes
+- title: Taking aim at cybercrime.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2198/notes
