@@ -1,9 +1,9 @@
 entries:
 - title: Hacker in Snowflake Extortions May Be a U.S. Soldier
   url: https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/
-- title: "Researchers Discover \"Bootkitty\" \u2013 First UEFI Bootkit Targeting Linux\
-    \ Kernels"
-  url: https://thehackernews.com/2024/11/researchers-discover-bootkitty-first.html
+- title: Cybercriminals Exploit Popular Game Engine Godot to Distribute Cross-Platform
+    Malware
+  url: https://thehackernews.com/2024/11/cybercriminals-exploit-popular-game.html
 - title: 'Frontview Mirror: 2025 Edition'
   url: https://danielmiessler.com/p/frontview-mirror-2025-edition
 - title: Emergency Vehicle Lights Can Screw Up a Car's Automated Driving System
@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cybersecurity-operations/operation-undercut-russia-malign-influence-campaigns
 - title: NSO Group Spies on People on Behalf of Governments
   url: https://www.schneier.com/blog/archives/2024/11/nso-group-spies-on-people-on-behalf-of-governments.html
-- title: Microsoft re-releases Exchange updates after fixing mail delivery
-  url: https://www.bleepingcomputer.com/news/security/microsoft-re-releases-exchange-updates-after-fixing-mail-delivery/
+- title: UK hospital network postpones procedures after cyberattack
+  url: https://www.bleepingcomputer.com/news/security/uk-hospital-network-postpones-procedures-after-cyberattack/
 - title: 'The Cybersecurity Risks of Black Friday 2024: What are the Experts Saying?
     Pt.2'
   url: https://www.itsecurityguru.org/2024/11/27/the-cybersecurity-risks-of-black-friday-2024-what-are-the-experts-saying-pt-2/?utm_source=rss&utm_medium=rss&utm_campaign=the-cybersecurity-risks-of-black-friday-2024-what-are-the-experts-saying-pt-2
@@ -24,5 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1002
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Grappling with a ransomware attack.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2199/notes
+- title: 'Solution Spotlight: Simone Petrella talking with Lee Parrish, CISO of Newell
+    Brands, about his book and security relationship management.  [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/69/notes
