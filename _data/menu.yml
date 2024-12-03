@@ -1,20 +1,20 @@
 entries:
-- title: Hacker in Snowflake Extortions May Be a U.S. Soldier
-  url: https://krebsonsecurity.com/2024/11/hacker-in-snowflake-extortions-may-be-a-u-s-soldier/
-- title: NachoVPN Tool Exploits Flaws in Popular VPN Clients for System Compromise
-  url: https://thehackernews.com/2024/12/nachovpn-tool-exploits-flaws-in-popular.html
+- title: Why Phishers Love New TLDs Like .shop, .top and .xyz
+  url: https://krebsonsecurity.com/2024/12/why-phishers-love-new-tlds-like-shop-top-and-xyz/
+- title: Cisco Warns of Exploitation of Decade-Old ASA WebVPN Vulnerability
+  url: https://thehackernews.com/2024/12/cisco-warns-of-exploitation-of-decade.html
 - title: 'UL NO. 460: CISA Exploded, The Chinese Telco Hack, Two Meta-skills'
   url: https://danielmiessler.com/p/ul-460
-- title: "Are You Being Tracked by an AirTag? Here\u2019s How to Check"
-  url: https://www.wired.com/story/how-to-find-airtags/
-- title: '''Bootkitty'' First Bootloader to Take Aim at Linux'
-  url: https://www.darkreading.com/cyber-risk/bootkitty-first-bootloader-target-linux-systems
+- title: Top US Consumer Watchdog Has a Plan to Fight Predatory Data Brokers
+  url: https://www.wired.com/story/cfpb-fcra-data-broker-oversight/
+- title: Note From the Editor-in-Chief
+  url: https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief
 - title: "Algorithms Are Coming for Democracy\u2014but It\u2019s Not All Bad"
   url: https://www.schneier.com/blog/archives/2024/12/algorithms-are-coming-for-democracy-but-its-not-all-bad.html
 - title: Korea arrests CEO for adding DDoS feature to satellite receivers
   url: https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/
-- title: F1 Williams Racing Chooses Keeper Security to Safeguard Data
-  url: https://www.itsecurityguru.org/2024/11/29/f1-williams-racing-chooses-keeper-security-to-safeguard-data/?utm_source=rss&utm_medium=rss&utm_campaign=f1-williams-racing-chooses-keeper-security-to-safeguard-data
+- title: Alleviating Alert Fatigue with an MSSP
+  url: https://www.itsecurityguru.org/2024/12/03/alleviating-alert-fatigue-with-an-mssp/?utm_source=rss&utm_medium=rss&utm_campaign=alleviating-alert-fatigue-with-an-mssp
 - title: '152: Stacc Attack'
   url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1001: Artificial General Intelligence (AGI) - Gmail Temp Addresses, Russia''s
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1001
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The international effort making digital spaces safer.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2200/notes
+- title: 'Debra Danielson: Be fearless. [CTO] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/44/notes
