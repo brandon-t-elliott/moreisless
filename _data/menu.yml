@@ -1,8 +1,9 @@
 entries:
 - title: U.S. Offered $10M for Hacker Just Arrested by Russia
   url: https://krebsonsecurity.com/2024/12/u-s-offered-10m-for-hacker-just-arrested-by-russia/
-- title: FSB Uses Trojan App to Monitor Russian Programmer Accused of Supporting Ukraine
-  url: https://thehackernews.com/2024/12/fsb-uses-trojan-app-to-monitor-russian.html
+- title: "Learn How Experts Secure Privileged Accounts\u2014Proven PAS Strategies\
+    \ Webinar"
+  url: https://thehackernews.com/2024/12/learn-how-experts-secure-privileged.html
 - title: 'Frontview Mirror: 2025 Edition'
   url: https://danielmiessler.com/p/frontview-mirror-2025
 - title: "The Real Story of \u201CThe Order\u201D"
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1003
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The NTLM bug that sees and steals.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2204/notes
+- title: The JPHP loader breaking away from the pack. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/356/notes
