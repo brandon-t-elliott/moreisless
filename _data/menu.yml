@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/application-security/microsoft-expands-access-windows-recall-ai-feature
 - title: 'Friday Squid Blogging: Safe Quick Undercarriage Immobilization Device'
   url: https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-safe-quick-undercarriage-immobilization-device.html
-- title: Ultralytics AI model hijacked to infect thousands with cryptominer
-  url: https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/
+- title: Anna Jaques Hospital ransomware breach exposed data of 300K patients
+  url: https://www.bleepingcomputer.com/news/security/anna-jaques-hospital-ransomware-breach-exposed-data-of-300k-patients/
 - title: Keeper Introduces Risk Management Dashboard for Enhanced Risk Visibility
     and Proactive Threat Mitigation
   url: https://www.itsecurityguru.org/2024/12/05/keeper-introduces-risk-management-dashboard-for-enhanced-risk-visibility-and-proactive-threat-mitigation/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-introduces-risk-management-dashboard-for-enhanced-risk-visibility-and-proactive-threat-mitigation
@@ -24,5 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1003
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The JPHP loader breaking away from the pack. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/356/notes
+- title: 'Aviv Grafi: There needs to be fundamental changes in security. [CEO] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/45/notes
