@@ -9,12 +9,12 @@ entries:
   url: https://danielmiessler.com/p/ul-461
 - title: Poker Cheaters Allegedly Use Tiny Hidden Cameras to Spot Dealt Cards
   url: https://www.wired.com/story/miniature-camera-poker-cheating/
-- title: Scottish Parliament TV at Risk From Deepfakes
-  url: https://www.darkreading.com/cyberattacks-data-breaches/scottish-parliament-tv-risk-deepfakes
+- title: '''Termite'' Ransomware Likely Behind Cleo Zero-Day Attacks'
+  url: https://www.darkreading.com/cyberattacks-data-breaches/termite-ransomware-behind-cleo-zero-day-attacks
 - title: Full-Face Masks to Frustrate Identification
   url: https://www.schneier.com/blog/archives/2024/12/full-face-masks-to-frustrate-identification.html
-- title: WPForms bug allows Stripe refunds on millions of WordPress sites
-  url: https://www.bleepingcomputer.com/news/security/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/
+- title: Wyden proposes bill to secure US telecoms after Salt Typhoon hacks
+  url: https://www.bleepingcomputer.com/news/security/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/
 - title: Androxgh0st Malware Continues Targeting IoT Devices and Critical Infrastructure
   url: https://www.itsecurityguru.org/2024/12/10/androxgh0st-malware-continues-targeting-iot-devices-and-critical-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=androxgh0st-malware-continues-targeting-iot-devices-and-critical-infrastructure
 - title: '152: Stacc Attack'
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1003
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Router security in jeopardy.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2205/notes
+- title: Buckets of trouble.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2206/notes
