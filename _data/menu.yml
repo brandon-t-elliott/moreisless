@@ -1,20 +1,21 @@
 entries:
 - title: Patch Tuesday, December 2024 Edition
   url: https://krebsonsecurity.com/2024/12/patch-tuesday-december-2024-edition/
-- title: Chinese EagleMsgSpy Spyware Found Exploiting Mobile Devices Since 2017
-  url: https://thehackernews.com/2024/12/chinese-eaglemsgspy-spyware-found.html
+- title: Microsoft MFA AuthQuake Flaw Enabled Unlimited Brute-Force Attempts Without
+    Alerts
+  url: https://thehackernews.com/2024/12/microsoft-mfa-authquake-flaw-enabled.html
 - title: "UL NO. 461: China\u2019s Telco Infiltration, Russia\u2019s Darknet Drug\
     \ Trade, AI-Driven Anti-Drone Warfare, and Apple\u2019s Next-Gen Body Recognition"
   url: https://danielmiessler.com/p/ul-461
 - title: "The \u2018Ghost Gun\u2019 Linked to Luigi Mangione Shows Just How Far 3D-Printed\
     \ Weapons Have Come"
   url: https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/
-- title: Governments, Telcos Ward Off China's Hacking Typhoons
-  url: https://www.darkreading.com/cyberattacks-data-breaches/governments-telcos-chinas-hacking-typhoons
+- title: Tips for Preventing Breaches in 2025
+  url: https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025
 - title: Jailbreaking LLM-Controlled Robots
   url: https://www.schneier.com/blog/archives/2024/12/jailbreaking-llm-controlled-robots.html
-- title: WPForms bug allows Stripe refunds on millions of WordPress sites
-  url: https://www.bleepingcomputer.com/news/security/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/
+- title: Krispy Kreme cyberattack impacts online orders and operations
+  url: https://www.bleepingcomputer.com/news/security/krispy-kreme-cyberattack-impacts-online-orders-and-operations/
 - title: KnowBe4 Report Finds 44% of HR Professionals Have Encountered Fraudulent
     or Scam Job Applications
   url: https://www.itsecurityguru.org/2024/12/11/knowbe4-report-finds-44-of-hr-professionals-have-encountered-fraudulent-or-scam-job-applications/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-report-finds-44-of-hr-professionals-have-encountered-fraudulent-or-scam-job-applications
