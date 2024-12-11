@@ -1,27 +1,27 @@
 entries:
-- title: U.S. Offered $10M for Hacker Just Arrested by Russia
-  url: https://krebsonsecurity.com/2024/12/u-s-offered-10m-for-hacker-just-arrested-by-russia/
-- title: "Cleo File Transfer Vulnerability Under Exploitation \u2013 Patch Pending,\
-    \ Mitigation Urged"
-  url: https://thehackernews.com/2024/12/cleo-file-transfer-vulnerability-under.html
+- title: Patch Tuesday, December 2024 Edition
+  url: https://krebsonsecurity.com/2024/12/patch-tuesday-december-2024-edition/
+- title: Microsoft Fixes 72 Flaws, Including Patch for Actively Exploited CLFS Vulnerability
+  url: https://thehackernews.com/2024/12/microsoft-fixes-72-flaws-including.html
 - title: "UL NO. 461: China\u2019s Telco Infiltration, Russia\u2019s Darknet Drug\
     \ Trade, AI-Driven Anti-Drone Warfare, and Apple\u2019s Next-Gen Body Recognition"
   url: https://danielmiessler.com/p/ul-461
-- title: Poker Cheaters Allegedly Use Tiny Hidden Cameras to Spot Dealt Cards
-  url: https://www.wired.com/story/miniature-camera-poker-cheating/
-- title: Actively Exploited Zero-Day, Critical RCEs Lead Microsoft Patch Tuesday
-  url: https://www.darkreading.com/application-security/microsoft-zero-day-critical-rces-patch-tuesday
+- title: "The \u2018Ghost Gun\u2019 Linked to Luigi Mangione Shows Just How Far 3D-Printed\
+    \ Weapons Have Come"
+  url: https://www.wired.com/story/luigi-mangione-united-healthcare-3d-printed-gun-fmda-chairmanwon-v1/
+- title: Governments, Telcos Ward Off China's Hacking Typhoons
+  url: https://www.darkreading.com/cyberattacks-data-breaches/governments-telcos-chinas-hacking-typhoons
 - title: Full-Face Masks to Frustrate Identification
   url: https://www.schneier.com/blog/archives/2024/12/full-face-masks-to-frustrate-identification.html
-- title: Wyden proposes bill to secure US telecoms after Salt Typhoon hacks
-  url: https://www.bleepingcomputer.com/news/security/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/
-- title: Androxgh0st Malware Continues Targeting IoT Devices and Critical Infrastructure
-  url: https://www.itsecurityguru.org/2024/12/10/androxgh0st-malware-continues-targeting-iot-devices-and-critical-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=androxgh0st-malware-continues-targeting-iot-devices-and-critical-infrastructure
+- title: WPForms bug allows Stripe refunds on millions of WordPress sites
+  url: https://www.bleepingcomputer.com/news/security/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/
+- title: 'ChatGPT Two Years On: Experts Weigh In'
+  url: https://www.itsecurityguru.org/2024/12/11/chatgpt-two-years-on-experts-weigh-in/?utm_source=rss&utm_medium=rss&utm_campaign=chatgpt-two-years-on-experts-weigh-in
 - title: '152: Stacc Attack'
   url: https://darknetdiaries.com/episode/152/
-- title: 'SN 1003: A Light-Day Away - Digital Epileptic Seizures, Tor Needs You, Zello
-    Password Panic, Wireguard''s Open Port Debate'
-  url: https://twit.tv/shows/security-now/episodes/1003
+- title: 'SN 1004: A Chat with GPT - China''s Telecom Hack, Microsoft Activation Cracked,
+    Coding with ChatGPT 4o'
+  url: https://twit.tv/shows/security-now/episodes/1004
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: Buckets of trouble.
