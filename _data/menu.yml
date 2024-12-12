@@ -1,9 +1,8 @@
 entries:
 - title: How Cryptocurrency Turns to Cash in Russian Banks
   url: https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/
-- title: WordPress Hunk Companion Plugin Flaw Exploited to Silently Install Vulnerable
-    Plugins
-  url: https://thehackernews.com/2024/12/wordpress-hunk-companion-plugin-flaw.html
+- title: Researchers Uncover Symlink Exploit Allowing TCC Bypass in iOS and macOS
+  url: https://thehackernews.com/2024/12/researchers-uncover-symlink-exploit.html
 - title: "UL NO. 461: China\u2019s Telco Infiltration, Russia\u2019s Darknet Drug\
     \ Trade, AI-Driven Anti-Drone Warfare, and Apple\u2019s Next-Gen Body Recognition"
   url: https://danielmiessler.com/p/ul-461
@@ -14,12 +13,11 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/chinese-hacker-pwns-81k-sophos-devices-with-zero-day-bug
 - title: Jailbreaking LLM-Controlled Robots
   url: https://www.schneier.com/blog/archives/2024/12/jailbreaking-llm-controlled-robots.html
-- title: Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024
-    MITRE ATT&CK Evaluation
-  url: https://www.bleepingcomputer.com/news/security/cynet-delivers-100-percent-protection-and-100-percent-detection-visibility-in-the-2024-mitre-attandck-evaluation/
-- title: KnowBe4 Report Finds 44% of HR Professionals Have Encountered Fraudulent
-    or Scam Job Applications
-  url: https://www.itsecurityguru.org/2024/12/11/knowbe4-report-finds-44-of-hr-professionals-have-encountered-fraudulent-or-scam-job-applications/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-report-finds-44-of-hr-professionals-have-encountered-fraudulent-or-scam-job-applications
+- title: Hunk Companion WordPress plugin exploited to install vulnerable plugins
+  url: https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/
+- title: Mike Morse Law Firm Chooses Keeper Security to Safeguard its Sensitive Legal
+    Data
+  url: https://www.itsecurityguru.org/2024/12/12/mike-morse-law-firm-chooses-keeper-security-to-safeguard-its-sensitive-legal-data/?utm_source=rss&utm_medium=rss&utm_campaign=mike-morse-law-firm-chooses-keeper-security-to-safeguard-its-sensitive-legal-data
 - title: '152: Stacc Attack'
   url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1004: A Chat with GPT - China''s Telecom Hack, Microsoft Activation Cracked,
