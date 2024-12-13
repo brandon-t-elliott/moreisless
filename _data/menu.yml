@@ -1,8 +1,8 @@
 entries:
 - title: How Cryptocurrency Turns to Cash in Russian Banks
   url: https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/
-- title: DoJ Indicts 14 North Koreans for $88M IT Worker Fraud Scheme Over Six Years
-  url: https://thehackernews.com/2024/12/doj-indicts-14-north-koreans-for-88m-it.html
+- title: Critical OpenWrt Vulnerability Exposes Devices to Malicious Firmware Injection
+  url: https://thehackernews.com/2024/12/critical-openwrt-vulnerability-exposes.html
 - title: "UL NO. 461: China\u2019s Telco Infiltration, Russia\u2019s Darknet Drug\
     \ Trade, AI-Driven Anti-Drone Warfare, and Apple\u2019s Next-Gen Body Recognition"
   url: https://danielmiessler.com/p/ul-461
@@ -12,10 +12,11 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/odata-injection-risk-low-code-no-code-environments
 - title: Ultralytics Supply-Chain Attack
   url: https://www.schneier.com/blog/archives/2024/12/ultralytics-supply-chain-attack.html
-- title: Germany blocks BadBox malware loaded on 30,000 Android devices
-  url: https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/
-- title: What is gRPC and How Does it Enhance API Security?
-  url: https://www.itsecurityguru.org/2024/12/13/what-is-grpc-and-how-does-it-enhance-api-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-grpc-and-how-does-it-enhance-api-security
+- title: Russian cyberspies target Android users with new spyware
+  url: https://www.bleepingcomputer.com/news/security/russian-gamaredon-cyberspies-target-android-users-with-new-spyware/
+- title: "Cyberint\u2019s 2024 Report Highlights Surge in Credential Theft and Rise\
+    \ of AI-Powered Phishing"
+  url: https://www.itsecurityguru.org/2024/12/13/cyberints-2024-report-highlights-surge-in-credential-theft-and-rise-of-ai-powered-phishing/?utm_source=rss&utm_medium=rss&utm_campaign=cyberints-2024-report-highlights-surge-in-credential-theft-and-rise-of-ai-powered-phishing
 - title: '151: Chris Rock'
   url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1004: A Chat with GPT - China''s Telecom Hack, Microsoft Activation Cracked,
