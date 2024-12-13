@@ -9,12 +9,12 @@ entries:
   url: https://danielmiessler.com/p/ul-461
 - title: The New Jersey Drone Mystery May Not Actually Be That Mysterious
   url: https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones/
-- title: OData Injection Risk in Low-Code/No-Code Environments
-  url: https://www.darkreading.com/vulnerabilities-threats/odata-injection-risk-low-code-no-code-environments
+- title: Generative AI Security Tools Go Open Source
+  url: https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source
 - title: Ultralytics Supply-Chain Attack
   url: https://www.schneier.com/blog/archives/2024/12/ultralytics-supply-chain-attack.html
-- title: FTC warns of online task job scams hooking victims like gambling
-  url: https://www.bleepingcomputer.com/news/security/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/
+- title: CISA confirms critical Cleo bug exploitation in ransomware attacks
+  url: https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/
 - title: Do(ug)h! Krispy Kreme Suffers Cyberattack
   url: https://www.itsecurityguru.org/2024/12/13/dough-krispy-kreme-suffers-cyberattack/?utm_source=rss&utm_medium=rss&utm_campaign=dough-krispy-kreme-suffers-cyberattack
 - title: '151: Chris Rock'
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1004
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When AI goes offline.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2208/notes
+- title: Hackers in handcuffs.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2209/notes
