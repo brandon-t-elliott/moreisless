@@ -9,16 +9,17 @@ entries:
   url: https://danielmiessler.com/p/ul-461
 - title: The New Jersey Drone Mystery May Not Actually Be That Mysterious
   url: https://www.wired.com/story/new-jersey-drone-mystery-maybe-not-drones/
-- title: Generative AI Security Tools Go Open Source
-  url: https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source
-- title: Ultralytics Supply-Chain Attack
-  url: https://www.schneier.com/blog/archives/2024/12/ultralytics-supply-chain-attack.html
-- title: CISA confirms critical Cleo bug exploitation in ransomware attacks
-  url: https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/
+- title: Zerto Introduces Cloud Vault Solution for Enhanced Cyber Resilience Through
+    MSPs
+  url: https://www.darkreading.com/cloud-security/zerto-introduces-cloud-vault-solution-for-enhanced-cyber-resilience-through-msps
+- title: 'Friday Squid Blogging: Biology and Ecology of the Colossal Squid'
+  url: https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-biology-and-ecology-of-the-colossal-squid.html
+- title: Citrix shares mitigations for ongoing Netscaler password spray attacks
+  url: https://www.bleepingcomputer.com/news/security/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/
 - title: Do(ug)h! Krispy Kreme Suffers Cyberattack
   url: https://www.itsecurityguru.org/2024/12/13/dough-krispy-kreme-suffers-cyberattack/?utm_source=rss&utm_medium=rss&utm_campaign=dough-krispy-kreme-suffers-cyberattack
-- title: '151: Chris Rock'
-  url: https://darknetdiaries.com/episode/151/
+- title: '152: Stacc Attack'
+  url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1004: A Chat with GPT - China''s Telecom Hack, Microsoft Activation Cracked,
     Coding with ChatGPT 4o'
   url: https://twit.tv/shows/security-now/episodes/1004
