@@ -1,8 +1,8 @@
 entries:
 - title: How Cryptocurrency Turns to Cash in Russian Banks
   url: https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/
-- title: New Linux Rootkit PUMAKIT Uses Advanced Stealth Techniques to Evade Detection
-  url: https://thehackernews.com/2024/12/new-linux-rootkit-pumakit-uses-advanced.html
+- title: Iran-Linked IOCONTROL Malware Targets SCADA and Linux-Based IoT Platforms
+  url: https://thehackernews.com/2024/12/iran-linked-iocontrol-malware-targets.html
 - title: "UL NO. 461: China\u2019s Telco Infiltration, Russia\u2019s Darknet Drug\
     \ Trade, AI-Driven Anti-Drone Warfare, and Apple\u2019s Next-Gen Body Recognition"
   url: https://danielmiessler.com/p/ul-461
@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/dubai-police-lures-uae-mobile-attacks
 - title: Jailbreaking LLM-Controlled Robots
   url: https://www.schneier.com/blog/archives/2024/12/jailbreaking-llm-controlled-robots.html
-- title: Police shuts down Rydox cybercrime market, arrests 3 admins
-  url: https://www.bleepingcomputer.com/news/security/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/
+- title: New stealthy Pumakit Linux rootkit malware spotted in the wild
+  url: https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/
 - title: What is gRPC and How Does it Enhance API Security?
   url: https://www.itsecurityguru.org/2024/12/13/what-is-grpc-and-how-does-it-enhance-api-security/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-grpc-and-how-does-it-enhance-api-security
 - title: '152: Stacc Attack'
