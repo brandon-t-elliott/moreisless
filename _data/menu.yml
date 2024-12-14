@@ -1,9 +1,9 @@
 entries:
 - title: How Cryptocurrency Turns to Cash in Russian Banks
   url: https://krebsonsecurity.com/2024/12/how-cryptocurrency-turns-to-cash-in-russian-banks/
-- title: 390,000+ WordPress Credentials Stolen via Malicious GitHub Repository Hosting
-    PoC Exploits
-  url: https://thehackernews.com/2024/12/390000-wordpress-credentials-stolen-via.html
+- title: Thai Officials Targeted in Yokai Backdoor Campaign Using DLL Side-Loading
+    Techniques
+  url: https://thehackernews.com/2024/12/thai-officials-targeted-in-yokai.html
 - title: "UL NO. 461: China\u2019s Telco Infiltration, Russia\u2019s Darknet Drug\
     \ Trade, AI-Driven Anti-Drone Warfare, and Apple\u2019s Next-Gen Body Recognition"
   url: https://danielmiessler.com/p/ul-461
@@ -25,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1004
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Hackers in handcuffs.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2209/notes
+- title: Watching the watchers. IoT vulnerabilities exposed by AI. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/357/notes
