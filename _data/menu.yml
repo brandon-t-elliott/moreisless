@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/application-security/does-desktop-ai-risk
 - title: "Short-Lived Certificates Coming to Let\u2019s Encrypt"
   url: https://www.schneier.com/blog/archives/2024/12/short-lived-certificates-coming-to-lets-encrypt.html
-- title: Windows kernel bug now exploited in attacks to gain SYSTEM privileges
-  url: https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/
+- title: Kali Linux 2024.4 released with 14 new tools, deprecates some features
+  url: https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/
 - title: "Why It\u2019s Time to Replace Your Legacy SIEM and What to Consider as a\
     \ Replacement?"
   url: https://www.itsecurityguru.org/2024/12/16/why-its-time-to-replace-your-legacy-siem-and-what-to-consider-as-a-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=why-its-time-to-replace-your-legacy-siem-and-what-to-consider-as-a-replacement
@@ -25,6 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1004
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Marcelle Lee: Cyber sleuth detecting emerging threats. [Research] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/46/notes
+- title: Rhode Island cyberattack exposes sensitive data.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2210/notes
