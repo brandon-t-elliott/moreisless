@@ -9,8 +9,8 @@ entries:
   url: https://danielmiessler.com/p/ul-462
 - title: The Top Cybersecurity Agency in the US Is Bracing for Donald Trump
   url: https://www.wired.com/story/cisa-cuts-trump-2/
-- title: 'The Education Industry: Why Its Data Must Be Protected'
-  url: https://www.darkreading.com/vulnerabilities-threats/education-industry-data-must-be-protected
+- title: Does Desktop AI Come With a Side of Risk?
+  url: https://www.darkreading.com/application-security/does-desktop-ai-risk
 - title: "Short-Lived Certificates Coming to Let\u2019s Encrypt"
   url: https://www.schneier.com/blog/archives/2024/12/short-lived-certificates-coming-to-lets-encrypt.html
 - title: Windows kernel bug now exploited in attacks to gain SYSTEM privileges
