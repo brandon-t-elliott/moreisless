@@ -1,8 +1,8 @@
 entries:
 - title: How to Lose a Fortune with Just One Bad Click
   url: https://krebsonsecurity.com/2024/12/how-to-lose-a-fortune-with-just-one-bad-click/
-- title: Juniper Warns of Mirai Botnet Targeting SSR Devices with Default Passwords
-  url: https://thehackernews.com/2024/12/juniper-warns-of-mirai-botnet-targeting.html
+- title: Thousands Download Malicious npm Libraries Impersonating Legitimate Tools
+  url: https://thehackernews.com/2024/12/thousands-download-malicious-npm.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
   url: https://danielmiessler.com/p/ul-462
@@ -10,14 +10,14 @@ entries:
   url: https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/
 - title: Bridging the 'Keyboard-to-Chair' Gap With Identity Verification
   url: https://www.darkreading.com/identity-access-management-security/bridging-the-keyboard-to-chair-gap-with-identity-verification
-- title: New Advances in the Understanding of Prime Numbers
-  url: https://www.schneier.com/blog/archives/2024/12/new-advances-in-the-understanding-of-prime-numbers.html
-- title: Ongoing phishing attack abuses Google Calendar to bypass spam filters
-  url: https://www.bleepingcomputer.com/news/security/ongoing-phishing-attack-abuses-google-calendar-to-bypass-spam-filters/
+- title: Mailbox Insecurity
+  url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
+- title: BeyondTrust says hackers breached Remote Support SaaS instances
+  url: https://www.bleepingcomputer.com/news/security/beyondtrust-says-hackers-breached-remote-support-saas-instances/
 - title: What could the API Landscape look like in 2025?
   url: https://www.itsecurityguru.org/2024/12/19/what-could-the-api-landscape-look-like-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=what-could-the-api-landscape-look-like-in-2025
-- title: '151: Chris Rock'
-  url: https://darknetdiaries.com/episode/151/
+- title: '152: Stacc Attack'
+  url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1005: 6-Day Certificates? Why? - Android Anti-Tracking, MFA lLogin Bypass,
     BIMI'
   url: https://twit.tv/shows/security-now/episodes/1005
