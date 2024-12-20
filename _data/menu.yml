@@ -12,10 +12,11 @@ entries:
   url: https://www.darkreading.com/cybersecurity-operations/managing-threats-when-security-on-vacation
 - title: Mailbox Insecurity
   url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
-- title: Krispy Kreme breach, data theft claimed by Play ransomware gang
-  url: https://www.bleepingcomputer.com/news/security/krispy-kreme-breach-data-theft-claimed-by-play-ransomware-gang/
-- title: Black Duck Expands Leadership Team
-  url: https://www.itsecurityguru.org/2024/12/20/black-duck-expands-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=black-duck-expands-leadership-team
+- title: Sophos Firewall vulnerable to critical remote code execution flaw
+  url: https://www.bleepingcomputer.com/news/security/sophos-firewall-vulnerable-to-critical-remote-code-execution-flaw/
+- title: "Security Serious Unsung Heroes 2024 \u2013 Winner\u2019s Spotlight: Best\
+    \ Security Awareness Campaign"
+  url: https://www.itsecurityguru.org/2024/12/20/security-serious-unsung-heroes-2024-winners-spotlight-best-security-awareness-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=security-serious-unsung-heroes-2024-winners-spotlight-best-security-awareness-campaign
 - title: '152: Stacc Attack'
   url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1005: 6-Day Certificates? Why? - Android Anti-Tracking, MFA lLogin Bypass,
