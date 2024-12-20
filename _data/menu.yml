@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability
 - title: Mailbox Insecurity
   url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
-- title: Malicious Rspack, Vant packages published using stolen NPM tokens
-  url: https://www.bleepingcomputer.com/news/security/malicious-rspack-vant-packages-published-using-stolen-npm-tokens/
+- title: Google says new scam protection feature in Chrome uses AI
+  url: https://www.bleepingcomputer.com/news/google/google-says-new-scam-protection-feature-in-chrome-uses-ai/
 - title: "Security Serious Unsung Heroes 2024 \u2013 Winner\u2019s Spotlight: Best\
     \ Security Awareness Campaign"
   url: https://www.itsecurityguru.org/2024/12/20/security-serious-unsung-heroes-2024-winners-spotlight-best-security-awareness-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=security-serious-unsung-heroes-2024-winners-spotlight-best-security-awareness-campaign
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1005
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Breached but not broken.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2213/notes
+- title: "Ukraine\u2019s fight to restore critical data."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2214/notes
