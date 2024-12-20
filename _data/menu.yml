@@ -8,8 +8,8 @@ entries:
   url: https://danielmiessler.com/p/ul-462
 - title: This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?
   url: https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/
-- title: US Ban on TP-Link Routers More About Politics Than Exploitation Risk
-  url: https://www.darkreading.com/endpoint-security/us-ban-tp-link-routers-politics-exploitation-risk
+- title: How to Protect Your Environment from the NTLM Vulnerability
+  url: https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability
 - title: Mailbox Insecurity
   url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
 - title: Malicious Rspack, Vant packages published using stolen NPM tokens
