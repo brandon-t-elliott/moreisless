@@ -1,8 +1,9 @@
 entries:
 - title: "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm"
   url: https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/
-- title: Thousands Download Malicious npm Libraries Impersonating Legitimate Tools
-  url: https://thehackernews.com/2024/12/thousands-download-malicious-npm.html
+- title: Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain
+    Attack
+  url: https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
   url: https://danielmiessler.com/p/ul-462
@@ -12,13 +13,13 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/ot-ics-engineering-workstations-malware
 - title: Mailbox Insecurity
   url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
-- title: BadBox malware botnet infects 192,000 Android devices despite disruption
-  url: https://www.bleepingcomputer.com/news/security/badbox-malware-botnet-infects-192-000-android-devices-despite-disruption/
+- title: Romanian Netwalker ransomware affiliate sentenced to 20 years in prison
+  url: https://www.bleepingcomputer.com/news/security/romanian-netwalker-ransomware-affiliate-sentenced-to-20-years-in-prison/
 - title: Inaugural Gartner Magic Quadrant for Email Security Platforms Names Leading
     Cyber Orgs
   url: https://www.itsecurityguru.org/2024/12/19/inaugural-gartner-magic-quadrant-for-email-security-platforms-names-leading-cyber-orgs/?utm_source=rss&utm_medium=rss&utm_campaign=inaugural-gartner-magic-quadrant-for-email-security-platforms-names-leading-cyber-orgs
-- title: '152: Stacc Attack'
-  url: https://darknetdiaries.com/episode/152/
+- title: '151: Chris Rock'
+  url: https://darknetdiaries.com/episode/151/
 - title: 'SN 1005: 6-Day Certificates? Why? - Android Anti-Tracking, MFA lLogin Bypass,
     BIMI'
   url: https://twit.tv/shows/security-now/episodes/1005
