@@ -8,16 +8,16 @@ entries:
   url: https://danielmiessler.com/p/ul-462
 - title: This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?
   url: https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/
-- title: Fortinet Addresses Unpatched Critical RCE Vector
-  url: https://www.darkreading.com/vulnerabilities-threats/fortinet-addresses-unpatched-critical-rce-vector
+- title: Managing Threats When Most of the Security Team Is Out of the Office
+  url: https://www.darkreading.com/cybersecurity-operations/managing-threats-when-security-on-vacation
 - title: Mailbox Insecurity
   url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
-- title: 'Ascension: Health data of 5.6 million stolen in ransomware attack'
-  url: https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/
+- title: Krispy Kreme breach, data theft claimed by Play ransomware gang
+  url: https://www.bleepingcomputer.com/news/security/krispy-kreme-breach-data-theft-claimed-by-play-ransomware-gang/
 - title: Black Duck Expands Leadership Team
   url: https://www.itsecurityguru.org/2024/12/20/black-duck-expands-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=black-duck-expands-leadership-team
-- title: '151: Chris Rock'
-  url: https://darknetdiaries.com/episode/151/
+- title: '152: Stacc Attack'
+  url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1005: 6-Day Certificates? Why? - Android Anti-Tracking, MFA lLogin Bypass,
     BIMI'
   url: https://twit.tv/shows/security-now/episodes/1005
