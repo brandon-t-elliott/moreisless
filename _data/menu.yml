@@ -1,25 +1,23 @@
 entries:
 - title: "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm"
   url: https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/
-- title: Rspack npm Packages Compromised with Crypto Mining Malware in Supply Chain
-    Attack
-  url: https://thehackernews.com/2024/12/rspack-npm-packages-compromised-with.html
+- title: Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware
+  url: https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
   url: https://danielmiessler.com/p/ul-462
 - title: This VPN Lets Anyone Use Your Internet Connection. What Could Go Wrong?
   url: https://www.wired.com/story/residential-proxy-network-cybercrime-vpn/
-- title: OT/ICS Engineering Workstations Face Barrage of Fresh Malware
-  url: https://www.darkreading.com/vulnerabilities-threats/ot-ics-engineering-workstations-malware
+- title: Fortinet Addresses Unpatched Critical RCE Vector
+  url: https://www.darkreading.com/vulnerabilities-threats/fortinet-addresses-unpatched-critical-rce-vector
 - title: Mailbox Insecurity
   url: https://www.schneier.com/blog/archives/2024/12/mailbox-insecurity.html
-- title: Romanian Netwalker ransomware affiliate sentenced to 20 years in prison
-  url: https://www.bleepingcomputer.com/news/security/romanian-netwalker-ransomware-affiliate-sentenced-to-20-years-in-prison/
-- title: Inaugural Gartner Magic Quadrant for Email Security Platforms Names Leading
-    Cyber Orgs
-  url: https://www.itsecurityguru.org/2024/12/19/inaugural-gartner-magic-quadrant-for-email-security-platforms-names-leading-cyber-orgs/?utm_source=rss&utm_medium=rss&utm_campaign=inaugural-gartner-magic-quadrant-for-email-security-platforms-names-leading-cyber-orgs
-- title: '151: Chris Rock'
-  url: https://darknetdiaries.com/episode/151/
+- title: Massive live sports piracy ring with 812 million yearly visits taken offline
+  url: https://www.bleepingcomputer.com/news/security/massive-live-sports-piracy-ring-with-812-million-yearly-visits-taken-offline/
+- title: Black Duck Expands Leadership Team
+  url: https://www.itsecurityguru.org/2024/12/20/black-duck-expands-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=black-duck-expands-leadership-team
+- title: '152: Stacc Attack'
+  url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1005: 6-Day Certificates? Why? - Android Anti-Tracking, MFA lLogin Bypass,
     BIMI'
   url: https://twit.tv/shows/security-now/episodes/1005
