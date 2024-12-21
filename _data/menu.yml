@@ -1,8 +1,9 @@
 entries:
 - title: "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm"
   url: https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/
-- title: Lazarus Group Spotted Targeting Nuclear Engineers with CookiePlus Malware
-  url: https://thehackernews.com/2024/12/lazarus-group-spotted-targeting-nuclear.html
+- title: LockBit Developer Rostislav Panev Charged for Billions in Global Ransomware
+    Damages
+  url: https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
   url: https://danielmiessler.com/p/ul-462
@@ -12,8 +13,8 @@ entries:
   url: https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability
 - title: 'Friday Squid Blogging: Squid Sticker'
   url: https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-sticker.html
-- title: Google says new scam protection feature in Chrome uses AI
-  url: https://www.bleepingcomputer.com/news/google/google-says-new-scam-protection-feature-in-chrome-uses-ai/
+- title: Google Chrome uses AI to analyze pages in new scam detection feature
+  url: https://www.bleepingcomputer.com/news/google/google-chrome-uses-ai-to-analyze-pages-in-new-scam-detection-feature/
 - title: "Security Serious Unsung Heroes 2024 \u2013 Winner\u2019s Spotlight: Best\
     \ Security Awareness Campaign"
   url: https://www.itsecurityguru.org/2024/12/20/security-serious-unsung-heroes-2024-winners-spotlight-best-security-awareness-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=security-serious-unsung-heroes-2024-winners-spotlight-best-security-awareness-campaign
@@ -24,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1005
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Ukraine\u2019s fight to restore critical data."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2214/notes
+- title: Quishing for trouble. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/358/notes
