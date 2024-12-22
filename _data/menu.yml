@@ -6,7 +6,7 @@ entries:
   url: https://thehackernews.com/2024/12/lockbit-developer-rostislav-panev.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
-  url: https://danielmiessler.com/p/ul-462
+  url: https://newsletter.danielmiessler.com/p/ul-462
 - title: Mystery Drone Sightings Lead to FAA Ban Despite No Detected Threats
   url: https://www.wired.com/story/faa-mystery-drone-ban/
 - title: How to Protect Your Environment From the NTLM Vulnerability
@@ -25,5 +25,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1005
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Quishing for trouble. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/358/notes
+- title: 'Jim Zufoletti: Building your experience portfolio. [Entrepreneur] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/47/notes
