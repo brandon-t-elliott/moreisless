@@ -1,9 +1,8 @@
 entries:
 - title: "Web Hacking Service \u2018Araneida\u2019 Tied to Turkish IT Firm"
   url: https://krebsonsecurity.com/2024/12/web-hacking-service-araneida-tied-to-turkish-it-firm/
-- title: Brazilian Hacker Charged for Extorting $3.2M in Bitcoin After Breaching 300,000
-    Accounts
-  url: https://thehackernews.com/2024/12/brazilian-hacker-charged-for-extorting.html
+- title: "Palo Alto Releases Patch for PAN-OS DoS Flaw \u2014 Update Immediately"
+  url: https://thehackernews.com/2024/12/palo-alto-releases-patch-for-pan-os-dos.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
   url: https://newsletter.danielmiessler.com/p/ul-462
@@ -11,13 +10,12 @@ entries:
   url: https://www.wired.com/story/worst-hacks-2024/
 - title: SEC Disclosures Up, But Not Enough Details Provided
   url: https://www.darkreading.com/cyber-risk/sec-disclosures-up-but-not-enough-details
-- title: Scams Based on Fake Google Emails
-  url: https://www.schneier.com/blog/archives/2024/12/scams-based-on-fake-google-emails.html
+- title: 'Friday Squid Blogging: Squid on Pizza'
+  url: https://www.schneier.com/blog/archives/2024/12/friday-squid-blogging-squid-on-pizza.html
 - title: Apache warns of critical flaws in MINA, HugeGraph, Traffic Control
   url: https://www.bleepingcomputer.com/news/security/apache-warns-of-critical-flaws-in-mina-hugegraph-traffic-control/
-- title: "Security Serious Unsung Heroes 2024: Winner\u2019s Spotlight on Diversity\
-    \ Champion"
-  url: https://www.itsecurityguru.org/2024/12/24/security-serious-unsung-heroes-2024-winners-spotlight-on-diversity-champion/?utm_source=rss&utm_medium=rss&utm_campaign=security-serious-unsung-heroes-2024-winners-spotlight-on-diversity-champion
+- title: How Programmatic Advertising Companies Help Brands Maximize ROI
+  url: https://www.itsecurityguru.org/2024/12/26/how-programmatic-advertising-companies-help-brands-maximize-roi/?utm_source=rss&utm_medium=rss&utm_campaign=how-programmatic-advertising-companies-help-brands-maximize-roi
 - title: '152: Stacc Attack'
   url: https://darknetdiaries.com/episode/152/
 - title: 'SN 1006: Best of 2024 - Apple''s Secret Backdoor, CrowdStrike Catastrophe,
@@ -25,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1006
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Putting a dent in the cybersecurity workforce gap.
-  url: https://thecyberwire.com/podcasts/special-edition/57/notes
+- title: A cyber carol.
+  url: https://thecyberwire.com/podcasts/only-malware-in-the-building/7/notes
