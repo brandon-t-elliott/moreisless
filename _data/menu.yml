@@ -1,19 +1,20 @@
 entries:
-- title: Happy 15th Anniversary, KrebsOnSecurity!
-  url: https://krebsonsecurity.com/2024/12/happy-15th-anniversary-krebsonsecurity/
-- title: New HIPAA Rules Mandate 72-Hour Data Restoration and Annual Compliance Audits
-  url: https://thehackernews.com/2024/12/new-hipaa-rules-mandate-72-hour-data.html
+- title: U.S. Army Soldier Arrested in AT&T, Verizon Extortions
+  url: https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/
+- title: Chinese APT Exploits BeyondTrust API Key to Access U.S. Treasury Systems
+    and Documents
+  url: https://thehackernews.com/2024/12/chinese-apt-exploits-beyondtrust-api.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
   url: https://newsletter.danielmiessler.com/p/ul-462
 - title: The Most Dangerous People on the Internet in 2024
   url: https://www.wired.com/story/the-most-dangerous-people-on-the-internet-in-2024/
-- title: Chinese State Hackers Breach US Treasury Department
-  url: https://www.darkreading.com/cyberattacks-data-breaches/chinese-state-hackers-breach-us-treasury-department
+- title: Deepfakes, Quantum Attacks Loom Over APAC in 2025
+  url: https://www.darkreading.com/cyberattacks-data-breaches/deepfakes-quantum-attacks-apac-2025
 - title: "Salt Typhoon\u2019s Reach Continues to Grow"
   url: https://www.schneier.com/blog/archives/2024/12/salt-typhoons-reach-continues-to-grow.html
-- title: Hackers exploit Four-Faith router flaw to open reverse shells
-  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-four-faith-router-flaw-to-open-reverse-shells/
+- title: Massive healthcare breaches prompt US cybersecurity rules overhaul
+  url: https://www.bleepingcomputer.com/news/security/massive-healthcare-breaches-prompt-us-cybersecurity-rules-overhaul/
 - title: How Programmatic Advertising Companies Help Brands Maximize ROI
   url: https://www.itsecurityguru.org/2024/12/26/how-programmatic-advertising-companies-help-brands-maximize-roi/?utm_source=rss&utm_medium=rss&utm_campaign=how-programmatic-advertising-companies-help-brands-maximize-roi
 - title: '152: Stacc Attack'
@@ -23,6 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1006
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Navigating AI Safety and Security Challenges with Yonatan Zunger [The BlueHat
-    Podcast]
-  url: https://thecyberwire.com/podcasts/the-bluehat-podcast/34/notes
+- title: "Future-proofing finance: FS-ISAC\u2019s blueprint for cryptographic agility.\
+    \ [Special Edition]"
+  url: https://thecyberwire.com/podcasts/special-edition/81/notes
