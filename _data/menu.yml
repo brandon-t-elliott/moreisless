@@ -9,12 +9,12 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-462
 - title: Californians Say X Blocked Them From Viewing Amber Alert About Missing 14-Year-Old
   url: https://www.wired.com/story/amber-alert-paywall-california/
-- title: Treasury Dept. Sanctions Chinese Tech Vendor for Complicity
-  url: https://www.darkreading.com/cybersecurity-operations/treasury-department-sanctions-chinese-tech-vendor
+- title: New HIPAA Cybersecurity Rules Pull No Punches
+  url: https://www.darkreading.com/vulnerabilities-threats/hipaa-security-rules-pull-no-punches
 - title: ShredOS
   url: https://www.schneier.com/blog/archives/2025/01/shredos.html
-- title: Malicious npm packages target Ethereum developers' private keys
-  url: https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/
+- title: US sanctions Chinese company linked to Flax Typhoon hackers
+  url: https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-company-linked-to-flax-typhoon-hackers/
 - title: GMF Group (Led by Matt Forssman and Gabriel Monfried) Acquires Arcadia Estates
     in Arcadia, Florida
   url: https://www.itsecurityguru.org/2025/01/02/gmf-group-led-by-matt-forssman-and-gabriel-monfried-acquires-arcadia-estates-in-arcadia-florida/?utm_source=rss&utm_medium=rss&utm_campaign=gmf-group-led-by-matt-forssman-and-gabriel-monfried-acquires-arcadia-estates-in-arcadia-florida
@@ -25,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1006
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A breach in the U.S. Treasury.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2216/notes
+- title: AI-powered propaganda.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2217/notes
