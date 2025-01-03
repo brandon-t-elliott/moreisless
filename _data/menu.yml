@@ -9,12 +9,12 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-462
 - title: Facebook and Instagram Ads Push Gun Silencers Disguised as Car Parts
   url: https://www.wired.com/story/fuel-filter-gun-silencer-ads-facebook-instagram/
-- title: Proposed HIPAA Amendments Will Close Healthcare Security Gaps
-  url: https://www.darkreading.com/cyber-risk/proposed-hipaa-amendments-close-healthcare-security-gaps
-- title: Google Is Allowing Device Fingerprinting
-  url: https://www.schneier.com/blog/archives/2025/01/google-is-allowing-device-fingerprinting.html
-- title: Ransomware gang leaks data stolen in Rhode Island's RIBridges Breach
-  url: https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-in-rhode-islands-ribridges-breach/
+- title: Chrome Extension Compromises Highlight Software Supply Challenges
+  url: https://www.darkreading.com/application-security/chrome-extension-compromises-highlight-software-supply-challenges
+- title: ShredOS
+  url: https://www.schneier.com/blog/archives/2025/01/shredos.html
+- title: Apple offers $95 million in Siri privacy violation settlement
+  url: https://www.bleepingcomputer.com/news/security/apple-offers-95-million-in-siri-privacy-violation-settlement/
 - title: GMF Group (Led by Matt Forssman and Gabriel Monfried) Acquires Arcadia Estates
     in Arcadia, Florida
   url: https://www.itsecurityguru.org/2025/01/02/gmf-group-led-by-matt-forssman-and-gabriel-monfried-acquires-arcadia-estates-in-arcadia-florida/?utm_source=rss&utm_medium=rss&utm_campaign=gmf-group-led-by-matt-forssman-and-gabriel-monfried-acquires-arcadia-estates-in-arcadia-florida
@@ -25,5 +25,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1006
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Scotland\u2019s position to lead cyber and space. [Deep Space]"
-  url: https://space.n2k.com/podcasts/t-minus/ds78
+- title: A breach in the U.S. Treasury.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2216/notes
