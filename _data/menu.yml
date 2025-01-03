@@ -1,17 +1,15 @@
 entries:
 - title: U.S. Army Soldier Arrested in AT&T, Verizon Extortions
   url: https://krebsonsecurity.com/2024/12/u-s-army-soldier-arrested-in-att-verizon-extortions/
-- title: Severe Security Flaws Patched in Microsoft Dynamics 365 and Power Apps Web
-    API
-  url: https://thehackernews.com/2025/01/severe-security-flaws-patched-in.html
+- title: LDAPNightmare PoC Exploit Crashes LSASS and Reboots Windows Domain Controllers
+  url: https://thehackernews.com/2025/01/ldapnightmare-poc-exploit-crashes-lsass.html
 - title: "UL NO. 462: Full-Face Mask Deceptions, VS Code Tunnel Hacks, Quiet AI Emergence\
     \ at Apple, and Tokyo\u2019s Three-Day Weekend Gamble"
-  url: https://unsupervised-learning.beehiiv.com/p/ul-462
+  url: https://newsletter.danielmiessler.com/p/ul-462
 - title: Hey, Maybe It's Time to Delete Some Old Chat Histories
   url: https://www.wired.com/story/old-chat-history-delete/
-- title: CDAO Sponsors Crowdsourced AI Assurance Pilot in the Context of Military
-    Medicine
-  url: https://www.darkreading.com/application-security/cdao-sponsors-crowdsourced-ai-assurance-pilot-in-the-context-of-military-medicine
+- title: Proposed HIPAA Amendments Will Close Healthcare Security Gaps
+  url: https://www.darkreading.com/cyber-risk/proposed-hipaa-amendments-close-healthcare-security-gaps
 - title: Google Is Allowing Device Fingerprinting
   url: https://www.schneier.com/blog/archives/2025/01/google-is-allowing-device-fingerprinting.html
 - title: Ransomware gang leaks data stolen in Rhode Island's RIBridges Breach
