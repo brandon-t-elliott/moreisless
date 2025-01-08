@@ -1,19 +1,19 @@
 entries:
 - title: A Day in the Life of a Prolific Voice Phishing Crew
   url: https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
-- title: Researchers Expose NonEuclid RAT Using UAC Bypass and AMSI Evasion Techniques
-  url: https://thehackernews.com/2025/01/researchers-expose-noneuclid-rat-using.html
+- title: Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections
+  url: https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html
 - title: UL NO. 463 | Launching 2025, US Soldier Data Leak, AI Agents Emerge, China's
     Global Spy Network, Robotaxis Now Safer Than Humans
   url: https://newsletter.danielmiessler.com/p/ul-463
 - title: License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data
   url: https://www.wired.com/story/license-plate-reader-live-video-data-exposed/
-- title: Unconventional Cyberattacks Aim to Take Over PayPal Accounts
-  url: https://www.darkreading.com/threat-intelligence/unconventional-cyberattacks-take-over-paypal-accounts
-- title: "Privacy of Photos.app\u2019s Enhanced Visual Search"
-  url: https://www.schneier.com/blog/archives/2025/01/privacy-of-photos-apps-enhanced-visual-search.html
-- title: Over 4,000 backdoors hijacked by registering expired domains
-  url: https://www.bleepingcomputer.com/news/security/over-4-000-backdoors-hijacked-by-registering-expired-domains/
+- title: New Docuseries Spotlights Hackers Who Shaped Cybersecurity
+  url: https://www.darkreading.com/cybersecurity-careers/where-warlocks-stay-up-late-unearthing-the-stories-of-cybersecurity-trailblazers
+- title: US Treasury Department Sanctions Chinese Company Over Cyberattacks
+  url: https://www.schneier.com/blog/archives/2025/01/us-treasury-department-sanctions-chinese-company-over-cyberattacks.html
+- title: Hackers exploit KerioControl firewall flaw to steal admin CSRF tokens
+  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-keriocontrol-firewall-flaw-to-steal-admin-csrf-tokens/
 - title: Affordable Video Editing Software for PC That Delivers Pro Results
   url: https://www.itsecurityguru.org/2025/01/06/affordable-video-editing-software-for-pc-that-delivers-pro-results/?utm_source=rss&utm_medium=rss&utm_campaign=affordable-video-editing-software-for-pc-that-delivers-pro-results
 - title: '153: Bike Index'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1007
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: U.S. sanctions spark cyber showdown with China.
+- title: "China\u2019s shadow over U.S. telecom networks."
   url: https://thecyberwire.com/podcasts/daily-podcast/2218/notes
