@@ -1,15 +1,16 @@
 entries:
 - title: A Day in the Life of a Prolific Voice Phishing Crew
   url: https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
-- title: Neglected Domains Used in Malspam to Evade SPF and DMARC Security Protections
-  url: https://thehackernews.com/2025/01/neglected-domains-used-in-malspam-to.html
+- title: Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF
+    Injection
+  url: https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html
 - title: UL NO. 463 | Launching 2025, US Soldier Data Leak, AI Agents Emerge, China's
     Global Spy Network, Robotaxis Now Safer Than Humans
   url: https://newsletter.danielmiessler.com/p/ul-463
 - title: License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data
   url: https://www.wired.com/story/license-plate-reader-live-video-data-exposed/
-- title: 'Fed ''Cyber Trust'' Label: Good Intentions That Fall Short'
-  url: https://www.darkreading.com/cybersecurity-operations/white-house-launches-cyber-trust-mark-label-in-voluntary-cybersecurity-program
+- title: India Readies Overhauled National Data Privacy Rules
+  url: https://www.darkreading.com/cybersecurity-operations/india-overhauled-national-data-privacy-rules
 - title: US Treasury Department Sanctions Chinese Company Over Cyberattacks
   url: https://www.schneier.com/blog/archives/2025/01/us-treasury-department-sanctions-chinese-company-over-cyberattacks.html
 - title: Unpatched critical flaws impact Fancy Product Designer WordPress plugin
