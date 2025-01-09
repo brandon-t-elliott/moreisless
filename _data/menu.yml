@@ -1,22 +1,21 @@
 entries:
 - title: A Day in the Life of a Prolific Voice Phishing Crew
   url: https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
-- title: Critical RCE Flaw in GFI KerioControl Allows Remote Code Execution via CRLF
-    Injection
-  url: https://thehackernews.com/2025/01/critical-rce-flaw-in-gfi-keriocontrol.html
+- title: 'Webinar: Learn How to Stop Encrypted Attacks Before They Cost You Millions'
+  url: https://thehackernews.com/2025/01/webinar-learn-how-to-stop-encrypted.html
 - title: UL NO. 463 | Launching 2025, US Soldier Data Leak, AI Agents Emerge, China's
     Global Spy Network, Robotaxis Now Safer Than Humans
   url: https://newsletter.danielmiessler.com/p/ul-463
-- title: License Plate Readers Are Leaking Real-Time Video Feeds and Vehicle Data
-  url: https://www.wired.com/story/license-plate-reader-live-video-data-exposed/
+- title: The School Shootings Were Fake. The Terror Was Real
+  url: https://www.wired.com/school-swatting-torswats-brad-dennis/
 - title: India Readies Overhauled National Data Privacy Rules
   url: https://www.darkreading.com/cybersecurity-operations/india-overhauled-national-data-privacy-rules
 - title: US Treasury Department Sanctions Chinese Company Over Cyberattacks
   url: https://www.schneier.com/blog/archives/2025/01/us-treasury-department-sanctions-chinese-company-over-cyberattacks.html
 - title: Unpatched critical flaws impact Fancy Product Designer WordPress plugin
   url: https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/
-- title: Affordable Video Editing Software for PC That Delivers Pro Results
-  url: https://www.itsecurityguru.org/2025/01/06/affordable-video-editing-software-for-pc-that-delivers-pro-results/?utm_source=rss&utm_medium=rss&utm_campaign=affordable-video-editing-software-for-pc-that-delivers-pro-results
+- title: WatchGuard Acquires ActZero
+  url: https://www.itsecurityguru.org/2025/01/09/watchguard-acquires-actzero/?utm_source=rss&utm_medium=rss&utm_campaign=watchguard-acquires-actzero
 - title: '153: Bike Index'
   url: https://darknetdiaries.com/episode/153/
 - title: 'SN 1007: AI Training & Inference - Unencrypted Email, Doom Captcha'
