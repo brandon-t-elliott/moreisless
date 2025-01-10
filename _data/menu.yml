@@ -11,10 +11,10 @@ entries:
   url: https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/
 - title: The Path Toward Championing Diversity in Cybersecurity Education
   url: https://www.darkreading.com/cybersecurity-operations/championing-diversity-cybersecurity-education
-- title: Zero-Day Vulnerability in Ivanti VPN
-  url: https://www.schneier.com/blog/archives/2025/01/zero-day-vulnerability-in-ivanti-vpn.html
-- title: Proton worldwide outage caused by Kubernetes migration, software change
-  url: https://www.bleepingcomputer.com/news/technology/proton-worldwide-outage-caused-by-kubernetes-migration-software-change/
+- title: Apps That Are Spying on Your Location
+  url: https://www.schneier.com/blog/archives/2025/01/apps-that-are-spying-on-your-location.html
+- title: Docker Desktop blocked on Macs due to false malware alert
+  url: https://www.bleepingcomputer.com/news/security/docker-desktop-blocked-on-macs-due-to-false-malware-alert/
 - title: WatchGuard Acquires ActZero
   url: https://www.itsecurityguru.org/2025/01/09/watchguard-acquires-actzero/?utm_source=rss&utm_medium=rss&utm_campaign=watchguard-acquires-actzero
 - title: '153: Bike Index'
