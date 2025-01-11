@@ -1,9 +1,8 @@
 entries:
 - title: A Day in the Life of a Prolific Voice Phishing Crew
   url: https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
-- title: Google Project Zero Researcher Uncovers Zero-Click Exploit Targeting Samsung
-    Devices
-  url: https://thehackernews.com/2025/01/google-project-zero-researcher-uncovers.html
+- title: Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation
+  url: https://thehackernews.com/2025/01/microsoft-sues-hacking-group-exploiting.html
 - title: UL NO. 463 | Launching 2025, US Soldier Data Leak, AI Agents Emerge, China's
     Global Spy Network, Robotaxis Now Safer Than Humans
   url: https://newsletter.danielmiessler.com/p/ul-463
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1007
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When retaliation turns digital.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2222/notes
+- title: The hidden cost of data hoarding. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/339/notes
