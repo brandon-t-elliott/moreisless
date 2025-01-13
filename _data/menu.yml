@@ -1,9 +1,8 @@
 entries:
 - title: A Day in the Life of a Prolific Voice Phishing Crew
   url: https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
-- title: WordPress Skimmers Evade Detection by Injecting Themselves into Database
-    Tables
-  url: https://thehackernews.com/2025/01/wordpress-skimmers-evade-detection-by.html
+- title: "\u26A1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [13 January]"
+  url: https://thehackernews.com/2025/01/thn-weekly-recap-top-cybersecurity_01424177917.html
 - title: UL NO. 463 | Launching 2025, US Soldier Data Leak, AI Agents Emerge, China's
     Global Spy Network, Robotaxis Now Safer Than Humans
   url: https://newsletter.danielmiessler.com/p/ul-463
@@ -11,8 +10,9 @@ entries:
   url: https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/
 - title: Threat Actors Exploit a Critical Ivanti RCE Bug, Again
   url: https://www.darkreading.com/vulnerabilities-threats/critical-ivanti-rce-bug
-- title: 'Friday Squid Blogging: Cotton-and-Squid-Bone Sponge'
-  url: https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-cotton-and-squid-bone-sponge.html
+- title: "Microsoft Takes Legal Action Against AI \u201CHacking as a Service\u201D\
+    \ Scheme"
+  url: https://www.schneier.com/blog/archives/2025/01/microsoft-takes-legal-action-against-ai-hacking-as-a-service-scheme.html
 - title: Microsoft MFA outage blocking access to Microsoft 365 apps
   url: https://www.bleepingcomputer.com/news/microsoft/microsoft-mfa-outage-blocking-access-to-microsoft-365-apps/
 - title: NXLog undergoes strategic leadership change
