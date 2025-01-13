@@ -1,21 +1,22 @@
 entries:
 - title: A Day in the Life of a Prolific Voice Phishing Crew
   url: https://krebsonsecurity.com/2025/01/a-day-in-the-life-of-a-prolific-voice-phishing-crew/
-- title: Microsoft Sues Hacking Group Exploiting Azure AI for Harmful Content Creation
-  url: https://thehackernews.com/2025/01/microsoft-sues-hacking-group-exploiting.html
+- title: WordPress Skimmers Evade Detection by Injecting Themselves into Database
+    Tables
+  url: https://thehackernews.com/2025/01/wordpress-skimmers-evade-detection-by.html
 - title: UL NO. 463 | Launching 2025, US Soldier Data Leak, AI Agents Emerge, China's
     Global Spy Network, Robotaxis Now Safer Than Humans
   url: https://newsletter.danielmiessler.com/p/ul-463
-- title: Secret Phone Surveillance Tech Was Likely Deployed at 2024 DNC
-  url: https://www.wired.com/story/2024-dnc-cell-site-simulator-phone-surveillance/
+- title: Inside the Black Box of Predictive Travel Surveillance
+  url: https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/
 - title: Threat Actors Exploit a Critical Ivanti RCE Bug, Again
   url: https://www.darkreading.com/vulnerabilities-threats/critical-ivanti-rce-bug
 - title: 'Friday Squid Blogging: Cotton-and-Squid-Bone Sponge'
   url: https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-cotton-and-squid-bone-sponge.html
-- title: Pastor who saw crypto project in his "dream" indicted for fraud
-  url: https://www.bleepingcomputer.com/news/legal/pastor-who-saw-crypto-project-in-his-dream-indicted-for-fraud/
-- title: Cybersecurity Resolutions for 2025
-  url: https://www.itsecurityguru.org/2025/01/09/cybersecurity-resolutions-for-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cybersecurity-resolutions-for-2025
+- title: Microsoft MFA outage blocking access to Microsoft 365 apps
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-mfa-outage-blocking-access-to-microsoft-365-apps/
+- title: NXLog undergoes strategic leadership change
+  url: https://www.itsecurityguru.org/2025/01/13/nxlog-undergoes-strategic-leadership-change/?utm_source=rss&utm_medium=rss&utm_campaign=nxlog-undergoes-strategic-leadership-change
 - title: '153: Bike Index'
   url: https://darknetdiaries.com/episode/153/
 - title: 'SN 1007: AI Training & Inference - Unencrypted Email, Doom Captcha'
