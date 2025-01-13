@@ -9,8 +9,8 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-463
 - title: Inside the Black Box of Predictive Travel Surveillance
   url: https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/
-- title: Cyberattackers Hide Infostealers in YouTube Comments, Google Search Results
-  url: https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search
+- title: CISA Releases the Cybersecurity Performance Goals Adoption Report
+  url: https://www.darkreading.com/cybersecurity-operations/cisa-releases-the-cybersecurity-performance-goals-adoption-report
 - title: "Microsoft Takes Legal Action Against AI \u201CHacking as a Service\u201D\
     \ Scheme"
   url: https://www.schneier.com/blog/archives/2025/01/microsoft-takes-legal-action-against-ai-hacking-as-a-service-scheme.html
@@ -24,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1007
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The hidden cost of data hoarding. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/339/notes
+- title: Multi-factor frustration.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2223/notes
