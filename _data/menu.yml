@@ -9,13 +9,13 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-463
 - title: Inside the Black Box of Predictive Travel Surveillance
   url: https://www.wired.com/story/inside-the-black-box-of-predictive-travel-surveillance/
-- title: Threat Actors Exploit a Critical Ivanti RCE Bug, Again
-  url: https://www.darkreading.com/vulnerabilities-threats/critical-ivanti-rce-bug
+- title: Telefonica Breach Exposes Jira Tickets, Customer Data
+  url: https://www.darkreading.com/cyberattacks-data-breaches/telefonica-breach-exposes-jira-tickets-customer-data
 - title: "Microsoft Takes Legal Action Against AI \u201CHacking as a Service\u201D\
     \ Scheme"
   url: https://www.schneier.com/blog/archives/2025/01/microsoft-takes-legal-action-against-ai-hacking-as-a-service-scheme.html
-- title: Ransomware abuses Amazon AWS feature to encrypt S3 buckets
-  url: https://www.bleepingcomputer.com/news/security/ransomware-abuses-amazon-aws-feature-to-encrypt-s3-buckets/
+- title: UK domain registry Nominet confirms breach via Ivanti zero-day
+  url: https://www.bleepingcomputer.com/news/security/uk-domain-registry-nominet-confirms-breach-via-ivanti-zero-day-vulnerability/
 - title: NXLog undergoes strategic leadership change
   url: https://www.itsecurityguru.org/2025/01/13/nxlog-undergoes-strategic-leadership-change/?utm_source=rss&utm_medium=rss&utm_campaign=nxlog-undergoes-strategic-leadership-change
 - title: '153: Bike Index'
