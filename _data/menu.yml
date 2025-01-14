@@ -8,14 +8,15 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-463
 - title: '5 Best VPN Services (2024): For Routers, PC, iPhone, Android, and More'
   url: https://www.wired.com/story/best-vpn/
-- title: CISA Releases the Cybersecurity Performance Goals Adoption Report
-  url: https://www.darkreading.com/cybersecurity-operations/cisa-releases-the-cybersecurity-performance-goals-adoption-report
+- title: New Startups Focus on Deepfakes, Data-in-Motion &amp; Model Security
+  url: https://www.darkreading.com/cybersecurity-operations/startups-focus-deepfakes-data-motion-model-security
 - title: The First Password on the Internet
   url: https://www.schneier.com/blog/archives/2025/01/the-first-password-on-the-internet.html
-- title: Microsoft 365 apps crash on Windows Server after Office update
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-crash-on-windows-server-after-office-update/
-- title: NXLog undergoes strategic leadership change
-  url: https://www.itsecurityguru.org/2025/01/13/nxlog-undergoes-strategic-leadership-change/?utm_source=rss&utm_medium=rss&utm_campaign=nxlog-undergoes-strategic-leadership-change
+- title: Hackers use FastHTTP in new high-speed Microsoft 365 password attacks
+  url: https://www.bleepingcomputer.com/news/security/hackers-use-fasthttp-in-new-high-speed-microsoft-365-password-attacks/
+- title: KnowBe4 Research Confirms Effective Security Awareness Training Significantly
+    Reduces Data Breaches
+  url: https://www.itsecurityguru.org/2025/01/14/knowbe4-research-confirms-effective-security-awareness-training-significantly-reduces-data-breaches/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-research-confirms-effective-security-awareness-training-significantly-reduces-data-breaches
 - title: '153: Bike Index'
   url: https://darknetdiaries.com/episode/153/
 - title: 'SN 1007: AI Training & Inference - Unencrypted Email, Doom Captcha'
