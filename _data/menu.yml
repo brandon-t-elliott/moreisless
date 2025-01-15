@@ -1,8 +1,9 @@
 entries:
 - title: "Microsoft: Happy 2025. Here\u2019s 161 Security Updates"
   url: https://krebsonsecurity.com/2025/01/microsoft-happy-2025-heres-161-security-updates/
-- title: North Korean IT Worker Fraud Linked to 2016 Crowdfunding Scam and Fake Domains
-  url: https://thehackernews.com/2025/01/north-korean-it-worker-fraud-linked-to.html
+- title: Google Ads Users Targeted in Malvertising Scam Stealing Credentials and 2FA
+    Codes
+  url: https://thehackernews.com/2025/01/google-ads-users-targeted-in.html
 - title: UL NO. 464 | AI Phishing Matches Humans, Under Sea Cable Cutter Patents,
     and Siri is About to Not Suck
   url: https://newsletter.danielmiessler.com/p/ul-464
@@ -12,8 +13,8 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/cisa-warns-of-second-vuln-found-in-beyondtrust-breach-investigation
 - title: Upcoming Speaking Engagements
   url: https://www.schneier.com/blog/archives/2025/01/upcoming-speaking-engagements-42.html
-- title: Windows BitLocker bug triggers warnings on devices with TPMs
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-bitlocker-bug-triggers-warnings-on-devices-with-tpms/
+- title: Over 660,000 Rsync servers exposed to code execution attacks
+  url: https://www.bleepingcomputer.com/news/security/over-660-000-rsync-servers-exposed-to-code-execution-attacks/
 - title: Open Banking Shortcomings Threaten UK Global Leadership Position Research
     Finds
   url: https://www.itsecurityguru.org/2025/01/15/open-banking-shortcomings-threaten-uk-global-leadership-position-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=open-banking-shortcomings-threaten-uk-global-leadership-position-research-finds
