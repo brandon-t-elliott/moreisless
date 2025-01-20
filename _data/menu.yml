@@ -1,13 +1,14 @@
 entries:
 - title: Chinese Innovations Spawn Wave of Toll Phishing Via SMS
   url: https://krebsonsecurity.com/2025/01/chinese-innovations-spawn-wave-of-toll-phishing-via-sms/
-- title: TikTok Goes Dark in the U.S. as Federal Ban Takes Effect January 19, 2025
-  url: https://thehackernews.com/2025/01/tiktok-goes-dark-in-us-as-federal-ban.html
+- title: Hackers Deploy Malicious npm Packages to Steal Solana Wallet Keys via Gmail
+    SMTP
+  url: https://thehackernews.com/2025/01/hackers-deploy-malicious-npm-packages.html
 - title: UL NO. 464 | AI Phishing Matches Humans, Under Sea Cable Cutter Patents,
     and Siri is About to Not Suck
   url: https://newsletter.danielmiessler.com/p/ul-464
-- title: US Names One of the Hackers Allegedly Behind Massive Salt Typhoon Breaches
-  url: https://www.wired.com/story/us-names-one-of-the-hackers-allegedly-behind-massive-salt-typhoon-breaches/
+- title: How to Get Around the US TikTok Ban
+  url: https://www.wired.com/story/how-to-get-around-the-us-tiktok-ban/
 - title: Employees Enter Sensitive Data Into GenAI Prompts Far Too Often
   url: https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts
 - title: 'Friday Squid Blogging: Opioid Alternatives from Squid Research'
@@ -23,5 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1008
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Baan Alsinawi: Trust ourselves and be courageous. [Compliance] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/51/notes
+- title: 'AWS in Orbit: Data Automation and Space Domain Awareness with Kayhan Space.
+    [AWS in Orbit]'
+  url: https://space.n2k.com/podcasts/t-minus/aws-in-orbit-16
