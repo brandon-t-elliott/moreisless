@@ -1,8 +1,8 @@
 entries:
 - title: MasterCard DNS Error Went Unnoticed for Years
   url: https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/
-- title: Experts Find Shared Codebase Linking Morpheus and HellCat Ransomware Payloads
-  url: https://thehackernews.com/2025/01/experts-find-shared-codebase-linking.html
+- title: Palo Alto Firewalls Found Vulnerable to Secure Boot Bypass and Firmware Exploits
+  url: https://thehackernews.com/2025/01/palo-alto-firewalls-found-vulnerable-to.html
 - title: UL NO. 465 | The SaaS Attack Vector, Project Stargate, and Undersea Cable
     Drones
   url: https://newsletter.danielmiessler.com/p/ul-465
@@ -12,10 +12,10 @@ entries:
   url: https://www.darkreading.com/endpoint-security/black-magic-enterprise-juniper-routers-backdoor
 - title: Third Interdisciplinary Workshop on Reimagining Democracy (IWORD 2024)
   url: https://www.schneier.com/blog/archives/2025/01/third-interdisciplinary-workshop-on-reimagining-democracy-iword-2024.html
-- title: Critical zero-days impact premium WordPress real estate plugins
-  url: https://www.bleepingcomputer.com/news/security/critical-zero-days-impact-premium-wordpress-real-estate-plugins/
-- title: Privacy Teams Understaffed, Under Resourced and Under Stress, Research Finds
-  url: https://www.itsecurityguru.org/2025/01/22/privacy-teams-understaffed-under-resourced-and-under-stress-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=privacy-teams-understaffed-under-resourced-and-under-stress-research-finds
+- title: SonicWall warns of SMA1000 RCE flaw exploited in zero-day attacks
+  url: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-rce-flaw-exploited-in-zero-day-attacks/
+- title: 'Future-Proof Your WordPress Site: Essential Plugins for 2025'
+  url: https://www.itsecurityguru.org/2025/01/22/future-proof-your-wordpress-site-essential-plugins-for-2025/?utm_source=rss&utm_medium=rss&utm_campaign=future-proof-your-wordpress-site-essential-plugins-for-2025
 - title: '153: Bike Index'
   url: https://darknetdiaries.com/episode/153/
 - title: 'SN 1009: Attacking TOTP - Force-Installed Outlook, DJI Firmware Update'
