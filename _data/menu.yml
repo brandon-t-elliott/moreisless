@@ -8,8 +8,8 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-465
 - title: Under Trump, US Cyberdefense Loses Its Head
   url: https://www.wired.com/story/big-interview-jen-easterly-cisa-cybersecurity/
-- title: MITRE's Latest ATT&amp;CK Simulations Tackles Cloud Defenses
-  url: https://www.darkreading.com/cybersecurity-operations/mitre-simuluations-shine-light-on-attackers-techniques
+- title: DoJ Busts Up Another Multinational DPRK IT Worker Scam
+  url: https://www.darkreading.com/threat-intelligence/doj-multinational-dprk-it-worker-scam
 - title: Third Interdisciplinary Workshop on Reimagining Democracy (IWORD 2024)
   url: https://www.schneier.com/blog/archives/2025/01/third-interdisciplinary-workshop-on-reimagining-democracy-iword-2024.html
 - title: Zyxel warns of bad signature update causing firewall boot loops
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1009
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A warning from the cloud.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2230/notes
+- title: The end of warrantless searches?
+  url: https://thecyberwire.com/podcasts/daily-podcast/2231/notes
