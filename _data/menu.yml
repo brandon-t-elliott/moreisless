@@ -7,10 +7,10 @@ entries:
 - title: UL NO. 465 | The SaaS Attack Vector, Project Stargate, and Undersea Cable
     Drones
   url: https://newsletter.danielmiessler.com/p/ul-465
-- title: Scammers Are Creating Fake News Videos to Blackmail Victims
-  url: https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/
-- title: 'Crisis Simulations: A Top 2025 Concern for CISOs'
-  url: https://www.darkreading.com/endpoint-security/crisis-simulations-2025-concern-cisos
+- title: "DeepSeek\u2019s Popular AI App Is Explicitly Sending US Data to China"
+  url: https://www.wired.com/story/deepseek-ai-china-privacy-data/
+- title: For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code
+  url: https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code
 - title: New VPN Backdoor
   url: https://www.schneier.com/blog/archives/2025/01/new-vpn-backdoor.html
 - title: Bitwarden makes it harder to hack password vaults without MFA
