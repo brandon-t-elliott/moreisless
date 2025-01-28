@@ -1,14 +1,13 @@
 entries:
-- title: MasterCard DNS Error Went Unnoticed for Years
-  url: https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/
-- title: GitHub Desktop Vulnerability Risks Credential Leaks via Malicious Remote
-    URLs
-  url: https://thehackernews.com/2025/01/github-desktop-vulnerability-risks.html
+- title: A Tumultuous Week for Federal Cybersecurity Efforts
+  url: https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/
+- title: Top-Rated Chinese AI App DeepSeek Limits Registrations Amid Cyberattacks
+  url: https://thehackernews.com/2025/01/top-rated-chinese-ai-app-deepseek.html
 - title: UL NO. 465 | The SaaS Attack Vector, Project Stargate, and Undersea Cable
     Drones
   url: https://newsletter.danielmiessler.com/p/ul-465
-- title: "DeepSeek\u2019s Popular AI App Is Explicitly Sending US Data to China"
-  url: https://www.wired.com/story/deepseek-ai-china-privacy-data/
+- title: Scammers Are Creating Fake News Videos to Blackmail Victims
+  url: https://www.wired.com/story/scammers-are-creating-fake-news-videos-to-blackmail-victims/
 - title: For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code
   url: https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code
 - title: New VPN Backdoor
