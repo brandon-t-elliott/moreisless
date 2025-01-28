@@ -1,19 +1,20 @@
 entries:
 - title: A Tumultuous Week for Federal Cybersecurity Efforts
   url: https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/
-- title: 'AI SOC Analysts: Propelling SecOps into the future'
-  url: https://thehackernews.com/2025/01/ai-soc-analysts-propelling-secops-into.html
+- title: OAuth Redirect Flaw in Airline Travel Integration Exposes Millions to Account
+    Hijacking
+  url: https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html
 - title: UL NO. 465 | The SaaS Attack Vector, Project Stargate, and Undersea Cable
     Drones
   url: https://newsletter.danielmiessler.com/p/ul-465
 - title: "DeepSeek\u2019s Popular AI App Is Explicitly Sending US Data to China"
   url: https://www.wired.com/story/deepseek-ai-china-privacy-data/
-- title: For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code
-  url: https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code
+- title: Cryptographic Agility's Legislative Possibilities &amp; Business Benefits
+  url: https://www.darkreading.com/vulnerabilities-threats/cryptographic-agility-legislative-possibilities-benefits
 - title: CISA Under Trump
   url: https://www.schneier.com/blog/archives/2025/01/cisa-under-trump.html
-- title: Bitwarden makes it harder to hack password vaults without MFA
-  url: https://www.bleepingcomputer.com/news/security/bitwarden-makes-it-harder-to-hack-password-vaults-without-mfa/
+- title: Microsoft tests Edge Scareware Blocker to block tech support scams
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-edge-scareware-blocker-to-block-tech-support-scams/
 - title: Passkeys are gaining popularity, but too much authentication is hard to manage
   url: https://www.itsecurityguru.org/2025/01/27/passkeys-are-gaining-popularity-but-too-much-authentication-is-hard-to-manage/?utm_source=rss&utm_medium=rss&utm_campaign=passkeys-are-gaining-popularity-but-too-much-authentication-is-hard-to-manage
 - title: '153: Bike Index'
