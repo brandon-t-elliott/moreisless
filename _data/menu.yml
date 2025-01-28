@@ -1,9 +1,8 @@
 entries:
 - title: A Tumultuous Week for Federal Cybersecurity Efforts
   url: https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/
-- title: OAuth Redirect Flaw in Airline Travel Integration Exposes Millions to Account
-    Hijacking
-  url: https://thehackernews.com/2025/01/oauth-redirect-flaw-in-airline-travel.html
+- title: PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks
+  url: https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
 - title: "DeepSeek\u2019s Popular AI App Is Explicitly Sending US Data to China"
@@ -12,8 +11,8 @@ entries:
   url: https://www.darkreading.com/vulnerabilities-threats/cryptographic-agility-legislative-possibilities-benefits
 - title: CISA Under Trump
   url: https://www.schneier.com/blog/archives/2025/01/cisa-under-trump.html
-- title: Signal will let you sync old messages when linking new devices
-  url: https://www.bleepingcomputer.com/news/security/signal-will-let-you-sync-old-messages-when-linking-new-devices/
+- title: Engineering giant Smiths Group discloses security breach
+  url: https://www.bleepingcomputer.com/news/security/engineering-giant-smiths-group-discloses-security-breach/
 - title: Passkeys are gaining popularity, but too much authentication is hard to manage
   url: https://www.itsecurityguru.org/2025/01/27/passkeys-are-gaining-popularity-but-too-much-authentication-is-hard-to-manage/?utm_source=rss&utm_medium=rss&utm_campaign=passkeys-are-gaining-popularity-but-too-much-authentication-is-hard-to-manage
 - title: '153: Bike Index'
