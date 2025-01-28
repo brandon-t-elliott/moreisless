@@ -1,8 +1,8 @@
 entries:
 - title: A Tumultuous Week for Federal Cybersecurity Efforts
   url: https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/
-- title: Ransomware Targets ESXi Systems via Stealthy SSH Tunnels for C2 Operations
-  url: https://thehackernews.com/2025/01/ransomware-targets-esxi-systems-via.html
+- title: 'AI SOC Analysts: Propelling SecOps into the future'
+  url: https://thehackernews.com/2025/01/ai-soc-analysts-propelling-secops-into.html
 - title: UL NO. 465 | The SaaS Attack Vector, Project Stargate, and Undersea Cable
     Drones
   url: https://newsletter.danielmiessler.com/p/ul-465
@@ -10,8 +10,8 @@ entries:
   url: https://www.wired.com/story/deepseek-ai-china-privacy-data/
 - title: For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code
   url: https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code
-- title: New VPN Backdoor
-  url: https://www.schneier.com/blog/archives/2025/01/new-vpn-backdoor.html
+- title: CISA Under Trump
+  url: https://www.schneier.com/blog/archives/2025/01/cisa-under-trump.html
 - title: Bitwarden makes it harder to hack password vaults without MFA
   url: https://www.bleepingcomputer.com/news/security/bitwarden-makes-it-harder-to-hack-password-vaults-without-mfa/
 - title: Passkeys are gaining popularity, but too much authentication is hard to manage
