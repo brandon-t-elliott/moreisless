@@ -7,8 +7,8 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-466
 - title: The Trial at the Tip of the Terrorgram Iceberg
   url: https://www.wired.com/story/brandon-russell-baltimore-trial/
-- title: "Mirai Variant \u2018Aquabot\u2019 Exploits Mitel Device Flaws"
-  url: https://www.darkreading.com/endpoint-security/mirai-variant-aquabot-exploits-mitel-phone-flaws
+- title: Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers
+  url: https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers
 - title: ExxonMobil Lobbyist Caught Hacking Climate Activists
   url: https://www.schneier.com/blog/archives/2025/01/exxonmobil-lobbyist-caught-hacking-climate-activists.html
 - title: Laravel admin package Voyager vulnerable to one-click RCE flaw
