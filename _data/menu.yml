@@ -1,8 +1,8 @@
 entries:
 - title: A Tumultuous Week for Federal Cybersecurity Efforts
   url: https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/
-- title: PureCrypter Deploys Agent Tesla and New TorNet Backdoor in Ongoing Cyberattacks
-  url: https://thehackernews.com/2025/01/purecrypter-deploys-agent-tesla-and-new.html
+- title: How Interlock Ransomware Infects Healthcare Organizations
+  url: https://thehackernews.com/2025/01/how-interlock-ransomware-infects.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
 - title: "DeepSeek\u2019s Popular AI App Is Explicitly Sending US Data to China"
@@ -17,8 +17,8 @@ entries:
   url: https://www.itsecurityguru.org/2025/01/28/cato-networks-appoints-nicolas-warnier-as-vp-of-sales-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=cato-networks-appoints-nicolas-warnier-as-vp-of-sales-for-emea
 - title: '153: Bike Index'
   url: https://darknetdiaries.com/episode/153/
-- title: 'SN 1009: Attacking TOTP - Force-Installed Outlook, DJI Firmware Update'
-  url: https://twit.tv/shows/security-now/episodes/1009
+- title: 'SN 1010: DNS Over TLS - Record DDoS,  Hackers Get Hacked'
+  url: https://twit.tv/shows/security-now/episodes/1010
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: It was DDoS, not us.
