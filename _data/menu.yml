@@ -1,1 +1,25 @@
-entries: []
+entries:
+- title: 'Infrastructure Laundering: Blending in with the Cloud'
+  url: https://krebsonsecurity.com/2025/01/infrastructure-laundering-blending-in-with-the-cloud/
+- title: 'Google: Over 57 Nation-State Threat Groups Using AI for Cyber Operations'
+  url: https://thehackernews.com/2025/01/google-over-57-nation-state-threat.html
+- title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
+  url: https://newsletter.danielmiessler.com/p/ul-466
+- title: Exposed DeepSeek Database Revealed Chat Prompts and Internal Data
+  url: https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/
+- title: New Jailbreaks Allow Users to Manipulate GitHub Copilot
+  url: https://www.darkreading.com/vulnerabilities-threats/new-jailbreaks-manipulate-github-copilot
+- title: Fake Reddit and WeTransfer Sites are Pushing Malware
+  url: https://www.schneier.com/blog/archives/2025/01/fake-reddit-and-wetransfer-sites-are-pushing-malware.html
+- title: Ransomware attack disrupts New York blood donation giant
+  url: https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-new-york-blood-donation-giant/
+- title: How Spread Betting Platforms Safeguard Traders Against Cyber Risks
+  url: https://www.itsecurityguru.org/2025/01/30/how-spread-betting-platforms-safeguard-traders-against-cyber-risks/?utm_source=rss&utm_medium=rss&utm_campaign=how-spread-betting-platforms-safeguard-traders-against-cyber-risks
+- title: '153: Bike Index'
+  url: https://darknetdiaries.com/episode/153/
+- title: 'SN 1010: DNS Over TLS - Record DDoS,  Hackers Get Hacked'
+  url: https://twit.tv/shows/security-now/episodes/1010
+- title: All Together Now
+  url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
+- title: It was DDoS, not us.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2233/notes
