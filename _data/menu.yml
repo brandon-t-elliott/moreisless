@@ -1,14 +1,14 @@
 entries:
 - title: A Tumultuous Week for Federal Cybersecurity Efforts
   url: https://krebsonsecurity.com/2025/01/a-tumultuous-week-for-federal-cybersecurity-efforts/
-- title: Lazarus Group Uses React-Based Admin Panel to Control Global Cyber Attacks
-  url: https://thehackernews.com/2025/01/lazarus-group-uses-react-based-admin.html
+- title: Unpatched PHP Voyager Flaws Leave Servers Open to One-Click RCE Exploits
+  url: https://thehackernews.com/2025/01/unpatched-php-voyager-flaws-leave.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
 - title: Exposed DeepSeek Database Revealed Chat Prompts and Internal Data
   url: https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/
-- title: Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers
-  url: https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers
+- title: Fake Videos of Former First Lady Scam Namibians
+  url: https://www.darkreading.com/threat-intelligence/fake-videos-former-first-lady-scam-namibians
 - title: ExxonMobil Lobbyist Caught Hacking Climate Activists
   url: https://www.schneier.com/blog/archives/2025/01/exxonmobil-lobbyist-caught-hacking-climate-activists.html
 - title: New Aquabotv3 botnet malware targets Mitel command injection flaw
