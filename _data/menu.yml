@@ -1,14 +1,15 @@
 entries:
-- title: 'Infrastructure Laundering: Blending in with the Cloud'
-  url: https://krebsonsecurity.com/2025/01/infrastructure-laundering-blending-in-with-the-cloud/
+- title: "FBI, Dutch Police Disrupt \u2018Manipulaters\u2019 Phishing Gang"
+  url: https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/
 - title: CISA and FDA Warn of Critical Backdoor in Contec CMS8000 Patient Monitors
   url: https://thehackernews.com/2025/01/cisa-and-fda-warn-of-critical-backdoor.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
-- title: Exposed DeepSeek Database Revealed Chat Prompts and Internal Data
-  url: https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/
-- title: Can AI &amp; the Cyber Trust Mark Rebuild Endpoint Confidence?
-  url: https://www.darkreading.com/endpoint-security/can-ai-cyber-trust-mark-rebuild-endpoint-confidence
+- title: "DeepSeek\u2019s Safety Guardrails Failed Every Test Researchers Threw at\
+    \ Its AI Chatbot"
+  url: https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/
+- title: Code-Scanning Tool's License at Heart of Security Breakup
+  url: https://www.darkreading.com/application-security/code-scanning-tool-s-license-at-heart-of-security-breakup
 - title: Fake Reddit and WeTransfer Sites are Pushing Malware
   url: https://www.schneier.com/blog/archives/2025/01/fake-reddit-and-wetransfer-sites-are-pushing-malware.html
 - title: Microsoft improves text contrast for all Windows Chromium browsers
