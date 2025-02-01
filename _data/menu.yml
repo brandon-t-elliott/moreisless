@@ -5,11 +5,10 @@ entries:
   url: https://thehackernews.com/2025/02/us-and-dutch-authorities-dismantle-39.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
-- title: "DeepSeek\u2019s Safety Guardrails Failed Every Test Researchers Threw at\
-    \ Its AI Chatbot"
-  url: https://www.wired.com/story/deepseeks-ai-jailbreak-prompt-injection-attacks/
-- title: Community Health Center Data Breach Affects 1M Patients
-  url: https://www.darkreading.com/cyberattacks-data-breaches/community-health-center-notifies-1m-stolen-data-breach
+- title: "Foreign Hackers Are Using Google\u2019s Gemini in Attacks on the US"
+  url: https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/
+- title: DeepSeek Jailbreak Reveals Its Entire System Prompt
+  url: https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt
 - title: 'Friday Squid Blogging: On Squid Brains'
   url: https://www.schneier.com/blog/archives/2025/01/friday-squid-blogging-on-squid-brains-2.html
 - title: Microsoft improves text contrast for all Windows Chromium browsers
