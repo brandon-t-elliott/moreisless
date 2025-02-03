@@ -1,8 +1,9 @@
 entries:
 - title: "FBI, Dutch Police Disrupt \u2018Manipulaters\u2019 Phishing Gang"
   url: https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/
-- title: "\u26A1 THN Weekly Recap: Top Cybersecurity Threats, Tools and Tips [27 February]"
-  url: https://thehackernews.com/2025/02/thn-weekly-recap-top-cybersecurity.html
+- title: PyPI Introduces Archival Status to Alert Users About Unmaintained Python
+    Packages
+  url: https://thehackernews.com/2025/02/pypi-introduces-archival-status-to.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
 - title: "Foreign Hackers Are Using Google\u2019s Gemini in Attacks on the US"
@@ -12,8 +13,8 @@ entries:
 - title: Journalists and Civil Society Members Using WhatsApp Targeted by Paragon
     Spyware
   url: https://www.schneier.com/blog/archives/2025/02/journalists-and-civil-society-members-using-whatsapp-targeted-by-paragon-spyware.html
-- title: PyPI adds project archiving system to stop malicious updates
-  url: https://www.bleepingcomputer.com/news/security/pypi-adds-project-archiving-system-to-stop-malicious-updates/
+- title: Microsoft improves text contrast for all Windows Chromium browsers
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-improves-text-contrast-for-all-windows-chromium-browsers/
 - title: 'Change Your Password Day: Keeper Security Highlights Urgent Need for Strong
     Credential Management'
   url: https://www.itsecurityguru.org/2025/01/31/change-your-password-day-keeper-security-highlights-urgent-need-for-strong-credential-management/?utm_source=rss&utm_medium=rss&utm_campaign=change-your-password-day-keeper-security-highlights-urgent-need-for-strong-credential-management
