@@ -7,8 +7,8 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-466
 - title: "Foreign Hackers Are Using Google\u2019s Gemini in Attacks on the US"
   url: https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/
-- title: Ransomware Groups Weathered Raids, Profited in 2024
-  url: https://www.darkreading.com/endpoint-security/ransomware-weathered-raids-profited-2024
+- title: '''Constitutional Classifiers'' Technique Mitigates GenAI Jailbreaks'
+  url: https://www.darkreading.com/application-security/constitutional-classifiers-mitigate-genai-jailbreaks
 - title: Journalists and Civil Society Members Using WhatsApp Targeted by Paragon
     Spyware
   url: https://www.schneier.com/blog/archives/2025/02/journalists-and-civil-society-members-using-whatsapp-targeted-by-paragon-spyware.html
