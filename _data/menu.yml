@@ -1,25 +1,26 @@
 entries:
 - title: "FBI, Dutch Police Disrupt \u2018Manipulaters\u2019 Phishing Gang"
   url: https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/
-- title: 768 CVEs Exploited in 2024, Reflecting a 20% Increase from 639 in 2023
-  url: https://thehackernews.com/2025/02/768-cves-exploited-in-2024-reflecting.html
+- title: Taiwan Bans DeepSeek AI Over National Security Concerns, Citing Data Leakage
+    Risks
+  url: https://thehackernews.com/2025/02/taiwan-bans-deepseek-ai-over-national.html
 - title: UL NO. 466 | My Analysis and Prediction on the Deepseek Situation
   url: https://newsletter.danielmiessler.com/p/ul-466
-- title: "Foreign Hackers Are Using Google\u2019s Gemini in Attacks on the US"
-  url: https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/
+- title: Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden
+  url: https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/
 - title: DNSFilter's Annual Security Report Reveals Worrisome Spike in Malicious DNS
     Requests
   url: https://www.darkreading.com/cyberattacks-data-breaches/dnsfilter-s-annual-security-report-reveals-worrisome-spike-in-malicious-dns-requests
 - title: Journalists and Civil Society Members Using WhatsApp Targeted by Paragon
     Spyware
   url: https://www.schneier.com/blog/archives/2025/02/journalists-and-civil-society-members-using-whatsapp-targeted-by-paragon-spyware.html
-- title: First Apple-notarized porn app available to iPhone users in Europe
-  url: https://www.bleepingcomputer.com/news/apple/first-apple-notarized-porn-app-available-to-iphone-users-in-europe/
+- title: GrubHub data breach impacts customers, drivers, and merchants
+  url: https://www.bleepingcomputer.com/news/security/grubhub-data-breach-impacts-customers-drivers-and-merchants/
 - title: 'Change Your Password Day: Keeper Security Highlights Urgent Need for Strong
     Credential Management'
   url: https://www.itsecurityguru.org/2025/01/31/change-your-password-day-keeper-security-highlights-urgent-need-for-strong-credential-management/?utm_source=rss&utm_medium=rss&utm_campaign=change-your-password-day-keeper-security-highlights-urgent-need-for-strong-credential-management
-- title: '153: Bike Index'
-  url: https://darknetdiaries.com/episode/153/
+- title: '154: Hijacked Line'
+  url: http://darknetdiaries.com/episode/154/
 - title: 'SN 1010: DNS Over TLS - Record DDoS,  Hackers Get Hacked'
   url: https://twit.tv/shows/security-now/episodes/1010
 - title: All Together Now
