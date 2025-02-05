@@ -2,16 +2,18 @@ entries:
 - title: "Who\u2019s Behind the Seized Forums \u2018Cracked\u2019 & \u2018Nulled\u2019\
     ?"
   url: https://krebsonsecurity.com/2025/02/whos-behind-the-seized-forums-cracked-nulled/
-- title: New Veeam Flaw Allows Arbitrary Code Execution via Man-in-the-Middle Attack
-  url: https://thehackernews.com/2025/02/new-veeam-flaw-allows-arbitrary-code.html
+- title: Cybercriminals Use Go Resty and Node Fetch in 13 Million Password Spraying
+    Attempts
+  url: https://thehackernews.com/2025/02/cybercriminals-use-axios-and-node-fetch.html
 - title: UL NO. 467 | Why You Should Care About AGI (And a Definition)
   url: https://newsletter.danielmiessler.com/p/ul-467
-- title: Meet the Hired Guns Who Make Sure School Cyberattacks Stay Hidden
-  url: https://www.wired.com/story/meet-the-hired-guns-who-make-sure-school-cyberattacks-stay-hidden/
-- title: Backline Tackles Enterprise Security Backlogs With AI
-  url: https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai
-- title: Deepfakes and the 2024 US Election
-  url: https://www.schneier.com/blog/archives/2025/02/deepfakes-and-the-2024-us-election.html
+- title: Despite Catastrophic Hacks, Ransomware Payments Dropped Dramatically Last
+    Year
+  url: https://www.wired.com/story/2024-ransomware-payments-fall-chainalysis/
+- title: Nigeria Touts Cyber Success, Even as Cybercrime Rises in Africa
+  url: https://www.darkreading.com/cyber-risk/nigeria-touts-cyber-success-african-cybercrime-rises
+- title: On Generative AI Security
+  url: https://www.schneier.com/blog/archives/2025/02/on-generative-ai-security.html
 - title: "Zyxel won\u2019t patch newly exploited flaws in end-of-life routers"
   url: https://www.bleepingcomputer.com/news/security/zyxel-wont-patch-newly-exploited-flaws-in-end-of-life-routers/
 - title: Cato Networks Appoints Karl Soderlund as Global Channel Chief to Accelerate
