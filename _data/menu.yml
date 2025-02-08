@@ -1,8 +1,9 @@
 entries:
 - title: "Teen on Musk\u2019s DOGE Team Graduated from \u2018The Com\u2019"
   url: https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/
-- title: DeepSeek App Transmits Sensitive User and Device Data Without Encryption
-  url: https://thehackernews.com/2025/02/deepseek-app-transmits-sensitive-user.html
+- title: Malicious ML Models on Hugging Face Leverage Broken Pickle Format to Evade
+    Detection
+  url: https://thehackernews.com/2025/02/malicious-ml-models-found-on-hugging.html
 - title: UL NO. 467 | Why You Should Care About AGI (And a Definition)
   url: https://newsletter.danielmiessler.com/p/ul-467
 - title: "ACLU Warns DOGE\u2019s \u2018Unchecked\u2019 Access Could Violate Federal\
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1011
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: DOGE-eat-DOGE world.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2241/notes
+- title: "Cleo\u2019s trojan horse. [Research Saturday]"
+  url: https://thecyberwire.com/podcasts/research-saturday/364/notes
