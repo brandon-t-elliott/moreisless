@@ -1,19 +1,21 @@
 entries:
 - title: Microsoft Patch Tuesday, February 2025 Edition
   url: https://krebsonsecurity.com/2025/02/microsoft-patch-tuesday-february-2025-edition/
-- title: Researchers Find New Exploit Bypassing Patched NVIDIA Container Toolkit Vulnerability
-  url: https://thehackernews.com/2025/02/researchers-find-new-exploit-bypassing.html
+- title: Microsoft Uncovers Sandworm Subgroup's Global Cyber Attacks Spanning 15+
+    Countries
+  url: https://thehackernews.com/2025/02/microsoft-uncovers-sandworm-subgroups.html
 - title: UL NO. 468 | TELOS Patterns, Apple 0-Day, Gumroad Replaces Developers with
     AI
   url: https://newsletter.danielmiessler.com/p/ul-468
-- title: This Ad-Tech Company Is Powering Surveillance of US Military Personnel
-  url: https://www.wired.com/story/rtb-location-data-us-military/
-- title: 'Microsoft: Russia''s Sandworm APT Exploits Edge Bugs Globally'
-  url: https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally
+- title: "A Hacker Group Within Russia\u2019s Notorious Sandworm Unit Is Breaching\
+    \ Western Networks"
+  url: https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/
+- title: Is AI a Friend or Foe of Healthcare Security?
+  url: https://www.darkreading.com/vulnerabilities-threats/is-ai-friend-foe-healthcare-security
 - title: Delivering Malware Through Abandoned Amazon S3 Buckets
   url: https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html
-- title: Windows 10 KB5051974 update force installs new Microsoft Outlook app
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5051974-update-force-installs-new-microsoft-outlook-app/
+- title: Ivanti fixes three critical flaws in Connect Secure & Policy Secure
+  url: https://www.bleepingcomputer.com/news/security/ivanti-fixes-three-critical-flaws-in-connect-secure-and-policy-secure/
 - title: 'Safer Internet Day: Cyber Experts Weigh In'
   url: https://www.itsecurityguru.org/2025/02/11/safer-internet-day-cyber-experts-weigh-in/?utm_source=rss&utm_medium=rss&utm_campaign=safer-internet-day-cyber-experts-weigh-in
 - title: '154: Hijacked Line'
@@ -22,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1012
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Apple\u2019s race to secure your iPhone."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2243/notes
+- title: "Read all about it\u2014or maybe not."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2242/notes
