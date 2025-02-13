@@ -1,17 +1,16 @@
 entries:
 - title: Microsoft Patch Tuesday, February 2025 Edition
   url: https://krebsonsecurity.com/2025/02/microsoft-patch-tuesday-february-2025-edition/
-- title: Microsoft Uncovers Sandworm Subgroup's Global Cyber Attacks Spanning 15+
-    Countries
-  url: https://thehackernews.com/2025/02/microsoft-uncovers-sandworm-subgroups.html
+- title: Palo Alto Networks Patches Authentication Bypass Exploit in PAN-OS Software
+  url: https://thehackernews.com/2025/02/palo-alto-networks-patches.html
 - title: UL NO. 468 | TELOS Patterns, Apple 0-Day, Gumroad Replaces Developers with
     AI
   url: https://newsletter.danielmiessler.com/p/ul-468
-- title: "A Hacker Group Within Russia\u2019s Notorious Sandworm Unit Is Breaching\
-    \ Western Networks"
-  url: https://www.wired.com/story/russia-sandworm-badpilot-cyberattacks-western-countries/
-- title: President Trump to Nominate Former RNC Official as National Cyber Director
-  url: https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director
+- title: "China\u2019s Salt Typhoon Spies Are Still Hacking Telecoms\u2014Now by Exploiting\
+    \ Cisco Routers"
+  url: https://www.wired.com/story/chinas-salt-typhoon-spies-are-still-hacking-telecoms-now-by-exploiting-cisco-routers/
+- title: Japan Goes on Offense With New 'Active Cyber Defense' Bill
+  url: https://www.darkreading.com/cybersecurity-operations/japan-offense-new-cyber-defense-bill
 - title: Delivering Malware Through Abandoned Amazon S3 Buckets
   url: https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html
 - title: zkLend loses $9.5M in crypto heist, asks hacker to return 90%
