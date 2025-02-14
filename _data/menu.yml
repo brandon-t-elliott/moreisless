@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/how-banks-adapt-rising-threat-financial-crime
 - title: 'Friday Squid Blogging: Squid the Care Dog'
   url: https://www.schneier.com/blog/archives/2025/02/friday-squid-blogging-squid-the-care-dog.html
-- title: SonicWall firewall bug leveraged in attacks after PoC exploit release
-  url: https://www.bleepingcomputer.com/news/security/sonicwall-firewall-bug-leveraged-in-attacks-after-poc-exploit-release/
+- title: Hackers exploit authentication bypass in Palo Alto Networks PAN-OS
+  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-authentication-bypass-in-palo-alto-networks-pan-os/
 - title: 'National Apprenticeship Week: Alternative Routes into Cyber'
   url: https://www.itsecurityguru.org/2025/02/12/national-apprenticeship-week-alternative-routes-into-cyber/?utm_source=rss&utm_medium=rss&utm_campaign=national-apprenticeship-week-alternative-routes-into-cyber
 - title: '154: Hijacked Line'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1012
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Salt in the wound.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2245/notes
+- title: "AI\u2019s blind spots need human eyes."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2246/notes
