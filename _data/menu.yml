@@ -1,8 +1,9 @@
 entries:
 - title: Nearly a Year Later, Mozilla is Still Promoting OneRep
   url: https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/
-- title: Hackers Use CAPTCHA Trick on Webflow CDN PDFs to Bypass Security Scanners
-  url: https://thehackernews.com/2025/02/hackers-use-captcha-trick-on-webflow.html
+- title: PostgreSQL Vulnerability Exploited Alongside BeyondTrust Zero-Day in Targeted
+    Attacks
+  url: https://thehackernews.com/2025/02/postgresql-vulnerability-exploited.html
 - title: UL NO. 468 | TELOS Patterns, Apple 0-Day, Gumroad Replaces Developers with
     AI
   url: https://newsletter.danielmiessler.com/p/ul-468
