@@ -1,8 +1,9 @@
 entries:
 - title: Nearly a Year Later, Mozilla is Still Promoting OneRep
   url: https://krebsonsecurity.com/2025/02/nearly-a-year-later-mozilla-is-still-promoting-onerep/
-- title: 'AI-Powered Social Engineering: Ancillary Tools and Techniques'
-  url: https://thehackernews.com/2025/02/ai-powered-social-engineering-ancillary.html
+- title: Lazarus Group Deploys Marstech1 JavaScript Implant in Targeted Developer
+    Attacks
+  url: https://thehackernews.com/2025/02/lazarus-group-deploys-marstech1.html
 - title: UL NO. 468 | TELOS Patterns, Apple 0-Day, Gumroad Replaces Developers with
     AI
   url: https://newsletter.danielmiessler.com/p/ul-468
@@ -12,8 +13,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/how-banks-adapt-rising-threat-financial-crime
 - title: 'Friday Squid Blogging: Squid the Care Dog'
   url: https://www.schneier.com/blog/archives/2025/02/friday-squid-blogging-squid-the-care-dog.html
-- title: Malicious PirateFi game infects Steam users with Vidar malware
-  url: https://www.bleepingcomputer.com/news/security/malicious-piratefi-game-infects-steam-users-with-vidar-malware/
+- title: SonicWall firewall bug leveraged in attacks after PoC exploit release
+  url: https://www.bleepingcomputer.com/news/security/sonicwall-firewall-bug-leveraged-in-attacks-after-poc-exploit-release/
 - title: 'National Apprenticeship Week: Alternative Routes into Cyber'
   url: https://www.itsecurityguru.org/2025/02/12/national-apprenticeship-week-alternative-routes-into-cyber/?utm_source=rss&utm_medium=rss&utm_campaign=national-apprenticeship-week-alternative-routes-into-cyber
 - title: '154: Hijacked Line'
