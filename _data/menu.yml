@@ -4,17 +4,16 @@ entries:
 - title: "New OpenSSH Flaws Enable Man-in-the-Middle and DoS Attacks \u2014 Patch\
     \ Now"
   url: https://thehackernews.com/2025/02/new-openssh-flaws-enable-man-in-middle.html
-- title: UL NO. 468 | TELOS Patterns, Apple 0-Day, Gumroad Replaces Developers with
-    AI
-  url: https://newsletter.danielmiessler.com/p/ul-468
+- title: Unsupervised Learning NO. 469 (STANDARD EDITION)
+  url: https://newsletter.danielmiessler.com/p/ul-469
 - title: The Official DOGE Website Launch Was a Security Mess
   url: https://www.wired.com/story/the-official-doge-website-launch-was-a-security-mess/
-- title: Introducing enQase for Quantum-Safe Security
-  url: https://www.darkreading.com/endpoint-security/introducing-enqase-for-quantum-safe-security
+- title: 'Microsoft: New Variant of macOS Threat XCSSET Spotted in the Wild'
+  url: https://www.darkreading.com/vulnerabilities-threats/microsoft-variant-macos-threat-xcsset
 - title: Atlas of Surveillance
   url: https://www.schneier.com/blog/archives/2025/02/atlas-of-surveillance.html
-- title: Chinese hackers abuse Microsoft APP-v tool to evade antivirus
-  url: https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-microsoft-app-v-tool-to-evade-antivirus/
+- title: Microsoft reminds admins to prepare for WSUS driver sync deprecation
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-prepare-for-wsus-driver-sync-deprecation/
 - title: "Swipe Left on Scams: Cyber Experts Expose Valentine\u2019s Day Fraudsters"
   url: https://www.itsecurityguru.org/2025/02/14/swipe-left-on-scams-cyber-experts-expose-valentines-day-fraudsters/?utm_source=rss&utm_medium=rss&utm_campaign=swipe-left-on-scams-cyber-experts-expose-valentines-day-fraudsters
 - title: '154: Hijacked Line'
