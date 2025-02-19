@@ -7,12 +7,12 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-469
 - title: A Signal Update Fends Off a Phishing Technique Used in Russian Espionage
   url: https://www.wired.com/story/russia-signal-qr-code-phishing-attack/
-- title: What Is the Board's Role in Cyber-Risk Management in OT Environments?
-  url: https://www.darkreading.com/cyber-risk/board-role-cyber-risk-management-ot-environments
+- title: 'Patch Now: CISA Warns of Palo Alto Flaw Exploited in the Wild'
+  url: https://www.darkreading.com/remote-workforce/patch-now-cisa-researchers-warn-palo-alto-flaw-exploited-wild
 - title: Story About Medical Device Security
   url: https://www.schneier.com/blog/archives/2025/02/story-about-medical-device-security.html
-- title: Palo Alto Networks tags new firewall bug as exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/palo-alto-networks-tags-new-firewall-bug-as-exploited-in-attacks/
+- title: 'The Browser Blind Spot: Why Your Browser is the Next Cybersecurity Battleground'
+  url: https://www.bleepingcomputer.com/news/security/the-browser-blind-spot-why-your-browser-is-the-next-cybersecurity-battleground/
 - title: Keeper Security Launches Upgraded KeeperPAM
   url: https://www.itsecurityguru.org/2025/02/18/keeper-security-launches-upgraded-keeperpam/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-launches-upgraded-keeperpam
 - title: '154: Hijacked Line'
