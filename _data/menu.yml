@@ -6,8 +6,8 @@ entries:
   url: https://thehackernews.com/2025/02/trojanized-game-installers-deploy.html
 - title: Unsupervised Learning NO. 469 (STANDARD EDITION)
   url: https://newsletter.danielmiessler.com/p/ul-469
-- title: "Elon Musk\u2019s DOGE Is Being Sued Under the Privacy Act: What to Know"
-  url: https://www.wired.com/story/privacy-act-doge-lawsuits/
+- title: A Signal Update Fends Off a Phishing Technique Used in Russian Espionage
+  url: https://www.wired.com/story/russia-signal-qr-code-phishing-attack/
 - title: North Korea's Kimsuky Taps Trusted Platforms to Attack South Korea
   url: https://www.darkreading.com/cyberattacks-data-breaches/north-koreans-kimsuky-attacks-rivals-trusted-platforms
 - title: Story About Medical Device Security
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1013
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: LIVE! From Philly [Threat Vector]
-  url: https://thecyberwire.com/podcasts/threat-vector/902/notes
+- title: 'PAN-ic mode: The race to secure PAN-OS.'
+  url: https://thecyberwire.com/podcasts/daily-podcast/2247/notes
