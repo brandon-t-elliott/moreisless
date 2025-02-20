@@ -11,8 +11,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/ghost-ransomware-targets-orgs-70-countries
 - title: An LLM Trained to Create Backdoors in Code
   url: https://www.schneier.com/blog/archives/2025/02/an-llm-trained-to-create-backdoors-in-code.html
-- title: Black Basta ransomware gang's internal chat logs leak online
-  url: https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/
+- title: Apiiro unveils free scanner to detect malicious code merges
+  url: https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/
 - title: How Q-Day and Security Demands Are Fuelling Cloud Modernisation
   url: https://www.itsecurityguru.org/2025/02/20/how-q-day-and-security-demands-are-fuelling-cloud-modernisation/?utm_source=rss&utm_medium=rss&utm_campaign=how-q-day-and-security-demands-are-fuelling-cloud-modernisation
 - title: '154: Hijacked Line'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1013
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Pennies for access.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2248/notes
+- title: No rest for the patched.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2249/notes
