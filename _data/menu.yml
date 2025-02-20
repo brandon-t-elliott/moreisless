@@ -8,9 +8,8 @@ entries:
 - title: "Google Ad-Tech Users Can Target National Security \u2018Decision Makers\u2019\
     \ and People With Chronic Diseases"
   url: https://www.wired.com/story/google-dv360-banned-audience-segments-national-security/
-- title: ZEST Security's Cloud Risk Exposure Impact Report Reveals 62% of Incidents
-    are Related to Risks Known to the Organization
-  url: https://www.darkreading.com/cloud-security/zest-security-s-cloud-risk-exposure-impact-report-reveals-62-of-incidents-are-related-to-risks-known-to-the-organization
+- title: Google Adds Quantum-Resistant Digital Signatures to Cloud KMS
+  url: https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms
 - title: An LLM Trained to Create Backdoors in Code
   url: https://www.schneier.com/blog/archives/2025/02/an-llm-trained-to-create-backdoors-in-code.html
 - title: Integrating LLMs into security operations using Wazuh
