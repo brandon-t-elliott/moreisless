@@ -9,19 +9,18 @@ entries:
 - title: A Team of Female Founders Is Launching Cloud Security Tech That Could Overhaul
     AI Protection
   url: https://www.wired.com/story/edera-cloud-tech-security/
-- title: Microsoft 365 Accounts Get Sprayed by Mega-Botnet
-  url: https://www.darkreading.com/cyberattacks-data-breaches/microsoft-365-accounts-sprayed-mega-botnet
-- title: North Korean Hackers Steal $1.5B in Cryptocurrency
-  url: https://www.schneier.com/blog/archives/2025/02/north-korean-hackers-steal-1-5b-in-cryptocurrency.html
-- title: Firefox continues Manifest V2 support as Chrome disables MV2 ad-blockers
-  url: https://www.bleepingcomputer.com/news/security/firefox-continues-manifest-v2-support-as-chrome-disables-mv2-ad-blockers/
+- title: AI Tricksters Spin Up Fake DeepSeek Sites to Steal Crypto
+  url: https://www.darkreading.com/threat-intelligence/ai-tricksters-spin-up-fake-deepseek-sites-steal-crypto
+- title: More Research Showing AI Breaking the Rules
+  url: https://www.schneier.com/blog/archives/2025/02/more-research-showing-ai-breaking-the-rules.html
+- title: Have I Been Pwned adds 284M accounts stolen by infostealer malware
+  url: https://www.bleepingcomputer.com/news/security/have-i-been-pwned-adds-284m-accounts-stolen-by-infostealer-malware/
 - title: How Safe Are Online Entertainment Platforms?
   url: https://www.itsecurityguru.org/2025/02/25/how-safe-are-online-entertainment-platforms/?utm_source=rss&utm_medium=rss&utm_campaign=how-safe-are-online-entertainment-platforms
 - title: '154: Hijacked Line'
   url: http://darknetdiaries.com/episode/154/
-- title: 'SN 1013: Chrome Web Store is a mess - Apple Encryption in the UK, Texas
-    Vs. DeepSeek'
-  url: https://twit.tv/shows/security-now/episodes/1013
+- title: 'SN 1012: Hiding School Cyberattacks - SparkCat, Decrypting ADP, AI Fuzzing'
+  url: https://twit.tv/shows/security-now/episodes/1012
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: Orange you glad you didn't fall for this?
