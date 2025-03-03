@@ -1,9 +1,9 @@
 entries:
 - title: "Notorious Malware, Spam Host \u201CProspero\u201D Moves to Kaspersky Lab"
   url: https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/
-- title: Hackers Use ClickFix Trick to Deploy PowerShell-Based Havoc C2 via SharePoint
-    Sites
-  url: https://thehackernews.com/2025/03/hackers-use-clickfix-trick-to-deploy.html
+- title: Hackers Exploit AWS Misconfigurations to Launch Phishing Attacks via SES
+    and WorkMail
+  url: https://thehackernews.com/2025/03/hackers-exploit-aws-misconfigurations.html
 - title: Unsupervised Learning NO. 470 (MEMBER EDITION)
   url: https://newsletter.danielmiessler.com/p/ul-470-member
 - title: The Trump Administration Is Deprioritizing Russia as a Cyber Threat
@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cybersecurity-operations/eus-new-product-liability-directive-cybersecurity-impact
 - title: 'Friday Squid Blogging: Eating Bioluminescent Squid'
   url: https://www.schneier.com/blog/archives/2025/02/friday-squid-blogging-eating-bioluminescent-squid.html
-- title: CISA tags Windows, Cisco vulnerabilities as actively exploited
-  url: https://www.bleepingcomputer.com/news/security/cisa-tags-windows-and-cisco-vulnerabilities-as-actively-exploited/
+- title: New Microsoft 365 outage impacts Teams, causes call failures
+  url: https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-impacts-teams-causes-call-failures/
 - title: Almost All Organisations Experienced API Security Issues in Past Year
   url: https://www.itsecurityguru.org/2025/02/28/almost-all-organisations-experienced-api-security-issues-in-past-year/?utm_source=rss&utm_medium=rss&utm_campaign=almost-all-organisations-experienced-api-security-issues-in-past-year
 - title: '154: Hijacked Line'
