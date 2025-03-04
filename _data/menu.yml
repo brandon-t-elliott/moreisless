@@ -7,8 +7,8 @@ entries:
   url: https://newsletter.danielmiessler.com/p/ul-470-member
 - title: The Trump Administration Is Deprioritizing Russia as a Cyber Threat
   url: https://www.wired.com/story/trump-administration-deprioritizing-russia-cyber-threat/
-- title: North Korea's Latest 'IT Worker' Scheme Seeks Nuclear Funds
-  url: https://www.darkreading.com/remote-workforce/north-korea-it-worker-scheme-nuclear-funds
+- title: Threat Actor 'JavaGhost' Targets AWS Environments in Phishing Scheme
+  url: https://www.darkreading.com/cloud-security/threat-actor-javaghost-targets-aws-environments-phishing-scheme
 - title: Trojaned AI Tool Leads to Disney Hack
   url: https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html
 - title: New Eleven11bot botnet infects 86,000 devices for DDoS attacks
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1014
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Is it cyber peace or just a buffer?
-  url: https://thecyberwire.com/podcasts/daily-podcast/2256/notes
+- title: CISA keeps watch on Russia.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2257/notes
