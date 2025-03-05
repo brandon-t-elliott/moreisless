@@ -1,8 +1,8 @@
 entries:
 - title: "Notorious Malware, Spam Host \u201CProspero\u201D Moves to Kaspersky Lab"
   url: https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/
-- title: Researchers Link CACTUS Ransomware Tactics to Former Black Basta Affiliates
-  url: https://thehackernews.com/2025/03/researchers-link-cactus-ransomware.html
+- title: Seven Malicious Go Packages Found Deploying Malware on Linux and macOS Systems
+  url: https://thehackernews.com/2025/03/seven-malicious-go-packages-found.html
 - title: Unsupervised Learning NO. 471
   url: https://newsletter.danielmiessler.com/p/ul-471-member
 - title: The Trump Administration Is Deprioritizing Russia as a Cyber Threat
@@ -11,15 +11,15 @@ entries:
   url: https://www.darkreading.com/cyber-risk/rapid7-delivers-command-platform-offerings-for-exposure-management
 - title: Trojaned AI Tool Leads to Disney Hack
   url: https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html
-- title: New Eleven11bot botnet infects 86,000 devices for DDoS attacks
-  url: https://www.bleepingcomputer.com/news/security/new-eleven11bot-botnet-infects-86-000-devices-for-ddos-attacks/
+- title: Fake BianLian ransom notes mailed to US CEOs in postal mail scam
+  url: https://www.bleepingcomputer.com/news/security/fake-bianlian-ransom-notes-mailed-to-us-ceos-in-postal-mail-scam/
 - title: "Enhancing security with Microsoft\u2019s expanded cloud logs"
   url: https://www.itsecurityguru.org/2025/03/04/enhancing-security-with-microsofts-expanded-cloud-logs/?utm_source=rss&utm_medium=rss&utm_campaign=enhancing-security-with-microsofts-expanded-cloud-logs
 - title: '155: Kingpin'
   url: http://darknetdiaries.com/episode/155/
-- title: 'SN 1014: FREEDOM Administration Login - Apple''s UK Privacy Showdown, $1.5
-    Billion Crypto Heist'
-  url: https://twit.tv/shows/security-now/episodes/1014
+- title: 'SN 1015: Spatial-Domain Wireless Jamming - Firefox Privacy Policy, Signal
+    Leaving Sweden?'
+  url: https://twit.tv/shows/security-now/episodes/1015
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: CISA keeps watch on Russia.
