@@ -1,27 +1,26 @@
 entries:
-- title: "Notorious Malware, Spam Host \u201CProspero\u201D Moves to Kaspersky Lab"
-  url: https://krebsonsecurity.com/2025/02/notorious-malware-spam-host-prospero-moves-to-kaspersky-lab/
-- title: Elastic Releases Urgent Fix for Critical Kibana Vulnerability Enabling Remote
-    Code Execution
-  url: https://thehackernews.com/2025/03/elastic-releases-urgent-fix-for.html
-- title: Unsupervised Learning NO. 471
-  url: https://newsletter.danielmiessler.com/p/ul-471-member
-- title: "The US Army Is Using \u2018CamoGPT\u2019 to Purge DEI From Training Materials"
-  url: https://www.wired.com/story/the-us-army-is-using-camogpt-to-purge-dei-from-training-materials/
-- title: Women Faced the Brunt of Cybersecurity Cutbacks in 2024
-  url: https://www.darkreading.com/remote-workforce/women-cyber-cutbacks-2024
-- title: The Combined Cipher Machine
-  url: https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html
-- title: Cybercrime 'crew' stole $635,000 in Taylor Swift concert tickets
-  url: https://www.bleepingcomputer.com/news/security/cybercrime-crew-stole-635-000-in-taylor-swift-concert-tickets/
-- title: SandboxAQ Joins UN AI Hub to Bolster Cybersecurity and Drive AI Innovation
-  url: https://www.itsecurityguru.org/2025/03/05/sandboxaq-joins-un-ai-hub-to-bolster-cybersecurity-and-drive-ai-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=sandboxaq-joins-un-ai-hub-to-bolster-cybersecurity-and-drive-ai-innovation
-- title: '155: Kingpin'
-  url: http://darknetdiaries.com/episode/155/
-- title: 'SN 1015: Spatial-Domain Wireless Jamming - Firefox Privacy Policy, Signal
-    Leaving Sweden?'
-  url: https://twit.tv/shows/security-now/episodes/1015
+- title: When Getting Phished Puts You in Mortal Danger
+  url: https://krebsonsecurity.com/2025/03/when-getting-phished-puts-you-in-mortal-danger/
+- title: BlackLock Ransomware Exposed After Researchers Exploit Leak Site Vulnerability
+  url: https://thehackernews.com/2025/03/blacklock-ransomware-exposed-after.html
+- title: Unsupervised Learning NO. 474
+  url: https://newsletter.danielmiessler.com/p/ul-474
+- title: Even More Venmo Accounts Tied to Trump Officials in Signal Group Chat Left
+    Data Public
+  url: https://www.wired.com/story/even-more-venmo-accounts-tied-to-trump-officials-in-signal-group-chat-left-data-public/
+- title: Evilginx Tool (Still) Bypasses MFA
+  url: https://www.darkreading.com/endpoint-security/evilginx-bypasses-mfa
+- title: 'Friday Squid Blogging: Squid Werewolf Hacking Group'
+  url: https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-werewolf-hacking-group.html
+- title: "Retail giant Sam\u2019s Club investigates Clop ransomware breach claims"
+  url: https://www.bleepingcomputer.com/news/security/retail-giant-sams-club-investigates-clop-ransomware-breach-claims/
+- title: Keeper Unveils Latest WearOS App for Android
+  url: https://www.itsecurityguru.org/2025/03/27/keeper-unveils-latest-wearos-app-for-android/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-unveils-latest-wearos-app-for-android
+- title: '156: Kill List'
+  url: https://darknetdiaries.com/episode/156/
+- title: 'SN 1018: The Quantum Threat - ESP32 Backdoor Update, RCS E2EE'
+  url: https://twit.tv/shows/security-now/episodes/1018
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: CISA keeps watch on Russia.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2257/notes
+- title: New sandbox escape looks awfully familiar.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2275/notes
