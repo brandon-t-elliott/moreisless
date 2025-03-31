@@ -1,19 +1,20 @@
 entries:
-- title: When Getting Phished Puts You in Mortal Danger
-  url: https://krebsonsecurity.com/2025/03/when-getting-phished-puts-you-in-mortal-danger/
-- title: RESURGE Malware Exploits Ivanti Flaw with Rootkit and Web Shell Features
-  url: https://thehackernews.com/2025/03/resurge-malware-exploits-ivanti-flaw.html
+- title: How Each Pillar of the 1st Amendment is Under Attack
+  url: https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/
+- title: "\u26A1 Weekly Recap: Chrome 0-Day, IngressNightmare, Solar Bugs, DNS Tactics,\
+    \ and More"
+  url: https://thehackernews.com/2025/03/weekly-recap-chrome-0-day.html
 - title: Unsupervised Learning NO. 474
   url: https://newsletter.danielmiessler.com/p/ul-474
-- title: "Top Trump Officials\u2019 Passwords and Personal Phone Numbers Discovered\
-    \ Online"
-  url: https://www.wired.com/story/top-trump-officials-phone-numbers-personal-information-online/
+- title: "An AI Image Generator\u2019s Exposed Database Reveals What People Really\
+    \ Used It For"
+  url: https://www.wired.com/story/genomis-ai-image-database-exposed/
 - title: Evilginx Tool (Still) Bypasses MFA
   url: https://www.darkreading.com/endpoint-security/evilginx-bypasses-mfa
-- title: 'Friday Squid Blogging: Squid Werewolf Hacking Group'
-  url: https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-werewolf-hacking-group.html
-- title: U.S. seized $8.2 million in crypto linked to 'Romance Baiting' scams
-  url: https://www.bleepingcomputer.com/news/cryptocurrency/us-seized-82-million-in-crypto-linked-to-romance-baiting-scams/
+- title: The Signal Chat Leak and the NSA
+  url: https://www.schneier.com/blog/archives/2025/03/the-signal-chat-leak-and-the-nsa.html
+- title: Microsoft tests new Windows 11 tool to remotely fix boot crashes
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-quick-machine-recovery-tool-to-fix-boot-crashes/
 - title: Top 5 Web Application Penetration Testing Companies UK
   url: https://www.itsecurityguru.org/2025/03/28/top-5-web-application-penetration-testing-companies-uk/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-web-application-penetration-testing-companies-uk
 - title: '156: Kill List'
