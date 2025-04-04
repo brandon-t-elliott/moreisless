@@ -1,28 +1,27 @@
 entries:
 - title: How Each Pillar of the 1st Amendment is Under Attack
   url: https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/
-- title: 'AI Adoption in the Enterprise: Breaking Through the Security and Compliance
-    Gridlock'
-  url: https://thehackernews.com/2025/04/ai-adoption-in-enterprise-breaking.html
+- title: Have We Reached a Distroless Tipping Point?
+  url: https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html
 - title: Unsupervised Learning NO. 475
   url: https://newsletter.danielmiessler.com/p/ul-475
 - title: Cybersecurity Professor Faced China-Funding Inquiry Before Disappearing,
     Sources Say
   url: https://www.wired.com/story/xiaofeng-wang-indiana-university-research-probe-china/
-- title: Israel Enters 'Stage 3' of Cyber Wars With Iran Proxies
-  url: https://www.darkreading.com/threat-intelligence/israel-stage-3-cyber-wars-with-iran-proxies
-- title: Web 3.0 Requires Data Integrity
-  url: https://www.schneier.com/blog/archives/2025/04/web-3-0-requires-data-integrity.html
-- title: Genetic data site openSNP to close and delete data over privacy concerns
-  url: https://www.bleepingcomputer.com/news/security/genetic-data-site-opensnp-to-close-and-delete-data-over-privacy-concerns/
+- title: Secure Communications Evolve Beyond End-to-End Encryption
+  url: https://www.darkreading.com/cybersecurity-operations/secure-communications-evolve-beyond-end-to-end-encryption
+- title: Troy Hunt Gets Phished
+  url: https://www.schneier.com/blog/archives/2025/04/troy-hunt-gets-phished.html
+- title: Max severity RCE flaw discovered in widely used Apache Parquet
+  url: https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/
 - title: Bridewell appoints Sam Thornton as COO to strengthen operations and accelerate
     growth
   url: https://www.itsecurityguru.org/2025/04/02/bridewell-appoints-sam-thornton-as-coo-to-strengthen-operations-and-accelerate-growth/?utm_source=rss&utm_medium=rss&utm_campaign=bridewell-appoints-sam-thornton-as-coo-to-strengthen-operations-and-accelerate-growth
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
-- title: 'SN 1019: EU OS - Troy Hunt Phished, Ransomware List, InControl'
-  url: https://twit.tv/shows/security-now/episodes/1019
+- title: 'SN 1018: The Quantum Threat - ESP32 Backdoor Update, RCS E2EE'
+  url: https://twit.tv/shows/security-now/episodes/1018
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Chrome & Firefox squash the latest flaws.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2278/notes
+- title: The invisible force fueling cyber chaos.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2279/notes
