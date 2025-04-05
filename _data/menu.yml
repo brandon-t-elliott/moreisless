@@ -1,19 +1,19 @@
 entries:
-- title: How Each Pillar of the 1st Amendment is Under Attack
-  url: https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/
-- title: Have We Reached a Distroless Tipping Point?
-  url: https://thehackernews.com/2025/04/have-we-reached-distroless-tipping-point.html
+- title: Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe
+  url: https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/
+- title: Malicious Python Packages on PyPI Downloaded 39,000+ Times, Steal Sensitive
+    Data
+  url: https://thehackernews.com/2025/04/malicious-python-packages-on-pypi.html
 - title: Unsupervised Learning NO. 475
   url: https://newsletter.danielmiessler.com/p/ul-475
-- title: Cybersecurity Professor Faced China-Funding Inquiry Before Disappearing,
-    Sources Say
-  url: https://www.wired.com/story/xiaofeng-wang-indiana-university-research-probe-china/
-- title: Secure Communications Evolve Beyond End-to-End Encryption
-  url: https://www.darkreading.com/cybersecurity-operations/secure-communications-evolve-beyond-end-to-end-encryption
-- title: Troy Hunt Gets Phished
-  url: https://www.schneier.com/blog/archives/2025/04/troy-hunt-gets-phished.html
-- title: Max severity RCE flaw discovered in widely used Apache Parquet
-  url: https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/
+- title: NSA Chief Ousted Amid Trump Loyalty Firing Spree
+  url: https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/
+- title: 'Gmail Is Not a Secure Way to Send Sensitive Comms: A Friendly Reminder'
+  url: https://www.darkreading.com/application-security/gmail-not-secure-way-send-sensitive-comms
+- title: 'Friday Squid Blogging: Two-Man Giant Squid'
+  url: https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-two-man-giant-squid.html
+- title: Port of Seattle says ransomware breach impacts 90,000 people
+  url: https://www.bleepingcomputer.com/news/security/port-of-seattle-says-ransomware-breach-impacts-90-000-people/
 - title: Bridewell appoints Sam Thornton as COO to strengthen operations and accelerate
     growth
   url: https://www.itsecurityguru.org/2025/04/02/bridewell-appoints-sam-thornton-as-coo-to-strengthen-operations-and-accelerate-growth/?utm_source=rss&utm_medium=rss&utm_campaign=bridewell-appoints-sam-thornton-as-coo-to-strengthen-operations-and-accelerate-growth
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1018
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The invisible force fueling cyber chaos.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2279/notes
+- title: "Bybit\u2019s $1.4B breach. [Research Saturday]"
+  url: https://thecyberwire.com/podcasts/research-saturday/372/notes
