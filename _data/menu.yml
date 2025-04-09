@@ -1,25 +1,28 @@
 entries:
-- title: Cyber Forensic Expert in 2,000+ Cases Faces FBI Probe
-  url: https://krebsonsecurity.com/2025/04/cyber-forensic-expert-in-2000-cases-faces-fbi-probe/
-- title: Agentic AI in the SOC - Dawn of Autonomous Alert Triage
-  url: https://thehackernews.com/2025/04/agentic-ai-in-soc-dawn-of-autonomous.html
-- title: Unsupervised Learning NO. 475
-  url: https://newsletter.danielmiessler.com/p/ul-475
+- title: Patch Tuesday, April 2025 Edition
+  url: https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/
+- title: Explosive Growth of Non-Human Identities Creating Massive Security Blind
+    Spots
+  url: https://thehackernews.com/2025/04/explosive-growth-of-non-human.html
+- title: Unsupervised Learning NO. 476
+  url: https://newsletter.danielmiessler.com/p/ul-476
 - title: NSA Chief Ousted Amid Trump Loyalty Firing Spree
   url: https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/
-- title: ToddyCat APT Targets ESET Bug to Load Silent Malware
-  url: https://www.darkreading.com/vulnerabilities-threats/toddycat-apt-eset-bug-silent-malware
-- title: Arguing Against CALEA
-  url: https://www.schneier.com/blog/archives/2025/04/arguing-against-calea.html
-- title: 'EncryptHub''s dual life: Cybercriminal vs Windows bug-bounty researcher'
-  url: https://www.bleepingcomputer.com/news/security/encrypthubs-dual-life-cybercriminal-vs-windows-bug-bounty-researcher/
-- title: Salt Security and CrowdStrike Strengthen Partnership
-  url: https://www.itsecurityguru.org/2025/04/07/salt-security-and-crowdstrike-strengthen-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=salt-security-and-crowdstrike-strengthen-partnership
+- title: Microsoft Drops Another Massive Patch Update
+  url: https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update
+- title: How to Leak to a Journalist
+  url: https://www.schneier.com/blog/archives/2025/04/how-to-leak-to-a-journalist.html
+- title: Fake Microsoft Office add-in tools push malware via SourceForge
+  url: https://www.bleepingcomputer.com/news/security/fake-microsoft-office-add-in-tools-push-malware-via-sourceforge/
+- title: "From $2M to $750M: Phaneesh Murthy\u2019s Blueprint for Exponential Growth\
+    \ in Technology Services"
+  url: https://www.itsecurityguru.org/2025/04/09/from-2m-to-750m-phaneesh-murthys-blueprint-for-exponential-growth-in-technology-services/?utm_source=rss&utm_medium=rss&utm_campaign=from-2m-to-750m-phaneesh-murthys-blueprint-for-exponential-growth-in-technology-services
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
-- title: 'SN 1019: EU OS - Troy Hunt Phished, Ransomware List, InControl'
-  url: https://twit.tv/shows/security-now/episodes/1019
+- title: 'SN 1020: Multi-Perspective Issuance Corroboration - IoT Done Right, France
+    Phishes, Gmails E2EE'
+  url: https://twit.tv/shows/security-now/episodes/1020
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: UK Apple showdown gonna be public.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2281/notes
+- title: Using AI to sniff out opposition.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2282/notes
