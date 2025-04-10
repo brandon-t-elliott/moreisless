@@ -1,22 +1,21 @@
 entries:
 - title: Patch Tuesday, April 2025 Edition
   url: https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/
-- title: Explosive Growth of Non-Human Identities Creating Massive Security Blind
-    Spots
-  url: https://thehackernews.com/2025/04/explosive-growth-of-non-human.html
+- title: 'PlayPraetor Reloaded: CTM360 Uncovers a Play Masquerading Party'
+  url: https://thehackernews.com/2025/04/playpraetor-reloaded-ctm360-uncovers.html
 - title: Unsupervised Learning NO. 476
   url: https://newsletter.danielmiessler.com/p/ul-476
-- title: NSA Chief Ousted Amid Trump Loyalty Firing Spree
-  url: https://www.wired.com/story/security-news-this-week-nsa-chief-ousted-amid-trump-loyalty-bloodbath/
-- title: Microsoft Drops Another Massive Patch Update
-  url: https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update
+- title: "Spyware Maker NSO Group Is Paving a Path Back Into Trump\u2019s America"
+  url: https://www.wired.com/story/nso-group-the-vogel-group-lobbying-trump-administration/
+- title: US Comptroller Cyber 'Incident' Compromises Org's Emails
+  url: https://www.darkreading.com/vulnerabilities-threats/occ-major-cyber-incident-executive-employee-emails
 - title: How to Leak to a Journalist
   url: https://www.schneier.com/blog/archives/2025/04/how-to-leak-to-a-journalist.html
-- title: Fake Microsoft Office add-in tools push malware via SourceForge
-  url: https://www.bleepingcomputer.com/news/security/fake-microsoft-office-add-in-tools-push-malware-via-sourceforge/
-- title: "From $2M to $750M: Phaneesh Murthy\u2019s Blueprint for Exponential Growth\
-    \ in Technology Services"
-  url: https://www.itsecurityguru.org/2025/04/09/from-2m-to-750m-phaneesh-murthys-blueprint-for-exponential-growth-in-technology-services/?utm_source=rss&utm_medium=rss&utm_campaign=from-2m-to-750m-phaneesh-murthys-blueprint-for-exponential-growth-in-technology-services
+- title: ChatGPT's o4-mini, o4-mini-high and o3 spotted ahead of release
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-o4-mini-o4-mini-high-and-o3-spotted-ahead-of-release/
+- title: 'Check Point Cloud Firewalls Achieve Industry Best 100% Block Rate and Accuracy:
+    CyberRatings.Org Test Results Confirm'
+  url: https://www.itsecurityguru.org/2025/04/10/check-point-cloud-firewalls-achieve-industry-best-100-block-rate-and-accuracy-cyberratings-org-test-results-confirm/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-cloud-firewalls-achieve-industry-best-100-block-rate-and-accuracy-cyberratings-org-test-results-confirm
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
 - title: 'SN 1020: Multi-Perspective Issuance Corroboration - IoT Done Right, France
@@ -24,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1020
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Using AI to sniff out opposition.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2282/notes
+- title: "Major breach at the US Treasury\u2019s OCC."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2283/notes
