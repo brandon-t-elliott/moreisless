@@ -1,21 +1,20 @@
 entries:
-- title: Patch Tuesday, April 2025 Edition
-  url: https://krebsonsecurity.com/2025/04/patch-tuesday-april-2025-edition/
-- title: 'PlayPraetor Reloaded: CTM360 Uncovers a Play Masquerading Party'
-  url: https://thehackernews.com/2025/04/playpraetor-reloaded-ctm360-uncovers.html
+- title: China-based SMS Phishing Triad Pivots to Banks
+  url: https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/
+- title: Initial Access Brokers Shift Tactics, Selling More for Less
+  url: https://thehackernews.com/2025/04/initial-access-brokers-shift-tactics.html
 - title: Unsupervised Learning NO. 476
   url: https://newsletter.danielmiessler.com/p/ul-476
-- title: "Spyware Maker NSO Group Is Paving a Path Back Into Trump\u2019s America"
-  url: https://www.wired.com/story/nso-group-the-vogel-group-lobbying-trump-administration/
-- title: US Comptroller Cyber 'Incident' Compromises Org's Emails
-  url: https://www.darkreading.com/vulnerabilities-threats/occ-major-cyber-incident-executive-employee-emails
-- title: How to Leak to a Journalist
-  url: https://www.schneier.com/blog/archives/2025/04/how-to-leak-to-a-journalist.html
-- title: ChatGPT's o4-mini, o4-mini-high and o3 spotted ahead of release
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-o4-mini-o4-mini-high-and-o3-spotted-ahead-of-release/
-- title: 'Check Point Cloud Firewalls Achieve Industry Best 100% Block Rate and Accuracy:
-    CyberRatings.Org Test Results Confirm'
-  url: https://www.itsecurityguru.org/2025/04/10/check-point-cloud-firewalls-achieve-industry-best-100-block-rate-and-accuracy-cyberratings-org-test-results-confirm/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-cloud-firewalls-achieve-industry-best-100-block-rate-and-accuracy-cyberratings-org-test-results-confirm
+- title: Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages
+  url: https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/
+- title: Zero-Day in CentreStack File Sharing Platform Under Attack
+  url: https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack
+- title: 'Friday Squid Blogging: Squid and Efficient Solar Tech'
+  url: https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-squid-and-efficient-solar-tech.html
+- title: Hackers exploit WordPress plugin auth bypass hours after disclosure
+  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-auth-bypass-hours-after-disclosure/
+- title: 'MIWIC25: Katie Beecroft, Associate Director Risk & Security, Fidelity International'
+  url: https://www.itsecurityguru.org/2025/04/11/miwic25-katie-beecroft-associate-director-risk-security-fidelity-international/?utm_source=rss&utm_medium=rss&utm_campaign=miwic25-katie-beecroft-associate-director-risk-security-fidelity-international
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
 - title: 'SN 1020: Multi-Perspective Issuance Corroboration - IoT Done Right, France
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1020
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Major breach at the US Treasury\u2019s OCC."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2283/notes
+- title: Former cybersecurity officials lose clearances.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2284/notes
