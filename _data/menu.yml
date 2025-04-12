@@ -1,18 +1,19 @@
 entries:
 - title: China-based SMS Phishing Triad Pivots to Banks
   url: https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/
-- title: Initial Access Brokers Shift Tactics, Selling More for Less
-  url: https://thehackernews.com/2025/04/initial-access-brokers-shift-tactics.html
+- title: Fortinet Warns Attackers Retain FortiGate Access Post-Patching via SSL-VPN
+    Symlink Exploit
+  url: https://thehackernews.com/2025/04/fortinet-warns-attackers-retain.html
 - title: Unsupervised Learning NO. 476
   url: https://newsletter.danielmiessler.com/p/ul-476
-- title: Sex-Fantasy Chatbots Are Leaking a Constant Stream of Explicit Messages
-  url: https://www.wired.com/story/sex-fantasy-chatbots-are-leaking-explicit-messages-every-minute/
-- title: Zero-Day in CentreStack File Sharing Platform Under Attack
-  url: https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack
+- title: China Secretly (and Weirdly) Admits It Hacked US Infrastructure
+  url: https://www.wired.com/story/china-admits-hacking-us-infrastructure/
+- title: Pall Mall Process Progresses but Leads to More Questions
+  url: https://www.darkreading.com/cyberattacks-data-breaches/pall-mall
 - title: 'Friday Squid Blogging: Squid and Efficient Solar Tech'
   url: https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-squid-and-efficient-solar-tech.html
-- title: Hackers exploit WordPress plugin auth bypass hours after disclosure
-  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-auth-bypass-hours-after-disclosure/
+- title: Microsoft Defender will isolate undiscovered endpoints to block attacks
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-isolate-undiscovered-endpoints-to-block-attacks/
 - title: 'MIWIC25: Katie Beecroft, Associate Director Risk & Security, Fidelity International'
   url: https://www.itsecurityguru.org/2025/04/11/miwic25-katie-beecroft-associate-director-risk-security-fidelity-international/?utm_source=rss&utm_medium=rss&utm_campaign=miwic25-katie-beecroft-associate-director-risk-security-fidelity-international
 - title: '157: Grifter'
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1020
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Former cybersecurity officials lose clearances.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2284/notes
+- title: The new malware on the block. [OMITB]
+  url: https://thecyberwire.com/podcasts/only-malware-in-the-building/10/notes
