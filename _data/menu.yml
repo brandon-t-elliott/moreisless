@@ -1,21 +1,22 @@
 entries:
 - title: Funding Expires for Key Cyber Vulnerability Database
   url: https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/
-- title: "Blockchain Offers Security Benefits \u2013 But Don't Neglect Your Passwords"
-  url: https://thehackernews.com/2025/04/blockchain-offers-security-benefits-but.html
+- title: "[Webinar] AI Is Already Inside Your SaaS Stack \u2014 Learn How to Prevent\
+    \ the Next Silent Breach"
+  url: https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html
 - title: Unsupervised Learning NO. 477
   url: https://newsletter.danielmiessler.com/p/ul-477
-- title: "This \u2018College Protester\u2019 Isn\u2019t Real. It\u2019s an AI-Powered\
-    \ Undercover Bot for Cops"
-  url: https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/
-- title: Middle East, North Africa Security Spending to Top $3B
-  url: https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending
-- title: CVE Program Almost Unfunded
-  url: https://www.schneier.com/blog/archives/2025/04/cve-program-almost-unfunded.html
-- title: CISA warns of increased breach risks following Oracle Cloud leak
-  url: https://www.bleepingcomputer.com/news/security/cisa-warns-of-increased-breach-risks-following-oracle-cloud-leak/
-- title: 9 Modern Ways You Can Use Bitcoin in 2025
-  url: https://www.itsecurityguru.org/2025/04/15/9-modern-ways-you-can-use-bitcoin-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=9-modern-ways-you-can-use-bitcoin-in-2025
+- title: New Jersey Sues Discord for Allegedly Failing to Protect Children
+  url: https://www.wired.com/story/new-jersey-sues-discord/
+- title: Android Phones Pre-Downloaded With Malware Target User Crypto Wallets
+  url: https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets
+- title: Age Verification Using Facial Scans
+  url: https://www.schneier.com/blog/archives/2025/04/age-verification-using-facial-scans.html
+- title: Critical Erlang/OTP SSH pre-auth RCE is 'Surprisingly Easy' to exploit, patch
+    now
+  url: https://www.bleepingcomputer.com/news/security/critical-erlang-otp-ssh-pre-auth-rce-is-surprisingly-easy-to-exploit-patch-now/
+- title: Entrust Announces all-in-one Cryptographic Security Platform
+  url: https://www.itsecurityguru.org/2025/04/17/entrust-announces-all-in-one-cryptographic-security-platform/?utm_source=rss&utm_medium=rss&utm_campaign=entrust-announces-all-in-one-cryptographic-security-platform
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
 - title: 'SN 1021: Device Bound Session Credentials - Hotpatching in Win 11, Apple
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1021
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: OCC breach jolts financial sector.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2287/notes
+- title: Microsoft squashes windows server bug.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2289/notes
