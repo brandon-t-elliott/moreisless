@@ -1,20 +1,18 @@
 entries:
 - title: Funding Expires for Key Cyber Vulnerability Database
   url: https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/
-- title: "[Webinar] AI Is Already Inside Your SaaS Stack \u2014 Learn How to Prevent\
-    \ the Next Silent Breach"
-  url: https://thehackernews.com/2025/04/webinar-ai-is-already-inside-your-saas.html
+- title: ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware
+  url: https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html
 - title: Unsupervised Learning NO. 477
   url: https://newsletter.danielmiessler.com/p/ul-477
-- title: New Jersey Sues Discord for Allegedly Failing to Protect Children
-  url: https://www.wired.com/story/new-jersey-sues-discord/
-- title: Android Phones Pre-Downloaded With Malware Target User Crypto Wallets
-  url: https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets
-- title: Age Verification Using Facial Scans
-  url: https://www.schneier.com/blog/archives/2025/04/age-verification-using-facial-scans.html
-- title: Critical Erlang/OTP SSH pre-auth RCE is 'Surprisingly Easy' to exploit, patch
-    now
-  url: https://www.bleepingcomputer.com/news/security/critical-erlang-otp-ssh-pre-auth-rce-is-surprisingly-easy-to-exploit-patch-now/
+- title: Florida Man Enters the Encryption Wars
+  url: https://www.wired.com/story/florida-man-enters-the-encryption-wars/
+- title: Could Ransomware Survive Without Cryptocurrency?
+  url: https://www.darkreading.com/cyber-risk/ransomware-would-adapt-without-cryptocurrency
+- title: 'Friday Squid Blogging: Live Colossal Squid Filmed'
+  url: https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-live-colossal-squid-filmed.html
+- title: Interlock ransomware gang pushes fake IT tools in ClickFix attacks
+  url: https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-pushes-fake-it-tools-in-clickfix-attacks/
 - title: Entrust Announces all-in-one Cryptographic Security Platform
   url: https://www.itsecurityguru.org/2025/04/17/entrust-announces-all-in-one-cryptographic-security-platform/?utm_source=rss&utm_medium=rss&utm_campaign=entrust-announces-all-in-one-cryptographic-security-platform
 - title: '157: Grifter'
@@ -24,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1021
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Microsoft squashes windows server bug.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2289/notes
+- title: Crafting malware with modern metals. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/373/notes
