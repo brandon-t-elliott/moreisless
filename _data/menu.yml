@@ -1,8 +1,9 @@
 entries:
 - title: Funding Expires for Key Cyber Vulnerability Database
   url: https://krebsonsecurity.com/2025/04/funding-expires-for-key-cyber-vulnerability-database/
-- title: ASUS Confirms Critical Flaw in AiCloud Routers; Users Urged to Update Firmware
-  url: https://thehackernews.com/2025/04/asus-confirms-critical-flaw-in-aicloud.html
+- title: APT29 Deploys GRAPELOADER Malware Targeting European Diplomats Through Wine-Tasting
+    Lures
+  url: https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html
 - title: Unsupervised Learning NO. 477
   url: https://newsletter.danielmiessler.com/p/ul-477
 - title: Florida Man Enters the Encryption Wars
@@ -11,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyber-risk/ransomware-would-adapt-without-cryptocurrency
 - title: 'Friday Squid Blogging: Live Colossal Squid Filmed'
   url: https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-live-colossal-squid-filmed.html
-- title: Interlock ransomware gang pushes fake IT tools in ClickFix attacks
-  url: https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-pushes-fake-it-tools-in-clickfix-attacks/
+- title: Widespread Microsoft Entra lockouts tied to new security feature rollout
+  url: https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/
 - title: Entrust Announces all-in-one Cryptographic Security Platform
   url: https://www.itsecurityguru.org/2025/04/17/entrust-announces-all-in-one-cryptographic-security-platform/?utm_source=rss&utm_medium=rss&utm_campaign=entrust-announces-all-in-one-cryptographic-security-platform
 - title: '157: Grifter'
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1021
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Crafting malware with modern metals. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/373/notes
+- title: 'Rich Hale: Understanding the data. [CTO] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/64/notes
