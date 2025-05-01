@@ -1,21 +1,21 @@
 entries:
-- title: "DOGE Worker\u2019s Code Supports NLRB Whistleblower"
-  url: https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/
-- title: "Customer Account Takeovers: The Multi-Billion Dollar Problem You Don\u2019\
-    t Know About"
-  url: https://thehackernews.com/2025/04/customer-account-takeovers-multi.html
-- title: Unsupervised Learning NO. 478
-  url: https://newsletter.danielmiessler.com/p/ul-478
-- title: WhatsApp Is Walking a Tightrope Between AI Features and Privacy
-  url: https://www.wired.com/story/whatsapp-private-processing-generative-ai-security-risks/
-- title: Many Fuel Tank Monitoring Systems Vulnerable to Disruption
-  url: https://www.darkreading.com/ics-ot-security/fuel-tank-monitoring-systems-vulnerable-disruption
-- title: Applying Security Engineering to Prompt Injection Security
-  url: https://www.schneier.com/blog/archives/2025/04/applying-security-engineering-to-prompt-injection-security.html
-- title: 'Microsoft: Windows 11 24H2 updates fail with 0x80240069 errors'
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-updates-fail-with-0x80240069-errors/
-- title: 6 Best CMMC Consulting Services for Small Businesses
-  url: https://www.itsecurityguru.org/2025/04/29/6-best-cmmc-consulting-services-for-small-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=6-best-cmmc-consulting-services-for-small-businesses
+- title: "Alleged \u2018Scattered Spider\u2019 Member Extradited to U.S."
+  url: https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/
+- title: Why top SOC teams are shifting to Network Detection and Response
+  url: https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html
+- title: Unsupervised Learning NO. 479
+  url: https://newsletter.danielmiessler.com/p/ul-479
+- title: North Korea Stole Your Job
+  url: https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/
+- title: Billbug Expands Cyber-Espionage Campaign in Southeast Asia
+  url: https://www.darkreading.com/threat-intelligence/billbug-cyber-espionage-campaign-southeast-asia
+- title: WhatsApp Case Against NSO Group Progressing
+  url: https://www.schneier.com/blog/archives/2025/04/whatsapp-case-against-nso-group-progressing.html
+- title: Hackers abuse IPv6 networking feature to hijack software updates
+  url: https://www.bleepingcomputer.com/news/security/hackers-abuse-ipv6-networking-feature-to-hijack-software-updates/
+- title: Keeper Security Enhances Browser Extension With New Autofill Controls, PAM
+    Support And Snapshot Tool
+  url: https://www.itsecurityguru.org/2025/04/30/keeper-security-enhances-browser-extension-with-new-autofill-controls-pam-support-and-snapshot-tool/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-enhances-browser-extension-with-new-autofill-controls-pam-support-and-snapshot-tool
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
 - title: 'SN 1023: Preventing Windows Sandbox Abuse - Microsoft Says "Don''t Delete
@@ -23,5 +23,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1023
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Trends shaping the future at RSAC.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2297/notes
+- title: "How do you gain \u201Cexperience\u201D in cyber without a job in cyber?\
+    \ [CISO Persepctives]"
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/109/notes
