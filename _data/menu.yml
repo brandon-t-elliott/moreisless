@@ -1,21 +1,20 @@
 entries:
-- title: "Alleged \u2018Scattered Spider\u2019 Member Extradited to U.S."
-  url: https://krebsonsecurity.com/2025/04/alleged-scattered-spider-member-extradited-to-u-s/
-- title: Why top SOC teams are shifting to Network Detection and Response
-  url: https://thehackernews.com/2025/05/why-top-soc-teams-are-shifting-to.html
+- title: xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs
+  url: https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
+- title: How to Automate CVE and Vulnerability Advisory Response with Tines
+  url: https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html
 - title: Unsupervised Learning NO. 479
   url: https://newsletter.danielmiessler.com/p/ul-479
-- title: North Korea Stole Your Job
-  url: https://www.wired.com/story/north-korea-stole-your-tech-job-ai-interviews/
-- title: Billbug Expands Cyber-Espionage Campaign in Southeast Asia
-  url: https://www.darkreading.com/threat-intelligence/billbug-cyber-espionage-campaign-southeast-asia
-- title: WhatsApp Case Against NSO Group Progressing
-  url: https://www.schneier.com/blog/archives/2025/04/whatsapp-case-against-nso-group-progressing.html
-- title: Hackers abuse IPv6 networking feature to hijack software updates
-  url: https://www.bleepingcomputer.com/news/security/hackers-abuse-ipv6-networking-feature-to-hijack-software-updates/
-- title: Keeper Security Enhances Browser Extension With New Autofill Controls, PAM
-    Support And Snapshot Tool
-  url: https://www.itsecurityguru.org/2025/04/30/keeper-security-enhances-browser-extension-with-new-autofill-controls-pam-support-and-snapshot-tool/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-enhances-browser-extension-with-new-autofill-controls-pam-support-and-snapshot-tool
+- title: Think Twice Before Creating That ChatGPT Action Figure
+  url: https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/
+- title: 'SANS Top 5: Cyber Has Busted Out of the SOC'
+  url: https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc
+- title: "NCSC Guidance on \u201CAdvanced Cryptography\u201D"
+  url: https://www.schneier.com/blog/archives/2025/05/ncsc-guidance-on-advanced-cryptography.html
+- title: Microsoft fixes Exchange Online bug flagging Gmail emails as spam
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-online-bug-flagging-gmail-emails-as-spam/
+- title: 'MIWIC25: Marine Ruhamanya, Cybersecurity Senior Manager'
+  url: https://www.itsecurityguru.org/2025/05/02/miwic25-marine-ruhamanya-cybersecurity-senior-manager/?utm_source=rss&utm_medium=rss&utm_campaign=miwic25-marine-ruhamanya-cybersecurity-senior-manager
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
 - title: 'SN 1023: Preventing Windows Sandbox Abuse - Microsoft Says "Don''t Delete
@@ -23,6 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1023
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "How do you gain \u201Cexperience\u201D in cyber without a job in cyber?\
-    \ [CISO Persepctives]"
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/109/notes
+- title: AI on the offensive.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2299/notes
