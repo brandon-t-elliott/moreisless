@@ -1,20 +1,21 @@
 entries:
 - title: xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs
   url: https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
-- title: How to Automate CVE and Vulnerability Advisory Response with Tines
-  url: https://thehackernews.com/2025/05/how-to-automate-cve-and-vulnerability.html
+- title: Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and
+    Malware
+  url: https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html
 - title: Unsupervised Learning NO. 479
   url: https://newsletter.danielmiessler.com/p/ul-479
-- title: Think Twice Before Creating That ChatGPT Action Figure
-  url: https://www.wired.com/story/chatgpt-image-generator-action-figure-privacy/
-- title: 'SANS Top 5: Cyber Has Busted Out of the SOC'
-  url: https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc
-- title: "NCSC Guidance on \u201CAdvanced Cryptography\u201D"
-  url: https://www.schneier.com/blog/archives/2025/05/ncsc-guidance-on-advanced-cryptography.html
-- title: Microsoft fixes Exchange Online bug flagging Gmail emails as spam
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-online-bug-flagging-gmail-emails-as-spam/
-- title: 'MIWIC25: Marine Ruhamanya, Cybersecurity Senior Manager'
-  url: https://www.itsecurityguru.org/2025/05/02/miwic25-marine-ruhamanya-cybersecurity-senior-manager/?utm_source=rss&utm_medium=rss&utm_campaign=miwic25-marine-ruhamanya-cybersecurity-senior-manager
+- title: Hacking Spree Hits UK Retail Giants
+  url: https://www.wired.com/story/hacking-spree-hits-uk-retail-giants/
+- title: UK Retailers Reeling From Likely Ransomware Attacks
+  url: https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks
+- title: 'Friday Squid Blogging: Pyjama Squid'
+  url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pyjama-squid.html
+- title: Co-op confirms data theft after DragonForce ransomware claims attack
+  url: https://www.bleepingcomputer.com/news/security/co-op-confirms-data-theft-after-dragonforce-ransomware-claims-attack/
+- title: Keeper Security renews Atlassian Williams Racing F1 partnership
+  url: https://www.itsecurityguru.org/2025/05/02/keeper-security-renews-atlassian-williams-racing-f1-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-renews-atlassian-williams-racing-f1-partnership
 - title: '157: Grifter'
   url: https://darknetdiaries.com/episode/157/
 - title: 'SN 1023: Preventing Windows Sandbox Abuse - Microsoft Says "Don''t Delete
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1023
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: AI on the offensive.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2299/notes
+- title: When AI gets a to-do list. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/375/notes
