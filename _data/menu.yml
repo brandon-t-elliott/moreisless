@@ -1,9 +1,9 @@
 entries:
 - title: xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs
   url: https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
-- title: Iranian Hackers Maintain 2-Year Access to Middle East CNI via VPN Flaws and
-    Malware
-  url: https://thehackernews.com/2025/05/iranian-hackers-maintain-2-year-access.html
+- title: Malicious Go Modules Deliver Disk-Wiping Linux Malware in Advanced Supply
+    Chain Attack
+  url: https://thehackernews.com/2025/05/malicious-go-modules-deliver-disk.html
 - title: Unsupervised Learning NO. 479
   url: https://newsletter.danielmiessler.com/p/ul-479
 - title: Hacking Spree Hits UK Retail Giants
@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks
 - title: 'Friday Squid Blogging: Pyjama Squid'
   url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pyjama-squid.html
-- title: Co-op confirms data theft after DragonForce ransomware claims attack
-  url: https://www.bleepingcomputer.com/news/security/co-op-confirms-data-theft-after-dragonforce-ransomware-claims-attack/
+- title: Google NotebookLM is now using Gemini 2.5 Flash
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/google-notebooklm-is-now-using-gemini-25-flash/
 - title: Keeper Security renews Atlassian Williams Racing F1 partnership
   url: https://www.itsecurityguru.org/2025/05/02/keeper-security-renews-atlassian-williams-racing-f1-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-renews-atlassian-williams-racing-f1-partnership
 - title: '157: Grifter'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1023
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When AI gets a to-do list. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/375/notes
+- title: 'Joe Bradley: A bit of a winding road. [Chief Scientist] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/66/notes
