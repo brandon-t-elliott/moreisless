@@ -1,27 +1,28 @@
 entries:
 - title: xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs
   url: https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
-- title: Golden Chickens Deploy TerraStealerV2 to Steal Browser Credentials and Crypto
-    Wallet Data
-  url: https://thehackernews.com/2025/05/golden-chickens-deploy-terrastealerv2.html
+- title: Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to
+    Data Leaks
+  url: https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html
 - title: Unsupervised Learning NO. 479
   url: https://newsletter.danielmiessler.com/p/ul-479
-- title: Security Researchers Warn a Widely Used Open Source Tool Poses a 'Persistent'
-    Risk to the US
-  url: https://www.wired.com/story/easyjson-open-source-vk-ties/
-- title: UK Retailers Reeling From Likely Ransomware Attacks
-  url: https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks
-- title: 'Friday Squid Blogging: Pyjama Squid'
-  url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pyjama-squid.html
-- title: Microsoft silently fixes Start menu bug affecting Windows 10 PCs
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-silently-fixes-start-menu-bug-affecting-windows-10-pcs/
+- title: US Border Agents Are Asking for Help Taking Photos of Everyone Entering the
+    Country by Car
+  url: https://www.wired.com/story/cbp-photo-everyone-in-vehicle-us-border/
+- title: 'AI Domination: RSAC 2025 Social Media Roundup'
+  url: https://www.darkreading.com/cloud-security/ai-rsac-2025-social-media-roundup
+- title: Fake Student Fraud in Community Colleges
+  url: https://www.schneier.com/blog/archives/2025/05/fake-student-fraud-in-community-colleges.html
+- title: Linux wiper malware hidden in malicious Go modules on GitHub
+  url: https://www.bleepingcomputer.com/news/security/linux-wiper-malware-hidden-in-malicious-go-modules-on-github/
 - title: Keeper Security renews Atlassian Williams Racing F1 partnership
   url: https://www.itsecurityguru.org/2025/05/02/keeper-security-renews-atlassian-williams-racing-f1-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-renews-atlassian-williams-racing-f1-partnership
-- title: '157: Grifter'
-  url: https://darknetdiaries.com/episode/157/
-- title: 'SN 1022: The Windows Sandbox - Short-life Certs, Ransomware Payout Stats'
-  url: https://twit.tv/shows/security-now/episodes/1022
+- title: '158: MalwareTech'
+  url: https://darknetdiaries.com/episode/158/
+- title: 'SN 1023: Preventing Windows Sandbox Abuse - Microsoft Says "Don''t Delete
+    This Folder"'
+  url: https://twit.tv/shows/security-now/episodes/1023
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Joe Bradley: A bit of a winding road. [Chief Scientist] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/66/notes
+- title: Hardcoded credentials and hard lessons.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2301/notes
