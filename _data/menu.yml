@@ -1,28 +1,25 @@
 entries:
 - title: xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs
   url: https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
-- title: Microsoft Warns Default Helm Charts Could Leave Kubernetes Apps Exposed to
-    Data Leaks
-  url: https://thehackernews.com/2025/05/microsoft-warns-default-helm-charts-for.html
-- title: Unsupervised Learning NO. 479
-  url: https://newsletter.danielmiessler.com/p/ul-479
-- title: US Border Agents Are Asking for Help Taking Photos of Everyone Entering the
-    Country by Car
-  url: https://www.wired.com/story/cbp-photo-everyone-in-vehicle-us-border/
-- title: 'AI Domination: RSAC 2025 Social Media Roundup'
-  url: https://www.darkreading.com/cloud-security/ai-rsac-2025-social-media-roundup
-- title: Fake Student Fraud in Community Colleges
-  url: https://www.schneier.com/blog/archives/2025/05/fake-student-fraud-in-community-colleges.html
-- title: Linux wiper malware hidden in malicious Go modules on GitHub
-  url: https://www.bleepingcomputer.com/news/security/linux-wiper-malware-hidden-in-malicious-go-modules-on-github/
-- title: Keeper Security renews Atlassian Williams Racing F1 partnership
-  url: https://www.itsecurityguru.org/2025/05/02/keeper-security-renews-atlassian-williams-racing-f1-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-renews-atlassian-williams-racing-f1-partnership
+- title: SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version
+  url: https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html
+- title: Unsupervised Learning NO. 480
+  url: https://newsletter.danielmiessler.com/p/ul-480
+- title: The Signal Clone Mike Waltz Was Caught Using Has Direct Access to User Chats
+  url: https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/
+- title: Researcher Says Patched Commvault Bug Still Exploitable
+  url: https://www.darkreading.com/cyberattacks-data-breaches/researcher-patched-commvault-bug-exploitable
+- title: Chinese AI Submersible
+  url: https://www.schneier.com/blog/archives/2025/05/chinese-ai-submersible.html
+- title: Police takes down six DDoS-for-hire services, arrests admins
+  url: https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/
+- title: 'MIWIC25: Kiranjit Kaur Shergill, Developer at Barclays'
+  url: https://www.itsecurityguru.org/2025/05/07/miwic25-kiranjit-kaur-shergill-developer-at-barclays/?utm_source=rss&utm_medium=rss&utm_campaign=miwic25-kiranjit-kaur-shergill-developer-at-barclays
 - title: '158: MalwareTech'
   url: https://darknetdiaries.com/episode/158/
-- title: 'SN 1023: Preventing Windows Sandbox Abuse - Microsoft Says "Don''t Delete
-    This Folder"'
-  url: https://twit.tv/shows/security-now/episodes/1023
+- title: 'SN 1024: Don''t Blame Signal - The Real Story Behind the TM SGNL Breach'
+  url: https://twit.tv/shows/security-now/episodes/1024
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Hardcoded credentials and hard lessons.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2301/notes
+- title: "No hocus pocus\u2014MagicINFO flaw is the real threat."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2302/notes
