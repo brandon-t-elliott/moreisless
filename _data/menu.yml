@@ -1,18 +1,18 @@
 entries:
-- title: xAI Dev Leaks API Key for Private SpaceX, Tesla LLMs
-  url: https://krebsonsecurity.com/2025/05/xai-dev-leaks-api-key-for-private-spacex-tesla-llms/
-- title: SysAid Patches 4 Critical Flaws Enabling Pre-Auth RCE in On-Premise Version
-  url: https://thehackernews.com/2025/05/sysaid-patches-4-critical-flaws.html
+- title: Pakistani Firm Shipped Fentanyl Analogs, Scams to US
+  url: https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/
+- title: "Security Tools Alone Don't Protect You \u2014 Control Effectiveness Does"
+  url: https://thehackernews.com/2025/05/security-tools-alone-dont-protect-you.html
 - title: Unsupervised Learning NO. 480
   url: https://newsletter.danielmiessler.com/p/ul-480
-- title: The Signal Clone Mike Waltz Was Caught Using Has Direct Access to User Chats
-  url: https://www.wired.com/story/tm-signal-telemessage-plaintext-message-archive/
-- title: Researcher Says Patched Commvault Bug Still Exploitable
-  url: https://www.darkreading.com/cyberattacks-data-breaches/researcher-patched-commvault-bug-exploitable
+- title: Customs and Border Protection Confirms Its Use of Hacked Signal Clone TeleMessage
+  url: https://www.wired.com/story/cbp-confirms-telemessage-use/
+- title: '''Lemon Sandstorm'' Underscores Risks to Middle East Infrastructure'
+  url: https://www.darkreading.com/cyberattacks-data-breaches/lemon-sandstorm-risks-middle-east-infrastructure
 - title: Chinese AI Submersible
   url: https://www.schneier.com/blog/archives/2025/05/chinese-ai-submersible.html
-- title: Police takes down six DDoS-for-hire services, arrests admins
-  url: https://www.bleepingcomputer.com/news/security/police-takes-down-six-ddos-for-hire-services-arrests-admins/
+- title: SonicWall urges admins to patch VPN flaw exploited in attacks
+  url: https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/
 - title: 'MIWIC25: Kiranjit Kaur Shergill, Developer at Barclays'
   url: https://www.itsecurityguru.org/2025/05/07/miwic25-kiranjit-kaur-shergill-developer-at-barclays/?utm_source=rss&utm_medium=rss&utm_campaign=miwic25-kiranjit-kaur-shergill-developer-at-barclays
 - title: '158: MalwareTech'
@@ -21,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1024
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "No hocus pocus\u2014MagicINFO flaw is the real threat."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2302/notes
+- title: When spyware backfires.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2303/notes
