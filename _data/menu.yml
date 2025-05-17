@@ -1,22 +1,21 @@
 entries:
 - title: Breachforums Boss to Pay $700k in Healthcare Breach
   url: https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/
-- title: New HTTPBot Botnet Launches 200+ Precision DDoS Attacks on Gaming and Tech
-    Sectors
-  url: https://thehackernews.com/2025/05/new-httpbot-botnet-launches-200.html
+- title: '[Webinar] From Code to Cloud to SOC: Learn a Smarter Way to Defend Modern
+    Applications'
+  url: https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
-- title: "The Internet\u2019s Biggest-Ever Black Market Just Shut Down Amid a Telegram\
-    \ Purge"
-  url: https://www.wired.com/story/the-internets-biggest-ever-black-market-shuts-down-after-a-telegram-purge/
-- title: Big Steelmaker Halts Operations After Cyber Incident
-  url: https://www.darkreading.com/threat-intelligence/steel-manufacturer-stalls-operations-cyber-incident
-- title: AI-Generated Law
-  url: https://www.schneier.com/blog/archives/2025/05/ai-generated-law.html
-- title: US charges 12 more suspects linked to $230 million crypto theft
-  url: https://www.bleepingcomputer.com/news/security/us-charges-12-more-suspects-linked-to-230-million-crypto-theft/
-- title: Salt Security Partners With Wiz, Combines Cloud and API Security
-  url: https://www.itsecurityguru.org/2025/05/16/salt-security-partners-with-wiz-combines-cloud-and-api-security/?utm_source=rss&utm_medium=rss&utm_campaign=salt-security-partners-with-wiz-combines-cloud-and-api-security
+- title: Coinbase Will Reimburse Customers Up to $400 Million After Data Breach
+  url: https://www.wired.com/story/coinbase-will-reimburse-customers-up-to-400-million-after-data-breach/
+- title: Coinbase Extorted, Offers $20M for Info on Its Hackers
+  url: https://www.darkreading.com/cyberattacks-data-breaches/coinbase-extorted-20m-hackers
+- title: 'Friday Squid Blogging: Pet Squid Simulation'
+  url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pet-squid-simulation.html
+- title: Microsoft confirms May Windows 10 updates trigger BitLocker recovery
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/
+- title: ENISA Launches European Vulnerability Database to Bolster EU Cyber Resilience
+  url: https://www.itsecurityguru.org/2025/05/14/enisa-launches-european-vulnerability-database-to-bolster-eu-cyber-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=enisa-launches-european-vulnerability-database-to-bolster-eu-cyber-resilience
 - title: '158: MalwareTech'
   url: https://darknetdiaries.com/episode/158/
 - title: 'SN 1025: Secure Conversation Records Retention - FBI Says to Toss Your Old
@@ -24,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1025
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Bypassing Bitlocker encryption.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2309/notes
+- title: Leveling up their credential phishing tactics. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/377/notes
