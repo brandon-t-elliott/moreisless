@@ -6,14 +6,14 @@ entries:
   url: https://thehackernews.com/2025/05/from-code-to-cloud-to-soc-learn-smarter.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
-- title: Coinbase Will Reimburse Customers Up to $400 Million After Data Breach
-  url: https://www.wired.com/story/coinbase-will-reimburse-customers-up-to-400-million-after-data-breach/
+- title: How the Signal Knockoff App TeleMessage Got Hacked in 20 Minutes
+  url: https://www.wired.com/story/how-the-signal-knock-off-app-telemessage-got-hacked-in-20-minutes/
 - title: Coinbase Extorted, Offers $20M for Info on Its Hackers
   url: https://www.darkreading.com/cyberattacks-data-breaches/coinbase-extorted-20m-hackers
 - title: 'Friday Squid Blogging: Pet Squid Simulation'
   url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-pet-squid-simulation.html
-- title: Microsoft confirms May Windows 10 updates trigger BitLocker recovery
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/
+- title: New 'Defendnot' tool tricks Windows into disabling Microsoft Defender
+  url: https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/
 - title: ENISA Launches European Vulnerability Database to Bolster EU Cyber Resilience
   url: https://www.itsecurityguru.org/2025/05/14/enisa-launches-european-vulnerability-database-to-bolster-eu-cyber-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=enisa-launches-european-vulnerability-database-to-bolster-eu-cyber-resilience
 - title: '158: MalwareTech'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1025
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Leveling up their credential phishing tactics. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/377/notes
+- title: 'Dave Bittner: From puppet shows to podcasts. [Media] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/68/notes
