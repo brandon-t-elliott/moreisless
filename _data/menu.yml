@@ -1,19 +1,18 @@
 entries:
 - title: Breachforums Boss to Pay $700k in Healthcare Breach
   url: https://krebsonsecurity.com/2025/05/breachforums-boss-to-pay-700k-in-healthcare-breach/
-- title: Why CTEM is the Winning Bet for CISOs in 2025
-  url: https://thehackernews.com/2025/05/why-ctem-is-winning-bet-for-cisos-in.html
+- title: 'The Crowded Battle: Key Insights from the 2025 State of Pentesting Report'
+  url: https://thehackernews.com/2025/05/the-crowded-battle-key-insights-from.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
-- title: Who Even Is a Criminal Now?
-  url: https://www.wired.com/story/editor-letter-rogues-issue/
-- title: Coinbase Extorted, Offers $20M for Info on Its Hackers
-  url: https://www.darkreading.com/cyberattacks-data-breaches/coinbase-extorted-20m-hackers
-- title: "The NSA\u2019s \u201CFifty Years of Mathematical Cryptanalysis (1937\u2013\
-    1987)\u201D"
-  url: https://www.schneier.com/blog/archives/2025/05/the-nsas-fifty-years-of-mathematical-cryptanalysis-1937-1987.html
-- title: New 'Defendnot' tool tricks Windows into disabling Microsoft Defender
-  url: https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/
+- title: "What to Expect When You\u2019re Convicted"
+  url: https://www.wired.com/story/your-next-job-white-collar-prison-consultant/
+- title: '''Operation RoundPress'' Targets Ukraine in XSS Webmail Attacks'
+  url: https://www.darkreading.com/threat-intelligence/operation-roundpress-ukraine-xss-webmail-attacks
+- title: DoorDash Hack
+  url: https://www.schneier.com/blog/archives/2025/05/doordash-hack.html
+- title: OpenAI plans to combine multiple models into GPT-5
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/
 - title: Salt Security Partners With Wiz, Combines Cloud and API Security
   url: https://www.itsecurityguru.org/2025/05/16/salt-security-partners-with-wiz-combines-cloud-and-api-security/?utm_source=rss&utm_medium=rss&utm_campaign=salt-security-partners-with-wiz-combines-cloud-and-api-security
 - title: '158: MalwareTech'
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1025
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Dave Bittner: From puppet shows to podcasts. [Media] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/68/notes
+- title: 'Redacted realities: Inside the MoJ hack.'
+  url: https://thecyberwire.com/podcasts/daily-podcast/2311/notes
