@@ -1,26 +1,27 @@
 entries:
-- title: KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS
-  url: https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/
-- title: "Identity Security Has an Automation Problem\u2014And It's Bigger Than You\
-    \ Think"
-  url: https://thehackernews.com/2025/05/identity-security-has-automation.html
+- title: 'Oops: DanaBot Malware Devs Infected Their Own PCs'
+  url: https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/
+- title: "300 Servers and \u20AC3.5M Seized as Europol Strikes Ransomware Networks\
+    \ Worldwide"
+  url: https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
-- title: Mysterious Database of 184 Million Records Exposes Vast Array of Login Credentials
-  url: https://www.wired.com/story/mysterious-database-logins-governments-social-media/
-- title: GitHub's AI Assistant Opened Devs to Code Theft
-  url: https://www.darkreading.com/application-security/github-ai-assistant-opened-devs-to-code-theft
-- title: The Voter Experience
-  url: https://www.schneier.com/blog/archives/2025/05/the-voter-experience.html
-- title: Signal now blocks Microsoft Recall screenshots on Windows 11
-  url: https://www.bleepingcomputer.com/news/security/signal-now-blocks-microsoft-recall-screenshots-on-windows-11/
-- title: Keeper Security appoints new CISO
-  url: https://www.itsecurityguru.org/2025/05/20/keeper-security-appoints-new-ciso-2/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-appoints-new-ciso-2
+- title: Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks,
+    and Spying
+  url: https://www.wired.com/story/us-charges-16-russians-danabot-malware/
+- title: Picus Launches Exposure Validation to Safely Deprioritize CVEs
+  url: https://www.darkreading.com/application-security/picus-launches-exposure-validation-to-safely-deprioritize-cves
+- title: Signal Blocks Windows Recall
+  url: https://www.schneier.com/blog/archives/2025/05/signal-blocks-windows-recall.html
+- title: TikTok videos now push infostealer malware in ClickFix attacks
+  url: https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/
+- title: "Finding the right balance between \u2018vibe coders\u2019 and security"
+  url: https://www.itsecurityguru.org/2025/05/21/finding-the-right-balance-between-vibe-coders-and-security/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-right-balance-between-vibe-coders-and-security
 - title: '158: MalwareTech'
   url: https://darknetdiaries.com/episode/158/
 - title: 'SN 1026: Rogue Comms Tech Found in US Power Grid - Is AI Replicating Itself?'
   url: https://twit.tv/shows/security-now/episodes/1026
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The Take It Down Act walks a fine line.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2312/notes
+- title: Lights out for Lumma.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2314/notes
