@@ -1,20 +1,19 @@
 entries:
 - title: 'Oops: DanaBot Malware Devs Infected Their Own PCs'
   url: https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/
-- title: "300 Servers and \u20AC3.5M Seized as Europol Strikes Ransomware Networks\
-    \ Worldwide"
-  url: https://thehackernews.com/2025/05/300-servers-and-35m-seized-as-europol.html
+- title: Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix
+    Technique
+  url: https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
-- title: Feds Charge 16 Russians Allegedly Tied to Botnets Used in Ransomware, Cyberattacks,
-    and Spying
-  url: https://www.wired.com/story/us-charges-16-russians-danabot-malware/
-- title: Picus Launches Exposure Validation to Safely Deprioritize CVEs
-  url: https://www.darkreading.com/application-security/picus-launches-exposure-validation-to-safely-deprioritize-cves
-- title: Signal Blocks Windows Recall
-  url: https://www.schneier.com/blog/archives/2025/05/signal-blocks-windows-recall.html
-- title: TikTok videos now push infostealer malware in ClickFix attacks
-  url: https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/
+- title: The US Is Building a One-Stop Shop for Buying Your Data
+  url: https://www.wired.com/story/us-spies-one-stop-shop-private-data/
+- title: 3 Critical Pillars of Cyber-Resilience
+  url: https://www.darkreading.com/cyber-risk/three-critical-pillars-of-cyber-resilience
+- title: 'Friday Squid Blogging: US Naval Ship Attacked by Squid in 1978'
+  url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-us-naval-ship-attacked-by-squid-in-1978.html
+- title: OpenAI confirms Operator Agent is now more accurate with o3
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/
 - title: "Finding the right balance between \u2018vibe coders\u2019 and security"
   url: https://www.itsecurityguru.org/2025/05/21/finding-the-right-balance-between-vibe-coders-and-security/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-right-balance-between-vibe-coders-and-security
 - title: '158: MalwareTech'
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1026
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Lights out for Lumma.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2314/notes
+- title: Pandas with a purpose. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/378/notes
