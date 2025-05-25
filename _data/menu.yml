@@ -1,9 +1,8 @@
 entries:
 - title: 'Oops: DanaBot Malware Devs Infected Their Own PCs'
   url: https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/
-- title: Hackers Use TikTok Videos to Distribute Vidar and StealC Malware via ClickFix
-    Technique
-  url: https://thehackernews.com/2025/05/hackers-use-tiktok-videos-to-distribute.html
+- title: Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware
+  url: https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
 - title: The US Is Building a One-Stop Shop for Buying Your Data
@@ -22,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1026
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Pandas with a purpose. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/378/notes
+- title: 'Pattie Dillon: Take the leap. [Anti-fraud] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/69/notes
