@@ -1,18 +1,19 @@
 entries:
 - title: 'Oops: DanaBot Malware Devs Infected Their Own PCs'
   url: https://krebsonsecurity.com/2025/05/oops-danabot-malware-devs-infected-their-own-pcs/
-- title: Hackers Use Fake VPN and Browser NSIS Installers to Deliver Winos 4.0 Malware
-  url: https://thehackernews.com/2025/05/hackers-use-fake-vpn-and-browser-nsis.html
+- title: "\u26A1 Weekly Recap: APT Campaigns, Browser Hijacks, AI Malware, Cloud Breaches\
+    \ and Critical CVEs"
+  url: https://thehackernews.com/2025/05/weekly-recap-apt-campaigns-browser.html
 - title: Unsupervised Learning NO. 481
   url: https://newsletter.danielmiessler.com/p/ul-481
-- title: The US Is Building a One-Stop Shop for Buying Your Data
-  url: https://www.wired.com/story/us-spies-one-stop-shop-private-data/
+- title: A Starter Guide to Protecting Your Data From Hackers and Corporations
+  url: https://www.wired.com/story/guide-protect-data-from-hackers-corporations/
 - title: 3 Critical Pillars of Cyber-Resilience
   url: https://www.darkreading.com/cyber-risk/three-critical-pillars-of-cyber-resilience
 - title: 'Friday Squid Blogging: US Naval Ship Attacked by Squid in 1978'
   url: https://www.schneier.com/blog/archives/2025/05/friday-squid-blogging-us-naval-ship-attacked-by-squid-in-1978.html
-- title: OpenAI confirms Operator Agent is now more accurate with o3
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/
+- title: Vibe coding company says Claude 4 reduced syntax errors by 25%
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/
 - title: "Finding the right balance between \u2018vibe coders\u2019 and security"
   url: https://www.itsecurityguru.org/2025/05/21/finding-the-right-balance-between-vibe-coders-and-security/?utm_source=rss&utm_medium=rss&utm_campaign=finding-the-right-balance-between-vibe-coders-and-security
 - title: '158: MalwareTech'
@@ -21,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1026
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Pattie Dillon: Take the leap. [Anti-fraud] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/69/notes
+- title: Hugh Thompson on Building the RSA Conference [Afternoon Cyber Tea]
+  url: https://thecyberwire.com/podcasts/afternoon-cyber-tea/107/notes
