@@ -1,26 +1,29 @@
 entries:
-- title: "Pakistan Arrests 21 in \u2018Heartsender\u2019 Malware Service"
-  url: https://krebsonsecurity.com/2025/05/pakistan-arrests-21-in-heartsender-malware-service/
-- title: DragonForce Exploits SimpleHelp Flaws to Deploy Ransomware Across Customer
-    Endpoints
-  url: https://thehackernews.com/2025/05/dragonforce-exploits-simplehelp-flaws.html
+- title: "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018\
+    Pig Butchering\u2019 Scams"
+  url: https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/
+- title: China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia
+    and Brazil
+  url: https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html
 - title: Unsupervised Learning NO. 482
   url: https://newsletter.danielmiessler.com/p/ul-482
-- title: "The US Is Storing Migrant Children\u2019s DNA in a Criminal Database"
-  url: https://www.wired.com/story/cbp-dna-migrant-children-fbi-codis/
-- title: '''Haozi'' Gang Sells Turnkey Phishing Tools to Amateurs'
-  url: https://www.darkreading.com/threat-intelligence/haozi-gang-sells-turnkey-phishing-tools-amateurs
-- title: Surveillance Via Smart Toothbrush
-  url: https://www.schneier.com/blog/archives/2025/05/surveillance-via-smart-toothbrush.html
-- title: "Victoria\u2019s Secret takes down website after security incident"
-  url: https://www.bleepingcomputer.com/news/security/victorias-secret-takes-down-website-after-security-incident/
-- title: Check Point to Acquire Veriti to Transform Threat Exposure Management
-  url: https://www.itsecurityguru.org/2025/05/28/check-point-to-acquire-veriti-to-transform-threat-exposure-management/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-to-acquire-veriti-to-transform-threat-exposure-management
+- title: A Swedish MMA Tournament Spotlights the Trump Administration's Handling of
+    Far-Right Terrorism
+  url: https://www.wired.com/story/socal-active-club-nordic-resistance-movement/
+- title: '''Everest Group'' Extorts Global Orgs via SAP''s HR Tool'
+  url: https://www.darkreading.com/cyberattacks-data-breaches/everest-group-extorts-global-orgs-hr-tool
+- title: "Why Take9 Won\u2019t Improve Cybersecurity"
+  url: https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html
+- title: Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs
+  url: https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/
+- title: Check Point Launches Next-Gen Branch Office Security, Boosting Threat Prevention
+    Speed by 4x
+  url: https://www.itsecurityguru.org/2025/05/29/check-point-launches-next-gen-branch-office-security-boosting-threat-prevention-speed-by-4x/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-launches-next-gen-branch-office-security-boosting-threat-prevention-speed-by-4x
 - title: '158: MalwareTech'
   url: https://darknetdiaries.com/episode/158/
 - title: 'SN 1027: Artificial Intelligence - The Status of Encrypted Client Hello'
   url: https://twit.tv/shows/security-now/episodes/1027
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Fingers point east.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2317/notes
+- title: When "out of the box" becomes "out of control."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2318/notes
