@@ -2,28 +2,27 @@ entries:
 - title: "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018\
     Pig Butchering\u2019 Scams"
   url: https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/
-- title: China-Linked Hackers Exploit SAP and SQL Server Flaws in Attacks Across Asia
-    and Brazil
-  url: https://thehackernews.com/2025/05/china-linked-hackers-exploit-sap-and.html
+- title: New Linux Flaws Allow Password Hash Theft via Core Dumps in Ubuntu, RHEL,
+    Fedora
+  url: https://thehackernews.com/2025/05/new-linux-flaws-allow-password-hash.html
 - title: Unsupervised Learning NO. 482
   url: https://newsletter.danielmiessler.com/p/ul-482
-- title: A Swedish MMA Tournament Spotlights the Trump Administration's Handling of
-    Far-Right Terrorism
-  url: https://www.wired.com/story/socal-active-club-nordic-resistance-movement/
-- title: '''Everest Group'' Extorts Global Orgs via SAP''s HR Tool'
-  url: https://www.darkreading.com/cyberattacks-data-breaches/everest-group-extorts-global-orgs-hr-tool
+- title: "A Hacker May Have Deepfaked Trump\u2019s Chief of Staff in a Phishing Campaign"
+  url: https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/
+- title: '''Earth Lamia'' Exploits Known SQL, RCE Bugs Across Asia'
+  url: https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia
 - title: "Why Take9 Won\u2019t Improve Cybersecurity"
   url: https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html
-- title: Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs
-  url: https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/
-- title: Check Point Launches Next-Gen Branch Office Security, Boosting Threat Prevention
-    Speed by 4x
-  url: https://www.itsecurityguru.org/2025/05/29/check-point-launches-next-gen-branch-office-security-boosting-threat-prevention-speed-by-4x/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-launches-next-gen-branch-office-security-boosting-threat-prevention-speed-by-4x
+- title: Hackers are exploiting critical flaw in vBulletin forum software
+  url: https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/
+- title: Keeper Security Introduces Bidirectional One-Time Sharing Feature to Its
+    Password Manager Platform
+  url: https://www.itsecurityguru.org/2025/05/30/keeper-security-introduces-bidirectional-one-time-sharing-feature-to-its-password-manager-platform/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-introduces-bidirectional-one-time-sharing-feature-to-its-password-manager-platform
 - title: '158: MalwareTech'
   url: https://darknetdiaries.com/episode/158/
 - title: 'SN 1027: Artificial Intelligence - The Status of Encrypted Client Hello'
   url: https://twit.tv/shows/security-now/episodes/1027
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When "out of the box" becomes "out of control."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2318/notes
+- title: Triofox and the key to disaster. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/379/notes
