@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia
 - title: "Why Take9 Won\u2019t Improve Cybersecurity"
   url: https://www.schneier.com/blog/archives/2025/05/why-take9-wont-improve-cybersecurity.html
-- title: Hackers are exploiting critical flaw in vBulletin forum software
-  url: https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/
+- title: Exploit details for max severity Cisco IOS XE flaw now public
+  url: https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/
 - title: Keeper Security Introduces Bidirectional One-Time Sharing Feature to Its
     Password Manager Platform
   url: https://www.itsecurityguru.org/2025/05/30/keeper-security-introduces-bidirectional-one-time-sharing-feature-to-its-password-manager-platform/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-introduces-bidirectional-one-time-sharing-feature-to-its-password-manager-platform
@@ -24,5 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1027
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Triofox and the key to disaster. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/379/notes
+- title: 'Brandon Karpf: A sailor of the 21st century. [Transitioning service member]
+    [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/70/notes
