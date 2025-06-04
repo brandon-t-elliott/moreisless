@@ -2,23 +2,27 @@ entries:
 - title: "U.S. Sanctions Cloud Provider \u2018Funnull\u2019 as Top Source of \u2018\
     Pig Butchering\u2019 Scams"
   url: https://krebsonsecurity.com/2025/05/u-s-sanctions-cloud-provider-funnull-as-top-source-of-pig-butchering-scams/
-- title: 'Scattered Spider: Understanding Help Desk Scams and How to Defend Your Organization'
-  url: https://thehackernews.com/2025/06/scattered-spider-understanding-help.html
-- title: Unsupervised Learning NO. 482
-  url: https://newsletter.danielmiessler.com/p/ul-482
-- title: "A Hacker May Have Deepfaked Trump\u2019s Chief of Staff in a Phishing Campaign"
-  url: https://www.wired.com/story/trump-chief-staff-susie-wiles-hacker-phishing-impersonation/
-- title: New Linux Vulnerabilities
-  url: https://www.schneier.com/blog/archives/2025/06/new-linux-vulnerabilities.html
-- title: Google patches new Chrome zero-day bug exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/
+- title: Malicious PyPI, npm, and Ruby Packages Exposed in Ongoing Open-Source Supply
+    Chain Attacks
+  url: https://thehackernews.com/2025/06/malicious-pypi-npm-and-ruby-packages.html
+- title: Unsupervised Learning NO. 483
+  url: https://newsletter.danielmiessler.com/p/ul-483
+- title: "The Race to Build Trump\u2019s \u2018Golden Dome\u2019 Missile Defense System\
+    \ Is On"
+  url: https://www.wired.com/story/golden-dome-trump-missiles/
+- title: LayerX Launches ExtensionPedia
+  url: https://www.darkreading.com/endpoint-security/layerx-launches-extensionpedia
+- title: "The Ramifications of Ukraine\u2019s Drone Attack"
+  url: https://www.schneier.com/blog/archives/2025/06/the-ramifications-of-ukraines-drone-attack.html
+- title: OpenAI is hopeful GPT-5 will compete a little more
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-hopeful-gpt-5-will-compete-a-little-more/
 - title: ACDS Continues Global Expansion With Announcement of New French Entity
   url: https://www.itsecurityguru.org/2025/06/02/acds-continues-global-expansion-with-announcement-of-new-french-entity/?utm_source=rss&utm_medium=rss&utm_campaign=acds-continues-global-expansion-with-announcement-of-new-french-entity
 - title: '159: Vastaamo'
   url: https://darknetdiaries.com/episode/159/
-- title: 'SN 1027: Artificial Intelligence - The Status of Encrypted Client Hello'
-  url: https://twit.tv/shows/security-now/episodes/1027
+- title: 'SN 1028: AI Vulnerability Hunting - Jailbreaking is Over'
+  url: https://twit.tv/shows/security-now/episodes/1028
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: AVCheck goes dark in Operation Endgame.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2320/notes
+- title: "Zero-day d\xE9j\xE0 vu."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2321/notes
