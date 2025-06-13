@@ -1,26 +1,27 @@
 entries:
-- title: Patch Tuesday, June 2025 Edition
-  url: https://krebsonsecurity.com/2025/06/patch-tuesday-june-2025-edition/
-- title: Zero-Click AI Vulnerability Exposes Microsoft 365 Copilot Data Without User
-    Interaction
-  url: https://thehackernews.com/2025/06/zero-click-ai-vulnerability-exposes.html
+- title: Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
+  url: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
+- title: Ransomware Gangs Exploit Unpatched SimpleHelp Flaws to Target Victims with
+    Double Extortion
+  url: https://thehackernews.com/2025/06/ransomware-gangs-exploit-unpatched.html
 - title: Unsupervised Learning NO. 484
   url: https://newsletter.danielmiessler.com/p/ul-484
-- title: How Waymo Handles Footage From Events Like the LA Immigration Protests
-  url: https://www.wired.com/story/waymo-data-privacy-protests-los-angeles/
-- title: Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs
-  url: https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ips
-- title: New Way to Track Covertly Android Users
-  url: https://www.schneier.com/blog/archives/2025/06/new-way-to-track-covertly-android-users.html
-- title: Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/
-- title: KnowBe4 Wins Multiple 2025 Top Rated Awards From TrustRadius
-  url: https://www.itsecurityguru.org/2025/06/11/knowbe4-wins-multiple-2025-top-rated-awards-from-trustradius/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-wins-multiple-2025-top-rated-awards-from-trustradius
+- title: How to Protest Safely in the Age of Surveillance
+  url: https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/
+- title: Researchers Detail Zero-Click Copilot Exploit 'EchoLeak'
+  url: https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak
+- title: Paragon Spyware used to Spy on European Journalists
+  url: https://www.schneier.com/blog/archives/2025/06/paragon-spyware-used-to-spy-on-european-journalists.html
+- title: "Victoria\u2019s Secret restores critical systems after cyberattack"
+  url: https://www.bleepingcomputer.com/news/security/victorias-secret-restores-critical-systems-after-cyberattack/
+- title: Keeper Security Named Overall Leader on GigaOm Radar Report for Enterprise
+    Password Management
+  url: https://www.itsecurityguru.org/2025/06/12/keeper-security-named-overall-leader-on-gigaom-radar-report-for-enterprise-password-management/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-named-overall-leader-on-gigaom-radar-report-for-enterprise-password-management
 - title: '159: Vastaamo'
   url: https://darknetdiaries.com/episode/159/
 - title: 'SN 1029: The Illusion of Thinking - Meta Apps and JavaScript Collusion'
   url: https://twit.tv/shows/security-now/episodes/1029
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Ghost students \u201Chaunting\u201D online colleges."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2327/notes
+- title: Scam operations disrupted across Asia.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2328/notes
