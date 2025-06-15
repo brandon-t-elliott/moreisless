@@ -11,10 +11,10 @@ entries:
   url: https://www.wired.com/story/rfk-jr-orders-hhs-to-give-undocumented-migrants-medicaid-data-to-dhs/
 - title: CISA Reveals 'Pattern' of Ransomware Attacks Against SimpleHelp RMM
   url: https://www.darkreading.com/cyberattacks-data-breaches/cisa-ransomware-attacks-simplehelp-rmm
-- title: 'Friday Squid Blogging: Stubby Squid'
-  url: https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-stubby-squid.html
-- title: Google links massive cloud outage to API management issue
-  url: https://www.bleepingcomputer.com/news/google/google-links-massive-cloud-outage-to-api-management-issue/
+- title: Upcoming Speaking Engagements
+  url: https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html
+- title: WestJet investigates cyberattack disrupting internal systems
+  url: https://www.bleepingcomputer.com/news/security/westjet-investigates-cyberattack-disrupting-internal-systems/
 - title: Unusual Toolset Behind Fog Ransomware Prompts Fresh Security Concerns
   url: https://www.itsecurityguru.org/2025/06/13/unusual-toolset-behind-fog-ransomware-prompts-fresh-security-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=unusual-toolset-behind-fog-ransomware-prompts-fresh-security-concerns
 - title: '159: Vastaamo'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1029
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Hiding in plain sight with vibe coding.
-  url: https://thecyberwire.com/podcasts/research-saturday/381/notes
+- title: 'Mark Nunnikhoven: Providing clarity about security. [Cloud strategy]'
+  url: https://thecyberwire.com/podcasts/career-notes/72/notes
