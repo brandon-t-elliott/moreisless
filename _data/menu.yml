@@ -1,26 +1,27 @@
 entries:
 - title: Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
   url: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
-- title: Malicious PyPI Package Masquerades as Chimera Module to Steal AWS, CI/CD,
-    and macOS Data
-  url: https://thehackernews.com/2025/06/malicious-pypi-package-masquerades-as.html
-- title: Unsupervised Learning NO. 484
-  url: https://newsletter.danielmiessler.com/p/ul-484
-- title: How to Protect Yourself From Phone Searches at the US Border
-  url: https://www.wired.com/story/how-to-protect-yourself-from-phone-searches-at-the-us-border/
-- title: CISA Reveals 'Pattern' of Ransomware Attacks Against SimpleHelp RMM
-  url: https://www.darkreading.com/cyberattacks-data-breaches/cisa-ransomware-attacks-simplehelp-rmm
-- title: Upcoming Speaking Engagements
-  url: https://www.schneier.com/blog/archives/2025/06/upcoming-speaking-engagements-47.html
-- title: Police seizes Archetyp Market drug marketplace, arrests admin
-  url: https://www.bleepingcomputer.com/news/security/police-seizes-archetyp-market-drug-marketplace-arrests-admin/
-- title: Unusual Toolset Behind Fog Ransomware Prompts Fresh Security Concerns
-  url: https://www.itsecurityguru.org/2025/06/13/unusual-toolset-behind-fog-ransomware-prompts-fresh-security-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=unusual-toolset-behind-fog-ransomware-prompts-fresh-security-concerns
+- title: New Flodrix Botnet Variant Exploits Langflow AI Server RCE Bug to Launch
+    DDoS Attacks
+  url: https://thehackernews.com/2025/06/new-flodrix-botnet-variant-exploits.html
+- title: Unsupervised Learning NO. 485
+  url: https://newsletter.danielmiessler.com/p/ul-485
+- title: "Minnesota Shooting Suspect Allegedly Used Data Broker Sites to Find Targets\u2019\
+    \ Addresses"
+  url: https://www.wired.com/story/minnesota-lawmaker-shootings-people-search-data-brokers/
+- title: Malicious Chimera Turns Larcenous on Python Package Index
+  url: https://www.darkreading.com/application-security/malicious-chimera-pypi
+- title: Where AI Provides Value
+  url: https://www.schneier.com/blog/archives/2025/06/where-ai-provides-value.html
+- title: Hackers switch to targeting U.S. insurance companies
+  url: https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/
+- title: Top 5 AI SOC Analyst Platforms to Watch out for in 2025
+  url: https://www.itsecurityguru.org/2025/06/16/top-5-ai-soc-analyst-platforms-to-watch-out-for-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=top-5-ai-soc-analyst-platforms-to-watch-out-for-in-2025
 - title: '159: Vastaamo'
   url: https://darknetdiaries.com/episode/159/
 - title: 'SN 1029: The Illusion of Thinking - Meta Apps and JavaScript Collusion'
   url: https://twit.tv/shows/security-now/episodes/1029
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Mark Nunnikhoven: Providing clarity about security. [Cloud strategy]'
-  url: https://thecyberwire.com/podcasts/career-notes/72/notes
+- title: Darknet drug marketplace closed for business.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2330/notes
