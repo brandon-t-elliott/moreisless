@@ -1,19 +1,19 @@
 entries:
 - title: Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
   url: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
-- title: 6 Steps to 24/7 In-House SOC Success
-  url: https://thehackernews.com/2025/06/6-steps-to-247-in-house-soc-success.html
+- title: Scattered Spider Behind Cyberattacks on M&S and Co-op, Causing Up to $592M
+    in Damages
+  url: https://thehackernews.com/2025/06/scattered-spider-behind-cyberattacks-on.html
 - title: Unsupervised Learning NO. 485
   url: https://newsletter.danielmiessler.com/p/ul-485
-- title: "Iran\u2019s Internet Blackout Adds New Dangers for Civilians Amid Israeli\
-    \ Bombings"
-  url: https://www.wired.com/story/iran-internet-shutdown-israel/
-- title: 'Security Evolution: From Pothole Repair to Road Building'
-  url: https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building
-- title: Surveillance in the US
-  url: https://www.schneier.com/blog/archives/2025/06/surveillance-in-the-us.html
-- title: No, the 16 billion credentials leak is not a new data breach
-  url: https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/
+- title: Israel Says Iran Is Hacking Security Cameras for Spying
+  url: https://www.wired.com/story/israel-says-iran-is-hack-security-cameras-for-spying/
+- title: AWS Enhances Cloud Security With Better Visibility Features
+  url: https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility
+- title: 'Friday Squid Blogging: Gonate Squid Video'
+  url: https://www.schneier.com/blog/archives/2025/06/friday-squid-blogging-gonate-squid-video.html
+- title: BitoPro exchange links Lazarus hackers to $11 million crypto heist
+  url: https://www.bleepingcomputer.com/news/security/bitopro-exchange-links-lazarus-hackers-to-11-million-crypto-heist/
 - title: US States with Notable Consumer Data Privacy Laws
   url: https://www.itsecurityguru.org/2025/06/19/us-states-with-notable-consumer-data-privacy-laws/?utm_source=rss&utm_medium=rss&utm_campaign=us-states-with-notable-consumer-data-privacy-laws
 - title: '159: Vastaamo'
@@ -22,6 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1030
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Juneteenth: Reflecting, belonging, and owning your seat at the table. [Special
-    Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/84/notes
+- title: Signed, sealed, exploitable. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/382/notes
