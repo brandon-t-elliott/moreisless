@@ -1,19 +1,19 @@
 entries:
 - title: Inside a Dark Adtech Empire Fed by Fake CAPTCHAs
   url: https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas/
-- title: Google Adds Multi-Layered Defenses to Secure GenAI from Prompt Injection
-    Attacks
-  url: https://thehackernews.com/2025/06/google-adds-multi-layered-defenses-to.html
-- title: Unsupervised Learning NO. 485
-  url: https://newsletter.danielmiessler.com/p/ul-485
-- title: Taiwan Is Rushing to Make Its Own Drones Before It's Too Late
-  url: https://www.wired.com/story/taiwans-rush-to-make-its-own-drones-before-its-too-late/
-- title: AWS Enhances Cloud Security With Better Visibility Features
-  url: https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility
-- title: Largest DDoS Attack to Date
-  url: https://www.schneier.com/blog/archives/2025/06/largest-ddos-attack-to-date.html
-- title: CoinMarketCap briefly hacked to drain crypto wallets via fake Web3 popup
-  url: https://www.bleepingcomputer.com/news/security/coinmarketcap-briefly-hacked-to-drain-crypto-wallets-via-fake-web3-popup/
+- title: Hackers Exploit Misconfigured Docker APIs to Mine Cryptocurrency via Tor
+    Network
+  url: https://thehackernews.com/2025/06/hackers-exploit-misconfigured-docker.html
+- title: Unsupervised Learning NO. 486
+  url: https://newsletter.danielmiessler.com/p/ul-486
+- title: "Telegram Purged Chinese Crypto Scam Markets\u2014Then Watched as They Rebuilt"
+  url: https://www.wired.com/story/telegram-purged-chinese-crypto-scam-markets-then-let-them-rebuild/
+- title: SparkKitty Swipes Pics From iOS, Android Devices
+  url: https://www.darkreading.com/mobile-security/sparkkitty-swipes-pics-ios-android-devices
+- title: "Here\u2019s a Subliminal Channel You Haven\u2019t Considered Before"
+  url: https://www.schneier.com/blog/archives/2025/06/heres-a-subliminal-channel-you-havent-considered-before.html
+- title: APT28 hackers use Signal chats to launch new malware attacks on Ukraine
+  url: https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/
 - title: US States with Notable Consumer Data Privacy Laws
   url: https://www.itsecurityguru.org/2025/06/19/us-states-with-notable-consumer-data-privacy-laws/?utm_source=rss&utm_medium=rss&utm_campaign=us-states-with-notable-consumer-data-privacy-laws
 - title: '159: Vastaamo'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1030
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Jadee Hanson: Cybersecurity is a team effort. [CISO] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/73/notes
+- title: "Iran\u2019s digital retaliation looms."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2334/notes
