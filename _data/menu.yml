@@ -1,20 +1,22 @@
 entries:
 - title: Senator Chides FBI for Weak Advice on Mobile Security
   url: https://krebsonsecurity.com/2025/06/senator-chides-fbi-for-weak-advice-on-mobile-security/
-- title: That Network Traffic Looks Legit, But it Could be Hiding a Serious Threat
-  url: https://thehackernews.com/2025/07/that-network-traffic-looks-legit-but-it.html
+- title: Over 40 Malicious Firefox Extensions Target Cryptocurrency Wallets, Stealing
+    User Assets
+  url: https://thehackernews.com/2025/07/over-40-malicious-firefox-extensions.html
 - title: Unsupervised Learning NO. 487
   url: https://newsletter.danielmiessler.com/p/ul-487
-- title: Identities of More Than 80 Americans Stolen for North Korean IT Worker Scams
-  url: https://www.wired.com/story/identities-of-80-plus-americans-stolen-for-north-korean-it-worker-scams/
-- title: Silver Fox Suspected in Taiwanese Campaign Using DeepSeek Lure
-  url: https://www.darkreading.com/cyberattacks-data-breaches/silver-fox-suspected-taiwanese-campaign-deepseek
-- title: Ubuntu Disables Spectre/Meltdown Protections
-  url: https://www.schneier.com/blog/archives/2025/07/ubuntu-disables-spectre-meltdown-protections.html
-- title: Qantas discloses cyberattack amid Scattered Spider aviation breaches
-  url: https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/
-- title: "Infinity Global Services\u2019 Pen Testing Achieves CREST-Accreditation"
-  url: https://www.itsecurityguru.org/2025/07/01/infinity-global-services-pen-testing-achieves-crest-accreditation/?utm_source=rss&utm_medium=rss&utm_campaign=infinity-global-services-pen-testing-achieves-crest-accreditation
+- title: "A Group of Young Cybercriminals Poses the \u2018Most Imminent Threat\u2019\
+    \ of Cyberattacks Right Now"
+  url: https://www.wired.com/story/scattered-spider-most-imminent-threat/
+- title: Qantas Airlines Breached, Impacting 6M Customers
+  url: https://www.darkreading.com/cyberattacks-data-breaches/qantas-airlines-breached-6m-customers
+- title: Surveillance Used by a Drug Cartel
+  url: https://www.schneier.com/blog/archives/2025/07/surveillance-used-by-a-drug-cartel.html
+- title: Hunters International ransomware shuts down, releases free decryptors
+  url: https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/
+- title: A third of organisations take more than 90 days to remediate threats
+  url: https://www.itsecurityguru.org/2025/07/02/a-third-of-organisations-take-more-than-90-days-to-remediate-threats/?utm_source=rss&utm_medium=rss&utm_campaign=a-third-of-organisations-take-more-than-90-days-to-remediate-threats
 - title: '160: Greg'
   url: https://darknetdiaries.com/episode/160/
 - title: 'SN 1032: Pervasive Web Fingerprinting - How Websites Tracks You Despite
@@ -22,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1032
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "North Korea\u2019s covert coders caught."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2340/notes
+- title: Houken blends stealth and chaos.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2341/notes
