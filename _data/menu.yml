@@ -12,10 +12,11 @@ entries:
   url: https://www.darkreading.com/cyber-risk/cyber-blueprint-guide-ai-journey
 - title: 'Friday Squid Blogging: How Squid Skin Distorts Light'
   url: https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-how-squid-skin-distorts-light.html
-- title: Google's AI video maker Veo 3 is now available via $20 Gemini
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/
-- title: Ransomware Attacks Spike Despite Gang Closure
-  url: https://www.itsecurityguru.org/2025/07/04/ransomware-attacks-spike-despite-gang-closure/?utm_source=rss&utm_medium=rss&utm_campaign=ransomware-attacks-spike-despite-gang-closure
+- title: Ingram Micro outage caused by SafePay ransomware attack
+  url: https://www.bleepingcomputer.com/news/security/ingram-micro-outage-caused-by-safepay-ransomware-attack/
+- title: "Psychological Contract Breach and the Power of Security Culture \u2013 Research\
+    \ Insights"
+  url: https://www.itsecurityguru.org/2025/07/03/psychological-contract-breach-and-the-power-of-security-culture-research-insights/?utm_source=rss&utm_medium=rss&utm_campaign=psychological-contract-breach-and-the-power-of-security-culture-research-insights
 - title: '160: Greg'
   url: https://darknetdiaries.com/episode/160/
 - title: 'SN 1032: Pervasive Web Fingerprinting - How Websites Tracks You Despite
@@ -23,5 +24,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1032
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Botnet\u2019s back, tell a friend. [Research Saturday]"
-  url: https://thecyberwire.com/podcasts/research-saturday/368/notes
+- title: 'Swati Shekhar: Challenges increase your risk appetite. [Engineering] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/75/notes
