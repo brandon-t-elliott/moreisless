@@ -1,21 +1,20 @@
 entries:
 - title: "Big Tech\u2019s Mixed Response to U.S. Treasury Sanctions"
   url: https://krebsonsecurity.com/2025/07/big-techs-mixed-response-to-u-s-treasury-sanctions/
-- title: "\u26A1 Weekly Recap: Chrome 0-Day, Ivanti Exploits, MacOS Stealers, Crypto\
-    \ Heists and More"
-  url: https://thehackernews.com/2025/07/weekly-recap-chrome-0-day-ivanti.html
+- title: 5 Ways Identity-based Attacks Are Breaching Retail
+  url: https://thehackernews.com/2025/07/5-ways-identity-based-attacks-are.html
 - title: Unsupervised Learning NO. 487
   url: https://newsletter.danielmiessler.com/p/ul-487
 - title: Android May Soon Warn You About Fake Cell Towers
   url: https://www.wired.com/story/android-may-soon-warn-you-about-fake-cell-towers/
-- title: New Cyber Blueprint Aims to Guide Organizations on AI Journey
-  url: https://www.darkreading.com/cyber-risk/cyber-blueprint-guide-ai-journey
+- title: TAG-140 Targets Indian Government Via 'ClickFix-Style' Lure
+  url: https://www.darkreading.com/threat-intelligence/tag-140-indian-government-clickfix-lure
 - title: Hiding Prompt Injections in Academic Papers
   url: https://www.schneier.com/blog/archives/2025/07/hiding-prompt-injections-in-academic-papers.html
-- title: OpenAI says GPT-5 will unify breakthroughs from different models
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-5-will-unify-breakthroughs-from-different-models/
-- title: How to Secure Your Promo Codes Against Cyber Exploits
-  url: https://www.itsecurityguru.org/2025/07/07/how-to-secure-your-promo-codes-against-cyber-exploits-2/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-secure-your-promo-codes-against-cyber-exploits-2
+- title: Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage
+  url: https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/
+- title: Empowered employees strengthen financial sector digital resilience
+  url: https://www.itsecurityguru.org/2025/07/07/empowered-employees-strengthen-financial-sector-digital-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=empowered-employees-strengthen-financial-sector-digital-resilience
 - title: '160: Greg'
   url: https://darknetdiaries.com/episode/160/
 - title: 'SN 1032: Pervasive Web Fingerprinting - How Websites Tracks You Despite
@@ -23,6 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1032
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Swati Shekhar: Challenges increase your risk appetite. [Engineering] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/75/notes
+- title: SafePay, unsafe day.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2343/notes
