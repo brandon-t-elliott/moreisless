@@ -1,18 +1,19 @@
 entries:
 - title: "UK Arrests Four in \u2018Scattered Spider\u2019 Ransom Group"
   url: https://krebsonsecurity.com/2025/07/uk-charges-four-in-scattered-spider-ransom-group/
-- title: Securing Data in the AI Era
-  url: https://thehackernews.com/2025/07/securing-data-in-ai-era.html
+- title: Fortinet Releases Patch for Critical SQL Injection Flaw in FortiWeb (CVE-2025-25257)
+  url: https://thehackernews.com/2025/07/fortinet-releases-patch-for-critical.html
 - title: Unsupervised Learning NO. 488
   url: https://newsletter.danielmiessler.com/p/ul-488
-- title: "DHS Tells Police That Common Protest Activities Are \u2018Violent Tactics\u2019"
-  url: https://www.wired.com/story/dhs-tells-police-that-common-protest-activities-are-violent-tactics/
-- title: Customer, Employee Data Exposed in Nippon Steel Breach
-  url: https://www.darkreading.com/threat-intelligence/customer-employee-data-nippon-steel-breach
-- title: Using Signal Groups for Activism
-  url: https://www.schneier.com/blog/archives/2025/07/using-signal-groups-for-activism.html
-- title: Windows 11 now uses JScript9Legacy engine for improved security
-  url: https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/
+- title: "Metadata Shows the FBI\u2019s \u2018Raw\u2019 Jeffrey Epstein Prison Video\
+    \ Was Likely Modified"
+  url: https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified/
+- title: Pay2Key Ransomware Gang Resurfaces With Incentives to Attack US, Israel
+  url: https://www.darkreading.com/cyberattacks-data-breaches/pay2key-ransomware-gang-incentives-attack-us-israel
+- title: Squid Dominated the Oceans in the Late Cretaceous
+  url: https://www.schneier.com/blog/archives/2025/07/squid-dominated-the-oceans-in-the-late-cretaceous.html
+- title: "'123456' password exposed chats for 64 million McDonald\u2019s job applicants"
+  url: https://www.bleepingcomputer.com/news/security/123456-password-exposed-chats-for-64-million-mcdonalds-job-applicants/
 - title: Identity-based attacks lead cybersecurity concerns as AI threats rise and
     zero trust adoption lags
   url: https://www.itsecurityguru.org/2025/07/11/identity-based-attacks-lead-cybersecurity-concerns-as-ai-threats-rise-and-zero-trust-adoption-lags/?utm_source=rss&utm_medium=rss&utm_campaign=identity-based-attacks-lead-cybersecurity-concerns-as-ai-threats-rise-and-zero-trust-adoption-lags
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1033
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Cybercrime has a hefty price tag.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2346/notes
+- title: Click here to steal. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/384/notes
