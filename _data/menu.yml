@@ -1,19 +1,20 @@
 entries:
 - title: Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai
   url: https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/
-- title: Google Sues 25 Chinese Entities Over BADBOX 2.0 Botnet Affecting 10M Android
-    Devices
-  url: https://thehackernews.com/2025/07/google-sues-25-chinese-entities-over.html
+- title: China's Massistant Tool Secretly Extracts SMS, GPS Data, and Images From
+    Confiscated Phones
+  url: https://thehackernews.com/2025/07/chinas-massistant-tool-secretly.html
 - title: Unsupervised Learning NO. 489
   url: https://newsletter.danielmiessler.com/p/ul-489
-- title: Hackers Are Finding New Ways to Hide Malware in DNS Records
-  url: https://www.wired.com/story/dns-records-hidden-malicious-code/
-- title: 4 Chinese APTs Attack Taiwan's Semiconductor Industry
-  url: https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry
-- title: New Mobile Phone Forensics Tool
-  url: https://www.schneier.com/blog/archives/2025/07/new-mobile-phone-forensics-tool.html
-- title: 'OpenAI: GPT-5 is coming, "we''ll see" if it creates a shockwave'
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/
+- title: "China\u2019s Salt Typhoon Hackers Breached the US National Guard for Nearly\
+    \ a Year"
+  url: https://www.wired.com/story/chinas-salt-typhoon-hackers-breached-the-us-national-guard-for-nearly-a-year/
+- title: '''PoisonSeed'' Attacker Skates Around FIDO Keys'
+  url: https://www.darkreading.com/remote-workforce/poisonseed-attacker-fido-keys
+- title: 'Friday Squid Blogging: The Giant Squid Nebula'
+  url: https://www.schneier.com/blog/archives/2025/07/friday-squid-blogging-the-giant-squid-nebula.html
+- title: OpenAI, Anthropic, Google may disrupt education market with new AI tools
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/
 - title: Check Point Unveils Quantum Spark 2500 Series, Bringing Enterprise-Level
     Security and Advanced Connectivity to SMBs
   url: https://www.itsecurityguru.org/2025/07/17/check-point-unveils-quantum-spark-2500-series-bringing-enterprise-level-security-and-advanced-connectivity-to-smbs/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-unveils-quantum-spark-2500-series-bringing-enterprise-level-security-and-advanced-connectivity-to-smbs
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1034
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When hackers become the hunted.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2351/notes
+- title: Creeping like a spider. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/385/notes
