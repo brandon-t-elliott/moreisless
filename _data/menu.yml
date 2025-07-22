@@ -1,28 +1,25 @@
 entries:
-- title: Poor Passwords Tattle on AI Hiring Bot Maker Paradox.ai
-  url: https://krebsonsecurity.com/2025/07/poor-passwords-tattle-on-ai-hiring-bot-maker-paradox-ai/
-- title: "\u26A1 Weekly Recap: SharePoint 0-Day, Chrome Exploit, macOS Spyware, NVIDIA\
-    \ Toolkit RCE and More"
-  url: https://thehackernews.com/2025/07/weekly-recap-sharepoint-0-day-chrome.html
-- title: Unsupervised Learning NO. 489
-  url: https://newsletter.danielmiessler.com/p/ul-489
-- title: "At Least 750 US Hospitals Faced Disruptions During Last Year\u2019s CrowdStrike\
-    \ Outage, Study Finds"
-  url: https://www.wired.com/story/at-least-750-us-hospitals-faced-disruptions-during-last-years-crowdstrike-outage-study-finds/
-- title: '''PoisonSeed'' Attacker Skates Around FIDO Keys'
-  url: https://www.darkreading.com/remote-workforce/poisonseed-attacker-fido-keys
-- title: Another Supply Chain Vulnerability
-  url: https://www.schneier.com/blog/archives/2025/07/another-supply-chain-vulnerability.html
-- title: Over 1,000 CrushFTP servers exposed to ongoing hijack attacks
-  url: https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/
-- title: Check Point Unveils Quantum Spark 2500 Series, Bringing Enterprise-Level
-    Security and Advanced Connectivity to SMBs
-  url: https://www.itsecurityguru.org/2025/07/17/check-point-unveils-quantum-spark-2500-series-bringing-enterprise-level-security-and-advanced-connectivity-to-smbs/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-unveils-quantum-spark-2500-series-bringing-enterprise-level-security-and-advanced-connectivity-to-smbs
+- title: Microsoft Fix Targets Attacks on SharePoint Zero-Day
+  url: https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/
+- title: Iran-Linked DCHSpy Android Malware Masquerades as VPN Apps to Spy on Dissidents
+  url: https://thehackernews.com/2025/07/iran-linked-dchspy-android-malware.html
+- title: Unsupervised Learning NO. 490
+  url: https://newsletter.danielmiessler.com/p/ul-490
+- title: How WIRED Analyzed the Epstein Video
+  url: https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/
+- title: China-Backed APT41 Cyberattack Surfaces in Africa
+  url: https://www.darkreading.com/cyberattacks-data-breaches/china-backed-apt41-attack-africa
+- title: "\u201CEncryption Backdoors and the Fourth Amendment\u201D"
+  url: https://www.schneier.com/blog/archives/2025/07/encryption-backdoors-and-the-fourth-amendment.html
+- title: 'Microsoft: Windows Server KB5062557 causes cluster, VM issues'
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/
+- title: Jonathan Zanger Named CTO at Check Point to Boost AI Cybersecurity
+  url: https://www.itsecurityguru.org/2025/07/21/jonathan-zanger-named-cto-at-check-point-to-boost-ai-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=jonathan-zanger-named-cto-at-check-point-to-boost-ai-cybersecurity
 - title: '161: mg'
   url: https://darknetdiaries.com/episode/161/
 - title: 'SN 1034: Introduction to Zero-Knowledge Proofs - Taking Down Quantum Factorization'
   url: https://twit.tv/shows/security-now/episodes/1034
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Anisha Patel: Right along with them. [Program management] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/77/notes
+- title: Microsoft flaws fuel global breaches.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2353/notes
