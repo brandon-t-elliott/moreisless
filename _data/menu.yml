@@ -1,20 +1,21 @@
 entries:
 - title: Microsoft Fix Targets Attacks on SharePoint Zero-Day
   url: https://krebsonsecurity.com/2025/07/microsoft-fix-targets-attacks-on-sharepoint-zero-day/
-- title: 'Kerberoasting Detections: A New Approach to a Decade-Old Challenge'
-  url: https://thehackernews.com/2025/07/kerberoasting-detections-new-approach.html
+- title: "Watch This Webinar to Uncover Hidden Flaws in Login, AI, and Digital Trust\
+    \ \u2014 and Fix Them"
+  url: https://thehackernews.com/2025/07/watch-this-webinar-to-uncover-hidden.html
 - title: Unsupervised Learning NO. 490
   url: https://newsletter.danielmiessler.com/p/ul-490
 - title: How WIRED Analyzed the Epstein Video
   url: https://www.wired.com/story/uncanny-valley-podcast-how-wired-analyzed-the-epstein-video/
-- title: China Introduces National Cyber ID Amid Privacy Concerns
-  url: https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns
-- title: Google Sues the Badbox Botnet Operators
-  url: https://www.schneier.com/blog/archives/2025/07/google-sues-the-badbox-botnet-operators.html
-- title: Operator of Jetflix illegal streaming service gets 7 years in prison
-  url: https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/
-- title: How SWIS school strengthened staff online safety and compliance with Meta1st
-  url: https://www.itsecurityguru.org/2025/07/23/how-swis-school-strengthened-staff-online-safety-and-compliance-with-meta1st/?utm_source=rss&utm_medium=rss&utm_campaign=how-swis-school-strengthened-staff-online-safety-and-compliance-with-meta1st
+- title: Fixed Ivanti Bugs Still Haunt Japan Orgs 6 Months Later
+  url: https://www.darkreading.com/endpoint-security/fixed-ivanti-bugs-japan-orgs-6-months-later
+- title: How Solid Protocol Restores Digital Agency
+  url: https://www.schneier.com/blog/archives/2025/07/how-solid-protocol-restores-digital-agency.html
+- title: SonicWall urges admins to patch critical RCE flaw in SMA 100 devices
+  url: https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/
+- title: How the EU Is Fighting Back Against Deepfakes
+  url: https://www.itsecurityguru.org/2025/07/23/how-the-eu-is-fighting-back-against-deepfakes/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-eu-is-fighting-back-against-deepfakes
 - title: '161: mg'
   url: https://darknetdiaries.com/episode/161/
 - title: 'SN 1035: Cloudflare''s 1.1.1.1 Outage - Bypassing Passkey Protections'
