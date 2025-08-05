@@ -1,26 +1,27 @@
 entries:
 - title: Scammers Unleash Flood of Slick Online Gaming Sites
   url: https://krebsonsecurity.com/2025/07/scammers-unleash-flood-of-slick-online-gaming-sites/
-- title: "\u26A1 Weekly Recap: VPN 0-Day, Encryption Backdoor, AI Malware, macOS Flaw,\
-    \ ATM Hack & More"
-  url: https://thehackernews.com/2025/08/weekly-recap-vpn-0-day-encryption.html
+- title: 'Misconfigurations Are Not Vulnerabilities: The Costly Confusion Behind Security
+    Risks'
+  url: https://thehackernews.com/2025/08/misconfigurations-are-not.html
 - title: Unsupervised Learning NO. 491
   url: https://newsletter.danielmiessler.com/p/ul-491
 - title: The US Military Is Raking in Millions From On-Base Slot Machines
   url: https://www.wired.com/story/us-military-on-base-slot-machines-gambling-addiction/
-- title: Dark Reading News Desk Turns 10, Back at Black Hat USA for 2025
-  url: https://www.darkreading.com/cybersecurity-operations/dark-reading-news-desk-black-hat-usa-2025
-- title: First Sentencing in Scheme to Help North Koreans Infiltrate US Companies
-  url: https://www.schneier.com/blog/archives/2025/08/first-sentencing-in-scheme-to-help-north-koreans-infiltrate-us-companies.html
-- title: Ransomware gangs join attacks targeting Microsoft SharePoint servers
-  url: https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-attacks-targeting-microsoft-sharepoint-servers/
-- title: 'One Week of the Online Safety Act: Cyber Experts Weigh In'
-  url: https://www.itsecurityguru.org/2025/08/01/one-week-of-the-online-safety-act-cyber-experts-weigh-in/?utm_source=rss&utm_medium=rss&utm_campaign=one-week-of-the-online-safety-act-cyber-experts-weigh-in
-- title: '161: mg'
-  url: https://darknetdiaries.com/episode/161/
+- title: Nvidia Patches Critical RCE Vulnerability Chain
+  url: https://www.darkreading.com/vulnerabilities-threats/nvidia-patches-critical-rce-vulnerability-chain
+- title: Surveilling Your Children with AirTags
+  url: https://www.schneier.com/blog/archives/2025/08/surveilling-your-children-with-airtags.html
+- title: SonicWall urges admins to disable SSLVPN amid rising attacks
+  url: https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-disable-sslvpn-amid-rising-attacks/
+- title: 'Identity Security: The New Perimeter for Cloud Security Companies Using
+    CNAPP'
+  url: https://www.itsecurityguru.org/2025/08/04/identity-security-the-new-perimeter-for-cloud-security-companies-using-cnapp/?utm_source=rss&utm_medium=rss&utm_campaign=identity-security-the-new-perimeter-for-cloud-security-companies-using-cnapp
+- title: '162: Hieu'
+  url: https://darknetdiaries.com/episode/162/
 - title: 'SN 1036: Inside the SharePoint 0-day - Is Our Data Safe Anywhere?'
   url: https://twit.tv/shows/security-now/episodes/1036
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Hannah Kenney: Focused on people. [Risk] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/79/notes
+- title: New sheriff in cyber town.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2363/notes
