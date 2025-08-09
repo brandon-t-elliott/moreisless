@@ -1,1 +1,25 @@
-entries: []
+entries:
+- title: "KrebsOnSecurity in New \u2018Most Wanted\u2019 HBO Max Series"
+  url: https://krebsonsecurity.com/2025/08/krebsonsecurity-in-new-most-wanted-hbo-max-series/
+- title: CyberArk and HashiCorp Flaws Enable Remote Vault Takeover Without Credentials
+  url: https://thehackernews.com/2025/08/cyberark-and-hashicorp-flaws-enable.html
+- title: Unsupervised Learning NO. 492
+  url: https://newsletter.danielmiessler.com/p/ul-492
+- title: The US Court Records System Has Been Hacked
+  url: https://www.wired.com/story/us-court-records-system-hacked/
+- title: 60 RubyGems Packages Steal Data From Annoying Spammers
+  url: https://www.darkreading.com/threat-intelligence/60-rubygems-packages-steal-spammers
+- title: 'Friday Squid Blogging: New Vulnerability in Squid HTTP Proxy Server'
+  url: https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-new-vulnerability-in-squid-http-proxy-server.html
+- title: OpenAI to fix GPT-5 issues, double rate limits for paid users after outrage
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-to-fix-gpt-5-issues-double-rate-limits-for-paid-users-after-outrage/
+- title: Black Duck Announces Enhancements to AI Powered Application Security Assistant
+  url: https://www.itsecurityguru.org/2025/08/06/black-duck-announces-enhancements-to-ai-powered-application-security-assistant/?utm_source=rss&utm_medium=rss&utm_campaign=black-duck-announces-enhancements-to-ai-powered-application-security-assistant
+- title: '162: Hieu'
+  url: https://darknetdiaries.com/episode/162/
+- title: 'SN 1037: Chinese Participation in MAPP - Why Signal is Leaving Australia'
+  url: https://twit.tv/shows/security-now/episodes/1037
+- title: All Together Now
+  url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
+- title: When malware plays pretend. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/388/notes
