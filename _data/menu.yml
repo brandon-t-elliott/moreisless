@@ -1,20 +1,18 @@
 entries:
 - title: Microsoft Patch Tuesday, August 2025 Edition
   url: https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/
-- title: "Webinar: What the Next Wave of AI Cyberattacks Will Look Like \u2014 And\
-    \ How to Survive"
-  url: https://thehackernews.com/2025/08/webinar-what-next-wave-of-ai.html
-- title: Unsupervised Learning NO. 492
-  url: https://newsletter.danielmiessler.com/p/ul-492
-- title: Data Brokers Are Hiding Their Opt-Out Pages From Google Search
-  url: https://www.wired.com/story/data-brokers-hiding-opt-out-pages-google-search/
-- title: China Questions Security of AI Chips From Nvidia, AMD
-  url: https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd
-- title: SIGINT During World War II
-  url: https://www.schneier.com/blog/archives/2025/08/sigint-during-world-war-ii.html
-- title: OpenAI adds new GPT-5 models, restores o3, o4-mini and it's a mess all over
-    again
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/
+- title: Have You Turned Off Your Virtual Oven?
+  url: https://thehackernews.com/2025/08/have-you-turned-off-your-virtual-oven.html
+- title: Unsupervised Learning NO. 493
+  url: https://newsletter.danielmiessler.com/p/ul-493
+- title: The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived
+  url: https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/
+- title: North Korea Attacks South Koreans With Ransomware
+  url: https://www.darkreading.com/cyberattacks-data-breaches/north-korea-attacks-south-koreans-ransomware
+- title: LLM Coding Integrity Breach
+  url: https://www.schneier.com/blog/archives/2025/08/llm-coding-integrity-breach.html
+- title: 'Leak: OpenAI''s browser will use ChatGPT Agent to control the browser'
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/
 - title: KnowBe4 refreshes brand after 15 years
   url: https://www.itsecurityguru.org/2025/08/12/knowbe4-refreshes-brand-after-15-years/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-refreshes-brand-after-15-years
 - title: '162: Hieu'
@@ -23,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1038
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Kimsuky gets kim-sunk.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2369/notes
+- title: When spies get spied on.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2370/notes
