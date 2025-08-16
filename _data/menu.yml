@@ -1,26 +1,27 @@
 entries:
-- title: Microsoft Patch Tuesday, August 2025 Edition
-  url: https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/
-- title: U.S. Sanctions Garantex and Grinex Over $100M in Ransomware-Linked Illicit
-    Crypto Transactions
-  url: https://thehackernews.com/2025/08/us-sanctions-garantex-and-grinex-over.html
+- title: "Mobile Phishers Target Brokerage Accounts in \u2018Ramp and Dump\u2019 Cashout\
+    \ Scheme"
+  url: https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/
+- title: ERMAC V3.0 Banking Trojan Source Code Leak Exposes Full Malware Infrastructure
+  url: https://thehackernews.com/2025/08/ermac-v30-banking-trojan-source-code.html
 - title: Unsupervised Learning NO. 493
   url: https://newsletter.danielmiessler.com/p/ul-493
-- title: The First Federal Cybersecurity Disaster of Trump 2.0 Has Arrived
-  url: https://www.wired.com/story/the-first-federal-cybersecurity-disaster-of-trump-20-has-arrived/
-- title: Downgrade Attack Allows Phishing Kits to Bypass FIDO
-  url: https://www.darkreading.com/cybersecurity-operations/downgrade-attack-phishing-kits-bypass-fido
-- title: Trojans Embedded in .svg Files
-  url: https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html
-- title: Plex warns users to patch security vulnerability immediately
-  url: https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/
-- title: 62% of People Believe AI Agents Are Easier To Deceive Than Humans
-  url: https://www.itsecurityguru.org/2025/08/14/62-of-people-believe-ai-agents-are-easier-to-deceive-than-humans/?utm_source=rss&utm_medium=rss&utm_campaign=62-of-people-believe-ai-agents-are-easier-to-deceive-than-humans
+- title: Russia Is Cracking Down on End-to-End Encrypted Calls
+  url: https://www.wired.com/story/russia-crack-down-end-to-end-encrypted-calling/
+- title: RealDefense Opens $10M Fund to Help OEMs Monetize Installs With SmartScan
+    Cybersecurity SDK
+  url: https://www.darkreading.com/endpoint-security/realdefense-opens-10m-fund-smartscan-cybersecurity-sdk
+- title: 'Friday Squid Blogging: Squid-Shaped UFO Spotted Over Texas'
+  url: https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html
+- title: Colt Telecom attack claimed by WarLock ransomware, data up for sale
+  url: https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/
+- title: Smishing in the Amazon
+  url: https://www.itsecurityguru.org/2025/08/15/smishing-in-the-amazon/?utm_source=rss&utm_medium=rss&utm_campaign=smishing-in-the-amazon
 - title: '162: Hieu'
   url: https://darknetdiaries.com/episode/162/
 - title: 'SN 1038: Perplexity''s Duplicity - Malicious Repository Libraries'
   url: https://twit.tv/shows/security-now/episodes/1038
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Dialysis down, data out.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2371/notes
+- title: The CVE countdown clock. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/389/notes
