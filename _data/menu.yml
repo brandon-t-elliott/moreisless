@@ -1,19 +1,18 @@
 entries:
 - title: SIM-Swapper, Scattered Spider Hacker Gets 10 Years
   url: https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/
-- title: Transparent Tribe Targets Indian Govt With Weaponized Desktop Shortcuts via
-    Phishing
-  url: https://thehackernews.com/2025/08/transparent-tribe-targets-indian-govt.html
-- title: Unsupervised Learning NO. 494
-  url: https://newsletter.danielmiessler.com/p/ul-494
+- title: HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands
+  url: https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html
+- title: Unsupervised Learning NO. 495
+  url: https://newsletter.danielmiessler.com/p/ul-495
 - title: The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears
   url: https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/
-- title: Silk Typhoon Attacks North American Orgs in the Cloud
-  url: https://www.darkreading.com/cloud-security/silk-typhoon-north-american-orgs-cloud
-- title: Poor Password Choices
-  url: https://www.schneier.com/blog/archives/2025/08/poor-password-choices.html
-- title: Murky Panda hackers exploit cloud trust to hack downstream customers
-  url: https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/
+- title: Hackers Lay in Wait, Then Knocked Out Iran Ship Comms
+  url: https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms
+- title: Encryption Backdoor in Military/Police Radios
+  url: https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html
+- title: Surge in coordinated scans targets Microsoft RDP auth servers
+  url: https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/
 - title: KnowBe4 Finds Top Cybersecurity Risk is Employee Distraction, Not Threat
     Sophistication
   url: https://www.itsecurityguru.org/2025/08/21/knowbe4-finds-top-cybersecurity-risk-is-employee-distraction-not-threat-sophistication/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-finds-top-cybersecurity-risk-is-employee-distraction-not-threat-sophistication
@@ -23,6 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1039
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Julian Waits: Find a way to help society. [Serial Entrepreneur] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/82/notes
+- title: A farmers market of stolen data.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2378/notes
