@@ -1,25 +1,27 @@
 entries:
-- title: SIM-Swapper, Scattered Spider Hacker Gets 10 Years
-  url: https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/
-- title: HOOK Android Trojan Adds Ransomware Overlays, Expands to 107 Remote Commands
-  url: https://thehackernews.com/2025/08/hook-android-trojan-adds-ransomware.html
+- title: "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019"
+  url: https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/
+- title: Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer
+    Data
+  url: https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html
 - title: Unsupervised Learning NO. 495
   url: https://newsletter.danielmiessler.com/p/ul-495
 - title: The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears
   url: https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/
-- title: Hackers Lay in Wait, Then Knocked Out Iran Ship Comms
-  url: https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms
-- title: Encryption Backdoor in Military/Police Radios
-  url: https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html
-- title: Surge in coordinated scans targets Microsoft RDP auth servers
-  url: https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/
+- title: African Law Enforcement Agencies Nab Cybercrime Syndicates
+  url: https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-agencies-nab-cybercrime-syndicates
+- title: We Are Still Unable to Secure LLMs from Malicious Inputs
+  url: https://www.schneier.com/blog/archives/2025/08/we-are-still-unable-to-secure-llms-from-malicious-inputs.html
+- title: Google to verify all Android devs to block malware on Google Play
+  url: https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/
 - title: KnowBe4 Finds Top Cybersecurity Risk is Employee Distraction, Not Threat
     Sophistication
   url: https://www.itsecurityguru.org/2025/08/21/knowbe4-finds-top-cybersecurity-risk-is-employee-distraction-not-threat-sophistication/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-finds-top-cybersecurity-risk-is-employee-distraction-not-threat-sophistication
 - title: '162: Hieu'
   url: https://darknetdiaries.com/episode/162/
-- title: 'SN 1039: The Sad Case of ScriptCase - Data Brokers Dodge Deletion'
-  url: https://twit.tv/shows/security-now/episodes/1039
+- title: 'SN 1040: Clickjacking "Whac-A-Mole" - Inside the Password Manager Clickjacking
+    Frenzy and What It Means'
+  url: https://twit.tv/shows/security-now/episodes/1040
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: A farmers market of stolen data.
