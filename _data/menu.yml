@@ -1,22 +1,21 @@
 entries:
 - title: "DSLRoot, Proxies, and the Threat of \u2018Legal Botnets\u2019"
   url: https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/
-- title: Salesloft OAuth Breach via Drift AI Chat Agent Exposes Salesforce Customer
-    Data
-  url: https://thehackernews.com/2025/08/salesloft-oauth-breach-via-drift-ai.html
+- title: Hidden Vulnerabilities of Project Management Tools & How FluentPro Backup
+    Secures Them
+  url: https://thehackernews.com/2025/08/hidden-vulnerabilities-of-project.html
 - title: Unsupervised Learning NO. 495
   url: https://newsletter.danielmiessler.com/p/ul-495
-- title: The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears
-  url: https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/
-- title: African Law Enforcement Agencies Nab Cybercrime Syndicates
-  url: https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-agencies-nab-cybercrime-syndicates
-- title: We Are Still Unable to Secure LLMs from Malicious Inputs
-  url: https://www.schneier.com/blog/archives/2025/08/we-are-still-unable-to-secure-llms-from-malicious-inputs.html
-- title: Google to verify all Android devs to block malware on Google Play
-  url: https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/
-- title: KnowBe4 Finds Top Cybersecurity Risk is Employee Distraction, Not Threat
-    Sophistication
-  url: https://www.itsecurityguru.org/2025/08/21/knowbe4-finds-top-cybersecurity-risk-is-employee-distraction-not-threat-sophistication/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-finds-top-cybersecurity-risk-is-employee-distraction-not-threat-sophistication
+- title: This Is the Group That's Been Swatting US Universities
+  url: https://www.wired.com/story/purgatory-gores-swatting-us-universities/
+- title: CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM
+  url: https://www.darkreading.com/cybersecurity-analytics/crowdstrike-acquire-onum-boost-falcon-next-gen-siem
+- title: The UK May Be Dropping Its Backdoor Mandate
+  url: https://www.schneier.com/blog/archives/2025/08/the-uk-may-be-dropping-its-backdoor-mandate.html
+- title: Storm-0501 hackers shift to ransomware attacks in the cloud
+  url: https://www.bleepingcomputer.com/news/security/storm-0501-hackers-shift-to-ransomware-attacks-in-the-cloud/
+- title: Ziplining into the Minds of US Supply Chains
+  url: https://www.itsecurityguru.org/2025/08/27/ziplining-into-the-minds-of-us-supply-chains/?utm_source=rss&utm_medium=rss&utm_campaign=ziplining-into-the-minds-of-us-supply-chains
 - title: '162: Hieu'
   url: https://darknetdiaries.com/episode/162/
 - title: 'SN 1040: Clickjacking "Whac-A-Mole" - Inside the Password Manager Clickjacking
@@ -24,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1040
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A farmers market of stolen data.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2378/notes
+- title: Whistle-blown and wide open.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2380/notes
