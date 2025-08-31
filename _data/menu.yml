@@ -1,17 +1,19 @@
 entries:
 - title: "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine"
   url: https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/
-- title: WhatsApp Issues Emergency Update for Zero-Click Exploit Targeting iOS and
-    macOS Devices
-  url: https://thehackernews.com/2025/08/whatsapp-issues-emergency-update-for.html
+- title: Attackers Abuse Velociraptor Forensic Tool to Deploy Visual Studio Code for
+    C2 Tunneling
+  url: https://thehackernews.com/2025/08/attackers-abuse-velociraptor-forensic.html
 - title: Unsupervised Learning NO. 495
   url: https://newsletter.danielmiessler.com/p/ul-495
 - title: "DOGE Put Everyone\u2019s Social Security Data at Risk, Whistleblower Claims"
   url: https://www.wired.com/story/doge-social-security-data-at-risk-whistleblower/
+- title: "An Audit Isn't a Speed Bump \u2014 It's Your Cloud Co-Pilot"
+  url: https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot
 - title: 'Friday Squid Blogging: Catching Humboldt Squid'
   url: https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-catching-humboldt-squid.html
-- title: Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/
+- title: OpenAI is testing "Thinking effort" for ChatGPT
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/
 - title: AI-Powered Cyber Crime Raises Worldwide Alarm Bells.
   url: https://www.itsecurityguru.org/2025/08/29/ai-powered-cyber-crime-raises-worldwide-alarm-bells/?utm_source=rss&utm_medium=rss&utm_campaign=ai-powered-cyber-crime-raises-worldwide-alarm-bells
 - title: '162: Hieu'
@@ -21,5 +23,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1040
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Cracks in the wall. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/391/notes
+- title: 'Marina Ciavatta: Going after the human error. [Social engineer] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/83/notes
