@@ -1,28 +1,27 @@
 entries:
-- title: "Affiliates Flock to \u2018Soulless\u2019 Scam Gambling Machine"
-  url: https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/
-- title: ScarCruft Uses RokRAT Malware in Operation HanKook Phantom Targeting South
-    Korean Academics
-  url: https://thehackernews.com/2025/09/scarcruft-uses-rokrat-malware-in.html
+- title: The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft
+  url: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/
+- title: Ukrainian Network FDN3 Launches Massive Brute-Force Attacks on SSL VPN and
+    RDP Devices
+  url: https://thehackernews.com/2025/09/ukrainian-network-fdn3-launches-massive.html
 - title: Unsupervised Learning NO. 495
   url: https://newsletter.danielmiessler.com/p/ul-495
-- title: China Is About to Show Off Its New High-Tech Weapons to the World
-  url: https://www.wired.com/story/china-victory-day-parade-weapons/
+- title: "No, Trump Can\u2019t Legally Federalize US Elections"
+  url: https://www.wired.com/story/trump-federalize-election-unconstitutional/
 - title: "An Audit Isn't a Speed Bump \u2014 It's Your Cloud Co-Pilot"
   url: https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot
-- title: 'Friday Squid Blogging: Catching Humboldt Squid'
-  url: https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-catching-humboldt-squid.html
-- title: OpenAI is testing "Thinking effort" for ChatGPT
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/
+- title: 1965 Cryptanalysis Training Workbook Released by the NSA
+  url: https://www.schneier.com/blog/archives/2025/09/1965-cryptanalysis-training-workbook-released-by-the-nsa.html
+- title: Amazon disrupts Russian APT29 hackers targeting Microsoft 365
+  url: https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-apt29-hackers-targeting-microsoft-365/
 - title: AI-Powered Cyber Crime Raises Worldwide Alarm Bells.
   url: https://www.itsecurityguru.org/2025/08/29/ai-powered-cyber-crime-raises-worldwide-alarm-bells/?utm_source=rss&utm_medium=rss&utm_campaign=ai-powered-cyber-crime-raises-worldwide-alarm-bells
-- title: '162: Hieu'
-  url: https://darknetdiaries.com/episode/162/
+- title: '163: Ola'
+  url: https://darknetdiaries.com/episode/163
 - title: 'SN 1040: Clickjacking "Whac-A-Mole" - Inside the Password Manager Clickjacking
     Frenzy and What It Means'
   url: https://twit.tv/shows/security-now/episodes/1040
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Live from Black Hat: Ransomware, Responsible Disclosure, and the Rise of
-    AI [Microsoft Threat Intelligence Podcast]'
-  url: https://thecyberwire.com/podcasts/microsoft-threat-intelligence/51/notes
+- title: 'Hot sauce and hot takes: An Only Malware in the Building special. [OMITB]'
+  url: https://thecyberwire.com/podcasts/only-malware-in-the-building/15/notes
