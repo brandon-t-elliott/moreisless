@@ -1,22 +1,21 @@
 entries:
 - title: The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft
   url: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/
-- title: Iranian Hackers Exploit 100+ Embassy Email Accounts in Global Phishing Targeting
-    Diplomats
-  url: https://thehackernews.com/2025/09/iranian-hackers-exploit-100-embassy.html
+- title: "Cybercriminals Exploit X\u2019s Grok AI to Bypass Ad Protections and Spread\
+    \ Malware to Millions"
+  url: https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html
 - title: Unsupervised Learning NO. 495
   url: https://newsletter.danielmiessler.com/p/ul-495
-- title: "What Is a Passkey? Here\u2019s How to Set Up and Use Them (2025)"
-  url: https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/
-- title: UAE to Implement Cyber Education Initiative
-  url: https://www.darkreading.com/cybersecurity-operations/uae-cyber-education-initiative
-- title: Indirect Prompt Injection Attacks Against LLM Assistants
-  url: https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html
-- title: Hackers breach fintech firm in attempted $130M bank heist
-  url: https://www.bleepingcomputer.com/news/security/hackers-breach-fintech-firm-in-attempted-130m-bank-heist/
-- title: 'Bringing the Human Back into Cybersecurity: What Values-Based Education
-    Teaches Us About Digital Mindfulness'
-  url: https://www.itsecurityguru.org/2025/09/01/bringing-the-human-back-into-cybersecurity-what-values-based-education-teaches-us-about-digital-mindfulness/?utm_source=rss&utm_medium=rss&utm_campaign=bringing-the-human-back-into-cybersecurity-what-values-based-education-teaches-us-about-digital-mindfulness
+- title: Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn
+  url: https://www.wired.com/story/stealerium-infostealer-porn-sextortion/
+- title: Iran MOIS Phishes 50+ Embassies, Ministries, Int'l Orgs
+  url: https://www.darkreading.com/cyberattacks-data-breaches/iran-mois-50-embassies-ministries-intl-orgs
+- title: Generative AI as a Cybercrime Assistant
+  url: https://www.schneier.com/blog/archives/2025/09/generative-ai-as-a-cybercrime-assistant.html
+- title: Microsoft says recent Windows updates cause app install issues
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/
+- title: Discover the Power of Usenet for Global Access and Privacy
+  url: https://www.itsecurityguru.org/2025/09/03/discover-the-power-of-usenet-for-global-access-and-privacy/?utm_source=rss&utm_medium=rss&utm_campaign=discover-the-power-of-usenet-for-global-access-and-privacy
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
 - title: 'SN 1041: Covering All the Bases - SHAKEN Networks, Uncontrollable AI, and
@@ -24,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1041
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Blizzard warning: Amazon freezes midnight hack.'
-  url: https://thecyberwire.com/podcasts/daily-podcast/2383/notes
+- title: Ransomware in the rearview.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2384/notes
