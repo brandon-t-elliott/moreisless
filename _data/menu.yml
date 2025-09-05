@@ -1,21 +1,20 @@
 entries:
 - title: The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft
   url: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/
-- title: "Cybercriminals Exploit X\u2019s Grok AI to Bypass Ad Protections and Spread\
-    \ Malware to Millions"
-  url: https://thehackernews.com/2025/09/cybercriminals-exploit-xs-grok-ai-to.html
-- title: Unsupervised Learning NO. 495
-  url: https://newsletter.danielmiessler.com/p/ul-495
-- title: Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn
-  url: https://www.wired.com/story/stealerium-infostealer-porn-sextortion/
-- title: Iran MOIS Phishes 50+ Embassies, Ministries, Int'l Orgs
-  url: https://www.darkreading.com/cyberattacks-data-breaches/iran-mois-50-embassies-ministries-intl-orgs
-- title: Generative AI as a Cybercrime Assistant
-  url: https://www.schneier.com/blog/archives/2025/09/generative-ai-as-a-cybercrime-assistant.html
-- title: Microsoft says recent Windows updates cause app install issues
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/
-- title: Discover the Power of Usenet for Global Access and Privacy
-  url: https://www.itsecurityguru.org/2025/09/03/discover-the-power-of-usenet-for-global-access-and-privacy/?utm_source=rss&utm_medium=rss&utm_campaign=discover-the-power-of-usenet-for-global-access-and-privacy
+- title: SAP S/4HANA Critical Vulnerability CVE-2025-42957 Exploited in the Wild
+  url: https://thehackernews.com/2025/09/sap-s4hana-critical-vulnerability-cve.html
+- title: Building Your Own AI-powered Life Management System
+  url: https://newsletter.danielmiessler.com/p/building-your-own-ai-powered-life-management-system
+- title: "US Congressman\u2019s Brother Lands No-Bid Contract to Train DHS Snipers"
+  url: https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/
+- title: Sitecore Zero-Day Sparks New Round of ViewState Threats
+  url: https://www.darkreading.com/vulnerabilities-threats/sitecore-zero-day-viewstate-threats
+- title: GPT-4o-mini Falls for Psychological Manipulation
+  url: https://www.schneier.com/blog/archives/2025/09/gpt-4o-mini-falls-for-psychological-manipulation.html
+- title: Texas sues PowerSchool over breach exposing 62M students, 880k Texans
+  url: https://www.bleepingcomputer.com/news/security/texas-sues-powerschool-after-massive-data-breach-hit-62-million-students/
+- title: Check Point Unveils Enterprise Browser to Secure BYOD and Third-Party Devices
+  url: https://www.itsecurityguru.org/2025/09/04/check-point-unveils-enterprise-browser-to-secure-byod-and-third-party-devices/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-unveils-enterprise-browser-to-secure-byod-and-third-party-devices
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
 - title: 'SN 1041: Covering All the Bases - SHAKEN Networks, Uncontrollable AI, and
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1041
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Ransomware in the rearview.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2384/notes
+- title: "China\u2019s cyberstorm goes global."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2385/notes
