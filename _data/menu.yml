@@ -1,8 +1,8 @@
 entries:
 - title: GOP Cries Censorship Over Spam Filters That Work
   url: https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/
-- title: Malicious npm Packages Impersonate Flashbots, Steal Ethereum Wallet Keys
-  url: https://thehackernews.com/2025/09/malicious-npm-packages-impersonate.html
+- title: Noisy Bear Targets Kazakhstan Energy Sector With BarrelFire Phishing Campaign
+  url: https://thehackernews.com/2025/09/noisy-bear-targets-kazakhstan-energy.html
 - title: Building Your Own AI-powered Life Management System
   url: https://newsletter.danielmiessler.com/p/building-your-own-ai-powered-life-management-system
 - title: ICE Has Spyware Now
@@ -11,8 +11,9 @@ entries:
   url: https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-
 - title: 'Friday Squid Blogging: The Origin and Propagation of Squid'
   url: https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-the-origin-and-propagation-of-squid.html
-- title: Microsoft now enforces MFA on Azure Portal sign-ins for all tenants
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-now-enforces-mfa-on-azure-portal-sign-ins-for-all-tenants/
+- title: "AI-powered malware hit 2,180 GitHub accounts in \u201Cs1ngularity\u201D\
+    \ attack"
+  url: https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/
 - title: Keeper Security Announces Integration With CrowdStrike Falcon Next-Gen SIEM
   url: https://www.itsecurityguru.org/2025/09/05/keeper-security-announces-integration-with-crowdstrike-falcon-next-gen-siem/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-announces-integration-with-crowdstrike-falcon-next-gen-siem
 - title: '163: Ola'
@@ -20,7 +21,7 @@ entries:
 - title: 'SN 1041: Covering All the Bases - SHAKEN Networks, Uncontrollable AI, and
     Robocall Reckoning'
   url: https://twit.tv/shows/security-now/episodes/1041
-- title: Invisible Intruders
-  url: https://www.redhat.com/en/command-line-heroes/season-9/invisible-intruders
-- title: "Don\u2019t trust that app! [Research Saturday]"
-  url: https://thecyberwire.com/podcasts/research-saturday/392/notes
+- title: All Together Now
+  url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
+- title: 'Andrew Maloney: Never-ending thirst for knowledge. [COO] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/84/notes
