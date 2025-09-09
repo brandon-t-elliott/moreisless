@@ -1,21 +1,22 @@
 entries:
-- title: GOP Cries Censorship Over Spam Filters That Work
-  url: https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/
-- title: "\u26A1 Weekly Recap: Drift Breach Chaos, Zero-Days Active, Patch Warnings,\
-    \ Smarter Threats & More"
-  url: https://thehackernews.com/2025/09/weekly-recap-drift-breach-chaos-zero.html
+- title: 18 Popular Code Packages Hacked, Rigged to Steal Crypto
+  url: https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/
+- title: "[Webinar] Shadow AI Agents Multiply Fast \u2014  Learn How to Detect and\
+    \ Control Them"
+  url: https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html
 - title: Building Your Own AI-powered Life Management System
   url: https://newsletter.danielmiessler.com/p/building-your-own-ai-powered-life-management-system
-- title: ICE Has Spyware Now
-  url: https://www.wired.com/story/ice-has-spyware-now/
-- title: How Has IoT Security Changed Over the Past 5 Years?
-  url: https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-
-- title: AI in Government
-  url: https://www.schneier.com/blog/archives/2025/09/ai-in-government.html
-- title: Google to make it easier to access AI Mode as default
-  url: https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/
-- title: Keeper Security Announces Integration With CrowdStrike Falcon Next-Gen SIEM
-  url: https://www.itsecurityguru.org/2025/09/05/keeper-security-announces-integration-with-crowdstrike-falcon-next-gen-siem/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-announces-integration-with-crowdstrike-falcon-next-gen-siem
+- title: A New Platform Offers Privacy Tools to Millions of Public Servants
+  url: https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/
+- title: '''MostereRAT'' Malware Blends In, Blocks Security Tools'
+  url: https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools
+- title: New Cryptanalysis of the Fiat-Shamir Protocol
+  url: https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html
+- title: Microsoft testing new AI features in Windows 11 File Explorer
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/
+- title: "What Is the Turning Test? Hassan Taher Decodes the Turing Test\u2019s Relevance\
+    \ in Modern AI"
+  url: https://www.itsecurityguru.org/2025/09/08/what-is-the-turning-test-hassan-taher-decodes-the-turing-tests-relevance-in-modern-ai/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-turning-test-hassan-taher-decodes-the-turing-tests-relevance-in-modern-ai
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
 - title: 'SN 1041: Covering All the Bases - SHAKEN Networks, Uncontrollable AI, and
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1041
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Andrew Maloney: Never-ending thirst for knowledge. [COO] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/84/notes
+- title: Big tech, bigger fines.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2387/notes
