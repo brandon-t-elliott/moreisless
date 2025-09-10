@@ -1,28 +1,27 @@
 entries:
-- title: 18 Popular Code Packages Hacked, Rigged to Steal Crypto
-  url: https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/
-- title: "[Webinar] Shadow AI Agents Multiply Fast \u2014  Learn How to Detect and\
-    \ Control Them"
-  url: https://thehackernews.com/2025/09/webinar-shadow-ai-agents-multiply-fast.html
-- title: Building Your Own AI-powered Life Management System
-  url: https://newsletter.danielmiessler.com/p/building-your-own-ai-powered-life-management-system
-- title: A New Platform Offers Privacy Tools to Millions of Public Servants
-  url: https://www.wired.com/story/public-service-alliance-marketplace-privacy-threats/
-- title: '''MostereRAT'' Malware Blends In, Blocks Security Tools'
-  url: https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools
+- title: Microsoft Patch Tuesday, September 2025 Edition
+  url: https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/
+- title: "Microsoft Fixes 80 Flaws \u2014 Including SMB PrivEsc and Azure CVSS 10.0\
+    \ Bugs"
+  url: https://thehackernews.com/2025/09/microsoft-fixes-80-flaws-including-smb.html
+- title: Unsupervised Learning NO. 497
+  url: https://newsletter.danielmiessler.com/p/ul-497
+- title: US Investment in Spyware Is Skyrocketing
+  url: https://www.wired.com/story/us-spyware-investment/
+- title: Southeast Asian Scam Centers Face More Financial Sanctions
+  url: https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions
 - title: New Cryptanalysis of the Fiat-Shamir Protocol
   url: https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html
-- title: Microsoft testing new AI features in Windows 11 File Explorer
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/
+- title: Hackers hide behind Tor in exposed Docker API breaches
+  url: https://www.bleepingcomputer.com/news/security/hackers-hide-behind-tor-in-exposed-docker-api-breaches/
 - title: "What Is the Turning Test? Hassan Taher Decodes the Turing Test\u2019s Relevance\
     \ in Modern AI"
   url: https://www.itsecurityguru.org/2025/09/08/what-is-the-turning-test-hassan-taher-decodes-the-turing-tests-relevance-in-modern-ai/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-turning-test-hassan-taher-decodes-the-turing-tests-relevance-in-modern-ai
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
-- title: 'SN 1041: Covering All the Bases - SHAKEN Networks, Uncontrollable AI, and
-    Robocall Reckoning'
-  url: https://twit.tv/shows/security-now/episodes/1041
+- title: 'SN 1042: Letters of Marque - 1.1.1.1 Certificate Snafu'
+  url: https://twit.tv/shows/security-now/episodes/1042
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Big tech, bigger fines.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2387/notes
+- title: Chalk one up for defenders.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2388/notes
