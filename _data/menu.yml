@@ -1,19 +1,20 @@
 entries:
 - title: Bulletproof Host Stark Industries Evades EU Sanctions
   url: https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/
-- title: AI-Powered Villager Pen Testing Tool Hits 11,000 PyPI Downloads Amid Abuse
-    Concerns
-  url: https://thehackernews.com/2025/09/ai-powered-villager-pen-testing-tool.html
+- title: Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware
+    Attack
+  url: https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html
 - title: Unsupervised Learning NO. 497
   url: https://newsletter.danielmiessler.com/p/ul-497
-- title: "Jeffrey Epstein\u2019s Yahoo Inbox Revealed"
-  url: https://www.wired.com/story/jeffrey-epsteins-yahoo-inbox-revealed/
-- title: French Advisory Sheds Light on Apple Spyware Activity
-  url: https://www.darkreading.com/vulnerabilities-threats/french-sheds-light-apple-spyware-activity
-- title: Lawsuit About WhatsApp Security
-  url: https://www.schneier.com/blog/archives/2025/09/lawsuit-about-whatsapp-security.html
-- title: FBI warns of UNC6040, UNC6395 hackers stealing Salesforce data
-  url: https://www.bleepingcomputer.com/news/security/fbi-warns-of-unc6040-unc6395-hackers-stealing-salesforce-data/
+- title: "Russia Tests Hypersonic Missile at NATO\u2019s Doorstep\u2014and Shares\
+    \ the Video"
+  url: https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/
+- title: KillSec Ransomware Hits Brazilian Healthcare Software Provider
+  url: https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider
+- title: Microsoft Still Uses RC4
+  url: https://www.schneier.com/blog/archives/2025/09/microsoft-still-uses-rc4.html
+- title: OpenAI's new GPT-5 Codex model takes on Claude Code
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/
 - title: Find Out How You Can Defend Your Organisation Against AI Driven Attacks
   url: https://www.itsecurityguru.org/2025/09/12/find-out-how-you-can-defend-your-organisation-against-ai-driven-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=find-out-how-you-can-defend-your-organisation-against-ai-driven-attacks
 - title: '163: Ola'
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1042
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Data leak without a click.  [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/393/notes
+- title: The return of CISO Perspectives. [CISO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/112/notes
