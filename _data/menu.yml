@@ -1,27 +1,25 @@
 entries:
-- title: Bulletproof Host Stark Industries Evades EU Sanctions
-  url: https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/
-- title: Apple Backports Fix for CVE-2025-43300 Exploited in Sophisticated Spyware
-    Attack
-  url: https://thehackernews.com/2025/09/apple-backports-fix-for-cve-2025-43300.html
+- title: Self-Replicating Worm Hits 180+ Software Packages
+  url: https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/
+- title: 'Rethinking AI Data Security: A Buyer''s Guide'
+  url: https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html
 - title: Unsupervised Learning NO. 497
   url: https://newsletter.danielmiessler.com/p/ul-497
-- title: "Russia Tests Hypersonic Missile at NATO\u2019s Doorstep\u2014and Shares\
-    \ the Video"
-  url: https://www.wired.com/story/russia-hypersonic-missile-test-nato-borders/
-- title: KillSec Ransomware Hits Brazilian Healthcare Software Provider
-  url: https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider
-- title: Microsoft Still Uses RC4
-  url: https://www.schneier.com/blog/archives/2025/09/microsoft-still-uses-rc4.html
-- title: OpenAI's new GPT-5 Codex model takes on Claude Code
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openais-new-gpt-5-codex-model-takes-on-claude-code/
+- title: A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users
+  url: https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/
+- title: North Korean Group Targets South With Military ID Deepfakes
+  url: https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes
+- title: Hacking Electronic Safes
+  url: https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html
+- title: BreachForums hacking forum admin resentenced to three years in prison
+  url: https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/
 - title: Find Out How You Can Defend Your Organisation Against AI Driven Attacks
   url: https://www.itsecurityguru.org/2025/09/12/find-out-how-you-can-defend-your-organisation-against-ai-driven-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=find-out-how-you-can-defend-your-organisation-against-ai-driven-attacks
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
-- title: 'SN 1042: Letters of Marque - 1.1.1.1 Certificate Snafu'
-  url: https://twit.tv/shows/security-now/episodes/1042
+- title: 'SN 1043: Memory Integrity Enforcement - Crypto ATM Scam Epidemic'
+  url: https://twit.tv/shows/security-now/episodes/1043
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The return of CISO Perspectives. [CISO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/112/notes
+- title: AI chips flow east.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2393/notes
