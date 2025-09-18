@@ -1,25 +1,26 @@
 entries:
 - title: Self-Replicating Worm Hits 180+ Software Packages
   url: https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/
-- title: 'Rethinking AI Data Security: A Buyer''s Guide'
-  url: https://thehackernews.com/2025/09/rethinking-ai-data-security-buyers-guide.html
+- title: Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens
+    Millions
+  url: https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html
 - title: Unsupervised Learning NO. 497
   url: https://newsletter.danielmiessler.com/p/ul-497
-- title: A DHS Data Hub Exposed Sensitive Intel to Thousands of Unauthorized Users
-  url: https://www.wired.com/story/a-dhs-data-hub-exposed-sensitive-intel-to-thousands-of-unauthorized-users/
-- title: North Korean Group Targets South With Military ID Deepfakes
-  url: https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes
-- title: Hacking Electronic Safes
-  url: https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html
-- title: BreachForums hacking forum admin resentenced to three years in prison
-  url: https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-resentenced-to-three-years-in-prison/
-- title: Find Out How You Can Defend Your Organisation Against AI Driven Attacks
-  url: https://www.itsecurityguru.org/2025/09/12/find-out-how-you-can-defend-your-organisation-against-ai-driven-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=find-out-how-you-can-defend-your-organisation-against-ai-driven-attacks
+- title: Cybercriminals Have a Weird New Way to Target You With Scam Texts
+  url: https://www.wired.com/story/sms-blasters-scam-texts/
+- title: Microsoft Disrupts 'RaccoonO365' Phishing Service
+  url: https://www.darkreading.com/application-security/microsoft-disrupts-raccoono365-phishing-service
+- title: Time-of-Check Time-of-Use Attacks Against LLMs
+  url: https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html
+- title: WatchGuard warns of critical vulnerability in Firebox firewalls
+  url: https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/
+- title: KnowBe4 Report Reveals UK Retail Sector on High Alert for Cyber Scams
+  url: https://www.itsecurityguru.org/2025/09/18/knowbe4-report-reveals-uk-retail-sector-on-high-alert-for-cyber-scams/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-report-reveals-uk-retail-sector-on-high-alert-for-cyber-scams
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
 - title: 'SN 1043: Memory Integrity Enforcement - Crypto ATM Scam Epidemic'
   url: https://twit.tv/shows/security-now/episodes/1043
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: AI chips flow east.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2393/notes
+- title: Code beneath the sand.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2394/notes
