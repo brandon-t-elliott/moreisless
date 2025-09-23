@@ -1,25 +1,27 @@
 entries:
 - title: Self-Replicating Worm Hits 180+ Software Packages
   url: https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/
-- title: How to Gain Control of AI Agents and Non-Human Identities
-  url: https://thehackernews.com/2025/09/how-to-gain-control-of-ai-agents-and.html
+- title: GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain
+    Security
+  url: https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html
 - title: Unsupervised Learning NO. 498
   url: https://newsletter.danielmiessler.com/p/ul-498
-- title: A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster
-  url: https://www.wired.com/story/jlr-jaguar-land-rover-cyberattack-supply-chain-disaster/
-- title: 'Patch Now: Max-Severity Fortra GoAnywhere Bug Allows Command Injection'
-  url: https://www.darkreading.com/cyberattacks-data-breaches/patch-fortra-goanywhere-bug-command-injection
-- title: Details About Chinese Surveillance and Propaganda Companies
-  url: https://www.schneier.com/blog/archives/2025/09/details-about-chinese-surveillance-and-propaganda-companies.html
-- title: Verified Steam game steals streamer's cancer treatment donations
-  url: https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/
-- title: KnowBe4 Report Reveals UK Retail Sector on High Alert for Cyber Scams
-  url: https://www.itsecurityguru.org/2025/09/18/knowbe4-report-reveals-uk-retail-sector-on-high-alert-for-cyber-scams/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-report-reveals-uk-retail-sector-on-high-alert-for-cyber-scams
+- title: How to Use 1Password's Travel Mode at the Border (2025)
+  url: https://www.wired.com/story/1password-travel-mode/
+- title: '[Dark Reading Virtual Event] Know Your Enemy: How cybercriminals and nation-state
+    hackers operate'
+  url: https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate
+- title: "Apple\u2019s New Memory Integrity Enforcement"
+  url: https://www.schneier.com/blog/archives/2025/09/apples-new-memory-integrity-enforcement.html
+- title: NPM package caught using QR Code to fetch cookie-stealing malware
+  url: https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/
+- title: European Airports Disrupted by Supply Chain Cyberattack
+  url: https://www.itsecurityguru.org/2025/09/22/european-airports-disrupted-by-supply-chain-cyberattack/?utm_source=rss&utm_medium=rss&utm_campaign=european-airports-disrupted-by-supply-chain-cyberattack
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
-- title: 'SN 1043: Memory Integrity Enforcement - Crypto ATM Scam Epidemic'
-  url: https://twit.tv/shows/security-now/episodes/1043
+- title: 'SN 1042: Letters of Marque - 1.1.1.1 Certificate Snafu'
+  url: https://twit.tv/shows/security-now/episodes/1042
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Roselle Safran: So much opportunity. [Entrepreneur] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/87/notes
+- title: Grounded by ransomware.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2397/notes
