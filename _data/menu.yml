@@ -1,27 +1,28 @@
 entries:
-- title: Self-Replicating Worm Hits 180+ Software Packages
-  url: https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/
-- title: GitHub Mandates 2FA and Short-Lived Tokens to Strengthen npm Supply Chain
-    Security
-  url: https://thehackernews.com/2025/09/github-mandates-2fa-and-short-lived.html
-- title: Unsupervised Learning NO. 498
-  url: https://newsletter.danielmiessler.com/p/ul-498
-- title: How to Use 1Password's Travel Mode at the Border (2025)
-  url: https://www.wired.com/story/1password-travel-mode/
-- title: '[Dark Reading Virtual Event] Know Your Enemy: How cybercriminals and nation-state
-    hackers operate'
-  url: https://www.darkreading.com/events/-dark-reading-virtual-event-know-your-enemy-how-cybercriminals-and-nation-state-hackers-operate
+- title: "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms"
+  url: https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/
+- title: Hackers Exploit Pandoc CVE-2025-51591 to Target AWS IMDS and Steal EC2 IAM
+    Credentials
+  url: https://thehackernews.com/2025/09/hackers-exploit-pandoc-cve-2025-51591.html
+- title: Unsupervised Learning NO. 499
+  url: https://newsletter.danielmiessler.com/p/ul-499
+- title: "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened\
+    \ US Infrastructure, Feds Say"
+  url: https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/
+- title: As Incidents Rise, Japanese Government's Cybersecurity Falls Short
+  url: https://www.darkreading.com/cyber-risk/japanese-governments-cybersecurity-falls-short
 - title: "Apple\u2019s New Memory Integrity Enforcement"
   url: https://www.schneier.com/blog/archives/2025/09/apples-new-memory-integrity-enforcement.html
-- title: NPM package caught using QR Code to fetch cookie-stealing malware
-  url: https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/
-- title: European Airports Disrupted by Supply Chain Cyberattack
-  url: https://www.itsecurityguru.org/2025/09/22/european-airports-disrupted-by-supply-chain-cyberattack/?utm_source=rss&utm_medium=rss&utm_campaign=european-airports-disrupted-by-supply-chain-cyberattack
+- title: Boyd Gaming discloses data breach after suffering a cyberattack
+  url: https://www.bleepingcomputer.com/news/security/boyd-gaming-discloses-data-breach-after-suffering-a-cyberattack/
+- title: Legacy Security Awareness Training Failing to Reduce Human Risk, Huntress
+    Study Warns
+  url: https://www.itsecurityguru.org/2025/09/23/legacy-security-awareness-training-failing-to-reduce-human-risk-huntress-study-warns/?utm_source=rss&utm_medium=rss&utm_campaign=legacy-security-awareness-training-failing-to-reduce-human-risk-huntress-study-warns
 - title: '163: Ola'
   url: https://darknetdiaries.com/episode/163
-- title: 'SN 1042: Letters of Marque - 1.1.1.1 Certificate Snafu'
-  url: https://twit.tv/shows/security-now/episodes/1042
+- title: 'SN 1044: The EU''s Online Age Verification - Consumer Reports vs. Microsoft'
+  url: https://twit.tv/shows/security-now/episodes/1044
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Grounded by ransomware.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2397/notes
+- title: Espionage in the airwaves.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2398/notes
