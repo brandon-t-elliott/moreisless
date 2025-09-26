@@ -1,19 +1,19 @@
 entries:
 - title: "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms"
   url: https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/
-- title: Tech Overtakes Gaming as Top DDoS Attack Target, New Gcore Radar Report Finds
-  url: https://thehackernews.com/2025/09/tech-overtakes-gaming-as-top-ddos.html
+- title: Fortra GoAnywhere CVSS 10 Flaw Exploited as 0-Day a Week Before Public Disclosure
+  url: https://thehackernews.com/2025/09/fortra-goanywhere-cvss-10-flaw.html
 - title: Unsupervised Learning NO. 499
   url: https://newsletter.danielmiessler.com/p/ul-499
 - title: "\u2018SIM Farms\u2019 Are a Spam Plague. A Giant One in New York Threatened\
     \ US Infrastructure, Feds Say"
   url: https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/
-- title: 'CISA: Attackers Breach Federal Agency via Critical GeoServer Flaw'
-  url: https://www.darkreading.com/cyberattacks-data-breaches/cisa-attackers-breach-federal-agency-critical-geoserver-flaw
-- title: Malicious-Looking URL Creation Service
-  url: https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html
-- title: New Supermicro BMC flaws can create persistent backdoors
-  url: https://www.bleepingcomputer.com/news/security/new-supermicro-bmc-flaws-can-create-persistent-backdoors/
+- title: Cisco's Wave of Actively Exploited Zero-Day Bugs Targets Firewalls, IOS
+  url: https://www.darkreading.com/vulnerabilities-threats/cisco-actively-exploited-zero-day-bugs-firewalls-ios
+- title: Digital Threat Modeling Under Authoritarianism
+  url: https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html
+- title: Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs
+  url: https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/
 - title: Legacy Security Awareness Training Failing to Reduce Human Risk, Huntress
     Study Warns
   url: https://www.itsecurityguru.org/2025/09/23/legacy-security-awareness-training-failing-to-reduce-human-risk-huntress-study-warns/?utm_source=rss&utm_medium=rss&utm_campaign=legacy-security-awareness-training-failing-to-reduce-human-risk-huntress-study-warns
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1044
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: AI to the rescue.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2399/notes
+- title: Critical GoAnywhere bug exposed.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2400/notes
