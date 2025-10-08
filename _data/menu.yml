@@ -1,26 +1,27 @@
 entries:
-- title: "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms"
-  url: https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/
-- title: 'New Research: AI Is Already the #1 Data Exfiltration Channel in the Enterprise'
-  url: https://thehackernews.com/2025/10/new-research-ai-is-already-1-data.html
-- title: Unsupervised Learning NO. 500
-  url: https://newsletter.danielmiessler.com/p/ul-500
+- title: ShinyHunters Wage Broad Corporate Extortion Spree
+  url: https://krebsonsecurity.com/2025/10/shinyhunters-wage-broad-corporate-extortion-spree/
+- title: "Step Into the Password Graveyard\u2026 If You Dare (and Join the Live Session)"
+  url: https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html
+- title: Unsupervised Learning NO. 501
+  url: https://newsletter.danielmiessler.com/p/ul-501
 - title: "Vibe Coding Is the New Open Source\u2014in the Worst Way Possible"
   url: https://www.wired.com/story/vibe-coding-is-the-new-open-source/
-- title: Cyberattackers Exploit Zimbra Zero-Day Via ICS
-  url: https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics
+- title: Cyberattack Leads to Beer Shortage as Asahi Recovers
+  url: https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers
 - title: AI-Enabled Influence Operation Against Iran
   url: https://www.schneier.com/blog/archives/2025/10/ai-enabled-influence-operation-against-iran.html
-- title: 'Microsoft: Critical GoAnywhere bug exploited in ransomware attacks'
-  url: https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/
+- title: Salesforce refuses to pay ransom over widespread data theft attacks
+  url: https://www.bleepingcomputer.com/news/security/salesforce-refuses-to-pay-ransom-over-widespread-data-theft-attacks/
 - title: Huntress Partners with Sherweb in First Global Distribution Deal to Expand
     MSP Cybersecurity Reach
   url: https://www.itsecurityguru.org/2025/10/06/huntress-partners-with-sherweb-in-first-global-distribution-deal-to-expand-msp-cybersecurity-reach/?utm_source=rss&utm_medium=rss&utm_campaign=huntress-partners-with-sherweb-in-first-global-distribution-deal-to-expand-msp-cybersecurity-reach
 - title: '164: Oak Cliff Swipers'
   url: https://darknetdiaries.com/episode/164/
-- title: 'SN 1045: News and Listener Views - 2.3 Million Cisco Devices Exposed'
-  url: https://twit.tv/shows/security-now/episodes/1045
+- title: 'SN 1046: Google''s Developer Registration Decree - The End of Free Android
+    Apps?'
+  url: https://twit.tv/shows/security-now/episodes/1046
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Sloane Menkes: What is the 2%? [Consultant] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/89/notes
+- title: Critical GoAnywhere bug fuels ransomware wave.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2408/notes
