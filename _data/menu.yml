@@ -1,18 +1,19 @@
 entries:
 - title: DDoS Botnet Aisuru Blankets US ISPs in Record DDoS
   url: https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/
-- title: Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts
-  url: https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html
+- title: Researchers Warn RondoDox Botnet is Weaponizing Over 50 Flaws Across 30+
+    Vendors
+  url: https://thehackernews.com/2025/10/researchers-warn-rondodox-botnet-is.html
 - title: Unsupervised Learning NO. 501
   url: https://newsletter.danielmiessler.com/p/ul-501
 - title: '''Happy Gilmore'' Producer Buys Spyware Maker NSO Group'
   url: https://www.wired.com/story/happy-gilmore-producer-buys-spyware-maker-nso-group/
 - title: 1Password Addresses Critical AI Browser Agent Security Gap
   url: https://www.darkreading.com/identity-access-management-security/1password-addresses-critical-ai-browser-agent-security-gap
-- title: 'Friday Squid Blogging: Sperm Whale Eating a Giant Squid'
-  url: https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-sperm-whale-eating-a-giant-squid.html
-- title: Windows 11 23H2 Home and Pro reach end of support in 30 days
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/
+- title: AI and the Future of American Politics
+  url: https://www.schneier.com/blog/archives/2025/10/ai-and-the-future-of-american-politics.html
+- title: Fake 'Inflation Refund' texts target New Yorkers in new scam
+  url: https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/
 - title: "Bridewell encourages elevating \u201Cuntapped talent\u201D this Cybersecurity\
     \ Awareness Month"
   url: https://www.itsecurityguru.org/2025/10/10/bridewell-encourages-elevating-untapped-talent-this-cybersecurity-awareness-month/?utm_source=rss&utm_medium=rss&utm_campaign=bridewell-encourages-elevating-untapped-talent-this-cybersecurity-awareness-month
@@ -23,5 +24,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1046
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Chetan Conikee: Create narratives of your journey. [CTO] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/90/notes
+- title: What Happened to Hacker Culture? [Threat Vector]
+  url: https://thecyberwire.com/podcasts/threat-vector/86/notes
