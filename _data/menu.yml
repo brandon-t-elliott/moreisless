@@ -1,27 +1,26 @@
 entries:
-- title: DDoS Botnet Aisuru Blankets US ISPs in Record DDoS
-  url: https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/
-- title: npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord
-    Channels
-  url: https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html
+- title: "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition"
+  url: https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/
+- title: "Two New Windows Zero-Days Exploited in the Wild \u2014 One Affects Every\
+    \ Version Ever Shipped"
+  url: https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html
 - title: Unsupervised Learning NO. 501
   url: https://newsletter.danielmiessler.com/p/ul-501
-- title: 3 Best VPN for iPhone (2025), Tested and Reviewed
-  url: https://www.wired.com/gallery/best-vpn-for-iphone/
-- title: Financial, Other Industries Urged to Prepare for Quantum Computers
-  url: https://www.darkreading.com/cybersecurity-operations/financial-industries-urged-prepare-quantum-computers
-- title: "The Trump Administration\u2019s Increased Use of Social Media Surveillance"
-  url: https://www.schneier.com/blog/archives/2025/10/the-trump-administrations-increased-use-of-social-media-surveillance.html
-- title: Microsoft restricts IE mode access in Edge after zero-day attacks
-  url: https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/
+- title: "When Face Recognition Doesn\u2019t Know Your Face Is a Face"
+  url: https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/
+- title: Africa Remains Top Global Target, Even as Attacks Decline
+  url: https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline
+- title: "Apple\u2019s Bug Bounty Program"
+  url: https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html
+- title: Malicious crypto-stealing VSCode extensions resurface on OpenVSX
+  url: https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/
 - title: CyberSmart Become a National Ambassador of the NCRCG
   url: https://www.itsecurityguru.org/2025/10/13/cybersmart-become-a-national-ambassador-of-the-ncrcg/?utm_source=rss&utm_medium=rss&utm_campaign=cybersmart-become-a-national-ambassador-of-the-ncrcg
 - title: '164: Oak Cliff Swipers'
   url: https://darknetdiaries.com/episode/164/
-- title: 'SN 1046: Google''s Developer Registration Decree - The End of Free Android
-    Apps?'
-  url: https://twit.tv/shows/security-now/episodes/1046
+- title: 'SN 1047: RediShell''s CVSS 10.0 - The Rise of Mega Botnets'
+  url: https://twit.tv/shows/security-now/episodes/1047
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: What Happened to Hacker Culture? [Threat Vector]
-  url: https://thecyberwire.com/podcasts/threat-vector/86/notes
+- title: When GoAnywhere goes wrong.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2412/notes
