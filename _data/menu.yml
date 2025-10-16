@@ -1,26 +1,25 @@
 entries:
 - title: "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition"
   url: https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/
-- title: "Two New Windows Zero-Days Exploited in the Wild \u2014 One Affects Every\
-    \ Version Ever Shipped"
-  url: https://thehackernews.com/2025/10/two-new-windows-zero-days-exploited-in.html
-- title: Unsupervised Learning NO. 501
-  url: https://newsletter.danielmiessler.com/p/ul-501
+- title: Beware the Hidden Costs of Pen Testing
+  url: https://thehackernews.com/2025/10/beware-hidden-costs-of-pen-testing.html
+- title: Unsupervised Learning NO. 502
+  url: https://newsletter.danielmiessler.com/p/ul-502
 - title: "When Face Recognition Doesn\u2019t Know Your Face Is a Face"
   url: https://www.wired.com/story/when-face-recognition-doesnt-know-your-face-is-a-face/
-- title: Africa Remains Top Global Target, Even as Attacks Decline
-  url: https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline
-- title: "Apple\u2019s Bug Bounty Program"
-  url: https://www.schneier.com/blog/archives/2025/10/apples-bug-bounty-program.html
-- title: Malicious crypto-stealing VSCode extensions resurface on OpenVSX
-  url: https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/
-- title: CyberSmart Become a National Ambassador of the NCRCG
-  url: https://www.itsecurityguru.org/2025/10/13/cybersmart-become-a-national-ambassador-of-the-ncrcg/?utm_source=rss&utm_medium=rss&utm_campaign=cybersmart-become-a-national-ambassador-of-the-ncrcg
+- title: LevelBlue Announces Plans to Acquire XDR Provider Cybereason
+  url: https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason
+- title: Cryptocurrency ATMs
+  url: https://www.schneier.com/blog/archives/2025/10/cryptocurrency-atms.html
+- title: YouTube is down worldwide with playback error
+  url: https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/
+- title: Saviynt Unveils Major AI Capabilities for Identity Security
+  url: https://www.itsecurityguru.org/2025/10/15/saviynt-unveils-major-ai-capabilities-for-identity-security/?utm_source=rss&utm_medium=rss&utm_campaign=saviynt-unveils-major-ai-capabilities-for-identity-security
 - title: '164: Oak Cliff Swipers'
   url: https://darknetdiaries.com/episode/164/
 - title: 'SN 1047: RediShell''s CVSS 10.0 - The Rise of Mega Botnets'
   url: https://twit.tv/shows/security-now/episodes/1047
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When GoAnywhere goes wrong.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2412/notes
+- title: Prince of fraud loses crown.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2413/notes
