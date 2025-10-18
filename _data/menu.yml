@@ -1,19 +1,19 @@
 entries:
 - title: Email Bombs Exploit Lax Authentication in Zendesk
   url: https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/
-- title: 'Identity Security: Your First and Last Line of Defense'
-  url: https://thehackernews.com/2025/10/identity-security-your-first-and-last.html
+- title: New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing
+    ZIPs
+  url: https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html
 - title: Unsupervised Learning NO. 502
   url: https://newsletter.danielmiessler.com/p/ul-502
-- title: "Why the F5 Hack Created an \u2018Imminent Threat\u2019 for Thousands of\
-    \ Networks"
-  url: https://www.wired.com/story/f5-hack-networking-software-big-ip/
-- title: Cyberattackers Target LastPass, Top Password Managers
-  url: https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers
-- title: A Surprising Amount of Satellite Traffic Is Unencrypted
-  url: https://www.schneier.com/blog/archives/2025/10/a-surprising-amount-of-satellite-traffic-is-unencrypted.html
-- title: Windows 11 updates break localhost (127.0.0.1) HTTP/2 connections
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-updates-break-localhost-127001-http-2-connections/
+- title: Hackers Dox ICE, DHS, DOJ, and FBI Officials
+  url: https://www.wired.com/story/security-news-this-week-hackers-dox-ice-dhs-doj-and-fbi-officials/
+- title: Microsoft Disrupts Ransomware Campaign Abusing Azure Certificates
+  url: https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates
+- title: 'Friday Squid Blogging: Squid Inks Philippines Fisherman'
+  url: https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-squid-inks-philippines-fisherman.html
+- title: ConnectWise fixes Automate bug allowing AiTM update attacks
+  url: https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/
 - title: KnowBe4 warns of new PayPal invoice phishing scam
   url: https://www.itsecurityguru.org/2025/10/16/knowbe4-warns-of-new-paypal-invoice-phishing-scam/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-warns-of-new-paypal-invoice-phishing-scam
 - title: '164: Oak Cliff Swipers'
@@ -22,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1047
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When hackers go BIG in cyber espionage.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2414/notes
+- title: Smile for the malware. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/398/notes
