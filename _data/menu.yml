@@ -1,18 +1,19 @@
 entries:
 - title: Canada Fines Cybercrime Friendly Cryptomus $176M
   url: https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/
-- title: Smishing Triad Linked to 194,000 Malicious Domains in Global Phishing Operation
-  url: https://thehackernews.com/2025/10/smishing-triad-linked-to-194000.html
+- title: Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack
+  url: https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html
 - title: Unsupervised Learning NO. 503
   url: https://newsletter.danielmiessler.com/p/ul-503
-- title: Amazon Explains How Its AWS Outage Took Down the Web
-  url: https://www.wired.com/story/amazon-explains-how-its-aws-outage-took-down-the-web/
+- title: "Hundreds of People With \u2018Top Secret\u2019 Clearance Exposed by House\
+    \ Democrats\u2019 Website"
+  url: https://www.wired.com/story/hundreds-of-people-with-top-secret-clearance-exposed-by-house-democrats-website/
 - title: Microsoft Issues Emergency Patch for Critical Windows Server Bug
   url: https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug
-- title: "Friday Squid Blogging: \u201CEl Pulpo The Squid\u201D"
-  url: https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-el-pulpo-the-squid.html
-- title: New CoPhish attack steals OAuth tokens via Copilot Studio agents
-  url: https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/
+- title: "First Wap: A Surveillance Computer You\u2019ve Never Heard Of"
+  url: https://www.schneier.com/blog/archives/2025/10/first-wap-a-surveillance-computer-youve-never-heard-of.html
+- title: Hackers steal Discord accounts with RedTiger-based infostealer
+  url: https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/
 - title: Keeper-Sentinel Integration Targets Rise in Identity Abuse and Privilege
     Misuse
   url: https://www.itsecurityguru.org/2025/10/23/keeper-sentinel-integration-targets-rise-in-identity-abuse-and-privilege-misuse/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-sentinel-integration-targets-rise-in-identity-abuse-and-privilege-misuse
