@@ -1,8 +1,8 @@
 entries:
 - title: Aisuru Botnet Shifts from DDoS to Residential Proxies
   url: https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/
-- title: 'OpenAI Unveils Aardvark: GPT-5 Agent That Finds and Fixes Code Flaws Automatically'
-  url: https://thehackernews.com/2025/10/openai-unveils-aardvark-gpt-5-agent.html
+- title: ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability
+  url: https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html
 - title: Unsupervised Learning NO. 504
   url: https://newsletter.danielmiessler.com/p/ul-504
 - title: How to Hack a Poker Game
@@ -11,8 +11,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows
 - title: 'Friday Squid Blogging: Giant Squid at the Smithsonian'
   url: https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html
-- title: Windows 11 tests shared Bluetooth audio support, but only for AI PCs
-  url: https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/
+- title: Google confirms AI search will have ads, but they may look different
+  url: https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/
 - title: Why API Security Is Central to AI Governance
   url: https://www.itsecurityguru.org/2025/10/31/why-api-security-is-central-to-ai-governance/?utm_source=rss&utm_medium=rss&utm_campaign=why-api-security-is-central-to-ai-governance
 - title: '164: Oak Cliff Swipers'
@@ -21,5 +21,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1049
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Attack of the automated ops. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/400/notes
+- title: 'Arti Lalwani: Supporting and being the change. [Risk Management] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/93/notes
