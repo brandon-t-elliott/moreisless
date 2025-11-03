@@ -1,20 +1,22 @@
 entries:
-- title: Aisuru Botnet Shifts from DDoS to Residential Proxies
-  url: https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/
-- title: ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability
-  url: https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html
+- title: "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody"
+  url: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
+- title: Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing
+    Financial Data
+  url: https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html
 - title: Unsupervised Learning NO. 504
   url: https://newsletter.danielmiessler.com/p/ul-504
-- title: How to Hack a Poker Game
-  url: https://www.wired.com/story/uncanny-valley-podcast-how-to-hack-a-poker-game/
-- title: UNC6384 Targets European Diplomatic Entities With Windows Exploit
-  url: https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows
-- title: 'Friday Squid Blogging: Giant Squid at the Smithsonian'
-  url: https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html
-- title: Google confirms AI search will have ads, but they may look different
-  url: https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/
-- title: Why API Security Is Central to AI Governance
-  url: https://www.itsecurityguru.org/2025/10/31/why-api-security-is-central-to-ai-governance/?utm_source=rss&utm_medium=rss&utm_campaign=why-api-security-is-central-to-ai-governance
+- title: "An Anarchist\u2019s Conviction Offers a Grim Foreshadowing of Trump\u2019\
+    s War on the \u2018Left\u2019"
+  url: https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/
+- title: 'AI Developed Code: 5 Critical Security Checkpoints for Human Oversight'
+  url: https://www.darkreading.com/application-security/ai-code-security-checkpoints
+- title: AI Summarization Optimization
+  url: https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html
+- title: "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update"
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/
+- title: UK Organisations Trail Global Peers on Zero Trust Adoption, Research Finds
+  url: https://www.itsecurityguru.org/2025/10/31/uk-organisations-trail-global-peers-on-zero-trust-adoption-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=uk-organisations-trail-global-peers-on-zero-trust-adoption-research-finds
 - title: '164: Oak Cliff Swipers'
   url: https://darknetdiaries.com/episode/164/
 - title: 'SN 1049: DNS Cache Poisoning Returns - Ransomware Payments Plummet'
