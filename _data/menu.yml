@@ -1,28 +1,26 @@
 entries:
 - title: "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody"
   url: https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/
-- title: Researchers Uncover BankBot-YNRK and DeliveryRAT Android Trojans Stealing
-    Financial Data
-  url: https://thehackernews.com/2025/11/researchers-uncover-bankbot-ynrk-and.html
+- title: Ransomware Defense Using the Wazuh Open Source Platform
+  url: https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html
 - title: Unsupervised Learning NO. 504
   url: https://newsletter.danielmiessler.com/p/ul-504
 - title: "An Anarchist\u2019s Conviction Offers a Grim Foreshadowing of Trump\u2019\
     s War on the \u2018Left\u2019"
   url: https://www.wired.com/story/an-anarchists-conviction-offers-a-grim-foreshadowing-of-trumps-war-on-the-left/
-- title: 'AI Developed Code: 5 Critical Security Checkpoints for Human Oversight'
-  url: https://www.darkreading.com/application-security/ai-code-security-checkpoints
-- title: AI Summarization Optimization
-  url: https://www.schneier.com/blog/archives/2025/11/ai-summarization-optimization.html
-- title: "Microsoft: Windows Task Manager won\u2019t quit after KB5067036 update"
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/
-- title: UK Organisations Trail Global Peers on Zero Trust Adoption, Research Finds
-  url: https://www.itsecurityguru.org/2025/10/31/uk-organisations-trail-global-peers-on-zero-trust-adoption-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=uk-organisations-trail-global-peers-on-zero-trust-adoption-research-finds
-- title: '164: Oak Cliff Swipers'
-  url: https://darknetdiaries.com/episode/164/
-- title: 'SN 1049: DNS Cache Poisoning Returns - Ransomware Payments Plummet'
-  url: https://twit.tv/shows/security-now/episodes/1049
+- title: Android Malware Mutes Alerts, Drains Crypto Wallets
+  url: https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets
+- title: Cybercriminals Targeting Payroll Sites
+  url: https://www.schneier.com/blog/archives/2025/11/cybercriminals-targeting-payroll-sites.html
+- title: Hackers exploit critical auth bypass flaw in JobMonster WordPress theme
+  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/
+- title: Proton Brings Privacy-Focused AI to the Workplace with Lumo for Business
+  url: https://www.itsecurityguru.org/2025/11/03/proton-brings-privacy-focused-ai-to-the-workplace-with-lumo-for-business/?utm_source=rss&utm_medium=rss&utm_campaign=proton-brings-privacy-focused-ai-to-the-workplace-with-lumo-for-business
+- title: '165: Tanya'
+  url: https://darknetdiaries.com/episode/165/
+- title: 'SN 1048: Mic-E-Mouse - AWS Goes Down Hard'
+  url: https://twit.tv/shows/security-now/episodes/1048
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Arti Lalwani: Supporting and being the change. [Risk Management] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/93/notes
+- title: Privacy needs where you least expect it. [CISO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/115/notes
