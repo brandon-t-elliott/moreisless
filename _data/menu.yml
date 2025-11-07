@@ -1,18 +1,19 @@
 entries:
 - title: Cloudflare Scrubs Aisuru Botnet from Top Domains List
   url: https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/
-- title: 'From Tabletop to Turnkey: Building Cyber Resilience in Financial Services'
-  url: https://thehackernews.com/2025/11/from-tabletop-to-turnkey-building-cyber.html
+- title: Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years
+    After Installation
+  url: https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html
 - title: Unsupervised Learning NO. 505
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-505
-- title: Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan
-  url: https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/
-- title: Multiple ChatGPT Security Bugs Allow Rampant Data Theft
-  url: https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft
-- title: Rigged Poker Games
-  url: https://www.schneier.com/blog/archives/2025/11/rigged-poker-games.html
-- title: Sandworm hackers use data wipers to disrupt Ukraine's grain sector
-  url: https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/
+- title: Mexico City Is the Most Video-Surveilled Metropolis in the Americas
+  url: https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/
+- title: Sora 2 Makes Videos So Believable, Reality Checks Are Required
+  url: https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required
+- title: Faking Receipts with AI
+  url: https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html
+- title: U.S. Congressional Budget Office hit by suspected foreign cyberattack
+  url: https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/
 - title: Keeper Security launches Forcefield to defend against memory-based attacks
     on Windows devices
   url: https://www.itsecurityguru.org/2025/11/06/keeper-security-launches-forcefield-to-defend-against-memory-based-attacks-on-windows-devices/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-launches-forcefield-to-defend-against-memory-based-attacks-on-windows-devices
@@ -22,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1050
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: From small charges to big busts.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2428/notes
+- title: The role of AI in Zero Trust. [CyberWire-X]
+  url: https://thecyberwire.com/podcasts/cyberwire-x/53/notes
