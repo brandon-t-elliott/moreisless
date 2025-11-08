@@ -1,19 +1,18 @@
 entries:
 - title: Cloudflare Scrubs Aisuru Botnet from Top Domains List
   url: https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/
-- title: Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years
-    After Installation
-  url: https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html
+- title: Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware
+  url: https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html
 - title: Unsupervised Learning NO. 505
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-505
-- title: Mexico City Is the Most Video-Surveilled Metropolis in the Americas
-  url: https://www.wired.com/story/mexico-city-is-the-most-video-surveilled-city-in-the-americas/
-- title: Sora 2 Makes Videos So Believable, Reality Checks Are Required
-  url: https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required
-- title: Faking Receipts with AI
-  url: https://www.schneier.com/blog/archives/2025/11/faking-receipts-with-ai.html
-- title: U.S. Congressional Budget Office hit by suspected foreign cyberattack
-  url: https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/
+- title: The Government Shutdown Is a Ticking Cybersecurity Time Bomb
+  url: https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/
+- title: '''Ransomvibing'' Infests Visual Studio Extension Market'
+  url: https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market
+- title: 'Friday Squid Blogging: Squid Game: The Challenge, Season Two'
+  url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-squid-game-the-challenge-season-two.html
+- title: Malicious NuGet packages drop disruptive 'time bombs'
+  url: https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-drop-disruptive-time-bombs/
 - title: Keeper Security launches Forcefield to defend against memory-based attacks
     on Windows devices
   url: https://www.itsecurityguru.org/2025/11/06/keeper-security-launches-forcefield-to-defend-against-memory-based-attacks-on-windows-devices/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-launches-forcefield-to-defend-against-memory-based-attacks-on-windows-devices
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1050
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The role of AI in Zero Trust. [CyberWire-X]
-  url: https://thecyberwire.com/podcasts/cyberwire-x/53/notes
+- title: A fine pearl gone rusty. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/401/notes
