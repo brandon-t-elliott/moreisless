@@ -1,27 +1,25 @@
 entries:
 - title: "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban"
   url: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
-- title: "\u26A1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp\
-    \ Lockdown and More"
-  url: https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html
+- title: CISO's Expert Guide To AI Supply Chain Attacks
+  url: https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html
 - title: Unsupervised Learning NO. 505
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-505
 - title: The Government Shutdown Is a Ticking Cybersecurity Time Bomb
   url: https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/
-- title: '''Landfall'' Malware Targeted Samsung Galaxy Users'
-  url: https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users
-- title: New Attacks Against Secure Enclaves
-  url: https://www.schneier.com/blog/archives/2025/11/new-attacks-against-secure-enclaves.html
-- title: How to use the new Windows 11 Start menu, now rolling out
-  url: https://www.bleepingcomputer.com/news/microsoft/how-to-use-the-new-windows-11-start-menu-now-rolling-out/
-- title: Nearly Three-Quarters of US CISOs Faced Significant Cyber Incident in the
-    Past Six Months, Research Finds
-  url: https://www.itsecurityguru.org/2025/11/05/nearly-three-quarters-of-us-cisos-faced-significant-cyber-incident-in-the-past-six-months-research-finds/?utm_source=rss&utm_medium=rss&utm_campaign=nearly-three-quarters-of-us-cisos-faced-significant-cyber-incident-in-the-past-six-months-research-finds
+- title: GlassWorm Returns, Slices Back into VS Code Extensions
+  url: https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions
+- title: Prompt Injection in AI Browsers
+  url: https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html
+- title: APT37 hackers abuse Google Find Hub in Android data-wiping attacks
+  url: https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/
+- title: Staying Safe After a Cyber Attack
+  url: https://www.itsecurityguru.org/2025/11/10/staying-safe-after-a-cyber-attack/?utm_source=rss&utm_medium=rss&utm_campaign=staying-safe-after-a-cyber-attack
 - title: '165: Tanya'
   url: https://darknetdiaries.com/episode/165/
-- title: 'SN 1050: Here Come the AI Browsers - Scareware Blockers'
-  url: https://twit.tv/shows/security-now/episodes/1050
+- title: 'SN 1049: DNS Cache Poisoning Returns - Ransomware Payments Plummet'
+  url: https://twit.tv/shows/security-now/episodes/1049
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Michael DeBolt: From acting to cyber. [Intelligence] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/94/notes
+- title: The changing face of fraud. [CISO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/116/notes
