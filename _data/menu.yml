@@ -1,24 +1,27 @@
 entries:
 - title: "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban"
   url: https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/
-- title: CISO's Expert Guide To AI Supply Chain Attacks
-  url: https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html
+- title: '[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure
+    with DASR'
+  url: https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html
 - title: Unsupervised Learning NO. 505
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-505
-- title: The Government Shutdown Is a Ticking Cybersecurity Time Bomb
-  url: https://www.wired.com/story/the-government-shutdown-is-a-ticking-cybersecurity-time-bomb/
-- title: GlassWorm Returns, Slices Back into VS Code Extensions
-  url: https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions
-- title: Prompt Injection in AI Browsers
-  url: https://www.schneier.com/blog/archives/2025/11/prompt-injection-in-ai-browsers.html
-- title: APT37 hackers abuse Google Find Hub in Android data-wiping attacks
-  url: https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/
-- title: Staying Safe After a Cyber Attack
-  url: https://www.itsecurityguru.org/2025/11/10/staying-safe-after-a-cyber-attack/?utm_source=rss&utm_medium=rss&utm_campaign=staying-safe-after-a-cyber-attack
+- title: "This Is the Platform Google Claims Is Behind a 'Staggering\u2019 Scam Text\
+    \ Operation"
+  url: https://www.wired.com/story/lighthouse-google-lawsuit-scam-text-messages/
+- title: 'Patch Now: Microsoft Flags Zero-Day &amp; Critical Zero-Click Bugs'
+  url: https://www.darkreading.com/vulnerabilities-threats/patch-now-microsoft-zero-day-critical-zero-click-bugs
+- title: On Hacking Back
+  url: https://www.schneier.com/blog/archives/2025/11/on-hacking-back.html
+- title: Synnovis notifies of data breach after 2024 ransomware attack
+  url: https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/
+- title: 'Quantum Route Redirect: The Phishing Tool Simplifying Global Microsoft 365
+    Attacks'
+  url: https://www.itsecurityguru.org/2025/11/11/quantum-route-redirect-the-phishing-tool-simplifying-global-microsoft-365-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=quantum-route-redirect-the-phishing-tool-simplifying-global-microsoft-365-attacks
 - title: '165: Tanya'
   url: https://darknetdiaries.com/episode/165/
-- title: 'SN 1049: DNS Cache Poisoning Returns - Ransomware Payments Plummet'
-  url: https://twit.tv/shows/security-now/episodes/1049
+- title: 'SN 1051: Amazon sues Perplexity - Nevada''s Ransomware Comeback'
+  url: https://twit.tv/shows/security-now/episodes/1051
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: The changing face of fraud. [CISO Perspectives]
