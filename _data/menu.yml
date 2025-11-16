@@ -1,9 +1,8 @@
 entries:
 - title: Google Sues to Disrupt Chinese SMS Phishing Triad
   url: https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/
-- title: Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate
-    136 Companies
-  url: https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html
+- title: RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet
+  url: https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html
 - title: Unsupervised Learning NO. 506
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-506
 - title: "A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets"
@@ -12,8 +11,8 @@ entries:
   url: https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs
 - title: 'Friday Squid Blogging: Pilot Whales Eat a Lot of Squid'
   url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html
-- title: Logitech confirms data breach after Clop extortion attack
-  url: https://www.bleepingcomputer.com/news/security/logitech-confirms-data-breach-after-clop-extortion-attack/
+- title: 'Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors'
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/
 - title: Keeper Security Unveils Secure Secrets Management in Visual Studio Code
   url: https://www.itsecurityguru.org/2025/11/14/keeper-security-unveils-secure-secrets-management-in-visual-studio-code/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-unveils-secure-secrets-management-in-visual-studio-code
 - title: '165: Tanya'
@@ -22,5 +21,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1051
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: When clicks turn criminal. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/402/notes
+- title: 'Chenxi Wang: Overcoming the obstacle of fear. [Venture Capital] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/95/notes
