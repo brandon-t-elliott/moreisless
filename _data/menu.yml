@@ -1,18 +1,19 @@
 entries:
-- title: Google Sues to Disrupt Chinese SMS Phishing Triad
-  url: https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/
-- title: RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet
-  url: https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html
+- title: Microsoft Patch Tuesday, November 2025 Edition
+  url: https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/
+- title: Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st
+    RAT
+  url: https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html
 - title: Unsupervised Learning NO. 506
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-506
 - title: "A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets"
   url: https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/
 - title: Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs
   url: https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs
-- title: 'Friday Squid Blogging: Pilot Whales Eat a Lot of Squid'
-  url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-pilot-whales-eat-a-lot-of-squid.html
-- title: 'Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors'
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/
+- title: More Prompt&#124;&#124;GTFO
+  url: https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html
+- title: Google to flag Android apps with excessive battery use on the Play Store
+  url: https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/
 - title: Keeper Security Unveils Secure Secrets Management in Visual Studio Code
   url: https://www.itsecurityguru.org/2025/11/14/keeper-security-unveils-secure-secrets-management-in-visual-studio-code/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-unveils-secure-secrets-management-in-visual-studio-code
 - title: '165: Tanya'
