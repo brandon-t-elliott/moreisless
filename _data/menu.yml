@@ -1,27 +1,23 @@
 entries:
 - title: Microsoft Patch Tuesday, November 2025 Edition
   url: https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/
-- title: Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st
-    RAT
-  url: https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html
+- title: Learn How Leading Companies Secure Cloud Workloads and Infrastructure at
+    Scale
+  url: https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html
 - title: Unsupervised Learning NO. 506
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-506
-- title: "A Major Leak Spills a Chinese Hacking Contractor\u2019s Tools and Targets"
-  url: https://www.wired.com/story/major-leak-spills-chinese-hacking-contractor-tools-targets/
-- title: Akira RaaS Targets Nutanix VMs, Threatens Critical Orgs
-  url: https://www.darkreading.com/threat-intelligence/akira-raas-nutanix-vms-critical-orgs
-- title: More Prompt&#124;&#124;GTFO
-  url: https://www.schneier.com/blog/archives/2025/11/more-promptgtfo.html
-- title: Google to flag Android apps with excessive battery use on the Play Store
-  url: https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/
-- title: Keeper Security Unveils Secure Secrets Management in Visual Studio Code
-  url: https://www.itsecurityguru.org/2025/11/14/keeper-security-unveils-secure-secrets-management-in-visual-studio-code/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-unveils-secure-secrets-management-in-visual-studio-code
+- title: DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used
+    at Scam Compound
+  url: https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/
+- title: Critical Fortinet FortiWeb WAF Bug Exploited in the Wild
+  url: https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild
+- title: AI and Voter Engagement
+  url: https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html
 - title: '165: Tanya'
   url: https://darknetdiaries.com/episode/165/
 - title: 'SN 1051: Amazon sues Perplexity - Nevada''s Ransomware Comeback'
   url: https://twit.tv/shows/security-now/episodes/1051
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Chenxi Wang: Overcoming the obstacle of fear. [Venture Capital] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/95/notes
+- title: Fraud and Identity [CISO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/117/notes
