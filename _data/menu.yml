@@ -1,23 +1,27 @@
 entries:
 - title: Microsoft Patch Tuesday, November 2025 Edition
   url: https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/
-- title: Learn How Leading Companies Secure Cloud Workloads and Infrastructure at
-    Scale
-  url: https://thehackernews.com/2025/11/learn-how-leading-companies-secure.html
+- title: 'Application Containment: How to Use Ringfencing to Prevent the Weaponization
+    of Trusted Software'
+  url: https://thehackernews.com/2025/11/application-containment-how-to-use.html
 - title: Unsupervised Learning NO. 506
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-506
-- title: DOJ Issued Seizure Warrant to Starlink Over Satellite Internet Systems Used
-    at Scam Compound
-  url: https://www.wired.com/story/doj-issued-seizure-warrants-to-starlink-over-satellite-internet-systems-used-at-scam-compounds/
-- title: Critical Fortinet FortiWeb WAF Bug Exploited in the Wild
-  url: https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild
-- title: AI and Voter Engagement
-  url: https://www.schneier.com/blog/archives/2025/11/ai-and-voter-engagement.html
+- title: "Vaping Is \u2018Everywhere\u2019 in Schools\u2014Sparking a Bathroom Surveillance\
+    \ Boom"
+  url: https://www.wired.com/story/vaping-surveillance-school-bathrooms/
+- title: 'Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls'
+  url: https://www.darkreading.com/cybersecurity-operations/cloud-iot-devices-takeover-firewalls
+- title: Legal Restrictions on Vulnerability Disclosure
+  url: https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html
+- title: California man admits to laundering crypto stolen in $230M heist
+  url: https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/
+- title: Bridewell CEO gives cyber predictions for 2026
+  url: https://www.itsecurityguru.org/2025/11/19/bridewell-ceo-gives-cyber-predictions-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=bridewell-ceo-gives-cyber-predictions-for-2026
 - title: '165: Tanya'
   url: https://darknetdiaries.com/episode/165/
-- title: 'SN 1051: Amazon sues Perplexity - Nevada''s Ransomware Comeback'
-  url: https://twit.tv/shows/security-now/episodes/1051
+- title: 'SN 1052: Global Cellphone Tracking - Checkout.com Fights Back'
+  url: https://twit.tv/shows/security-now/episodes/1052
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Fraud and Identity [CISO Perspectives]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/117/notes
+- title: A morning without Cloudflare.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2436/notes
