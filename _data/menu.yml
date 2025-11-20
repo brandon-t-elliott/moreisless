@@ -1,20 +1,19 @@
 entries:
-- title: Microsoft Patch Tuesday, November 2025 Edition
-  url: https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/
-- title: 'Application Containment: How to Use Ringfencing to Prevent the Weaponization
-    of Trusted Software'
-  url: https://thehackernews.com/2025/11/application-containment-how-to-use.html
-- title: Unsupervised Learning NO. 506
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-506
-- title: "Vaping Is \u2018Everywhere\u2019 in Schools\u2014Sparking a Bathroom Surveillance\
-    \ Boom"
-  url: https://www.wired.com/story/vaping-surveillance-school-bathrooms/
-- title: 'Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls'
-  url: https://www.darkreading.com/cybersecurity-operations/cloud-iot-devices-takeover-firewalls
-- title: Legal Restrictions on Vulnerability Disclosure
-  url: https://www.schneier.com/blog/archives/2025/11/legal-restrictions-on-vulnerability-disclosure.html
-- title: California man admits to laundering crypto stolen in $230M heist
-  url: https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/
+- title: The Cloudflare Outage May Be a Security Roadmap
+  url: https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/
+- title: 'CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat'
+  url: https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html
+- title: "\U0001F4D8 Unsupervised Learning NO. 507"
+  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-507
+- title: With the Rise of AI, Cisco Sounds an Urgent Alarm About the Risks of Aging
+    Tech
+  url: https://www.wired.com/story/cisco-aging-technical-infrastructure/
+- title: Fortinet Woes Continue With Another WAF Zero-Day Flaw
+  url: https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw
+- title: Scam USPS and E-Z Pass Texts and Websites
+  url: https://www.schneier.com/blog/archives/2025/11/scam-usps-and-e-z-pass-texts-and-websites.html
+- title: Crypto mixer founders sent to prison for laundering over $237 million
+  url: https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/
 - title: Bridewell CEO gives cyber predictions for 2026
   url: https://www.itsecurityguru.org/2025/11/19/bridewell-ceo-gives-cyber-predictions-for-2026/?utm_source=rss&utm_medium=rss&utm_campaign=bridewell-ceo-gives-cyber-predictions-for-2026
 - title: '165: Tanya'
@@ -23,5 +22,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1052
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A morning without Cloudflare.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2436/notes
+- title: The oversized file that stalled the internet.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2437/notes
