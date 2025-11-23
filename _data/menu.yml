@@ -1,9 +1,9 @@
 entries:
 - title: "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep"
   url: https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/
-- title: Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing
-    Attacks
-  url: https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html
+- title: China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud
+    Services
+  url: https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html
 - title: "\U0001F4D8 Unsupervised Learning NO. 507"
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-507
 - title: US Border Patrol Is Spying on Millions of American Drivers
@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight
 - title: "Friday Squid Blogging: New \u201CSquid\u201D Sneaker"
   url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html
-- title: CISA warns Oracle Identity Manager RCE flaw is being actively exploited
-  url: https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/
+- title: WhatsApp API flaw let researchers scrape 3.5 billion accounts
+  url: https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/
 - title: "ENISA becomes CVE Program Root, strengthening Europe\u2019s vulnerability\
     \ management framework"
   url: https://www.itsecurityguru.org/2025/11/21/enisa-becomes-cve-program-root-strengthening-europes-vulnerability-management-framework/?utm_source=rss&utm_medium=rss&utm_campaign=enisa-becomes-cve-program-root-strengthening-europes-vulnerability-management-framework
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1052
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "Two RMMs walk into a phish\u2026 [Research Saturday]"
-  url: https://thecyberwire.com/podcasts/research-saturday/403/notes
+- title: 'Satya Gupta: Rising to your contribution. [CTO] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/96/notes
