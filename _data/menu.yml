@@ -1,19 +1,19 @@
 entries:
 - title: "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep"
   url: https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/
-- title: China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud
-    Services
-  url: https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html
+- title: Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet
+    or Uyghurs
+  url: https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html
 - title: "\U0001F4D8 Unsupervised Learning NO. 507"
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-507
 - title: US Border Patrol Is Spying on Millions of American Drivers
   url: https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/
 - title: 'Deja Vu: Salesforce Customers Hacked Again, Via Gainsight'
   url: https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight
-- title: "Friday Squid Blogging: New \u201CSquid\u201D Sneaker"
-  url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-new-squid-sneaker.html
-- title: WhatsApp API flaw let researchers scrape 3.5 billion accounts
-  url: https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/
+- title: IACR Nullifies Election Because of Lost Decryption Key
+  url: https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html
+- title: Microsoft to remove WINS support after Windows Server 2025
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/
 - title: "ENISA becomes CVE Program Root, strengthening Europe\u2019s vulnerability\
     \ management framework"
   url: https://www.itsecurityguru.org/2025/11/21/enisa-becomes-cve-program-root-strengthening-europes-vulnerability-management-framework/?utm_source=rss&utm_medium=rss&utm_campaign=enisa-becomes-cve-program-root-strengthening-europes-vulnerability-management-framework
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1052
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Satya Gupta: Rising to your contribution. [CTO] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/96/notes
+- title: How realistic is A House of Dynamite? [T-Minus Deep Space]
+  url: https://space.n2k.com/podcasts/t-minus/ds126
