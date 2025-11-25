@@ -1,27 +1,26 @@
 entries:
-- title: "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep"
-  url: https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/
-- title: Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet
-    or Uyghurs
-  url: https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html
+- title: Is Your Android TV Streaming Box Part of a Botnet?
+  url: https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/
+- title: "ToddyCat\u2019s New Hacking Tools Steal Outlook Emails and Microsoft 365\
+    \ Access Tokens"
+  url: https://thehackernews.com/2025/11/toddycats-new-hacking-tools-steal.html
 - title: "\U0001F4D8 Unsupervised Learning NO. 507"
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-507
-- title: US Border Patrol Is Spying on Millions of American Drivers
-  url: https://www.wired.com/story/security-news-this-week-us-border-patrol-is-spying-on-millions-of-american-drivers/
-- title: 'Deja Vu: Salesforce Customers Hacked Again, Via Gainsight'
-  url: https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight
-- title: IACR Nullifies Election Because of Lost Decryption Key
-  url: https://www.schneier.com/blog/archives/2025/11/iacr-nullifies-election-because-of-lost-decryption-key.html
-- title: Microsoft to remove WINS support after Windows Server 2025
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/
-- title: "ENISA becomes CVE Program Root, strengthening Europe\u2019s vulnerability\
-    \ management framework"
-  url: https://www.itsecurityguru.org/2025/11/21/enisa-becomes-cve-program-root-strengthening-europes-vulnerability-management-framework/?utm_source=rss&utm_medium=rss&utm_campaign=enisa-becomes-cve-program-root-strengthening-europes-vulnerability-management-framework
+- title: Amazon Is Using Specialized AI Agents for Deep Bug Hunting
+  url: https://www.wired.com/story/amazon-autonomous-threat-analysis/
+- title: ShadowRay 2.0 Turns AI Clusters into Crypto Botnets
+  url: https://www.darkreading.com/cyber-risk/shadowray-20-ai-clusters-crypto-botnets
+- title: Four Ways AI Is Being Used to Strengthen Democracies Worldwide
+  url: https://www.schneier.com/blog/archives/2025/11/four-ways-ai-is-being-used-to-strengthen-democracies-worldwide.html
+- title: Code-formatters expose thousands of secrets from banks, govt, tech orgs
+  url: https://www.bleepingcomputer.com/news/security/code-formatters-expose-thousands-of-secrets-from-banks-govt-tech-orgs/
+- title: Podcast Empowers Professionals to Thrive in Their Cybersecurity Careers
+  url: https://www.itsecurityguru.org/2025/11/24/podcast-empowers-professionals-to-thrive-in-their-cybersecurity-careers/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-empowers-professionals-to-thrive-in-their-cybersecurity-careers
 - title: '165: Tanya'
   url: https://darknetdiaries.com/episode/165/
 - title: 'SN 1052: Global Cellphone Tracking - Checkout.com Fights Back'
   url: https://twit.tv/shows/security-now/episodes/1052
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: How realistic is A House of Dynamite? [T-Minus Deep Space]
-  url: https://space.n2k.com/podcasts/t-minus/ds126
+- title: A midseason takeaway. [CISO Perspectives]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/118/notes
