@@ -1,9 +1,9 @@
 entries:
 - title: "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019"
   url: https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/
-- title: Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI
-    Packages
-  url: https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html
+- title: CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to
+    KEV
+  url: https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html
 - title: Unsupervised Learning NO. 508
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-508
 - title: The WIRED Guide to Digital Opsec for Teens
@@ -12,8 +12,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025
 - title: 'Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach'
   url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html
-- title: Leak confirms OpenAI is preparing ads on ChatGPT for public roll out
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/
+- title: Japanese beer giant Asahi says data breach hit 1.5 million people
+  url: https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/
 - title: Do Modern iGaming Platforms Offer Better Cyber Protections Than Traditional
     Apps?
   url: https://www.itsecurityguru.org/2025/11/28/do-modern-igaming-platforms-offer-better-cyber-protections-than-traditional-apps/?utm_source=rss&utm_medium=rss&utm_campaign=do-modern-igaming-platforms-offer-better-cyber-protections-than-traditional-apps
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1053
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A new stealer hiding behind AI hype. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/380/notes
+- title: 'AI in the GRC: What''s real, what''s risky and what''s next. [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/88/notes
