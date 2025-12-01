@@ -1,26 +1,27 @@
 entries:
 - title: "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019"
   url: https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/
-- title: CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to
-    KEV
-  url: https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html
+- title: 'Webinar: The "Agentic" Trojan Horse: Why the New AI Browsers War is a Nightmare
+    for Security Teams'
+  url: https://thehackernews.com/2025/12/webinar-agentic-trojan-horse-why-new-ai.html
 - title: Unsupervised Learning NO. 508
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-508
 - title: The WIRED Guide to Digital Opsec for Teens
   url: https://www.wired.com/story/digital-opsec-for-teens/
 - title: 'Digital Fraud at Industrial Scale: 2025 Wasn''t Great'
   url: https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025
-- title: 'Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach'
-  url: https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html
-- title: Japanese beer giant Asahi says data breach hit 1.5 million people
-  url: https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/
+- title: Banning VPNs
+  url: https://www.schneier.com/blog/archives/2025/12/banning-vpns.html
+- title: "Google deletes X post after getting caught using a \u2018stolen\u2019 AI\
+    \ recipe infographic"
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/
 - title: Do Modern iGaming Platforms Offer Better Cyber Protections Than Traditional
     Apps?
   url: https://www.itsecurityguru.org/2025/11/28/do-modern-igaming-platforms-offer-better-cyber-protections-than-traditional-apps/?utm_source=rss&utm_medium=rss&utm_campaign=do-modern-igaming-platforms-offer-better-cyber-protections-than-traditional-apps
 - title: '165: Tanya'
   url: https://darknetdiaries.com/episode/165/
-- title: 'SN 1053: Banning VPNs - The Equals Coffee Hack'
-  url: https://twit.tv/shows/security-now/episodes/1053
+- title: 'SN 1052: Global Cellphone Tracking - Checkout.com Fights Back'
+  url: https://twit.tv/shows/security-now/episodes/1052
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: 'AI in the GRC: What''s real, what''s risky and what''s next. [Special Edition]'
