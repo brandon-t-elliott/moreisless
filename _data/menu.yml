@@ -1,20 +1,17 @@
 entries:
-- title: "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019"
-  url: https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/
-- title: "ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts\u2014\
-    \ and 15 More Stories"
-  url: https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html
+- title: SMS Phishers Pivot to Points, Taxes, Fake Retailers
+  url: https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/
 - title: Unsupervised Learning NO. 508
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-508
-- title: The Louisiana Department of Wildlife and Fisheries Is Detaining People for
-    ICE
-  url: https://www.wired.com/story/story/the-louisiana-department-of-wildlife-and-fisheries-is-detaining-people-for-ice/
-- title: '''MuddyWater'' Hackers Target Israeli Orgs With Retro Game Tactic'
-  url: https://www.darkreading.com/threat-intelligence/muddywater-hackers-israeli-orgs-retro-game
-- title: Like Social Media, AI Requires Difficult Choices
-  url: https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html
-- title: Marquis data breach impacts over 74 US banks, credit unions
-  url: https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/
+- title: "Huge Trove of Nude Images Leaked by AI Image Generator Startup\u2019s Exposed\
+    \ Database"
+  url: https://www.wired.com/story/huge-trove-of-nude-images-leaked-by-ai-image-generator-startups-exposed-database/
+- title: How Agentic AI Can Boost Cyber Defense
+  url: https://www.darkreading.com/cybersecurity-analytics/how-agentic-ai-can-boost-cyber-defense
+- title: New Anonymous Phone Service
+  url: https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html
+- title: React2Shell critical flaw actively exploited in China-linked attacks
+  url: https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/
 - title: "KnowBe4 Named a Leader in Gartner\xAE Magic Quadrant\u2122 for Email Security"
   url: https://www.itsecurityguru.org/2025/12/04/knowbe4-named-a-leader-in-gartner-magic-quadrant-for-email-security/?utm_source=rss&utm_medium=rss&utm_campaign=knowbe4-named-a-leader-in-gartner-magic-quadrant-for-email-security
 - title: '166: Maxie'
@@ -23,5 +20,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1054
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Just another day of scamming and jamming.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2445/notes
+- title: Pay cuts and a personnel freefall.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2446/notes
