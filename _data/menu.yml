@@ -7,19 +7,19 @@ entries:
 - title: "Security News This Week: Oh Crap, Kohler\u2019s Toilet Cameras Aren\u2019\
     t Really End-to-End Encrypted"
   url: https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/
-- title: Rust Code Delivers Better Security, Also Streamlines DevOps
-  url: https://www.darkreading.com/application-security/rust-code-delivers-better-security-streamlines-devops
-- title: 'Friday Squid Blogging: Vampire Squid Genome'
-  url: https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html
-- title: React2Shell flaw exploited to breach 30 orgs, 77k IP addresses vulnerable
-  url: https://www.bleepingcomputer.com/news/security/react2shell-flaw-exploited-to-breach-30-orgs-77k-ip-addresses-vulnerable/
+- title: "\u2018Broadside\u2019 Mirai Variant Targets Maritime Logistics Sector"
+  url: https://www.darkreading.com/threat-intelligence/broadside-mirai-variant-maritime-logistics
+- title: Substitution Cipher Based on The Voynich Manuscript
+  url: https://www.schneier.com/blog/archives/2025/12/substitution-cipher-based-on-the-voynich-manuscript.html
+- title: OpenAI denies rolling out ads on ChatGPT paid plans
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-denies-rolling-out-ads-on-chatgpt-paid-plans/
 - title: Salt Security Unveils New AI-Powered Capabilities, Expanding API Visibility
     and Protecting Emerging MCP Infrastructure
   url: https://www.itsecurityguru.org/2025/12/05/salt-security-unveils-new-ai-powered-capabilities-expanding-api-visibility-and-protecting-emerging-mcp-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=salt-security-unveils-new-ai-powered-capabilities-expanding-api-visibility-and-protecting-emerging-mcp-infrastructure
 - title: '166: Maxie'
   url: https://darknetdiaries.com/episode/166/
-- title: 'SN 1053: Banning VPNs - The Equals Coffee Hack'
-  url: https://twit.tv/shows/security-now/episodes/1053
+- title: 'SN 1054: Bots in the Belfry - Cisco Promises Real Security Fixes!'
+  url: https://twit.tv/shows/security-now/episodes/1054
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
 - title: 'Jon DiMaggio: Two roads diverged. [Strategy] [Career Notes]'
