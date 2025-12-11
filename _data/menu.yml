@@ -3,21 +3,22 @@ entries:
   url: https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/
 - title: The Bubble is Labor
   url: https://newsletter.danielmiessler.com/p/the-bubble-is-labor
-- title: "Oh Crap, Kohler\u2019s Toilet Cameras Aren\u2019t Really End-to-End Encrypted"
-  url: https://www.wired.com/story/security-news-this-week-oh-crap-kohlers-toilet-cameras-arent-really-end-to-end-encrypted/
-- title: Japanese Firms Suffer Long Tail of Ransomware Damage
-  url: https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage
+- title: "2 Men Linked to China\u2019s Salt Typhoon Hacker Group Likely Trained in\
+    \ a Cisco \u2018Academy\u2019"
+  url: https://www.wired.com/story/2-men-linked-to-chinas-salt-typhoon-hacker-group-likely-trained-in-a-cisco-academy/
+- title: Copilot's No-Code AI Agents Liable to Leak Company Data
+  url: https://www.darkreading.com/application-security/copilot-no-code-ai-agents-leak-company-data
 - title: FBI Warns of Fake Video Scams
   url: https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html
-- title: Ukrainian hacker charged with helping Russian hacktivist groups
-  url: https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/
-- title: Saviynt Raises $700M at Approximately $3B Valuation
-  url: https://www.itsecurityguru.org/2025/12/09/saviynt-raises-700m-at-approximately-3b-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=saviynt-raises-700m-at-approximately-3b-valuation
+- title: Microsoft fixes Windows Explorer white flashes in dark mode
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/
+- title: Coupang CEO Resigns Following Major Data Breach Exposing 34 Million Customers
+  url: https://www.itsecurityguru.org/2025/12/11/coupang-ceo-resigns-following-major-data-breach-exposing-34-million-customers/?utm_source=rss&utm_medium=rss&utm_campaign=coupang-ceo-resigns-following-major-data-breach-exposing-34-million-customers
 - title: '166: Maxie'
   url: https://darknetdiaries.com/episode/166/
 - title: 'SN 1055: React''s Perfect 10 - RAM Is the New Lobster'
   url: https://twit.tv/shows/security-now/episodes/1055
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "The bug that got everyone\u2019s attention."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2449/notes
+- title: When preview pane becomes preview pain.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2450/notes
