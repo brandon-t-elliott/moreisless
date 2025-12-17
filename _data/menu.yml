@@ -1,23 +1,24 @@
 entries:
-- title: Microsoft Patch Tuesday, December 2025 Edition
-  url: https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/
+- title: Most Parked Domains Now Serving Malicious Content
+  url: https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/
 - title: Unsupervised Learning NO. 509
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-509
-- title: AI Toys for Kids Talk About Sex, Drugs, and Chinese Propaganda
-  url: https://www.wired.com/story/security-news-this-week-ai-toys-for-kids-talk-about-sex-drugs-and-chinese-propaganda/
-- title: How Cyber Insurance MGAs Shape Policies for Evolving Cyber Risks
-  url: https://www.darkreading.com/cyber-risk/how-cyber-insurance-mga-shape-cyber-risk-policy
-- title: Against the Federal Moratorium on State-Level Regulation of AI
-  url: https://www.schneier.com/blog/archives/2025/12/against-the-federal-moratorium-on-state-level-regulation-of-ai.html
-- title: Microsoft to block Exchange Online access for outdated mobile devices
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-to-block-exchange-online-access-for-outdated-mobile-devices/
+- title: Microsoft Will Finally Kill an Encryption Cipher That Enabled a Decade of
+    Windows Hacks
+  url: https://www.wired.com/story/microsoft-will-finally-kill-an-encryption-cipher-that-enabled-a-decade-of-windows-hacks/
+- title: Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation
+  url: https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation
+- title: Deliberate Internet Shutdowns
+  url: https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html
+- title: Cellik Android malware builds malicious versions from Google Play apps
+  url: https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/
 - title: 'Next Gen Awareness Training: KnowBe4 Unveils Custom Deepfake Training'
   url: https://www.itsecurityguru.org/2025/12/15/next-gen-awareness-training-knowbe4-unveils-custom-deepfake-training/?utm_source=rss&utm_medium=rss&utm_campaign=next-gen-awareness-training-knowbe4-unveils-custom-deepfake-training
 - title: '166: Maxie'
   url: https://darknetdiaries.com/episode/166/
-- title: 'SN 1055: React''s Perfect 10 - RAM Is the New Lobster'
-  url: https://twit.tv/shows/security-now/episodes/1055
+- title: 'SN 1056: Australia - AI Coding Blunders Exposed'
+  url: https://twit.tv/shows/security-now/episodes/1056
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Quantum [CISOP]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/121/notes
+- title: Cyber shock to the oil trade.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2454/notes
