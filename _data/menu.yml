@@ -1,24 +1,25 @@
 entries:
-- title: The Kimwolf Botnet is Stalking Your Local Network
-  url: https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/
-- title: Unsupervised Learning NO. 510
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-510
-- title: Grok Is Generating Sexual Content Far More Graphic Than What's on X
-  url: https://www.wired.com/story/grok-is-generating-sexual-content-far-more-graphic-than-whats-on-x/
-- title: Attackers Exploit Zero-Day in End-of-Life D-Link Routers
-  url: https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers
-- title: 'AI &amp; Humans: Making the Relationship Work'
-  url: https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html
-- title: Microsoft Exchange Online outage blocks access to mailboxes via IMAP4
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/
-- title: Why Business Structure Matters for Cybersecurity Compliance in Remote-First
-    Companies
-  url: https://www.itsecurityguru.org/2026/01/06/why-business-structure-matters-for-cybersecurity-compliance-in-remote-first-companies/?utm_source=rss&utm_medium=rss&utm_campaign=why-business-structure-matters-for-cybersecurity-compliance-in-remote-first-companies
+- title: Who Benefited from the Aisuru and Kimwolf Botnets?
+  url: https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/
+- title: 'Unsupervised Learning NO. 511: Serious Supabase and n8n Vulns, WTH Happened
+    in December with AI?, 19 Changes I See Coming to Cybersecurity in 2026'
+  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-511-serious-supabase-and-n8n-vulns-wth-happened-in-december-with-ai-19-chan
+- title: ICE Agent Who Reportedly Shot Renee Good Was a Firearms Trainer, per Testimony
+  url: https://www.wired.com/story/ice-agent-jonathan-ross-renee-good-shooting-firearms-trainer-testimony/
+- title: Maximum Severity HPE OneView Flaw Exploited in the Wild
+  url: https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited
+- title: Palo Alto Crosswalk Signals Had Default Passwords
+  url: https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html
+- title: Trend Micro warns of critical Apex Central RCE vulnerability
+  url: https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/
+- title: BBC Bitesize Launches Media Literacy Series To Help Teens Separate Fact From
+    Fiction Online
+  url: https://www.itsecurityguru.org/2026/01/08/bbc-bitesize-launches-media-literacy-series-to-help-teens-separate-fact-from-fiction-online/?utm_source=rss&utm_medium=rss&utm_campaign=bbc-bitesize-launches-media-literacy-series-to-help-teens-separate-fact-from-fiction-online
 - title: '168: LoD'
   url: https://darknetdiaries.com/episode/168/
 - title: 'SN 1059: MongoBleed - Code Signing Under Siege'
   url: https://twit.tv/shows/security-now/episodes/1059
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Cyberattack in the fast lane.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2463/notes
+- title: America goes solo on cyber.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2464/notes
