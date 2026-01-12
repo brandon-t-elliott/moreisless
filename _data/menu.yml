@@ -8,11 +8,10 @@ entries:
   url: https://www.wired.com/story/security-news-this-week-ice-can-now-spy-on-every-phone-in-your-neighborhood/
 - title: Deepfake Fraud Tools Are Lagging Behind Expectations
   url: https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations
-- title: 'Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine
-    Coast'
-  url: https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html
-- title: Microsoft is retiring 'Send to Kindle' in Word
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/
+- title: Corrupting LLMs Through Weird Generalizations
+  url: https://www.schneier.com/blog/archives/2026/01/corrupting-llms-through-weird-generalizations.html
+- title: Anthropic brings Claude to healthcare with HIPAA-ready Enterprise tools
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-brings-claude-to-healthcare-with-hipaa-ready-enterprise-tools/
 - title: Keeper Security Launches JetBrains Extension
   url: https://www.itsecurityguru.org/2026/01/09/keeper-security-launches-jetbrains-extension/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-launches-jetbrains-extension
 - title: '168: LoD'
