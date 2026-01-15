@@ -4,15 +4,15 @@ entries:
 - title: 'Unsupervised Learning NO. 511: Serious Supabase and n8n Vulns, WTH Happened
     in December with AI?, 19 Changes I See Coming to Cybersecurity in 2026'
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-511-serious-supabase-and-n8n-vulns-wth-happened-in-december-with-ai-19-chan
-- title: "Dozens of ICE Vehicles in Minnesota Lack \u2018Necessary\u2019 Lights and\
-    \ Sirens"
-  url: https://www.wired.com/story/dozens-of-ice-vehicles-in-minnesota-lack-necessary-lights-and-sirens/
-- title: Taiwan Endures Greater Cyber Pressure From China
-  url: https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china
-- title: 1980s Hacker Manifesto
-  url: https://www.schneier.com/blog/archives/2026/01/1980s-hacker-manifesto.html
-- title: Cloud marketplace Pax8 accidentally exposes data on 1,800 MSP partners
-  url: https://www.bleepingcomputer.com/news/security/cloud-marketplace-pax8-accidentally-exposes-data-on-1-800-msp-partners/
+- title: Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking
+    and Tracking
+  url: https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/
+- title: Trio of Critical Bugs Spotted in Delta Industrial PLCs
+  url: https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs
+- title: New Vulnerability in n8n
+  url: https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html
+- title: FTC bans GM from selling drivers' location data for five years
+  url: https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/
 - title: Keeper Security puts Atlassian Williams F1 Team in pole position on cybersecurity
   url: https://www.itsecurityguru.org/2026/01/14/keeper-security-puts-atlassian-williams-f1-team-in-pole-position-on-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-puts-atlassian-williams-f1-team-in-pole-position-on-cybersecurity
 - title: '168: LoD'
@@ -21,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1060
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Source code in the wild aisle.
-  url: https://thecyberwire.com/podcasts/daily-podcast/2467/notes
+- title: "CVEs don\u2019t sleep."
+  url: https://thecyberwire.com/podcasts/daily-podcast/2468/notes
