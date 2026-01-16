@@ -1,25 +1,24 @@
 entries:
 - title: Patch Tuesday, January 2026 Edition
   url: https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/
-- title: 'Unsupervised Learning NO. 511: Serious Supabase and n8n Vulns, WTH Happened
-    in December with AI?, 19 Changes I See Coming to Cybersecurity in 2026'
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-511-serious-supabase-and-n8n-vulns-wth-happened-in-december-with-ai-19-chan
-- title: Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking
-    and Tracking
-  url: https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/
-- title: Trio of Critical Bugs Spotted in Delta Industrial PLCs
-  url: https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs
+- title: 'Unsupervised Learning NO. 512: Data Exfil from Multiple AI Tools, Developers
+    Suddenly Go AI-Only Instead of AI-Never'
+  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-512-data-exfil-from-multiple-ai-tools-developers-suddenly-go-ai-only-instea
+- title: "Elon Musk\u2019s Grok \u2018Undressing\u2019 Problem Isn\u2019t Fixed"
+  url: https://www.wired.com/story/elon-musks-grok-undressing-problem-isnt-fixed/
+- title: Predator Spyware Sample Indicates 'Vendor-Controlled' C2
+  url: https://www.darkreading.com/mobile-security/predator-spyware-sample-vendor-controlled-c2
 - title: New Vulnerability in n8n
   url: https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html
-- title: FTC bans GM from selling drivers' location data for five years
-  url: https://www.bleepingcomputer.com/news/security/ftc-bans-general-motors-from-selling-drivers-location-data-for-five-years/
-- title: Keeper Security puts Atlassian Williams F1 Team in pole position on cybersecurity
-  url: https://www.itsecurityguru.org/2026/01/14/keeper-security-puts-atlassian-williams-f1-team-in-pole-position-on-cybersecurity/?utm_source=rss&utm_medium=rss&utm_campaign=keeper-security-puts-atlassian-williams-f1-team-in-pole-position-on-cybersecurity
+- title: 'Microsoft: Windows 11 update causes Outlook freezes for POP users'
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-update-causes-outlook-freezes-for-pop-users/
+- title: 'Most Inspiring Women in Cyber 2026: Meet The Judges'
+  url: https://www.itsecurityguru.org/2026/01/15/most-inspiring-women-in-cyber-2026-meet-the-judges/?utm_source=rss&utm_medium=rss&utm_campaign=most-inspiring-women-in-cyber-2026-meet-the-judges
 - title: '168: LoD'
   url: https://darknetdiaries.com/episode/168/
 - title: 'SN 1060: 3-Day Certificates - The Rise of AI Programming'
   url: https://twit.tv/shows/security-now/episodes/1060
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "CVEs don\u2019t sleep."
-  url: https://thecyberwire.com/podcasts/daily-podcast/2468/notes
+- title: A long day without bars.
+  url: https://thecyberwire.com/podcasts/daily-podcast/2469/notes
