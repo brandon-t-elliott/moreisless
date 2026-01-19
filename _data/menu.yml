@@ -8,10 +8,10 @@ entries:
   url: https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/
 - title: 'More Problems for Fortinet: Critical FortiSIEM Flaw Exploited'
   url: https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited
-- title: AI and the Corporate Capture of Knowledge
-  url: https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html
-- title: Google Chrome now lets you turn off on-device AI model powering scam detection
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/
+- title: AI-Powered Surveillance in Schools
+  url: https://www.schneier.com/blog/archives/2026/01/ai-powered-surveillance-in-schools.html
+- title: OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/
 - title: 'Most Inspiring Women in Cyber 2026: Meet The Judges'
   url: https://www.itsecurityguru.org/2026/01/15/most-inspiring-women-in-cyber-2026-meet-the-judges/?utm_source=rss&utm_medium=rss&utm_campaign=most-inspiring-women-in-cyber-2026-meet-the-judges
 - title: '168: LoD'
@@ -20,5 +20,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1060
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Deepen Desai: A doctor in computer viruses. [CISO] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/104/notes
+- title: Investing in the security tech market with NightDragon. [T-Minus Space Daily
+    Special Edition]
+  url: https://space.n2k.com/podcasts/t-minus/ds133
