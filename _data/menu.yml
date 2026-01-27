@@ -1,25 +1,26 @@
 entries:
-- title: Kimwolf Botnet Lurking in Corporate, Govt. Networks
-  url: https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/
+- title: Who Operates the Badbox 2.0 Botnet?
+  url: https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/
 - title: 'Unsupervised Learning NO. 512: Data Exfil from Multiple AI Tools, Developers
     Suddenly Go AI-Only Instead of AI-Never'
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-512-data-exfil-from-multiple-ai-tools-developers-suddenly-go-ai-only-instea
-- title: The Instant Smear Campaign Against Border Patrol Shooting Victim Alex Pretti
-  url: https://www.wired.com/story/the-instant-smear-campaign-against-border-patrol-shooting-victim-alex-pretti/
-- title: 2025 Was a Wake-Up Call to Protect Human Decisions, Not Just Systems
-  url: https://www.darkreading.com/cyber-risk/wake-up-call-to-protect-human-decisions-not-just-systems
-- title: Ireland Proposes Giving Police New Digital Surveillance Powers
-  url: https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html
-- title: CISA says critical VMware RCE flaw now actively exploited
-  url: https://www.bleepingcomputer.com/news/security/cisa-says-critical-vmware-rce-flaw-now-actively-exploited/
-- title: "Salt Security Expands \u201CUniversal Visibility\u201D with Specialized\
-    \ API Security for Databricks and Rapid Edge Support for Netlify"
-  url: https://www.itsecurityguru.org/2026/01/23/salt-security-expands-universal-visibility-with-specialized-api-security-for-databricks-and-rapid-edge-support-for-netlify/?utm_source=rss&utm_medium=rss&utm_campaign=salt-security-expands-universal-visibility-with-specialized-api-security-for-databricks-and-rapid-edge-support-for-netlify
+- title: He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to
+    Get Out Alive
+  url: https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/
+- title: Sandworm Blamed for Wiper Attack on Poland Power Grid
+  url: https://www.darkreading.com/threat-intelligence/sandworm-wiper-attack-poland-power-grid
+- title: The Constitutionality of Geofence Warrants
+  url: https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html
+- title: 'Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts'
+  url: https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/
+- title: 149 million compromised credentials expose growing infostealer malware crisis
+  url: https://www.itsecurityguru.org/2026/01/27/149-million-compromised-credentials-expose-growing-infostealer-malware-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=149-million-compromised-credentials-expose-growing-infostealer-malware-crisis
 - title: '169: MoD'
   url: https://darknetdiaries.com/episode/169/
 - title: 'SN 1061: More GhostPosting - RAM Crisis Hits Firewalls'
   url: https://twit.tv/shows/security-now/episodes/1061
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Lauren Van Wazer: You have to be your own North Star. [CISSP] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/105/notes
+- title: "How do you gain \u201Cexperience\u201D in cyber without a job in cyber?\
+    \ [CISO Persepctives]"
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/109/notes
