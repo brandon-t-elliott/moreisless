@@ -5,12 +5,12 @@ entries:
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-514
 - title: "Jeffrey Epstein Had a \u2018Personal Hacker,\u2019 Informant Claims"
   url: https://www.wired.com/story/security-news-this-week-jeffrey-epstein-had-a-personal-hacker-informant-claims/
-- title: '2026: The Year Agentic AI Becomes the Attack-Surface Poster Child'
-  url: https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child
+- title: Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation
+  url: https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation
 - title: 'Friday Squid Blogging: New Squid Species Discovered'
   url: https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html
-- title: Crypto wallets received a record $158 billion in illicit funds last year
-  url: https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/
+- title: OpenAI says you can trust ChatGPT answers, as it kicks off ads rollout preparation
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-you-can-trust-chatgpt-answers-as-it-kicks-off-ads-rollout-preparation/
 - title: Acumen Cyber Further Strengthens Board with Appointment of  Derek Whigham
   url: https://www.itsecurityguru.org/2026/01/30/acumen-cyber-further-strengthens-board-with-appointment-of-derek-whigham/?utm_source=rss&utm_medium=rss&utm_campaign=acumen-cyber-further-strengthens-board-with-appointment-of-derek-whigham
 - title: '169: MoD'
@@ -19,5 +19,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1062
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Leaky chats collide with shifting security standards.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2479/notes
+- title: 'Richard Melick: Finding the right pattern to solve the problem. [Threat
+    reporting] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/106/notes
