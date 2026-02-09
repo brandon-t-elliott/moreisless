@@ -3,17 +3,16 @@ entries:
   url: https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/
 - title: Unsupervised Learning NO. 515
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-515
-- title: "Moltbook, the Social Network for AI Agents, Exposed Real Humans\u2019 Data"
-  url: https://www.wired.com/story/security-news-this-week-moltbook-the-social-network-for-ai-agents-exposed-real-humans-data/
+- title: AI Is Here to Replace Nuclear Treaties. Scared Yet?
+  url: https://www.wired.com/story/satellites-ai-nuclear-treaties/
 - title: '''Encrypt It Already'' Campaign Pushes Big Tech to Prioritize E2E Encryption'
   url: https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption
-- title: 'Friday Squid Blogging: Squid Fishing Tips'
-  url: https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html
-- title: State actor targets 155 countries in 'Shadow Campaigns' espionage op
-  url: https://www.bleepingcomputer.com/news/security/state-actor-targets-155-countries-in-shadow-campaigns-espionage-op/
-- title: "Next Gen Spotlights: AI Assurance for Autonomous Systems \u2013 Q&A with\
-    \ CybPass CEO PingChen Lin"
-  url: https://www.itsecurityguru.org/2026/02/06/next-gen-spotlights-ai-assurance-for-autonomous-systems-qa-with-cybpass-ceo-pingchen-lin/?utm_source=rss&utm_medium=rss&utm_campaign=next-gen-spotlights-ai-assurance-for-autonomous-systems-qa-with-cybpass-ceo-pingchen-lin
+- title: LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days
+  url: https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html
+- title: Men charged in FanDuel scheme fueled by thousands of stolen identities
+  url: https://www.bleepingcomputer.com/news/security/men-charged-in-massive-fanduel-fraud-scheme-fueled-by-thousands-of-stolen-identities/
+- title: 'Moltbook: Cutting Through the AI Hype to the Real Security Risks'
+  url: https://www.itsecurityguru.org/2026/02/06/moltbook-cutting-through-the-ai-hype-to-the-real-security-risks/?utm_source=rss&utm_medium=rss&utm_campaign=moltbook-cutting-through-the-ai-hype-to-the-real-security-risks
 - title: '170: Phrack'
   url: https://darknetdiaries.com/episode/170/
 - title: 'SN 1063: Mongo''s Too Easy - AI Bug Bounties Gone Wild'
