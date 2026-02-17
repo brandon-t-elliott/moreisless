@@ -5,15 +5,14 @@ entries:
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-516
 - title: The El Paso No-Fly Debacle Is Just the Beginning of a Drone Defense Mess
   url: https://www.wired.com/story/the-el-paso-no-fly-debacle-is-just-the-beginning-of-the-drone-defense-mess/
-- title: Zscaler-SquareX Deal Boosts Zero Trust, Secure Browsing Capabilities
-  url: https://www.darkreading.com/remote-workforce/zscaler-squarex-deal-boosts-zero-trust-secure-browsing-capabilities
-- title: The Promptware Kill Chain
-  url: https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html
-- title: CISA gives feds 3 days to patch actively exploited BeyondTrust flaw
-  url: https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-beyondtrust-flaw-within-three-days/
-- title: "Valentine\u2019s Day: Cyber Experts Heed Caution When Looking For Love (and\
-    \ Gifts) Online"
-  url: https://www.itsecurityguru.org/2026/02/13/valentines-day-cyber-experts-heed-caution-when-looking-for-love-and-gifts-online/?utm_source=rss&utm_medium=rss&utm_campaign=valentines-day-cyber-experts-heed-caution-when-looking-for-love-and-gifts-online
+- title: 'Operation DoppelBrand: Weaponizing Fortune 500 Brands'
+  url: https://www.darkreading.com/cyberattacks-data-breaches/operation-doppelbrand-weaponizing-fortune-500-brands
+- title: Side-Channel Attacks Against LLMs
+  url: https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html
+- title: Poland arrests suspect linked to Phobos ransomware operation
+  url: https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/
+- title: When DORA Goes From Afterthought to Commercial Imperative
+  url: https://www.itsecurityguru.org/2026/02/17/when-dora-goes-from-afterthought-to-commercial-imperative/?utm_source=rss&utm_medium=rss&utm_campaign=when-dora-goes-from-afterthought-to-commercial-imperative
 - title: '170: Phrack'
   url: https://darknetdiaries.com/episode/170/
 - title: 'SN 1064: Least Privilege - Cybercrime Goes Pro'
