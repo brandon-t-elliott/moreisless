@@ -3,22 +3,23 @@ entries:
   url: https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/
 - title: Unsupervised Learning NO. 517
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-517
-- title: Password Managers Share a Hidden Weakness
-  url: https://www.wired.com/story/security-news-this-week-password-managers-share-a-hidden-weakness/
-- title: 'Spitting Cash: ATM Jackpotting Attacks Surged in 2025'
-  url: https://www.darkreading.com/cyber-risk/atm-jackpotting-attacks-surged-2025
-- title: Is AI Good for Democracy?
-  url: https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html
-- title: ShinyHunters extortion gang claims Odido breach affecting millions
-  url: https://www.bleepingcomputer.com/news/security/shinyhunters-extortion-gang-claims-odido-breach-affecting-millions/
-- title: AI Arms Race Shrinks Breakout Time to 29 Minutes as Adversaries Turn GenAI
-    on the Enterprise
-  url: https://www.itsecurityguru.org/2026/02/24/ai-arms-race-shrinks-breakout-time-to-29-minutes-as-adversaries-turn-genai-on-the-enterprise/?utm_source=rss&utm_medium=rss&utm_campaign=ai-arms-race-shrinks-breakout-time-to-29-minutes-as-adversaries-turn-genai-on-the-enterprise
+- title: "How Mexico's \u2018CJNG\u2019 Drug Cartel Embraced AI, Drones, and Social\
+    \ Media"
+  url: https://www.wired.com/story/how-mexicos-cjng-drug-cartel-embraced-ai-drones-and-social-media/
+- title: '''Richter Scale'' Model Measures Magnitude of OT Cyber Incidents'
+  url: https://www.darkreading.com/ics-ot-security/richter-scale-model-measures-cyber-incidents
+- title: Poisoning AI Training Data
+  url: https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html
+- title: Zyxel warns of critical RCE flaw affecting over a dozen routers
+  url: https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-rce-flaw-affecting-over-a-dozen-routers/
+- title: "Forescout Launches VistaroAI\u2122 to Help Security Teams Cut Through AI\
+    \ Hype and Act Faster on Real Threats"
+  url: https://www.itsecurityguru.org/2026/02/24/forescout-launches-vistaroai-to-help-security-teams-cut-through-ai-hype-and-act-faster-on-real-threats/?utm_source=rss&utm_medium=rss&utm_campaign=forescout-launches-vistaroai-to-help-security-teams-cut-through-ai-hype-and-act-faster-on-real-threats
 - title: '170: Phrack'
   url: https://darknetdiaries.com/episode/170/
-- title: 'SN 1064: Least Privilege - Cybercrime Goes Pro'
-  url: https://twit.tv/shows/security-now/episodes/1064
+- title: 'SN 1066: Password Leakage - Zero Trust, Zero Knowledge'
+  url: https://twit.tv/shows/security-now/episodes/1066
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The basics broke telecom.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2494/notes
+- title: Multiple root-level risks resolved.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2495/notes
