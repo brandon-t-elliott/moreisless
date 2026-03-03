@@ -3,24 +3,22 @@ entries:
   url: https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/
 - title: Unsupervised Learning NO. 518
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-518
-- title: "The 5 Big \u2018Known Unknowns\u2019 of Donald Trump\u2019s New War With\
-    \ Iran"
-  url: https://www.wired.com/story/5-big-known-unknowns-donald-trump-iran-war/
-- title: Bug in Google's Gemini AI Panel Opens Door to Hijacking
-  url: https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking
-- title: LLM-Assisted Deanonymization
-  url: https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html
-- title: Anthropic confirms Claude is down in a worldwide outage
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/
+- title: How Journalists Are Reporting From Iran With No Internet
+  url: https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/
+- title: 'AI Agent Overload: How to Solve the Workload Identity Crisis'
+  url: https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis
+- title: On Moltbook
+  url: https://www.schneier.com/blog/archives/2026/03/on-moltbook.html
+- title: 'Amazon: Drone strikes damaged AWS data centers in Middle East'
+  url: https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/
 - title: Forescout and Netskope Deliver Universal Zero Trust Integration Across Managed
     and Unmanaged Devices
   url: https://www.itsecurityguru.org/2026/02/26/forescout-and-netskope-deliver-universal-zero-trust-integration-across-managed-and-unmanaged-devices/?utm_source=rss&utm_medium=rss&utm_campaign=forescout-and-netskope-deliver-universal-zero-trust-integration-across-managed-and-unmanaged-devices
-- title: '170: Phrack'
-  url: https://darknetdiaries.com/episode/170/
+- title: '171: Melody Fraud'
+  url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1066: Password Leakage - Zero Trust, Zero Knowledge'
   url: https://twit.tv/shows/security-now/episodes/1066
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Cyber Without Borders: Standing guard 210 kilometers from risk. [Special
-    Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/92/notes
+- title: Does diversity matter in cyber? [CISOP]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/124/notes
