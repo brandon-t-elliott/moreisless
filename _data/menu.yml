@@ -3,22 +3,23 @@ entries:
   url: https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/
 - title: Unsupervised Learning NO. 518
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-518
-- title: How Journalists Are Reporting From Iran With No Internet
-  url: https://www.wired.com/story/how-journalists-are-reporting-from-iran-with-no-internet/
-- title: 'AI Agent Overload: How to Solve the Workload Identity Crisis'
-  url: https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis
-- title: On Moltbook
-  url: https://www.schneier.com/blog/archives/2026/03/on-moltbook.html
-- title: 'Amazon: Drone strikes damaged AWS data centers in Middle East'
-  url: https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/
-- title: Forescout and Netskope Deliver Universal Zero Trust Integration Across Managed
-    and Unmanaged Devices
-  url: https://www.itsecurityguru.org/2026/02/26/forescout-and-netskope-deliver-universal-zero-trust-integration-across-managed-and-unmanaged-devices/?utm_source=rss&utm_medium=rss&utm_campaign=forescout-and-netskope-deliver-universal-zero-trust-integration-across-managed-and-unmanaged-devices
+- title: How Vulnerable Are Computers to an 80-Year-Old Spy Technique? Congress Wants
+    Answers
+  url: https://www.wired.com/story/how-vulnerable-are-computers-to-an-80-year-old-spy-technique-congress-wants-answers/
+- title: 'Dark Reading Confidential: This Threat Hunter Helped Cops Bust Up An African
+    Cybercrime Syndicate'
+  url: https://www.darkreading.com/threat-intelligence/threat-hunter-helped-cops-crack-african-cybercrime-syndicate
+- title: Manipulating AI Summarization Features
+  url: https://www.schneier.com/blog/archives/2026/03/manipulating-ai-summarization-features.html
+- title: CISA flags VMware Aria Operations RCE flaw as exploited in attacks
+  url: https://www.bleepingcomputer.com/news/security/cisa-flags-vmware-aria-operations-rce-flaw-as-exploited-in-attacks/
+- title: The Top Exposure Assessment Platforms (EAPs) to Watch in 2026
+  url: https://www.itsecurityguru.org/2026/03/03/the-top-exposure-assessment-platforms-eaps-to-watch-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-top-exposure-assessment-platforms-eaps-to-watch-in-2026
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
-- title: 'SN 1066: Password Leakage - Zero Trust, Zero Knowledge'
-  url: https://twit.tv/shows/security-now/episodes/1066
+- title: 'SN 1067: KongTuke''s CrashFix - Click, Paste, Pwned'
+  url: https://twit.tv/shows/security-now/episodes/1067
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Does diversity matter in cyber? [CISOP]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/124/notes
+- title: When the map lies at sea.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2500/notes
