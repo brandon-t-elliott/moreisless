@@ -3,15 +3,14 @@ entries:
   url: https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/
 - title: Unsupervised Learning NO. 518
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-518
-- title: "From Ukraine to Iran, Hacking Security Cameras Is Now Part of War\u2019\
-    s \u2018Playbook\u2019"
-  url: https://www.wired.com/story/from-ukraine-to-iran-hacking-security-cameras-is-now-part-of-wars-playbook/
-- title: Nation-State Actor Embraces AI Malware Assembly Line
-  url: https://www.darkreading.com/cyberattacks-data-breaches/nation-state-actor-ai-malware-assembly-line
-- title: Claude Used to Hack Mexican Government
-  url: https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html
-- title: Ghanain man pleads guilty to role in $100 million fraud ring
-  url: https://www.bleepingcomputer.com/news/security/ghanain-man-pleads-guilty-to-role-in-100-million-fraud-ring/
+- title: CBP Used Online Ad Data to Track Phone Locations
+  url: https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/
+- title: North Korean APTs Use AI to Enhance IT Worker Scams
+  url: https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams
+- title: 'Friday Squid Blogging: Squid in Byzantine Monk Cooking'
+  url: https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html
+- title: Cognizant TriZetto breach exposes health data of 3.4 million patients
+  url: https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/
 - title: Check Point Unveils Secure AI Advisory Service to Help Enterprises Govern
     AI Adoption
   url: https://www.itsecurityguru.org/2026/03/05/check-point-unveils-secure-ai-advisory-service-to-help-enterprises-govern-ai-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-unveils-secure-ai-advisory-service-to-help-enterprises-govern-ai-adoption
@@ -22,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1068
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Do certifications matter? [CISOP]
-  url: https://thecyberwire.com/podcasts/cso-perspectives-public/125/notes
+- title: The scareware rabbit hole. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/415/notes
