@@ -5,15 +5,15 @@ entries:
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-518
 - title: CBP Used Online Ad Data to Track Phone Locations
   url: https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/
-- title: North Korean APTs Use AI to Enhance IT Worker Scams
-  url: https://www.darkreading.com/threat-intelligence/north-korean-apts-ai-it-worker-scams
+- title: Cylake Offers AI-Native Security Without Relying on Cloud Services
+  url: https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services
 - title: 'Friday Squid Blogging: Squid in Byzantine Monk Cooking'
   url: https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html
-- title: Cognizant TriZetto breach exposes health data of 3.4 million patients
-  url: https://www.bleepingcomputer.com/news/security/cognizant-trizetto-breach-exposes-health-data-of-34-million-patients/
-- title: Check Point Unveils Secure AI Advisory Service to Help Enterprises Govern
-    AI Adoption
-  url: https://www.itsecurityguru.org/2026/03/05/check-point-unveils-secure-ai-advisory-service-to-help-enterprises-govern-ai-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=check-point-unveils-secure-ai-advisory-service-to-help-enterprises-govern-ai-adoption
+- title: Termite ransomware breaches linked to ClickFix CastleRAT attacks
+  url: https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/
+- title: "Next Gen Spotlights: Preparing for a Post-Quantum World \u2013 Q&A with\
+    \ Cavero Quantum"
+  url: https://www.itsecurityguru.org/2026/03/05/next-gen-spotlights-preparing-for-a-post-quantum-world-qa-with-cavero-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=next-gen-spotlights-preparing-for-a-post-quantum-world-qa-with-cavero-quantum
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1068: The Call Is Coming From Inside the House - Live From Zero Trust
@@ -21,5 +21,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1068
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: The scareware rabbit hole. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/415/notes
+- title: 'Anna Belak: Acquiring skills to make you into a unicorn. [Thought Leadership]
+    [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/111/notes
