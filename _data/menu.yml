@@ -1,16 +1,16 @@
 entries:
-- title: "Who is the Kimwolf Botmaster \u201CDort\u201D?"
-  url: https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/
-- title: Unsupervised Learning NO. 518
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-518
+- title: How AI Assistants are Moving the Security Goalposts
+  url: https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/
+- title: Unsupervised Learning NO. 519
+  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-519
 - title: CBP Used Online Ad Data to Track Phone Locations
   url: https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/
 - title: Cylake Offers AI-Native Security Without Relying on Cloud Services
   url: https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services
-- title: 'Friday Squid Blogging: Squid in Byzantine Monk Cooking'
-  url: https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html
-- title: Termite ransomware breaches linked to ClickFix CastleRAT attacks
-  url: https://www.bleepingcomputer.com/news/security/termite-ransomware-breaches-linked-to-clickfix-castlerat-attacks/
+- title: New Attack Against Wi-Fi
+  url: https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html
+- title: EU court adviser says banks must immediately refund phishing victims
+  url: https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/
 - title: "Next Gen Spotlights: Preparing for a Post-Quantum World \u2013 Q&A with\
     \ Cavero Quantum"
   url: https://www.itsecurityguru.org/2026/03/05/next-gen-spotlights-preparing-for-a-post-quantum-world-qa-with-cavero-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=next-gen-spotlights-preparing-for-a-post-quantum-world-qa-with-cavero-quantum
@@ -21,6 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1068
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Anna Belak: Acquiring skills to make you into a unicorn. [Thought Leadership]
-    [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/111/notes
+- title: 'Cyber without borders: Reporters notebook. [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/93/notes
