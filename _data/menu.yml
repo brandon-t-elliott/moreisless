@@ -5,15 +5,14 @@ entries:
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-519
 - title: CBP Used Online Ad Data to Track Phone Locations
   url: https://www.wired.com/story/cbp-used-online-ad-data-to-track-phone-locations/
-- title: Cylake Offers AI-Native Security Without Relying on Cloud Services
-  url: https://www.darkreading.com/endpoint-security/cylake-offers-ai-native-security-without-relying-on-cloud-services
-- title: New Attack Against Wi-Fi
-  url: https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html
-- title: EU court adviser says banks must immediately refund phishing victims
-  url: https://www.bleepingcomputer.com/news/legal/eu-court-adviser-says-banks-must-immediately-refund-phishing-victims/
-- title: "Next Gen Spotlights: Preparing for a Post-Quantum World \u2013 Q&A with\
-    \ Cavero Quantum"
-  url: https://www.itsecurityguru.org/2026/03/05/next-gen-spotlights-preparing-for-a-post-quantum-world-qa-with-cavero-quantum/?utm_source=rss&utm_medium=rss&utm_campaign=next-gen-spotlights-preparing-for-a-post-quantum-world-qa-with-cavero-quantum
+- title: White House Cyber Strategy Prioritizes Offense
+  url: https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense
+- title: Jailbreaking the F-35 Fighter Jet
+  url: https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html
+- title: 'CISA: Recently patched Ivanti EPM flaw now actively exploited'
+  url: https://www.bleepingcomputer.com/news/security/cisa-recently-patched-ivanti-epm-flaw-now-actively-exploited/
+- title: "Celebrating International Women\u2019s Day 2026"
+  url: https://www.itsecurityguru.org/2026/03/09/women-in-cyber/?utm_source=rss&utm_medium=rss&utm_campaign=women-in-cyber
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1068: The Call Is Coming From Inside the House - Live From Zero Trust
@@ -21,5 +20,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1068
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Cyber without borders: Reporters notebook. [Special Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/93/notes
+- title: What role does higher education play in cyber? [CISOP]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/126/notes
