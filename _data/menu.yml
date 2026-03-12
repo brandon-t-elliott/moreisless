@@ -1,16 +1,16 @@
 entries:
-- title: Microsoft Patch Tuesday, March 2026 Edition
-  url: https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/
+- title: Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
+  url: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/
 - title: Unsupervised Learning NO. 519
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-519
-- title: "DHS Ousts CBP Privacy Officers Who Questioned \u2018Illegal\u2019 Orders"
-  url: https://www.wired.com/story/cbp-privacy-threshold-analysis-foia/
-- title: Middle East Conflict Highlights Cloud Resilience Gaps
-  url: https://www.darkreading.com/cyber-risk/middle-east-conflict-highlights-cloud-resilience-gaps
+- title: Meta Ramps Up Efforts to Disrupt Industrialized Scamming
+  url: https://www.wired.com/story/meta-ramps-up-efforts-to-disrupt-industrialized-scamming/
+- title: INC Ransomware Group Holds Healthcare Hostage in Oceania
+  url: https://www.darkreading.com/threat-intelligence/inc-ransomware-healthcare-oceania
 - title: Canada Needs Nationalized, Public AI
   url: https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html
-- title: "New \u2018BlackSanta\u2019 EDR killer spotted targeting HR departments"
-  url: https://www.bleepingcomputer.com/news/security/new-blacksanta-edr-killer-spotted-targeting-hr-departments/
+- title: WhatsApp introduces parent-managed accounts for pre-teens
+  url: https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/
 - title: 65% of Organisations Still Detect Unauthorised Shadow AI Despite Visibility
     Optimism
   url: https://www.itsecurityguru.org/2026/03/11/65-of-organisations-still-detect-unauthorised-shadow-ai-despite-visibility-optimism/?utm_source=rss&utm_medium=rss&utm_campaign=65-of-organisations-still-detect-unauthorised-shadow-ai-despite-visibility-optimism
@@ -20,5 +20,6 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1069
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Signals, scams, and a Salesforce snatch.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2505/notes
+- title: 'AI as Tradecraft: How Threat Actors Are Operationalizing AI [Microsoft Threat
+    Intelligence Podcast]'
+  url: https://www.thecyberwire.com/podcasts/microsoft-threat-intelligence/64/notes
