@@ -1,27 +1,26 @@
 entries:
 - title: Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
   url: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/
-- title: DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth
-    Espionage
-  url: https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html
-- title: Unsupervised Learning NO. 519
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-519
-- title: "\u2018100 Video Calls Per Day\u2019: Models Are Applying to Be the Face\
-    \ of AI Scams"
-  url: https://www.wired.com/story/models-are-applying-to-be-the-face-of-ai-scams/
-- title: Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos
-  url: https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan
-- title: Possible New Result in Quantum Factorization
-  url: https://www.schneier.com/blog/archives/2026/03/possible-new-result-in-quantum-factorization.html
-- title: OpenAI says ChatGPT ads are not rolling out globally for now
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-chatgpt-ads-are-not-rolling-out-globally-for-now/
-- title: Starbucks Discloses Data Breach Affecting Hundreds of Employees
-  url: https://www.itsecurityguru.org/2026/03/13/starbucks-discloses-data-breach-affecting-hundreds-of-employees/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-discloses-data-breach-affecting-hundreds-of-employees
+- title: AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills
+    and Tools, Study Finds
+  url: https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html
+- title: Unsupervised Learning NO. 520
+  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-520
+- title: Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web
+  url: https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/
+- title: China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years
+  url: https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs
+- title: South Korean Police Accidentally Post Cryptocurrency Wallet Password
+  url: https://www.schneier.com/blog/archives/2026/03/south-korean-police-accidentally-post-cryptocurrency-wallet-password.html
+- title: New Windows 11 hotpatch fixes Bluetooth device visibility issue
+  url: https://www.bleepingcomputer.com/news/microsoft/new-windows-11-hotpatch-fixes-bluetooth-device-visibility-issue/
+- title: "Justin Fulcher on AI\u2019s Role in Modernizing Government Operations"
+  url: https://www.itsecurityguru.org/2026/03/16/justin-fulcher-on-ais-role-in-modernizing-government-operations/?utm_source=rss&utm_medium=rss&utm_campaign=justin-fulcher-on-ais-role-in-modernizing-government-operations
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1069: You can''t hide from LLMs - Was Your Smart TV a Stealth Proxy?'
   url: https://twit.tv/shows/security-now/episodes/1069
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'Christian Lees: It''s not always textbook. [CTO] [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/112/notes
+- title: Mid season reflection with Kim Jones. [CISOP]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/128/notes
