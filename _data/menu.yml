@@ -1,26 +1,27 @@
 entries:
-- title: Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker
-  url: https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/
-- title: How Ceros Gives Security Teams Visibility and Control in Claude Code
-  url: https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html
+- title: Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
+  url: https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/
+- title: Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware
+    and Scams
+  url: https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html
 - title: Unsupervised Learning NO. 520
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-520
-- title: Hundreds of Millions of iPhones Can Be Hacked With a New Tool Found in the
-    Wild
-  url: https://www.wired.com/story/hundreds-of-millions-of-iphones-can-be-hacked-with-a-new-tool-found-in-the-wild/
-- title: EU Sanctions Companies in China, Iran for Cyberattacks
-  url: https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks
-- title: Hacking a Robot Vacuum
-  url: https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html
-- title: CISA urges US orgs to secure Microsoft Intune systems after Stryker breach
-  url: https://www.bleepingcomputer.com/news/security/cisa-warns-businesses-to-secure-microsoft-intune-systems-after-stryker-breach/
-- title: "Justin Fulcher on AI\u2019s Role in Modernizing Government Operations"
-  url: https://www.itsecurityguru.org/2026/03/16/justin-fulcher-on-ais-role-in-modernizing-government-operations/?utm_source=rss&utm_medium=rss&utm_campaign=justin-fulcher-on-ais-role-in-modernizing-government-operations
+- title: The Danger Behind Meta Killing End-to-End Encryption for Instagram DMs
+  url: https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/
+- title: 'AI Conundrum: Why MCP Security Can''t Be Patched Away'
+  url: https://www.darkreading.com/application-security/mcp-security-patched
+- title: Proton Mail Shared User Information with the Police
+  url: https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html
+- title: Musician admits to $10M streaming royalty fraud using AI bots
+  url: https://www.bleepingcomputer.com/news/security/musician-pleads-guilty-to-10m-streaming-fraud-powered-by-ai-bots/
+- title: 'MIWIC26: Sonia Kumar, Senior Director, Cyber Defence and Cyber Testing at
+    Analog Devices'
+  url: https://www.itsecurityguru.org/2026/03/19/miwic26-sonia-kumar-senior-director-cyber-defence-and-cyber-testing-at-analog/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-sonia-kumar-senior-director-cyber-defence-and-cyber-testing-at-analog
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1070: CISA''s Free Internet Scanning - Malware Disguised as a VPN'
   url: https://twit.tv/shows/security-now/episodes/1070
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Persistent threats in a shifting battlefield.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2511/notes
+- title: 'Strategic approaches to talent: A practical guide. [CISOP]'
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/129/notes
