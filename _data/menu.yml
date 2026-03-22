@@ -1,19 +1,18 @@
 entries:
 - title: Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
   url: https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/
-- title: Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity
-    Manager
-  url: https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html
-- title: Unsupervised Learning NO. 520
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-520
+- title: FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks
+  url: https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html
+- title: Exactly How and Why AI Will Replace Knowledge Work
+  url: https://newsletter.danielmiessler.com/p/exactly-how-and-why-ai-will-replace-knowledge-work
 - title: Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck
   url: https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/
 - title: 'Patch Now: Oracle''s Fusion Middleware Has Critical RCE Flaw'
   url: https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw
 - title: 'Friday Squid Blogging: Jumbo Flying Squid in the South Pacific'
   url: https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html
-- title: FBI links Signal phishing attacks to Russian intelligence services
-  url: https://www.bleepingcomputer.com/news/security/fbi-links-signal-phishing-attacks-to-russian-intelligence-services/
+- title: Trivy vulnerability scanner breach pushed infostealer via GitHub Actions
+  url: https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/
 - title: 'MIWIC26: Dr. Chidimma Opara, Computer Science Lecturer at Teesside University'
   url: https://www.itsecurityguru.org/2026/03/20/miwic26-chidimma-opara-computer-science-lecturer-at-teesside-university/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-chidimma-opara-computer-science-lecturer-at-teesside-university
 - title: '171: Melody Fraud'
@@ -22,5 +21,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1070
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: A subtle flaw, a massive blast radius. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/417/notes
+- title: 'CyberWire Daily at 10: From an idea to the airwaves. [Special Edition]'
+  url: https://thecyberwire.com/podcasts/special-edition/94/notes
