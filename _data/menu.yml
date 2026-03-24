@@ -1,26 +1,25 @@
 entries:
-- title: Feds Disrupt IoT Botnets Behind Huge DDoS Attacks
-  url: https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/
-- title: Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware
-  url: https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html
+- title: "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran"
+  url: https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/
+- title: 'The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills'
+  url: https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html
 - title: Exactly How and Why AI Will Replace Knowledge Work
   url: https://newsletter.danielmiessler.com/p/exactly-how-and-why-ai-will-replace-knowledge-work
-- title: Hassan Took a Bike Ride. Now He's One of the Thousands Missing in Gaza
-  url: https://www.wired.com/story/hassan-took-a-bike-ride-now-hes-one-of-the-thousands-missing-in-gaza/
-- title: 'Patch Now: Oracle''s Fusion Middleware Has Critical RCE Flaw'
-  url: https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw
-- title: 'Friday Squid Blogging: Jumbo Flying Squid in the South Pacific'
-  url: https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html
-- title: FBI warns of Handala hackers using Telegram in malware attacks
-  url: https://www.bleepingcomputer.com/news/security/fbi-warns-of-handala-hackers-using-telegram-in-malware-attacks/
-- title: 'MIWIC26: Meera Tamboli, Digital Forensics and Incident Response Analyst,
-    AVEVA'
-  url: https://www.itsecurityguru.org/2026/03/23/miwic26-meera-tamboli-digital-forensics-and-incident-response-analyst-aveva/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-meera-tamboli-digital-forensics-and-incident-response-analyst-aveva
+- title: Your Body Is Betraying Your Right to Privacy
+  url: https://www.wired.com/story/book-excerpt-your-data-will-be-used-against-you-andrew-guthrie-ferguson/
+- title: 'AI in the SOC: What Could Go Wrong?'
+  url: https://www.darkreading.com/cybersecurity-operations/ai-soc-go-wrong
+- title: Team Mirai and Democracy
+  url: https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html
+- title: OpenAI rolls out ChatGPT Library to store your personal files
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-chatgpt-library-to-store-your-personal-files/
+- title: 'MIWIC26: Motunrayo Fransisca Ogundipe, Cybersecurity Analyst at TikTok'
+  url: https://www.itsecurityguru.org/2026/03/24/miwic26-motunrayo-fransisca-ogundipe-cybersecurity-analyst-at-tiktok/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-motunrayo-fransisca-ogundipe-cybersecurity-analyst-at-tiktok
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1070: CISA''s Free Internet Scanning - Malware Disguised as a VPN'
   url: https://twit.tv/shows/security-now/episodes/1070
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: 'CyberWire Daily at 10: From an idea to the airwaves. [Special Edition]'
-  url: https://thecyberwire.com/podcasts/special-edition/94/notes
+- title: But what do you really want? [CISOP]
+  url: https://thecyberwire.com/podcasts/cso-perspectives-public/130/notes
