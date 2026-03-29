@@ -4,8 +4,8 @@ entries:
 - title: Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread
     Bug
   url: https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html
-- title: Unsupervised Learning NO. 521
-  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-521
+- title: Unsupervised Learning NO. 522
+  url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-522
 - title: "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019\
     s"
   url: https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/
@@ -13,8 +13,8 @@ entries:
   url: https://www.darkreading.com/threat-intelligence/china-upgrades-backdoor-spy-telcos
 - title: 'Friday Squid Blogging: Bioluminescent Bacteria in Squid'
   url: https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html
-- title: Backdoored Telnyx PyPI package pushes malware hidden in WAV audio
-  url: https://www.bleepingcomputer.com/news/security/backdoored-telnyx-pypi-package-pushes-malware-hidden-in-wav-audio/
+- title: New Infinity Stealer malware grabs macOS data via ClickFix lures
+  url: https://www.bleepingcomputer.com/news/security/new-infinity-stealer-malware-grabs-macos-data-via-clickfix-lures/
 - title: 'MIWIC26: Dr Catherine Knibbs, Founder and CEO of Children and Tech'
   url: https://www.itsecurityguru.org/2026/03/27/miwic26-dr-catherine-knibbs-founder-and-ceo-of-children-and-tech/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-dr-catherine-knibbs-founder-and-ceo-of-children-and-tech
 - title: '171: Melody Fraud'
@@ -23,5 +23,5 @@ entries:
   url: https://twit.tv/shows/security-now/episodes/1071
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: "When \u201Csafe\u201D documents aren\u2019t. [Research Saturday]"
-  url: https://thecyberwire.com/podcasts/research-saturday/418/notes
+- title: 'David Nosibor: Taking calculated risks. [Product Lead] [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/114/notes
