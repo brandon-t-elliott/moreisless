@@ -1,26 +1,27 @@
 entries:
 - title: "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran"
   url: https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/
-- title: Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account
-  url: https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html
+- title: "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You\
+    \ Don\u2019t See It Coming)"
+  url: https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html
 - title: Unsupervised Learning NO. 522
   url: https://newsletter.danielmiessler.com/p/unsupervised-learning-no-522
-- title: "Iranian Hackers Breached Kash Patel\u2019s Email\u2014but Not the FBI\u2019\
-    s"
-  url: https://www.wired.com/story/iranian-hackers-breached-the-fbi-directors-personal-email-but-not-the-fbi/
-- title: AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection
-  url: https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection
-- title: Inventors of Quantum Cryptography Win Turing Award
-  url: https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html
-- title: Hacker charged with stealing $53 million from Uranium crypto exchange
-  url: https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/
-- title: 'MIWIC26: Gizem Acar Tekin, CEO and Co-founder of Photarix'
-  url: https://www.itsecurityguru.org/2026/03/31/miwic26-gizem-acar-tekin-ceo-and-co-founder-of-photarix/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-gizem-acar-tekin-ceo-and-co-founder-of-photarix
+- title: "Apple Will Push Out Rare \u2018Backported\u2019 Patches to Protect iOS 18\
+    \ Users From DarkSword Hacking Tool"
+  url: https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/
+- title: Are We Training AI Too Late?
+  url: https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late
+- title: A Taxonomy of Cognitive Security
+  url: https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html
+- title: FBI warns against using Chinese mobile apps due to privacy risks
+  url: https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-chinese-mobile-apps-over-to-data-security-risks/
+- title: CultureAI Launches on Microsoft Marketplace to Accelerate Secure AI Adoption
+  url: https://www.itsecurityguru.org/2026/04/01/cultureai-launches-on-microsoft-marketplace-to-accelerate-secure-ai-adoption/?utm_source=rss&utm_medium=rss&utm_campaign=cultureai-launches-on-microsoft-marketplace-to-accelerate-secure-ai-adoption
 - title: '171: Melody Fraud'
   url: https://darknetdiaries.com/episode/171/
-- title: 'SN 1071: Bucketsquatting - Meta and TikTok''s Tracking Pixels'
-  url: https://twit.tv/shows/security-now/episodes/1071
+- title: 'SN 1072: LiteLLM - Click Fix Attacks Surge'
+  url: https://twit.tv/shows/security-now/episodes/1072
 - title: All Together Now
   url: https://www.redhat.com/en/command-line-heroes/season-9/all-together-now
-- title: Inbox intrusion hits FBI chief.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2519/notes
+- title: Water sector feels the pressure.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2520/notes
