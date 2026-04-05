@@ -1,15 +1,15 @@
 entries:
 - title: "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran"
   url: https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/
-- title: China-Linked TA416 Targets European Governments with PlugX and OAuth-Based
-    Phishing
-  url: https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html
+- title: 36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent
+    Implants
+  url: https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html
 - title: Inconsistent Privacy Labels Don't Tell Users What They Are Getting
   url: https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough
 - title: 'Friday Squid Blogging: Jurassic Fish Chokes on Squid'
   url: https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html
-- title: Hims & Hers warns of data breach after Zendesk support ticket breach
-  url: https://www.bleepingcomputer.com/news/security/hims-and-hers-warns-of-data-breach-after-zendesk-support-ticket-breach/
+- title: Axios npm hack used fake Teams error fix to hijack maintainer account
+  url: https://www.bleepingcomputer.com/news/security/axios-npm-hack-used-fake-teams-error-fix-to-hijack-maintainer-account/
 - title: 'MIWIC26: Nkiruka Joy Aimienoho, Chief Information Security Officer, Standard
     Chartered Bank NG'
   url: https://www.itsecurityguru.org/2026/04/02/miwic26-nkiruka-joy-aimienoho-chief-information-security-officer-standard-chartered-bank-ng/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-nkiruka-joy-aimienoho-chief-information-security-officer-standard-chartered-bank-ng
@@ -17,5 +17,6 @@ entries:
   url: https://darknetdiaries.com/episode/171/
 - title: 'SN 1072: LiteLLM - Click Fix Attacks Surge'
   url: https://twit.tv/shows/security-now/episodes/1072
-- title: Startup surge sparks spy interest. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/419/notes
+- title: 'Anjali Hansen: Cross team collaboration works best. [Privacy Counsel] [Career
+    Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/115/notes
