@@ -1,21 +1,20 @@
 entries:
 - title: "Germany Doxes \u201CUNKN,\u201D Head of RU Ransomware Gangs REvil, GandCrab"
   url: https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/
-- title: Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools
-  url: https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html
-- title: Inconsistent Privacy Labels Don't Tell Users What They Are Getting
-  url: https://www.darkreading.com/data-privacy/inconsistent-privacy-labels-not-enough
-- title: Google Wants to Transition to Post-Quantum Cryptography by 2029
-  url: https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html
-- title: Traffic violation scams switch to QR codes in new phishing texts
-  url: https://www.bleepingcomputer.com/news/security/traffic-violation-scams-switch-to-qr-codes-in-new-phishing-texts/
+- title: New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips
+  url: https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html
+- title: AI-Assisted Supply Chain Attack Targets GitHub
+  url: https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github
+- title: Hong Kong Police Can Force You to Reveal Your Encryption Keys
+  url: https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html
+- title: Microsoft fixes Classic Outlook bug causing email delivery issues
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/
 - title: 'MIWIC26: Nkiruka Joy Aimienoho, Chief Information Security Officer, Standard
     Chartered Bank NG'
   url: https://www.itsecurityguru.org/2026/04/02/miwic26-nkiruka-joy-aimienoho-chief-information-security-officer-standard-chartered-bank-ng/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-nkiruka-joy-aimienoho-chief-information-security-officer-standard-chartered-bank-ng
-- title: '171: Melody Fraud'
-  url: https://darknetdiaries.com/episode/171/
+- title: '172: SuperBox'
+  url: https://darknetdiaries.com/episode/172/
 - title: 'SN 1072: LiteLLM - Click Fix Attacks Surge'
   url: https://twit.tv/shows/security-now/episodes/1072
-- title: 'Anjali Hansen: Cross team collaboration works best. [Privacy Counsel] [Career
-    Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/115/notes
+- title: Patching can't wait.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2524/notes
