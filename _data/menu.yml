@@ -1,20 +1,20 @@
 entries:
-- title: "Germany Doxes \u201CUNKN,\u201D Head of RU Ransomware Gangs REvil, GandCrab"
-  url: https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/
-- title: New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips
-  url: https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html
-- title: AI-Assisted Supply Chain Attack Targets GitHub
-  url: https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github
-- title: Hong Kong Police Can Force You to Reveal Your Encryption Keys
-  url: https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html
-- title: Microsoft fixes Classic Outlook bug causing email delivery issues
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-classic-outlook-bug-causing-email-delivery-issues/
-- title: 'MIWIC26: Nkiruka Joy Aimienoho, Chief Information Security Officer, Standard
-    Chartered Bank NG'
-  url: https://www.itsecurityguru.org/2026/04/02/miwic26-nkiruka-joy-aimienoho-chief-information-security-officer-standard-chartered-bank-ng/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-nkiruka-joy-aimienoho-chief-information-security-officer-standard-chartered-bank-ng
+- title: Russia Hacked Routers to Steal Microsoft Office Tokens
+  url: https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/
+- title: Shrinking the IAM Attack Surface through Identity Visibility and Intelligence
+    Platforms (IVIP)
+  url: https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html
+- title: Storm-1175 Deploys Medusa Ransomware at 'High Velocity'
+  url: https://www.darkreading.com/threat-intelligence/storm-1175-medusa-ransomware-high-velocity
+- title: Python Supply-Chain Compromise
+  url: https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html
+- title: Hackers exploit critical flaw in Ninja Forms WordPress plugin
+  url: https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-ninja-forms-wordpress-plugin/
+- title: 'MIWIC26: Anmol Agarwal, Senior Security Researcher at Nokia'
+  url: https://www.itsecurityguru.org/2026/04/07/miwic26-anmol-agarwal-senior-security-researcher-at-nokia/?utm_source=rss&utm_medium=rss&utm_campaign=miwic26-anmol-agarwal-senior-security-researcher-at-nokia
 - title: '172: SuperBox'
   url: https://darknetdiaries.com/episode/172/
-- title: 'SN 1072: LiteLLM - Click Fix Attacks Surge'
-  url: https://twit.tv/shows/security-now/episodes/1072
-- title: Patching can't wait.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2524/notes
+- title: 'SN 1073: The FCC Bans New Consumer Routers - LinkedIn''s JavaScript Bombshell'
+  url: https://twit.tv/shows/security-now/episodes/1073
+- title: Proposed cuts put CISA in focus.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2525/notes
