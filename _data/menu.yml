@@ -1,15 +1,15 @@
 entries:
 - title: Russia Hacked Routers to Steal Microsoft Office Tokens
   url: https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/
-- title: Browser Extensions Are the New AI Consumption Channel That No One Is Talking
-    About
-  url: https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html
-- title: Russia's 'Fancy Bear' APT Continues Its Global Onslaught
-  url: https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught
-- title: Sen. Sanders Talks to Claude About AI and Privacy
-  url: https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html
-- title: 'Microsoft: Canadian employees targeted in payroll pirate attacks'
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/
+- title: 'Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via
+    Ad Data'
+  url: https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html
+- title: Hims Breach Exposes the Most Sensitive Kinds of PHI
+  url: https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi
+- title: 'Friday Squid Blogging: Squid Overfishing in the South Pacific'
+  url: https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html
+- title: ChatGPT rolls out new $100 Pro subscription to challenge Claude
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/
 - title: Black Duck Names Dom Glavach as CISO to Bolster Supply Chain and AI Security
     Push
   url: https://www.itsecurityguru.org/2026/04/09/black-duck-names-dom-glavach-as-ciso-to-bolster-supply-chain-and-ai-security-push/?utm_source=rss&utm_medium=rss&utm_campaign=black-duck-names-dom-glavach-as-ciso-to-bolster-supply-chain-and-ai-security-push
@@ -17,5 +17,5 @@ entries:
   url: https://darknetdiaries.com/episode/172/
 - title: 'SN 1073: The FCC Bans New Consumer Routers - LinkedIn''s JavaScript Bombshell'
   url: https://twit.tv/shows/security-now/episodes/1073
-- title: Hackers ignore the ceasefire.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2527/notes
+- title: A wolf in admin clothing. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/420/notes
