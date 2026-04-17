@@ -1,17 +1,17 @@
 entries:
 - title: Patch Tuesday, April 2026 Edition
   url: https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/
-- title: 6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs
-  url: https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs
-- title: Human Trust of AI Agents
-  url: https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html
-- title: Data breach at edtech giant McGraw Hill affects 13.5 million accounts
-  url: https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/
-- title: How the enterprise supply chain has created a global attack surface
-  url: https://www.itsecurityguru.org/2026/04/15/how-the-enterprise-supply-chain-has-created-a-global-attack-surface/?utm_source=rss&utm_medium=rss&utm_campaign=how-the-enterprise-supply-chain-has-created-a-global-attack-surface
+- title: North Korea Uses ClickFix to Target macOS Users' Data
+  url: https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data
+- title: Mythos and Cybersecurity
+  url: https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html
+- title: CISA flags Apache ActiveMQ flaw as actively exploited in attacks
+  url: https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/
+- title: What to do When Your AI Guardrails Fail
+  url: https://www.itsecurityguru.org/2026/04/16/what-to-do-when-your-ai-guardrails-fail/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-when-your-ai-guardrails-fail
 - title: '172: SuperBox'
   url: https://darknetdiaries.com/episode/172/
 - title: 'SN 1074: What Mythos Means - Marketing or Mayhem'
   url: https://twit.tv/shows/security-now/episodes/1074
-- title: France builds its own digital future.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2530/notes
+- title: Too many flaws, not enough time.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2532/notes
