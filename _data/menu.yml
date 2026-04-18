@@ -1,17 +1,17 @@
 entries:
 - title: Patch Tuesday, April 2026 Edition
   url: https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/
-- title: North Korea Uses ClickFix to Target macOS Users' Data
-  url: https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data
-- title: Mythos and Cybersecurity
-  url: https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html
-- title: CISA flags Apache ActiveMQ flaw as actively exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/cisa-flags-apache-activemq-flaw-as-actively-exploited-in-attacks/
+- title: How NIST's Cutback of CVE Handling Impacts Cyber Teams
+  url: https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams
+- title: 'Friday Squid Blogging: New Giant Squid Video'
+  url: https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html
+- title: Payouts King ransomware uses QEMU VMs to bypass endpoint security
+  url: https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/
 - title: What to do When Your AI Guardrails Fail
   url: https://www.itsecurityguru.org/2026/04/16/what-to-do-when-your-ai-guardrails-fail/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-when-your-ai-guardrails-fail
 - title: '172: SuperBox'
   url: https://darknetdiaries.com/episode/172/
 - title: 'SN 1074: What Mythos Means - Marketing or Mayhem'
   url: https://twit.tv/shows/security-now/episodes/1074
-- title: Too many flaws, not enough time.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2532/notes
+- title: A new breed of RAT. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/421/notes
