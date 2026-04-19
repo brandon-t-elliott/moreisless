@@ -5,13 +5,14 @@ entries:
   url: https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams
 - title: 'Friday Squid Blogging: New Giant Squid Video'
   url: https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html
-- title: Payouts King ransomware uses QEMU VMs to bypass endpoint security
-  url: https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/
+- title: Critical flaw in Protobuf library enables JavaScript code execution
+  url: https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/
 - title: What to do When Your AI Guardrails Fail
   url: https://www.itsecurityguru.org/2026/04/16/what-to-do-when-your-ai-guardrails-fail/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-when-your-ai-guardrails-fail
 - title: '172: SuperBox'
   url: https://darknetdiaries.com/episode/172/
 - title: 'SN 1074: What Mythos Means - Marketing or Mayhem'
   url: https://twit.tv/shows/security-now/episodes/1074
-- title: A new breed of RAT. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/421/notes
+- title: 'Jaya Baloo: Don''t be afraid to bounce ideas off your teammates. [CISO]
+    [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/117/notes
