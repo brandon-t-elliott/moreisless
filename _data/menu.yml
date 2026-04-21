@@ -1,18 +1,17 @@
 entries:
 - title: Patch Tuesday, April 2026 Edition
   url: https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/
-- title: How NIST's Cutback of CVE Handling Impacts Cyber Teams
-  url: https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams
-- title: "Is \u201CSatoshi Nakamoto\u201D Really Adam Back?"
-  url: https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html
-- title: Microsoft pulls service update causing Teams launch failures
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/
+- title: Vercel Employee's AI Tool Access Led to Data Breach
+  url: https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach
+- title: Mexican Surveillance Company
+  url: https://www.schneier.com/blog/archives/2026/04/mexican-surveillance-company.html
+- title: Actively exploited Apache ActiveMQ flaw impacts 6,400 servers
+  url: https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/
 - title: What to do When Your AI Guardrails Fail
   url: https://www.itsecurityguru.org/2026/04/16/what-to-do-when-your-ai-guardrails-fail/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-do-when-your-ai-guardrails-fail
-- title: '172: SuperBox'
-  url: https://darknetdiaries.com/episode/172/
+- title: '173: Tarjeteros'
+  url: https://darknetdiaries.com/episode/173/
 - title: 'SN 1074: What Mythos Means - Marketing or Mayhem'
   url: https://twit.tv/shows/security-now/episodes/1074
-- title: 'Jaya Baloo: Don''t be afraid to bounce ideas off your teammates. [CISO]
-    [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/117/notes
+- title: When one weak link is enough.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2534/notes
