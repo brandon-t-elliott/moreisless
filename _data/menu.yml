@@ -1,17 +1,17 @@
 entries:
 - title: Anti-DDoS Firm Heaped Attacks on Brazilian ISPs
   url: https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/
-- title: "Middle East Cyber Battle Field Broadens \u2014 Especially in UAE"
-  url: https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae
-- title: Rowhammer Attack Against NVIDIA Chips
-  url: https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html
-- title: Palo Alto Networks warns of firewall RCE zero-day exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/
-- title: "When the Breach Gets In Through the CEO\u2019s Inbox, Not the Firewall"
-  url: https://www.itsecurityguru.org/2026/05/06/when-the-breach-gets-in-through-the-ceos-inbox-not-the-firewall/?utm_source=rss&utm_medium=rss&utm_campaign=when-the-breach-gets-in-through-the-ceos-inbox-not-the-firewall
+- title: Yet Another Way to Bypass Google Chrome's Encryption Protection
+  url: https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection
+- title: Smart Glasses for the Authorities
+  url: https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html
+- title: Palo Alto Networks firewall zero-day exploited for nearly a month
+  url: https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/
+- title: UK Finance Sector Puts Cyber Defences to the Test in National Hackathon
+  url: https://www.itsecurityguru.org/2026/05/06/uk-finance-sector-puts-cyber-defences-to-the-test-in-national-hackathon/?utm_source=rss&utm_medium=rss&utm_campaign=uk-finance-sector-puts-cyber-defences-to-the-test-in-national-hackathon
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1077: A Browser AI API? - End of Bug Bounties?'
   url: https://twit.tv/shows/security-now/episodes/1077
-- title: The fixes keep coming.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2545/notes
+- title: The exploit that writes its own story.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2546/notes
