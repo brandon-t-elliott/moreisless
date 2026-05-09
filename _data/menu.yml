@@ -1,12 +1,12 @@
 entries:
 - title: Canvas Breach Disrupts Schools & Colleges Nationwide
   url: https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/
-- title: Shifting Budget Dynamics for Identity Security and AI Agents
-  url: https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-for-identity-security-and-ai-agents
-- title: Smart Glasses for the Authorities
-  url: https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html
-- title: Zara data breach exposed personal information of 197,000 people
-  url: https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/
+- title: ShinyHunters Claims Second Attack Against Instructure
+  url: https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure
+- title: 'Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia'
+  url: https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html
+- title: NVIDIA confirms GeForce NOW data breach affecting Armenian users
+  url: https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/
 - title: Pentest-Tools.com Releases Free Scanner for CVE-2026-41940 as cPanel Authentication
     Bypass Enters Its Third Week of Active Exploitation
   url: https://www.itsecurityguru.org/2026/05/08/pentest-tools-com-releases-free-scanner-for-cve-2026-41940-as-cpanel-authentication-bypass-enters-its-third-week-of-active-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=pentest-tools-com-releases-free-scanner-for-cve-2026-41940-as-cpanel-authentication-bypass-enters-its-third-week-of-active-exploitation
@@ -14,5 +14,5 @@ entries:
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1077: A Browser AI API? - End of Bug Bounties?'
   url: https://twit.tv/shows/security-now/episodes/1077
-- title: The backup plan needs a backup plan.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2547/notes
+- title: The spy who logged me in. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/424/notes
