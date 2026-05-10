@@ -5,8 +5,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure
 - title: 'Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia'
   url: https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html
-- title: NVIDIA confirms GeForce NOW data breach affecting Armenian users
-  url: https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/
+- title: JDownloader site hacked to replace installers with Python RAT malware
+  url: https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/
 - title: Pentest-Tools.com Releases Free Scanner for CVE-2026-41940 as cPanel Authentication
     Bypass Enters Its Third Week of Active Exploitation
   url: https://www.itsecurityguru.org/2026/05/08/pentest-tools-com-releases-free-scanner-for-cve-2026-41940-as-cpanel-authentication-bypass-enters-its-third-week-of-active-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=pentest-tools-com-releases-free-scanner-for-cve-2026-41940-as-cpanel-authentication-bypass-enters-its-third-week-of-active-exploitation
@@ -14,5 +14,6 @@ entries:
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1077: A Browser AI API? - End of Bug Bounties?'
   url: https://twit.tv/shows/security-now/episodes/1077
-- title: The spy who logged me in. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/424/notes
+- title: 'Payal Chakravarty: Overcoming bias in the workplace. [Security and Risk]
+    [Career Notes]'
+  url: https://thecyberwire.com/podcasts/career-notes/120/notes
