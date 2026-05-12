@@ -1,15 +1,15 @@
 entries:
 - title: Canvas Breach Disrupts Schools & Colleges Nationwide
   url: https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/
-- title: ShinyHunters Claims Second Attack Against Instructure
-  url: https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure
-- title: LLMs and Text-in-Text Steganography
-  url: https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html
-- title: TrickMo Android banker adopts TON blockchain for covert comms
-  url: https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/
-- title: Pentest-Tools.com Releases Free Scanner for CVE-2026-41940 as cPanel Authentication
-    Bypass Enters Its Third Week of Active Exploitation
-  url: https://www.itsecurityguru.org/2026/05/08/pentest-tools-com-releases-free-scanner-for-cve-2026-41940-as-cpanel-authentication-bypass-enters-its-third-week-of-active-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=pentest-tools-com-releases-free-scanner-for-cve-2026-41940-as-cpanel-authentication-bypass-enters-its-third-week-of-active-exploitation
+- title: FCC Softens Ban on Foreign-Made Routers
+  url: https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban
+- title: Copy.Fail Linux Vulnerability
+  url: https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html
+- title: Shai Hulud attack ships signed malicious TanStack, Mistral npm packages
+  url: https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/
+- title: WorkNest Launches WorkNest Secure to Expand Cybersecurity and Compliance
+    Services
+  url: https://www.itsecurityguru.org/2026/05/12/worknest-launches-worknest-secure-to-expand-cybersecurity-and-compliance-services/?utm_source=rss&utm_medium=rss&utm_campaign=worknest-launches-worknest-secure-to-expand-cybersecurity-and-compliance-services
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1077: A Browser AI API? - End of Bug Bounties?'
