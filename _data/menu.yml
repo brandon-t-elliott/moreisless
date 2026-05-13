@@ -1,19 +1,18 @@
 entries:
-- title: Canvas Breach Disrupts Schools & Colleges Nationwide
-  url: https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/
-- title: FCC Softens Ban on Foreign-Made Routers
-  url: https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban
-- title: Copy.Fail Linux Vulnerability
-  url: https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html
-- title: Shai Hulud attack ships signed malicious TanStack, Mistral npm packages
-  url: https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/
-- title: WorkNest Launches WorkNest Secure to Expand Cybersecurity and Compliance
-    Services
-  url: https://www.itsecurityguru.org/2026/05/12/worknest-launches-worknest-secure-to-expand-cybersecurity-and-compliance-services/?utm_source=rss&utm_medium=rss&utm_campaign=worknest-launches-worknest-secure-to-expand-cybersecurity-and-compliance-services
+- title: Patch Tuesday, May 2026 Edition
+  url: https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
+- title: Hugging Face Packages Weaponized With a Single File Tweak
+  url: https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak
+- title: "OpenAI\u2019s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities"
+  url: https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html
+- title: Microsoft says some users can't install Office on Windows 365 devices
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/
+- title: Huntress and Acrisure Team Up to Offer Zero-Deductible Cyber Insurance for
+    SMBs
+  url: https://www.itsecurityguru.org/2026/05/12/huntress-and-acrisure-team-up-to-offer-zero-deductible-cyber-insurance-for-smbs/?utm_source=rss&utm_medium=rss&utm_campaign=huntress-and-acrisure-team-up-to-offer-zero-deductible-cyber-insurance-for-smbs
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
-- title: 'SN 1077: A Browser AI API? - End of Bug Bounties?'
-  url: https://twit.tv/shows/security-now/episodes/1077
-- title: 'Payal Chakravarty: Overcoming bias in the workplace. [Security and Risk]
-    [Career Notes]'
-  url: https://thecyberwire.com/podcasts/career-notes/120/notes
+- title: 'SN 1078: DigiCert does it right - Hugging Face Under Fire'
+  url: https://twit.tv/shows/security-now/episodes/1078
+- title: "China\u2019s hackers aren\u2019t invincible."
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2550/notes
