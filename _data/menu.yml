@@ -1,18 +1,17 @@
 entries:
 - title: Patch Tuesday, May 2026 Edition
   url: https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
-- title: Hugging Face Packages Weaponized With a Single File Tweak
-  url: https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak
-- title: "OpenAI\u2019s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities"
-  url: https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html
-- title: Microsoft says some users can't install Office on Windows 365 devices
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/
-- title: Huntress and Acrisure Team Up to Offer Zero-Deductible Cyber Insurance for
-    SMBs
-  url: https://www.itsecurityguru.org/2026/05/12/huntress-and-acrisure-team-up-to-offer-zero-deductible-cyber-insurance-for-smbs/?utm_source=rss&utm_medium=rss&utm_campaign=huntress-and-acrisure-team-up-to-offer-zero-deductible-cyber-insurance-for-smbs
+- title: Foxconn Attack Highlights Manufacturing's Cyber Crisis
+  url: https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis
+- title: "How Dangerous Is Anthropic\u2019s Mythos AI?"
+  url: https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html
+- title: Dell confirms its SupportAssist software causes Windows BSOD crashes
+  url: https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/
+- title: 'Q&A: Why Vulnerability Scans Are Giving Businesses a False Sense of Security'
+  url: https://www.itsecurityguru.org/2026/05/14/qa-why-vulnerability-scans-are-giving-businesses-a-false-sense-of-security/?utm_source=rss&utm_medium=rss&utm_campaign=qa-why-vulnerability-scans-are-giving-businesses-a-false-sense-of-security
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1078: DigiCert does it right - Hugging Face Under Fire'
   url: https://twit.tv/shows/security-now/episodes/1078
-- title: "China\u2019s hackers aren\u2019t invincible."
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2550/notes
+- title: Every layer needs a patch now.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2551/notes
