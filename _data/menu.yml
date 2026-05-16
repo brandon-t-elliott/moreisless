@@ -1,17 +1,17 @@
 entries:
 - title: Patch Tuesday, May 2026 Edition
   url: https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
-- title: Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems
-  url: https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps
-- title: Bypassing On-Camera Age-Verification Checks
-  url: https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html
-- title: Microsoft warns of Exchange zero-day flaw exploited in attacks
-  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/
+- title: The Boring Stuff is Dangerous Now
+  url: https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt
+- title: 'Friday Squid Blogging: Bigfin Squid'
+  url: https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html
+- title: Funnel Builder WordPress plugin bug exploited to steal credit cards
+  url: https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/
 - title: 'Q&A: Why Vulnerability Scans Are Giving Businesses a False Sense of Security'
   url: https://www.itsecurityguru.org/2026/05/14/qa-why-vulnerability-scans-are-giving-businesses-a-false-sense-of-security/?utm_source=rss&utm_medium=rss&utm_campaign=qa-why-vulnerability-scans-are-giving-businesses-a-false-sense-of-security
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1078: DigiCert does it right - Hugging Face Under Fire'
   url: https://twit.tv/shows/security-now/episodes/1078
-- title: Every layer needs a patch now.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2551/notes
+- title: Scam papers served. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/425/notes
