@@ -1,17 +1,18 @@
 entries:
 - title: Patch Tuesday, May 2026 Edition
   url: https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
-- title: The Boring Stuff is Dangerous Now
-  url: https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt
-- title: 'Friday Squid Blogging: Bigfin Squid'
-  url: https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html
-- title: Funnel Builder WordPress plugin bug exploited to steal credit cards
-  url: https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/
-- title: 'Q&A: Why Vulnerability Scans Are Giving Businesses a False Sense of Security'
-  url: https://www.itsecurityguru.org/2026/05/14/qa-why-vulnerability-scans-are-giving-businesses-a-false-sense-of-security/?utm_source=rss&utm_medium=rss&utm_campaign=qa-why-vulnerability-scans-are-giving-businesses-a-false-sense-of-security
+- title: Microsoft Exchange Zero-Day Under Attack, No Patch Available
+  url: https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch
+- title: Laurie Anderson Is Quoting Me
+  url: https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html
+- title: Microsoft confirms patching issues in restricted Windows networks
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/
+- title: "Cyber attackers bypass traditional defences as \u2018user-driven\u2019 attacks\
+    \ surge, Bridewell warns"
+  url: https://www.itsecurityguru.org/2026/05/18/cyber-attackers-bypass-traditional-defences-as-user-driven-attacks-surge-bridewell-warns/?utm_source=rss&utm_medium=rss&utm_campaign=cyber-attackers-bypass-traditional-defences-as-user-driven-attacks-surge-bridewell-warns
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1078: DigiCert does it right - Hugging Face Under Fire'
   url: https://twit.tv/shows/security-now/episodes/1078
-- title: Scam papers served. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/425/notes
+- title: The M5 just met its memory problem.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2554/notes
