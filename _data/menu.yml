@@ -1,18 +1,18 @@
 entries:
-- title: Patch Tuesday, May 2026 Edition
-  url: https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
-- title: Cyber Pros Can't Decide If AI Is a Good or a Bad Thing
-  url: https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai
-- title: On AI Security
-  url: https://www.schneier.com/blog/archives/2026/05/on-ai-security.html
-- title: Flipper One project needs community help to build open Linux platform
-  url: https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/
-- title: Industry Reacts to Verizon DBIR 2026 as Vulnerability Exploitation Takes
-    Top Spot
-  url: https://www.itsecurityguru.org/2026/05/21/industry-reacts-to-verizon-dbir-2026-as-vulnerability-exploitation-takes-top-spot/?utm_source=rss&utm_medium=rss&utm_campaign=industry-reacts-to-verizon-dbir-2026-as-vulnerability-exploitation-takes-top-spot
+- title: "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and\
+    \ Canada"
+  url: https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/
+- title: China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.
+  url: https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs
+- title: macOS Kernel Memory Corruption Exploit
+  url: https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html
+- title: Google accidentally exposed details of unfixed Chromium flaw
+  url: https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/
+- title: Proton Launches Credential Tokens to Tackle AI Agent Security Gap
+  url: https://www.itsecurityguru.org/2026/05/21/proton-launches-credential-tokens-to-tackle-ai-agent-security-gap/?utm_source=rss&utm_medium=rss&utm_campaign=proton-launches-credential-tokens-to-tackle-ai-agent-security-gap
 - title: '174: Pacific Rim'
   url: https://darknetdiaries.com/episode/174/
 - title: 'SN 1079: Daybreak and Codename MDASH - Microsoft''s Edge Password Blunder'
   url: https://twit.tv/shows/security-now/episodes/1079
-- title: The cost of trusting the extension ecosystem.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2556/notes
+- title: That shield has cracks in it.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2557/notes
