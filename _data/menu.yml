@@ -6,13 +6,15 @@ entries:
   url: https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers
 - title: 'Friday Squid Blogging: Regulating Squid Fishing in the South Pacific'
   url: https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html
-- title: Netherlands seizes 800 servers of hosting firm enabling cyberattacks
-  url: https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/
-- title: Proton Launches Credential Tokens to Tackle AI Agent Security Gap
-  url: https://www.itsecurityguru.org/2026/05/21/proton-launches-credential-tokens-to-tackle-ai-agent-security-gap/?utm_source=rss&utm_medium=rss&utm_campaign=proton-launches-credential-tokens-to-tackle-ai-agent-security-gap
+- title: Laravel Lang packages hijacked to deploy credential-stealing malware
+  url: https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/
+- title: Industry Reacts to Verizon DBIR 2026 as Vulnerability Exploitation Takes
+    Top Spot
+  url: https://www.itsecurityguru.org/2026/05/21/industry-reacts-to-verizon-dbir-2026-as-vulnerability-exploitation-takes-top-spot/?utm_source=rss&utm_medium=rss&utm_campaign=industry-reacts-to-verizon-dbir-2026-as-vulnerability-exploitation-takes-top-spot
 - title: '173: Tarjeteros'
   url: https://darknetdiaries.com/episode/173/
 - title: 'SN 1079: Daybreak and Codename MDASH - Microsoft''s Edge Password Blunder'
   url: https://twit.tv/shows/security-now/episodes/1079
-- title: Ghosted by Grafana [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/426/notes
+- title: 'The current state of GPS following OCX with Dr. Sean Gorman, CEO of Zephr.xyz.
+    [T-Minus: Space-Cyber Briefing]'
+  url: https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/708/notes
