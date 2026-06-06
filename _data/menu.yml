@@ -1,12 +1,12 @@
 entries:
 - title: "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts"
   url: https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/
-- title: Rust-Written IronWorm Hits NPM Supply Chain
-  url: https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain
-- title: AI Used to Decrypt Medieval Ciphers
-  url: https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html
-- title: Cisco warns of unpatched SD-WAN zero-day exploited in attacks
-  url: https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/
+- title: Exposed Fuel Tank Gauges Under Attack in the US
+  url: https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us
+- title: AI Worm
+  url: https://www.schneier.com/blog/archives/2026/06/ai-worm.html
+- title: Suspicious Polyfill login prompts pop up on Toshiba, Muji websites
+  url: https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/
 - title: Frontline Workers Twice as Likely to Use Unapproved AI
   url: https://www.itsecurityguru.org/2026/06/04/frontline-workers-twice-as-likely-to-use-unapproved-ai/?utm_source=rss&utm_medium=rss&utm_campaign=frontline-workers-twice-as-likely-to-use-unapproved-ai
 - title: '175: Bayrob'
@@ -14,5 +14,5 @@ entries:
 - title: 'SN 1081: AI Captured the Flag - Personal AI: Productivity Superpower or
     Privacy Threat?'
   url: https://twit.tv/shows/security-now/episodes/1081
-- title: Not every headhunter is hiring.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2566/notes
+- title: You've been muted...permanently. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/428/notes
