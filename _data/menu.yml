@@ -5,8 +5,8 @@ entries:
   url: https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us
 - title: AI Worm
   url: https://www.schneier.com/blog/archives/2026/06/ai-worm.html
-- title: Suspicious Polyfill login prompts pop up on Toshiba, Muji websites
-  url: https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/
+- title: Critical Everest Forms Pro flaw exploited to take over WordPress sites
+  url: https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/
 - title: Frontline Workers Twice as Likely to Use Unapproved AI
   url: https://www.itsecurityguru.org/2026/06/04/frontline-workers-twice-as-likely-to-use-unapproved-ai/?utm_source=rss&utm_medium=rss&utm_campaign=frontline-workers-twice-as-likely-to-use-unapproved-ai
 - title: '175: Bayrob'
@@ -14,5 +14,6 @@ entries:
 - title: 'SN 1081: AI Captured the Flag - Personal AI: Productivity Superpower or
     Privacy Threat?'
   url: https://twit.tv/shows/security-now/episodes/1081
-- title: You've been muted...permanently. [Research Saturday]
-  url: https://thecyberwire.com/podcasts/research-saturday/428/notes
+- title: 'Spoofing ships, jamming drones: how GPS manipulation confuses and compromises.
+    [T-Minus: Space-Cyber Briefing]'
+  url: https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/710/notes
