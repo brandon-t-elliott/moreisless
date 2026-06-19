@@ -1,17 +1,17 @@
 entries:
-- title: "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019"
-  url: https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/
-- title: EU Gets a Head Start in Developing 6G Network Security
-  url: https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security
-- title: Embedding Forbidden Text in Spyware to Discourage AI Analysis
-  url: https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html
-- title: F5 issues out-of-band patches for critical NGINX vulnerabilities
-  url: https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/
+- title: "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm"
+  url: https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/
+- title: Novo Nordisk Breach Exposes Software Development Pipeline Risk
+  url: https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk
+- title: "Anthropic\u2019s Fable and the State of AI"
+  url: https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html
+- title: 'Microsoft: June 2026 Windows updates break Recycle Bin prompts'
+  url: https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/
 - title: Is Offensive Security Keeping Up with the Latest Cyber Attacks?
   url: https://www.itsecurityguru.org/2026/06/09/is-offensive-security-keeping-up-with-the-latest-cyber-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=is-offensive-security-keeping-up-with-the-latest-cyber-attacks
 - title: '175: Bayrob'
   url: https://darknetdiaries.com/episode/175/
 - title: "SN 1083: Patch Tuesday \xE0 la AI - Arch Linux Repo Under Siege"
   url: https://twit.tv/shows/security-now/episodes/1083
-- title: The nominee in limbo.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2575/notes
+- title: The botnet browser blues.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2576/notes
