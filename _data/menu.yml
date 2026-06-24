@@ -1,17 +1,20 @@
 entries:
-- title: "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm"
-  url: https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/
-- title: Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign
-  url: https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign
-- title: "Anthropic\u2019s Fable 5 Model Jailbroken Within Days"
-  url: https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html
-- title: WhatsApp phishing attack uses fake business docs to hack PCs
-  url: https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/
+- title: Scattered Spider Hackers Plead Guilty on Day 1 of Trial
+  url: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
+- title: DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering
+  url: https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html
+- title: '''Cordyceps'': Mushrooming Malicious Pull Requests Threaten Developer Workflows'
+  url: https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows
+- title: Embedding Forbidden Text in Spyware to Discourage AI Analysis
+  url: https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html
+- title: Stealthy Mistic backdoor linked to ransomware access broker KongTuke
+  url: https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/
 - title: Is Offensive Security Keeping Up with the Latest Cyber Attacks?
   url: https://www.itsecurityguru.org/2026/06/09/is-offensive-security-keeping-up-with-the-latest-cyber-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=is-offensive-security-keeping-up-with-the-latest-cyber-attacks
 - title: '175: Bayrob'
   url: https://darknetdiaries.com/episode/175/
-- title: "SN 1083: Patch Tuesday \xE0 la AI - Arch Linux Repo Under Siege"
-  url: https://twit.tv/shows/security-now/episodes/1083
-- title: The Klue is in the data trail.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2577/notes
+- title: 'SN 1084: The Residential Proxy Threat - Malicious Proxies in Your Living
+    Room'
+  url: https://twit.tv/shows/security-now/episodes/1084
+- title: All eyes on AI.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2578/notes
