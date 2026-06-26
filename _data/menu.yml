@@ -1,14 +1,12 @@
 entries:
 - title: Scattered Spider Hackers Plead Guilty on Day 1 of Trial
   url: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
-- title: 'Surviving the Mythos Era: Richard Bejtlich on the Case for NDR'
-  url: https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html
-- title: Europe Evolves Into Ransomware's Favorite Region
-  url: https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region
-- title: Interesting Paper Exploring Prompt Injection
-  url: https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html
-- title: Google releases new privacy controls for activity history, personalization
-  url: https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/
+- title: In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw
+  url: https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
+- title: AI and Liability
+  url: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html
+- title: Anthropic is testing desktop-like Claude Cowork for mobile
+  url: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/
 - title: New Forescout Data Reveals Slow Progress Toward Quantum-Safe Security
   url: https://www.itsecurityguru.org/2026/06/24/new-forescout-data-reveals-slow-progress-toward-quantum-safe-security/?utm_source=rss&utm_medium=rss&utm_campaign=new-forescout-data-reveals-slow-progress-toward-quantum-safe-security
 - title: '175: Bayrob'
@@ -16,5 +14,5 @@ entries:
 - title: 'SN 1084: The Residential Proxy Threat - Malicious Proxies in Your Living
     Room'
   url: https://twit.tv/shows/security-now/episodes/1084
-- title: Klue me in on the breach.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2579/notes
+- title: Gone with the command.
+  url: https://www.thecyberwire.com/podcasts/daily-podcast/2580/notes
