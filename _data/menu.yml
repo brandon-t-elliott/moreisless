@@ -1,12 +1,12 @@
 entries:
 - title: Scattered Spider Hackers Plead Guilty on Day 1 of Trial
   url: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
-- title: In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw
-  url: https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw
-- title: AI and Liability
-  url: https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html
-- title: Anthropic is testing desktop-like Claude Cowork for mobile
-  url: https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/
+- title: AI Decline? Confidence in Autonomous Penetration Testing Falls
+  url: https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing
+- title: "The Chinese Control the Majority of Argentina\u2019s Squid Fleet"
+  url: https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html
+- title: 'FBI: Russian hackers now target Signal backup recovery keys'
+  url: https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/
 - title: New Forescout Data Reveals Slow Progress Toward Quantum-Safe Security
   url: https://www.itsecurityguru.org/2026/06/24/new-forescout-data-reveals-slow-progress-toward-quantum-safe-security/?utm_source=rss&utm_medium=rss&utm_campaign=new-forescout-data-reveals-slow-progress-toward-quantum-safe-security
 - title: '175: Bayrob'
@@ -14,5 +14,5 @@ entries:
 - title: 'SN 1084: The Residential Proxy Threat - Malicious Proxies in Your Living
     Room'
   url: https://twit.tv/shows/security-now/episodes/1084
-- title: Gone with the command.
-  url: https://www.thecyberwire.com/podcasts/daily-podcast/2580/notes
+- title: More bark than byte. [Research Saturday]
+  url: https://thecyberwire.com/podcasts/research-saturday/431/notes
