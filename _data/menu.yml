@@ -1,12 +1,12 @@
 entries:
 - title: Scattered Spider Hackers Plead Guilty on Day 1 of Trial
   url: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/
-- title: Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk
-  url: https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk
-- title: Robot Police Officers
-  url: https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html
-- title: US seizes hundreds of FIFA World Cup illegal streaming domains
-  url: https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/
+- title: NIST Enrichment Reductions Impact CVE Coverage, Accuracy
+  url: https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy
+- title: Factoring RSA Keys with Many Zeros
+  url: https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html
+- title: Insurance giant Aflac discloses data breach after subsidiary hack
+  url: https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/
 - title: New Forescout Data Reveals Slow Progress Toward Quantum-Safe Security
   url: https://www.itsecurityguru.org/2026/06/24/new-forescout-data-reveals-slow-progress-toward-quantum-safe-security/?utm_source=rss&utm_medium=rss&utm_campaign=new-forescout-data-reveals-slow-progress-toward-quantum-safe-security
 - title: '175: Bayrob'
@@ -14,5 +14,3 @@ entries:
 - title: 'SN 1084: The Residential Proxy Threat - Malicious Proxies in Your Living
     Room'
   url: https://twit.tv/shows/security-now/episodes/1084
-- title: 'Space supply chain pressures. [T-Minus: Space-Cyber Briefing]'
-  url: https://thecyberwire.com/podcasts/tminus-space-cyber-briefing/713/notes
